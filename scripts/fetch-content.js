@@ -17,7 +17,6 @@ import { join } from 'path';
 import { homedir } from 'os';
 import { config as loadEnv } from 'dotenv';
 import lockfile from 'proper-lockfile';
-import { Rettiwt } from 'rettiwt-api';
 
 // -- Constants ---------------------------------------------------------------
 
@@ -273,102 +272,11 @@ async function fetchYouTubeContent(podcasts, state, apiKey, isFirstRun, errors, 
   return results;
 }
 
-// -- X/Twitter Fetching (Rettiwt-API) ----------------------------------------
-
-// Uses Rettiwt-API in guest mode to fetch recent tweets from each builder.
-// Guest mode means NO login required and NO risk of account bans.
-// It accesses Twitter's internal API the same way a logged-out browser does.
-//
-// How it works:
-//   1. Get user's numeric ID via rettiwt.user.details(handle)
-//   2. Fetch their timeline via rettiwt.user.timeline(userId, count)
-//   3. Filter to tweets within our lookback window
-//
-// Rate limiting: Twitter's internal API has dynamic rate limits.
-// We add delays between requests to stay under the radar.
-
-async function fetchXContent(xAccounts, state, lookbackHours, isFirstRun, errors) {
-  const results = [];
-  const cutoffDate = new Date(Date.now() - lookbackHours * 60 * 60 * 1000);
-
-  // Create a Rettiwt instance in guest mode — no API key, no login
-  const rettiwt = new Rettiwt();
-
-  for (const account of xAccounts) {
-    try {
-      // Step 1: Get the user's numeric ID (required for timeline fetch)
-      const userDetails = await rettiwt.user.details(account.handle);
-      if (!userDetails || !userDetails.id) {
-        errors.push(`Could not find X user @${account.handle} — handle may have changed`);
-        continue;
-      }
-
-      // Step 2: Fetch their recent tweets (20 max per request)
-      // On first run, only grab 5 tweets per user for the welcome digest
-      const count = isFirstRun ? 5 : 20;
-      const timeline = await rettiwt.user.timeline(userDetails.id, count);
-
-      if (!timeline || !timeline.list || timeline.list.length === 0) {
-        continue;
-      }
-
-      // Step 3: Filter tweets — only new ones within our lookback window
-      const newTweets = [];
-      for (const tweet of timeline.list) {
-        const tweetId = tweet.id;
-        if (!tweetId) continue;
-
-        // Skip already-processed tweets
-        if (state.processedTweets[tweetId]) continue;
-
-        // Skip tweets older than our lookback window
-        const tweetDate = new Date(tweet.createdAt);
-        if (tweetDate < cutoffDate) continue;
-
-        newTweets.push({
-          id: tweetId,
-          text: tweet.fullText || '',
-          createdAt: tweet.createdAt,
-          url: `https://x.com/${account.handle}/status/${tweetId}`,
-          likes: tweet.likeCount || 0,
-          retweets: tweet.retweetCount || 0,
-          replies: tweet.replyCount || 0,
-          // Include quoted tweet text if this is a quote tweet
-          quotedTweet: tweet.quoted ? {
-            text: tweet.quoted.fullText || '',
-            author: tweet.quoted.tweetBy?.userName || ''
-          } : null,
-          // Include media URLs if present
-          media: tweet.media ? tweet.media.map(m => m.url) : []
-        });
-
-        // Mark as processed
-        state.processedTweets[tweetId] = Date.now();
-      }
-
-      if (newTweets.length === 0) continue;
-
-      results.push({
-        source: 'x',
-        name: account.name,
-        handle: account.handle,
-        tweets: newTweets.sort((a, b) =>
-          new Date(b.createdAt) - new Date(a.createdAt)
-        )
-      });
-
-      // Small delay between users to respect rate limits
-      // Twitter's internal API has dynamic limits, so we're cautious
-      await new Promise(r => setTimeout(r, 2000));
-
-    } catch (err) {
-      errors.push(`Error fetching @${account.handle}: ${err.message}`);
-      // Continue to next account — partial results are better than none
-    }
-  }
-
-  return results;
-}
+// -- X/Twitter ---------------------------------------------------------------
+// X/Twitter content is NOT fetched by this script.
+// Instead, the agent uses its own web search tools to find recent tweets.
+// This avoids all X API/scraping issues: no login, no API key, no account risk.
+// The script just passes the list of X accounts to the agent in the output.
 
 // -- Main --------------------------------------------------------------------
 
@@ -432,31 +340,28 @@ async function main() {
     // to parse, since they only need to read one clean JSON blob
     const errors = [];
 
-    // Fetch content from both sources
-    // Note: we run these sequentially rather than in parallel to avoid
-    // state mutation issues — both functions write to the same state object
+    // Fetch YouTube podcast content
     const podcastContent = await fetchYouTubeContent(
       config.podcasts, state, supadataKey, isFirstRun, errors, lookbackHours
-    );
-    const xContent = await fetchXContent(
-      config.xAccounts, state, lookbackHours, isFirstRun, errors
     );
 
     // Save updated state (with new processed IDs)
     await saveState(state);
 
-    // Output the combined results as JSON to stdout
-    // The agent will read this and remix it into a digest
+    // Output results as JSON to stdout
+    // - Podcast content is fully fetched (transcripts included)
+    // - X/Twitter accounts are listed but NOT fetched — the agent handles
+    //   X content itself using web search (no login, no API, no account risk)
     const output = {
       status: 'ok',
       fetchedAt: new Date().toISOString(),
       lookbackHours,
       podcasts: podcastContent,
-      x: xContent,
+      // List of X accounts for the agent to search — NOT pre-fetched
+      xAccountsToSearch: config.xAccounts,
       stats: {
         newPodcastEpisodes: podcastContent.length,
-        newXBuilders: xContent.length,
-        totalNewTweets: xContent.reduce((sum, a) => sum + a.tweets.length, 0)
+        xAccountCount: config.xAccounts.length
       },
       // Any errors that occurred during fetching — these are non-fatal,
       // the digest should still be generated from whatever content was fetched

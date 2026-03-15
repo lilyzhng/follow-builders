@@ -332,6 +332,8 @@ The prompt files to use:
 - `summarize-podcast.md` for each podcast episode
 - `summarize-tweets.md` for each builder's tweets
 
+### Step 4a: Remix Podcast Content
+
 **CRITICAL — Process ONE episode at a time, not all at once.**
 
 The `podcasts` array contains objects like this:
@@ -358,16 +360,31 @@ Process each episode one at a time:
 **NEVER** guess which podcast a transcript belongs to by reading the transcript
 content. Always use the `name` field from the JSON object.
 
-For each builder in the `x` array, same principle — process one at a time:
-1. Read ONE builder object (it has `name`, `handle`, and `tweets`)
-2. Summarize ONLY their `tweets` using the summarize-tweets prompt
-3. Use the `name` and `handle` from THIS object
-4. Move to the next builder. Repeat.
+### Step 4b: Fetch and Remix X/Twitter Content
+
+The fetcher script does NOT fetch tweets — you do this yourself using web search.
+This avoids all X API issues: no login needed, no API key, no risk of account bans.
+
+The JSON output has an `xAccountsToSearch` array with the builders to search for:
+```json
+{ "name": "Aaron Levie", "handle": "levie" }
+```
+
+For each builder, use web search to find their recent posts:
+1. Search for: `from:{handle} site:x.com` (e.g. `from:levie site:x.com`)
+2. Look at the search results for recent tweets (last 24 hours for daily, last 7 days for weekly)
+3. If you find substantive posts, summarize them using the summarize-tweets prompt
+4. Include the direct link to each tweet from the search results
+5. If no recent posts found, skip this builder
+
+**Important:**
+- Do NOT visit x.com directly — only use web search results
+- Do NOT log into X or use any X API — search results are sufficient
+- Process builders in batches if needed (you don't have to search all 32 at once)
+- It's OK if some builders have no recent results — just skip them
+- If web search is unavailable, skip the X section entirely and deliver podcasts only
 
 Then assemble the full digest using the digest-intro prompt.
-
-**Do NOT** try to fetch content yourself, visit URLs, or call APIs directly.
-The fetcher script already did all the fetching. Just remix what it returned.
 
 ### Step 5: Apply Language
 
