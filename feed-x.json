@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T06:40:00.981Z",
+  "generatedAt": "2026-03-21T21:03:10.576Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -481,10 +481,70 @@
           "quotedTweetId": null
         }
       ]
+    },
+    {
+      "source": "x",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ Discord: https://t.co/uYnFNkYh7y",
+      "tweets": [
+        {
+          "id": "2035422422699311495",
+          "text": "I wonder how fast it is https://t.co/D7CCSnwusF",
+          "createdAt": "2026-03-21T18:24:56.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2035422422699311495",
+          "likes": 206,
+          "retweets": 2,
+          "replies": 16,
+          "isQuote": true,
+          "quotedTweetId": "2034933246115340575"
+        },
+        {
+          "id": "2035214786066043106",
+          "text": "Friday night drop ☄️💥\nSpeaker lineup locked for our Founders' Voices panel this Saturday.\nFresh off the launch of MiniMax M2.7, our first self-evolving model. We're going deep on:\nRL · post-training · inference · agent workflows\n\nRegistration still open → https://t.co/CNPYwZUPXd\n—\nJoining us with:\n@alexocheema (@exolabs)\n@RobRizk1  (@blackboxai)\n@tydsh  (ex-@Meta FAIR)\n@grmcameron (@ArtificialAnlys)\n@yaboilyrical (@NousResearch)\n@steveshou (@duolingo )",
+          "createdAt": "2026-03-21T04:39:52.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2035214786066043106",
+          "likes": 387,
+          "retweets": 7,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
+      "tweets": [
+        {
+          "id": "2035444995147055441",
+          "text": "https://t.co/rwW2cmtGRZ https://t.co/yN6xLs5qsh",
+          "createdAt": "2026-03-21T19:54:38.000Z",
+          "url": "https://x.com/NousResearch/status/2035444995147055441",
+          "likes": 112,
+          "retweets": 3,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2035444458334957944"
+        },
+        {
+          "id": "2035404936729567284",
+          "text": "A message from Hermes Agent: https://t.co/Gewirah4tH",
+          "createdAt": "2026-03-21T17:15:27.000Z",
+          "url": "https://x.com/NousResearch/status/2035404936729567284",
+          "likes": 153,
+          "retweets": 18,
+          "replies": 19,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
     }
   ],
   "stats": {
-    "xBuilders": 16,
-    "totalTweets": 32
+    "xBuilders": 18,
+    "totalTweets": 36
   }
 }
