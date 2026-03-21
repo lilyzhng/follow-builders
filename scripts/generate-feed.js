@@ -59,8 +59,8 @@ async function saveState(state) {
 
 // -- Load Sources ------------------------------------------------------------
 
-async function loadSources() {
-  const sourcesPath = join(SCRIPT_DIR, '..', 'config', 'default-sources.json');
+async function loadSources(customPath) {
+  const sourcesPath = customPath || join(SCRIPT_DIR, '..', 'config', 'default-sources.json');
   return JSON.parse(await readFile(sourcesPath, 'utf-8'));
 }
 
@@ -280,6 +280,12 @@ async function main() {
   const tweetsOnly = args.includes('--tweets-only');
   const podcastsOnly = args.includes('--podcasts-only');
 
+  // Custom sources file and output path
+  const sourcesIdx = args.indexOf('--sources');
+  const customSources = sourcesIdx !== -1 ? args[sourcesIdx + 1] : null;
+  const outputIdx = args.indexOf('--output');
+  const customOutput = outputIdx !== -1 ? args[outputIdx + 1] : null;
+
   const xBearerToken = process.env.X_BEARER_TOKEN;
   const supadataKey = process.env.SUPADATA_API_KEY;
 
@@ -292,7 +298,7 @@ async function main() {
     process.exit(1);
   }
 
-  const sources = await loadSources();
+  const sources = await loadSources(customSources);
   const state = await loadState();
   const errors = [];
 
@@ -312,8 +318,9 @@ async function main() {
       errors: errors.filter(e => e.startsWith('X API')).length > 0
         ? errors.filter(e => e.startsWith('X API')) : undefined
     };
-    await writeFile(join(SCRIPT_DIR, '..', 'feed-x.json'), JSON.stringify(xFeed, null, 2));
-    console.error(`  feed-x.json: ${xContent.length} builders, ${totalTweets} tweets`);
+    const outputPath = customOutput || join(SCRIPT_DIR, '..', 'feed-x.json');
+    await writeFile(outputPath, JSON.stringify(xFeed, null, 2));
+    console.error(`  ${outputPath}: ${xContent.length} builders, ${totalTweets} tweets`);
   }
 
   // Fetch podcasts (unless --tweets-only)

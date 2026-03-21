@@ -1,0 +1,15 @@
+{
+  "x_accounts": [
+    { "name": "Kimi (Moonshot AI)", "handle": "Kimi_Moonshot" },
+    { "name": "Qwen", "handle": "Alibaba_Qwen" },
+    { "name": "MiniMax", "handle": "MiniMax_AI" },
+    { "name": "StepFun", "handle": "StepFun_ai" },
+    { "name": "Unsloth", "handle": "UnslothAI" },
+    { "name": "Nous Research", "handle": "NousResearch" },
+    { "name": "Perplexity", "handle": "perplexity_ai" },
+    { "name": "Cognition (Devin)", "handle": "cognition" },
+    { "name": "Modal", "handle": "modal" },
+    { "name": "Z.AI (GLM)", "handle": "Zai_org" },
+    { "name": "Thinking Machines", "handle": "thinkymachines" }
+  ]
+}

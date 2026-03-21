@@ -2,19 +2,9 @@ name: Generate Feeds
 
 on:
   schedule:
-    # Both tweets and podcasts: once daily at 6am UTC
-    - cron: '0 6 * * *'
+    # Run daily at 7am UTC (midnight PT) — after Zara's upstream runs at 6am UTC
+    - cron: '0 7 * * *'
   workflow_dispatch:
-    inputs:
-      mode:
-        description: 'What to fetch'
-        required: false
-        default: 'all'
-        type: choice
-        options:
-          - all
-          - tweets-only
-          - podcasts-only
 
 jobs:
   generate:
@@ -32,21 +22,19 @@ jobs:
       - name: Install dependencies
         run: cd scripts && npm install
 
-      - name: Generate feeds
+      - name: Fetch extra accounts (11 accounts not in upstream)
         env:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
-          SUPADATA_API_KEY: ${{ secrets.SUPADATA_API_KEY }}
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.mode }}" != "all" ]; then
-            cd scripts && node generate-feed.js --${{ inputs.mode }}
-          else
-            cd scripts && node generate-feed.js
-          fi
+          cd scripts && node generate-feed.js --tweets-only --sources ../config/extra-sources.json --output ../feed-x-extras.json
+
+      - name: Merge upstream + extras
+        run: cd scripts && node merge-upstream.js
 
       - name: Commit and push feeds
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed-x.json feed-podcasts.json state-feed.json
+          git add feed-x.json feed-podcasts.json feed-x-extras.json state-feed.json
           git diff --cached --quiet || git commit -m "chore: update feeds [skip ci]"
           git push
