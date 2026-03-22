@@ -1,56 +1,7 @@
 {
-  "generatedAt": "2026-03-22T18:25:53.056Z",
+  "generatedAt": "2026-03-22T18:31:12.357Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Peter Yang",
-      "handle": "petergyang",
-      "bio": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
-      "tweets": [
-        {
-          "id": "2035725826315170155",
-          "text": "Also available on:\n\nSpotify: https://t.co/YJbSn9eKmz\n\nApple: https://t.co/shNRmPP2Wb\n\nNewsletter: https://t.co/3bvmeErlio",
-          "createdAt": "2026-03-22T14:30:33.000Z",
-          "url": "https://x.com/petergyang/status/2035725826315170155",
-          "likes": 2,
-          "retweets": 1,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035725814357279117",
-          "text": "A designer who can ship code is one of the most valuable hires in tech today.\n\nHere's my new episode with @felixleezd (CEO of @ADPList) where he showed me how to use Claude Code and Figma MCP to go from:\n\n✅ Figma → Code: Design to website in 15 min\n✅ Code → Figma: App back to editable design\n\nFelix also demoed a few apps he's designed and built in Claude Code, including a 3D globe website and a landing page analyzer.\n\nSome takeaways from Felix:\n\n1. Stop pasting screenshots into Claude Code. Instead, use Figma MCP to pull in all your assets, icons, and images automatically.\n\n2. You can use the same MCP to convert code back into editable Figma layers to explore more variations.\n\n3. An underrated way to build: Use FigJam to plan a flowchart of your app first, then paste the link into Claude Code with the MCP.\n\n📌 Watch now: https://t.co/rIDCvPJoN9\n\nThanks to our sponsors:\n\n@Replit: Plan, design, and build with AI agents https://t.co/w6kab0zMqN\n\n@linear: The AI agent platform for modern teams https://t.co/lI40xrrDsr",
-          "createdAt": "2026-03-22T14:30:30.000Z",
-          "url": "https://x.com/petergyang/status/2035725814357279117",
-          "likes": 111,
-          "retweets": 15,
-          "replies": 15,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Aaron Levie",
-      "handle": "levie",
-      "bio": "ceo @box - your business lives in content. unleash it with AI",
-      "tweets": [
-        {
-          "id": "2035762343502836020",
-          "text": "We are so unbelievably early with agents right now. The majority of companies aren’t even using coding agents at scale, let alone for the rest of knowledge work. We’re still mostly in the chatbot era of work for most of AI right now. \n\nDiffusion of tech takes time, even in the most breakneck of markets, because there are major workflows that need to be reinvented, any regulated or large business has huge governance processes for deploying new tech or agents, data needs to get into well-organized environments, and there’s technical literacy that needs to be established. All things that get solved, but takes time nonetheless.\n\nA point of comparison for technology diffusion: in 2010, a time by which every person in silicon valley knew that cloud was the future, AWS revenue was $500 million, Azure had only launched that year, and GCP was called Google App Engine. By 2025, these 3 platforms generated around $225 billion in revenue. And that’s only about 60% of the cloud market.\n\nSo from the moment the tech industry saw the future of cloud to today, the market is nearly 1,000 times bigger. And it’s still growing at an insane rate. \n\nThe same will happen for agents. Coding agents are like the early days of cloud computing when developers got on board for initial use cases. Then came the bigger workloads. This gives you a sense for how early we actually are in this transformation.",
-          "createdAt": "2026-03-22T16:55:39.000Z",
-          "url": "https://x.com/levie/status/2035762343502836020",
-          "likes": 189,
-          "retweets": 21,
-          "replies": 40,
-          "isQuote": true,
-          "quotedTweetId": "2035607979932991916"
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Garry Tan",
@@ -58,111 +9,24 @@
       "bio": "President & CEO @ycombinator —Founder https://t.co/7aoJjp1iIK—designer/engineer who helps founders—SF Dem accelerating the boom loop—haters not allowed in my sauna",
       "tweets": [
         {
-          "id": "2035784465415577977",
-          "text": "Ok bro I have some news for you https://t.co/62d1knsWwY",
-          "createdAt": "2026-03-22T18:23:34.000Z",
-          "url": "https://x.com/garrytan/status/2035784465415577977",
-          "likes": 9,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2035555974468284451"
-        },
-        {
-          "id": "2035776657001431182",
-          "text": "/autoplan just dropped on https://t.co/VPvWDzV5c0 \n\nIt's v0.10 https://t.co/0xZj2aCCqj",
-          "createdAt": "2026-03-22T17:52:32.000Z",
-          "url": "https://x.com/garrytan/status/2035776657001431182",
-          "likes": 30,
-          "retweets": 1,
-          "replies": 0,
+          "id": "2035741166805635577",
+          "text": "Weird realization: The best AI coding is in the morning when you are fresh from a night full of dreaming about latent space. Sleep early. Wake up early. The best ideas are in the morning. \n\nIt's not just about raw token maxxing. It is about teaching the machines the right abstraction that comes out of your own personal experience and the synthesis that comes from a good night's sleep.",
+          "createdAt": "2026-03-22T15:31:31.000Z",
+          "url": "https://x.com/garrytan/status/2035741166805635577",
+          "likes": 775,
+          "retweets": 40,
+          "replies": 129,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2035776277635018924",
-          "text": "I'm getting closer to more and more automated smart decision making on the right kind of product/dev rails that I learned from Palantir, Posterous, and 100s of YC successful engineer-first startups. \n\nCurrently testing the newest idea: /autoplan which speeds through plan-ceo-review plan-eng-review and plan-design-review emulating MY decision making process. \n\nI'm trying to land 35 community open source PR's on GStack this morning and this is going to help me do it",
-          "createdAt": "2026-03-22T17:51:02.000Z",
-          "url": "https://x.com/garrytan/status/2035776277635018924",
-          "likes": 111,
-          "retweets": 0,
-          "replies": 34,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Matt Turck",
-      "handle": "mattturck",
-      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
-      "tweets": [
-        {
-          "id": "2035751244325662798",
-          "text": "some of the best career advice you’ll hear https://t.co/g98jhNFLG8",
-          "createdAt": "2026-03-22T16:11:33.000Z",
-          "url": "https://x.com/mattturck/status/2035751244325662798",
-          "likes": 18,
-          "retweets": 1,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Zara Zhang",
-      "handle": "zarazhangrui",
-      "bio": "Builder. Dangerously skips permissions. Harvard’17. YouTube: https://t.co/8xzbGWtf6w Substack: https://t.co/dDPEWGiuBW",
-      "tweets": [
-        {
-          "id": "2035758067116359902",
-          "text": "https://t.co/JRzfzDanIw",
-          "createdAt": "2026-03-22T16:38:40.000Z",
-          "url": "https://x.com/zarazhangrui/status/2035758067116359902",
-          "likes": 87,
+          "id": "2035739261929140672",
+          "text": "GStack slowly climbing to level 7.1 or so on the 'autonomous software factory' - one plan mode and PR at a time https://t.co/k0YXBcqSBY",
+          "createdAt": "2026-03-22T15:23:56.000Z",
+          "url": "https://x.com/garrytan/status/2035739261929140672",
+          "likes": 107,
           "retweets": 4,
-          "replies": 18,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Nikunj Kothari",
-      "handle": "nikunj",
-      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
-      "tweets": [
-        {
-          "id": "2035764531587342813",
-          "text": "Even better day to watch airplanes https://t.co/DPTD5jKQRt",
-          "createdAt": "2026-03-22T17:04:21.000Z",
-          "url": "https://x.com/nikunj/status/2035764531587342813",
-          "likes": 1,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Dan Shipper",
-      "handle": "danshipper",
-      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-      "tweets": [
-        {
-          "id": "2035734115324944737",
-          "text": "i think it's great to have Claude or other coding agents listed as a developer on PRs—and i think this will get more common with OpenClaws that develop their own personality and perspective.\n\nwe also do this with writing @every, listing Claude and our Claws as co-writers: https://t.co/0DTAIGq5Ql",
-          "createdAt": "2026-03-22T15:03:29.000Z",
-          "url": "https://x.com/danshipper/status/2035734115324944737",
-          "likes": 38,
-          "retweets": 0,
-          "replies": 11,
+          "replies": 23,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -170,7 +34,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 7,
-    "totalTweets": 10
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
