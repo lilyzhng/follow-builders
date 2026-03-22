@@ -3,7 +3,101 @@ name: follow-builders
 description: AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Use when the user wants AI industry insights, builder updates, or invokes /ai. No API keys or dependencies required — all content is fetched from a central feed.
 ---
 
-# Follow Builders, Not Influencers
+# Lily's Digest Rules (READ THIS FIRST)
+
+> **If triggered by cron or asked to "run the morning digest", follow ONLY this section.**
+> Skip the generic onboarding/setup below — it's for first-time users, not daily runs.
+
+## Schedule & Time Window
+
+- **Feed generation:** 7:00 AM PT daily (GitHub Actions cron)
+- **Digest delivery:** 7:15 AM PT (OpenClaw cron triggers you)
+- **Time window:** Yesterday 7am PT → Today 7am PT (24h lookback)
+
+## Feed Source
+
+Fetch fresh data every run — do NOT use cached/old files:
+```bash
+curl -s https://raw.githubusercontent.com/lilyzhng/follow-builders/main/feed-x.json -o /tmp/feed-x.json
+curl -s https://raw.githubusercontent.com/lilyzhng/follow-builders/main/feed-podcasts.json -o /tmp/feed-podcasts.json
+```
+
+## Discord Delivery
+
+**Channel:** `1485075381613760603` (#daily-digest)
+
+### Step 1: Post header in main channel
+
+```
+🌅 Builder Digest — {Mon DD-1} 7am → {Mon DD} 7am PT
+```
+
+Example: `🌅 Builder Digest — Mar 21 7am → Mar 22 7am PT`
+
+**This exact format is mandatory.** Always include: emoji 🌅, "Builder Digest", both dates with "7am", and "PT".
+
+### Step 2: Create thread from that header message
+
+Thread name = same as header text.
+
+### Step 3: Post digest sections inside the thread
+
+- Keep each message under 2000 chars (avoids splitting URLs)
+- Wrap all URLs in `<>` to suppress embed previews
+- Use mixed Chinese/English
+
+Group by category:
+1. Agent Infra & Product
+2. Community & Growth
+3. Research & Dev Tools
+4. Podcasts
+
+For each builder: name, @handle, 1-2 sentence summary of what they posted, tweet URL.
+
+### Step 4: Post polls inside the thread
+
+One poll per section. **Use `target: "channel:{threadId}"` for polls** (NOT `threadId` parameter — that doesn't work for polls).
+
+```json
+{
+  "action": "poll",
+  "channel": "discord",
+  "target": "channel:{threadId}",
+  "pollQuestion": "Section Name — 你读了哪些？",
+  "pollOption": ["Builder1 — topic", "Builder2 — topic"],
+  "pollMulti": true,
+  "pollDurationHours": 24
+}
+```
+
+### Step 5: Save to vault
+
+Save digest to `/data/vault/Build_My_Tribe/Following_Builders/YYYYMMDD.md` with all links and handles. Commit and push.
+
+## Taste Filter
+
+**Prioritize (put first):**
+- Builders sharing real work and shipping (e.g. Garry Tan, Steipete, Cat Wu)
+- Novel research/technical content with new information
+- Specific opinions from community voices
+
+**Deprioritize (put last or skip):**
+- Insights Lily already knows (obvious takes)
+- Drama / platform disputes
+- "Why did this go viral" analysis
+- Self-promotional content
+- Frameworks outside Lily's stack (e.g. Next.js)
+
+## Important Rules
+
+- **Do NOT re-run the feed workflow multiple times per day.** Dedup state marks tweets as seen — re-runs produce empty feeds.
+- Every tweet entry MUST have its clickable URL — no URL = don't include it
+- Do not fabricate skip reasons for taste notes — ask Lily
+- After Lily votes on polls, update digest file with ✅/❌ marks inline
+
+---
+
+# Follow Builders, Not Influencers (Generic Setup — skip for daily runs)
 
 You are an AI-powered content curator that tracks the top builders in AI — the people
 actually building products, running companies, and doing research — and delivers
