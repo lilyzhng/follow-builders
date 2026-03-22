@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-21T21:03:10.249Z",
+  "generatedAt": "2026-03-22T17:27:57.622Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,24 +9,24 @@
       "bio": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ Discord: https://t.co/uYnFNkYh7y",
       "tweets": [
         {
-          "id": "2035422422699311495",
-          "text": "I wonder how fast it is https://t.co/D7CCSnwusF",
-          "createdAt": "2026-03-21T18:24:56.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2035422422699311495",
-          "likes": 206,
-          "retweets": 2,
-          "replies": 16,
+          "id": "2035747322286723099",
+          "text": "Sure we will https://t.co/FYlhHLHs0l",
+          "createdAt": "2026-03-22T15:55:58.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2035747322286723099",
+          "likes": 189,
+          "retweets": 4,
+          "replies": 9,
           "isQuote": true,
-          "quotedTweetId": "2034933246115340575"
+          "quotedTweetId": "2035713902714171583"
         },
         {
-          "id": "2035214786066043106",
-          "text": "Friday night drop ☄️💥\nSpeaker lineup locked for our Founders' Voices panel this Saturday.\nFresh off the launch of MiniMax M2.7, our first self-evolving model. We're going deep on:\nRL · post-training · inference · agent workflows\n\nRegistration still open → https://t.co/CNPYwZUPXd\n—\nJoining us with:\n@alexocheema (@exolabs)\n@RobRizk1  (@blackboxai)\n@tydsh  (ex-@Meta FAIR)\n@grmcameron (@ArtificialAnlys)\n@yaboilyrical (@NousResearch)\n@steveshou (@duolingo )",
-          "createdAt": "2026-03-21T04:39:52.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2035214786066043106",
-          "likes": 387,
-          "retweets": 7,
-          "replies": 6,
+          "id": "2035609361826111780",
+          "text": "Our official skills repo is open source: https://t.co/X3yOgU0tRd\n\nEquip your agents with curated skills for iOS and Android development, Office file editing, and visual effects with GLSL shaders.\n\nThere are more open source projects coming!",
+          "createdAt": "2026-03-22T06:47:46.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2035609361826111780",
+          "likes": 2070,
+          "retweets": 275,
+          "replies": 48,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -39,24 +39,54 @@
       "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2035444995147055441",
-          "text": "https://t.co/rwW2cmtGRZ https://t.co/yN6xLs5qsh",
-          "createdAt": "2026-03-21T19:54:38.000Z",
-          "url": "https://x.com/NousResearch/status/2035444995147055441",
-          "likes": 112,
-          "retweets": 3,
-          "replies": 6,
+          "id": "2035731810836205671",
+          "text": "Hermes Agent is our most adopted open source project yet, and today has officially hit 10,000 stars on GitHub!\n\nGithub repo: https://t.co/b9NrmplHjC\n\nMany exciting updates to come, stay tuned! https://t.co/jYQCISkM6k",
+          "createdAt": "2026-03-22T14:54:20.000Z",
+          "url": "https://x.com/NousResearch/status/2035731810836205671",
+          "likes": 656,
+          "retweets": 44,
+          "replies": 55,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
+      "tweets": [
+        {
+          "id": "2035644394783854873",
+          "text": "Bill Gurley’s article doesn’t conclude “paid marketing bad”, just “be very careful”.\n\nBig outcomes have clearly come from paid marketing: Monday, Grammarly, Squarespace.\n\nHe himself concludes that it “has a very important place in business… that requires.. thoroughness in its implementation”\n\nHis 10 points on the pitfalls of CAC/LTV math (all true) boil down to:\n- Organic channels are better economics with better user: social, virality and PR\n- If you can’t track which customers came from LTV, you over count all new customers which you would’ve acquired anyway. Your equation is just wrong.\n- Current LTV math does not hold in the future as you scale. Costs scale as the business scales. You might acquire worse customers who churn quicker. Raising ARPU can cause churn. Companies use dirty tactics to prevent churn (increase LTV) and you can see ensuing complaints in the BBB\n- Spending it better on the customer to improve the experience and increase organic growth can be way better for long term business (eg Amazon)\n- You have to keep running the treadmill to grow and if your balance sheet can’t hold it, your business slows down and the valuation dips from peak (thankfully instruments like GC’s CVF addresses this and many other points here)",
+          "createdAt": "2026-03-22T09:06:58.000Z",
+          "url": "https://x.com/deedydas/status/2035644394783854873",
+          "likes": 248,
+          "retweets": 23,
+          "replies": 15,
           "isQuote": true,
-          "quotedTweetId": "2035444458334957944"
+          "quotedTweetId": "2035541014069612952"
         },
         {
-          "id": "2035404936729567284",
-          "text": "A message from Hermes Agent: https://t.co/Gewirah4tH",
-          "createdAt": "2026-03-21T17:15:27.000Z",
-          "url": "https://x.com/NousResearch/status/2035404936729567284",
-          "likes": 153,
-          "retweets": 18,
-          "replies": 19,
+          "id": "2035604198486852022",
+          "text": "@navvye @parimarjan This was v0: https://t.co/8F2nTiqqEB",
+          "createdAt": "2026-03-22T06:27:15.000Z",
+          "url": "https://x.com/deedydas/status/2035604198486852022",
+          "likes": 18,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2034681723125223882"
+        },
+        {
+          "id": "2035603496918257927",
+          "text": "Thanks @navvye for offering to test it (he was #28 in India and 23-2400 at some point and @parimarjan one of the goats for being my chess hero growing up and offering to give it a go",
+          "createdAt": "2026-03-22T06:24:28.000Z",
+          "url": "https://x.com/deedydas/status/2035603496918257927",
+          "likes": 20,
+          "retweets": 1,
+          "replies": 2,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -64,7 +94,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 4
+    "xBuilders": 3,
+    "totalTweets": 6
   }
 }
