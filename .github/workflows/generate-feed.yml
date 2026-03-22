@@ -22,23 +22,24 @@ jobs:
       - name: Install dependencies
         run: cd scripts && npm install
 
-      - name: Fetch all accounts (default + extras)
+      - name: Fetch all default accounts (tweets only)
         env:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
-          SUPADATA_API_KEY: ${{ secrets.SUPADATA_API_KEY }}
         run: |
-          cd scripts && node generate-feed.js
+          cd scripts && node generate-feed.js --tweets-only
 
-      - name: Fetch extra accounts
+      - name: Fetch extra accounts (tweets only)
         env:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
         run: |
           cd scripts && node generate-feed.js --tweets-only --sources ../config/extra-sources.json --output ../feed-x-extras.json
 
-      - name: Merge extras into main feed
+      - name: Merge extras into main feed + pull upstream podcasts
         run: |
           cd scripts && node -e "
           const fs = require('fs');
+
+          // Merge extras into main tweet feed
           const main = JSON.parse(fs.readFileSync('../feed-x.json', 'utf-8'));
           const extras = JSON.parse(fs.readFileSync('../feed-x-extras.json', 'utf-8'));
           const mainHandles = new Set(main.x.map(b => b.handle.toLowerCase()));
@@ -48,6 +49,19 @@ jobs:
           main.stats.totalTweets = main.x.reduce((s, b) => s + (b.tweets?.length || 0), 0);
           fs.writeFileSync('../feed-x.json', JSON.stringify(main, null, 2));
           console.error('Merged: ' + unique.length + ' extra builders added');
+
+          // Pull podcasts from upstream (we don't have SUPADATA_API_KEY)
+          async function fetchPodcasts() {
+            const res = await fetch('https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-podcasts.json');
+            if (res.ok) {
+              const data = await res.json();
+              fs.writeFileSync('../feed-podcasts.json', JSON.stringify(data, null, 2));
+              console.error('Podcasts: ' + (data.podcasts?.length || 0) + ' episodes from upstream');
+            } else {
+              console.error('Failed to fetch upstream podcasts: ' + res.status);
+            }
+          }
+          fetchPodcasts();
           "
 
       - name: Commit and push feeds
