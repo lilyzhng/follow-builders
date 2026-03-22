@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-22T17:28:35.477Z",
+  "generatedAt": "2026-03-22T17:52:02.538Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -282,40 +282,10 @@
           "quotedTweetId": null
         }
       ]
-    },
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
-      "tweets": [
-        {
-          "id": "2035551101148414322",
-          "text": "This approach fundamentally uses a negamax alpha-beta tree search with pruning and iterative deepening. I tested everything with a 500ms per move limit. The main way to improve it would be to get rid of the static evaluation at the nodes and replace it with efficiently updatable neural nets (NNUEs). Also uses standard opening books and a transposition table to cache moves.\n\nThere's no offline computation or training element, so each run is like the last.\n\nLichess bot link: https://t.co/PZUs79d2qT\nGithub repo: https://t.co/ILWdBPrqOQ\nChess AI ranking (CCRL): https://t.co/mXT1DMrFPZ\nBayesian ELO:\nhttps://t.co/de0gmIIAFN\nStash measurement: https://t.co/SrcupxEUn1",
-          "createdAt": "2026-03-22T02:56:15.000Z",
-          "url": "https://x.com/deedydas/status/2035551101148414322",
-          "likes": 81,
-          "retweets": 6,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035551089265906051",
-          "text": "Karpathy's Autoresearch pushed my vibecoded Rust chess engine AI from \"expert\" to a top 50 grandmaster, a #311 chess engine.\n\nIt ran over 70 experiments on its own and tried to hill climb to the top ELO score it could, landing at 2718! https://t.co/PmsldNe4tc",
-          "createdAt": "2026-03-22T02:56:13.000Z",
-          "url": "https://x.com/deedydas/status/2035551089265906051",
-          "likes": 2295,
-          "retweets": 150,
-          "replies": 74,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
     }
   ],
   "stats": {
-    "xBuilders": 10,
-    "totalTweets": 21
+    "xBuilders": 9,
+    "totalTweets": 19
   }
 }
