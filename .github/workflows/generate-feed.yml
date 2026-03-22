@@ -2,8 +2,8 @@ name: Generate Feeds
 
 on:
   schedule:
-    # Run daily at 2pm UTC (7 AM PT / PDT) — Lily wakes up ~8 AM PT
-    - cron: '0 14 * * *'
+    # Run daily at 1:45pm UTC (6:45 AM PT / PDT) — feeds ready before 7 AM digest
+    - cron: '45 13 * * *'
   workflow_dispatch:
 
 jobs:
