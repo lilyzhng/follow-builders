@@ -102,13 +102,37 @@ async function main() {
   await writeFile(join(REPO_ROOT, 'feed-x.json'), JSON.stringify(mergedFeed, null, 2));
   console.error(`  Merged: ${mergedX.length} builders, ${totalTweets} tweets`);
 
-  // 7. Write updated state
-  await writeFile(statePath, JSON.stringify(state, null, 2));
-  console.error(`  State updated: ${Object.keys(state.seenTweets).length} total seen tweets`);
+  // 8. Deduplicate podcasts using state.seenVideos
+  const seenVideoIds = new Set(Object.keys(state.seenVideos || {}));
+  let newVideoCount = 0;
+  let filteredVideoCount = 0;
 
-  // 8. Use upstream podcasts as-is
-  await writeFile(join(REPO_ROOT, 'feed-podcasts.json'), JSON.stringify(upstreamPodcasts, null, 2));
-  console.error(`  Podcasts: ${upstreamPodcasts.podcasts?.length || 0} episodes (from upstream)`);
+  const filteredPodcasts = (upstreamPodcasts.podcasts || []).filter(episode => {
+    if (seenVideoIds.has(episode.videoId)) {
+      filteredVideoCount++;
+      return false;
+    }
+    // Record this episode as seen
+    state.seenVideos[episode.videoId] = now;
+    newVideoCount++;
+    return true;
+  });
+
+  if (filteredVideoCount > 0) {
+    console.error(`  [DEDUP] Podcasts: filtered out ${filteredVideoCount} duplicate episode(s)`);
+  }
+
+  const dedupedPodcasts = {
+    ...upstreamPodcasts,
+    podcasts: filteredPodcasts
+  };
+
+  await writeFile(join(REPO_ROOT, 'feed-podcasts.json'), JSON.stringify(dedupedPodcasts, null, 2));
+  console.error(`  Podcasts: ${newVideoCount} new, ${filteredVideoCount} filtered (duplicates)`);
+
+  // 9. Write updated state (including seenVideos now)
+  await writeFile(statePath, JSON.stringify(state, null, 2));
+  console.error(`  State updated: ${Object.keys(state.seenTweets).length} tweets, ${Object.keys(state.seenVideos).length} videos`);
 }
 
 main().catch(err => {
