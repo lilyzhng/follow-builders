@@ -62,19 +62,26 @@ async function main() {
 
   const allBuilders = [...(upstreamX.x || []), ...uniqueExtras];
 
-  // 5. Filter out already-seen tweets and record new ones
+  // 5. Filter out already-seen tweets (only from PREVIOUS runs, not current window)
   const now = Date.now();
+  const lookbackHours = upstreamX.lookbackHours || 24;
+  const runCutoff = now - (lookbackHours * 60 * 60 * 1000); // Only filter tweets seen before this window
+  
   let newTweetCount = 0;
   let filteredTweetCount = 0;
 
   for (const builder of allBuilders) {
     const originalCount = builder.tweets?.length || 0;
     builder.tweets = (builder.tweets || []).filter(tweet => {
-      if (seenTweetIds.has(tweet.id)) {
+      const seenAt = state.seenTweets[tweet.id];
+      
+      // Only filter if tweet was seen BEFORE the current lookback window
+      if (seenAt && seenAt < runCutoff) {
         filteredTweetCount++;
         return false;
       }
-      // Record this tweet as seen
+      
+      // Record this tweet as seen (or update timestamp if re-fetched)
       state.seenTweets[tweet.id] = now;
       newTweetCount++;
       return true;
@@ -102,17 +109,23 @@ async function main() {
   await writeFile(join(REPO_ROOT, 'feed-x.json'), JSON.stringify(mergedFeed, null, 2));
   console.error(`  Merged: ${mergedX.length} builders, ${totalTweets} tweets`);
 
-  // 8. Deduplicate podcasts using state.seenVideos
-  const seenVideoIds = new Set(Object.keys(state.seenVideos || {}));
+  // 8. Deduplicate podcasts using state.seenVideos (only from PREVIOUS runs)
+  const podcastLookbackHours = upstreamPodcasts.lookbackHours || 72;
+  const podcastCutoff = now - (podcastLookbackHours * 60 * 60 * 1000);
+  
   let newVideoCount = 0;
   let filteredVideoCount = 0;
 
   const filteredPodcasts = (upstreamPodcasts.podcasts || []).filter(episode => {
-    if (seenVideoIds.has(episode.videoId)) {
+    const seenAt = state.seenVideos[episode.videoId];
+    
+    // Only filter if episode was seen BEFORE the current lookback window
+    if (seenAt && seenAt < podcastCutoff) {
       filteredVideoCount++;
       return false;
     }
-    // Record this episode as seen
+    
+    // Record this episode as seen (or update timestamp if re-fetched)
     state.seenVideos[episode.videoId] = now;
     newVideoCount++;
     return true;
