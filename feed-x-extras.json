@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-22T18:47:12.303Z",
+  "generatedAt": "2026-03-23T14:13:29.265Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,37 +9,37 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2035644394783854873",
-          "text": "Bill Gurley’s article doesn’t conclude “paid marketing bad”, just “be very careful”.\n\nBig outcomes have clearly come from paid marketing: Monday, Grammarly, Squarespace.\n\nHe himself concludes that it “has a very important place in business… that requires.. thoroughness in its implementation”\n\nHis 10 points on the pitfalls of CAC/LTV math (all true) boil down to:\n- Organic channels are better economics with better user: social, virality and PR\n- If you can’t track which customers came from LTV, you over count all new customers which you would’ve acquired anyway. Your equation is just wrong.\n- Current LTV math does not hold in the future as you scale. Costs scale as the business scales. You might acquire worse customers who churn quicker. Raising ARPU can cause churn. Companies use dirty tactics to prevent churn (increase LTV) and you can see ensuing complaints in the BBB\n- Spending it better on the customer to improve the experience and increase organic growth can be way better for long term business (eg Amazon)\n- You have to keep running the treadmill to grow and if your balance sheet can’t hold it, your business slows down and the valuation dips from peak (thankfully instruments like GC’s CVF addresses this and many other points here)",
-          "createdAt": "2026-03-22T09:06:58.000Z",
-          "url": "https://x.com/deedydas/status/2035644394783854873",
-          "likes": 300,
-          "retweets": 27,
-          "replies": 15,
-          "isQuote": true,
-          "quotedTweetId": "2035541014069612952"
-        },
-        {
-          "id": "2035604198486852022",
-          "text": "@navvye @parimarjan This was v0: https://t.co/8F2nTiqqEB",
-          "createdAt": "2026-03-22T06:27:15.000Z",
-          "url": "https://x.com/deedydas/status/2035604198486852022",
-          "likes": 21,
-          "retweets": 1,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2034681723125223882"
-        },
-        {
-          "id": "2035603496918257927",
-          "text": "Thanks @navvye for offering to test it (he was #28 in India and 23-2400 at some point and @parimarjan one of the goats for being my chess hero growing up and offering to give it a go",
-          "createdAt": "2026-03-22T06:24:28.000Z",
-          "url": "https://x.com/deedydas/status/2035603496918257927",
-          "likes": 25,
-          "retweets": 1,
-          "replies": 2,
+          "id": "2035938590300176387",
+          "text": "Source: https://t.co/aBvxz8DY2T",
+          "createdAt": "2026-03-23T04:36:00.000Z",
+          "url": "https://x.com/deedydas/status/2035938590300176387",
+          "likes": 26,
+          "retweets": 5,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
+        },
+        {
+          "id": "2035938588395974928",
+          "text": "Be careful what you post anonymously. New research shows AI can find who you are solely from your posts.\n\nIt's rare to see ~500x research improvements, but they went from mapping &lt;0.1% to 54% of HackerNews profiles to their LinkedIn. \n\nIt's so over, u/throwaway4927. https://t.co/Ep8Gz7muRb",
+          "createdAt": "2026-03-23T04:36:00.000Z",
+          "url": "https://x.com/deedydas/status/2035938588395974928",
+          "likes": 1635,
+          "retweets": 167,
+          "replies": 121,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2035923503489355880",
+          "text": "The rhetoric around AI detectors is so stupid. Everyone uses crap products and then says it doesn't work. \n\nZeroGPT is so bad it doesn't even get tested. Pangram routinely wins on all third-party evaluations. https://t.co/D2T6pAyabU https://t.co/rGwnLpV25e",
+          "createdAt": "2026-03-23T03:36:03.000Z",
+          "url": "https://x.com/deedydas/status/2035923503489355880",
+          "likes": 186,
+          "retweets": 12,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2035564489580384717"
         }
       ]
     }
