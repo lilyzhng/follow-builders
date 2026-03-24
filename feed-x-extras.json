@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-03-23T14:13:29.265Z",
+  "generatedAt": "2026-03-24T14:14:18.029Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ Discord: https://t.co/uYnFNkYh7y",
+      "tweets": [
+        {
+          "id": "2036123730439758043",
+          "text": "Subscribe to the MiniMax Token Plan: https://t.co/ng3AyOvQE7\n\nGive your OpenClaw our multimodal skill: https://t.co/1wbCJWmCeC\n\nPricing and M2.7 five-hour usage remain the same as the Coding Plan.",
+          "createdAt": "2026-03-23T16:51:41.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2036123730439758043",
+          "likes": 75,
+          "retweets": 5,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036123727373672910",
+          "text": "Introducing the MiniMax Token Plan: First All-Modality API Subscription\n\nFlat-rate API access to MiniMax's leading text, speech, music, video, and image models.\n\nStop juggling multiple unpredictable bills for different modalities.\n\nOne key. One predictable bill. All modalities.",
+          "createdAt": "2026-03-23T16:51:40.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2036123727373672910",
+          "likes": 1258,
+          "retweets": 80,
+          "replies": 86,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -9,43 +39,32 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2035938590300176387",
-          "text": "Source: https://t.co/aBvxz8DY2T",
-          "createdAt": "2026-03-23T04:36:00.000Z",
-          "url": "https://x.com/deedydas/status/2035938590300176387",
-          "likes": 26,
-          "retweets": 5,
-          "replies": 1,
+          "id": "2036295671037465044",
+          "text": "Uses Whisper TTS for speech recognition, Qwen 14B as the LLM and Kokoro for voice.",
+          "createdAt": "2026-03-24T04:14:55.000Z",
+          "url": "https://x.com/deedydas/status/2036295671037465044",
+          "likes": 34,
+          "retweets": 0,
+          "replies": 5,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2035938588395974928",
-          "text": "Be careful what you post anonymously. New research shows AI can find who you are solely from your posts.\n\nIt's rare to see ~500x research improvements, but they went from mapping &lt;0.1% to 54% of HackerNews profiles to their LinkedIn. \n\nIt's so over, u/throwaway4927. https://t.co/Ep8Gz7muRb",
-          "createdAt": "2026-03-23T04:36:00.000Z",
-          "url": "https://x.com/deedydas/status/2035938588395974928",
-          "likes": 1635,
-          "retweets": 167,
-          "replies": 121,
+          "id": "2036295669573623978",
+          "text": "Siri has been broken for 13 years so I built my own. Completely on-device. No internet needed.\n\nControls my Mac, sets reminders, fetches live data, answers questions. Built in a weekend. \n\nThis is the future of software. https://t.co/0UUu8jIhoe",
+          "createdAt": "2026-03-24T04:14:54.000Z",
+          "url": "https://x.com/deedydas/status/2036295669573623978",
+          "likes": 379,
+          "retweets": 16,
+          "replies": 42,
           "isQuote": false,
           "quotedTweetId": null
-        },
-        {
-          "id": "2035923503489355880",
-          "text": "The rhetoric around AI detectors is so stupid. Everyone uses crap products and then says it doesn't work. \n\nZeroGPT is so bad it doesn't even get tested. Pangram routinely wins on all third-party evaluations. https://t.co/D2T6pAyabU https://t.co/rGwnLpV25e",
-          "createdAt": "2026-03-23T03:36:03.000Z",
-          "url": "https://x.com/deedydas/status/2035923503489355880",
-          "likes": 186,
-          "retweets": 12,
-          "replies": 11,
-          "isQuote": true,
-          "quotedTweetId": "2035564489580384717"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 3
+    "xBuilders": 2,
+    "totalTweets": 4
   }
 }
