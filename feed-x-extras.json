@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-03-27T14:12:29.387Z",
+  "generatedAt": "2026-03-28T14:01:41.602Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
+      "tweets": [
+        {
+          "id": "2037620159800832445",
+          "text": "Mod your Hermes Agent to be whatever you want it to be, now even easier: https://t.co/RBRoqX4Jls",
+          "createdAt": "2026-03-27T19:57:57.000Z",
+          "url": "https://x.com/NousResearch/status/2037620159800832445",
+          "likes": 249,
+          "retweets": 16,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2037574436765815076"
+        },
+        {
+          "id": "2037611517399507008",
+          "text": "https://t.co/t4Q1pxNDtc",
+          "createdAt": "2026-03-27T19:23:37.000Z",
+          "url": "https://x.com/NousResearch/status/2037611517399507008",
+          "likes": 121,
+          "retweets": 1,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -9,13 +39,24 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2037363765600215531",
-          "text": "I sat down with Sam Altman (@sama) and Francois Chollet (@fchollet) at the ARC-AGI-3 launch to talk about:\n– how to raise kids in this new world\n– “spud” / Sora\n– what they’re bullish on and not \n– research we need more of\n– AGI timelines\nand more. \n\nVideo dropping soon. https://t.co/IeJixB4RQZ",
-          "createdAt": "2026-03-27T02:59:08.000Z",
-          "url": "https://x.com/deedydas/status/2037363765600215531",
-          "likes": 570,
-          "retweets": 20,
-          "replies": 31,
+          "id": "2037701696655401072",
+          "text": "Explore here: https://t.co/cGOPtDv8m4",
+          "createdAt": "2026-03-28T01:21:57.000Z",
+          "url": "https://x.com/deedydas/status/2037701696655401072",
+          "likes": 24,
+          "retweets": 2,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2037701694835102169",
+          "text": "What are VCs investing in right now?\n\nWe classified  &gt;1000 Y Combinator startups from the last 3 years into subclusters to figure out. https://t.co/pFFm8DK949",
+          "createdAt": "2026-03-28T01:21:57.000Z",
+          "url": "https://x.com/deedydas/status/2037701694835102169",
+          "likes": 447,
+          "retweets": 34,
+          "replies": 29,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -23,7 +64,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 2,
+    "totalTweets": 4
   }
 }
