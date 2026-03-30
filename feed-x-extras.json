@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-29T14:01:39.846Z",
+  "generatedAt": "2026-03-30T14:16:29.082Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,35 +9,35 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2038062536730509567",
-          "text": "its funny how a few ppl rush to say 'this is made up' but to the extent that it matters, i can assure you this is true.  \n\nit may not be representative, but this did happen",
-          "createdAt": "2026-03-29T01:15:48.000Z",
-          "url": "https://x.com/deedydas/status/2038062536730509567",
-          "likes": 130,
-          "retweets": 1,
-          "replies": 9,
+          "id": "2038463852271337487",
+          "text": "You either exit a SaaS startup or live long enough to see yourself selling RL training data to AI labs",
+          "createdAt": "2026-03-30T03:50:29.000Z",
+          "url": "https://x.com/deedydas/status/2038463852271337487",
+          "likes": 1166,
+          "retweets": 38,
+          "replies": 73,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2038005796630643158",
-          "text": "Google Senior Staff Engineer to me: “Yeah, I have no clue what Claude Code / Codex is but I hear it’s all the rage.\n\nNo, I don’t really care, I just need GOOG to hit $400 and keep this job for 2-3 more years so I can retire!”",
-          "createdAt": "2026-03-28T21:30:20.000Z",
-          "url": "https://x.com/deedydas/status/2038005796630643158",
-          "likes": 4472,
-          "retweets": 75,
-          "replies": 216,
+          "id": "2038270005763354678",
+          "text": "Source: https://t.co/MtRDTULDpQ",
+          "createdAt": "2026-03-29T15:00:13.000Z",
+          "url": "https://x.com/deedydas/status/2038270005763354678",
+          "likes": 28,
+          "retweets": 2,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2037924462159593894",
-          "text": "The Claude and Gemini model used was stale (Sonnet 3.7, Gemini 1.5 Flash).\n\nI find it odd that sycophancy despite being a known problem is just not benchmarked in big model releases, while obscure physics questions that doesn’t affect most consumers, are!\n\nArticle: https://t.co/U2CSxN4LQ0\nResearch: https://t.co/aYCRwPnqVv",
-          "createdAt": "2026-03-28T16:07:09.000Z",
-          "url": "https://x.com/deedydas/status/2037924462159593894",
-          "likes": 16,
-          "retweets": 0,
-          "replies": 1,
+          "id": "2038269993394356589",
+          "text": "Legendary Don Knuth has now used AI to fully solve his Hamiltonian decomposition problem for odd and even cases.\n\nOpus 4.6 / 5.4 Pro solved the even case, wrote a proof in Lean and a “apparently flawless 14 page paper”\n\nKnuth: “We are living in very interesting times indeed.” https://t.co/erj7guVUEb",
+          "createdAt": "2026-03-29T15:00:10.000Z",
+          "url": "https://x.com/deedydas/status/2038269993394356589",
+          "likes": 1455,
+          "retweets": 190,
+          "replies": 67,
           "isQuote": false,
           "quotedTweetId": null
         }
