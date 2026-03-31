@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-03-30T14:16:29.082Z",
+  "generatedAt": "2026-03-31T14:18:20.461Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "Qwen",
+      "handle": "Alibaba_Qwen",
+      "bio": "Open foundation models for AGI.",
+      "tweets": [
+        {
+          "id": "2038637985856733623",
+          "text": "Demo4 ：Multi-Turn Dialogue and Intelligent Interruption https://t.co/9PlYonTn0N https://t.co/qNSzCDgL5S",
+          "createdAt": "2026-03-30T15:22:26.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2038637985856733623",
+          "likes": 252,
+          "retweets": 31,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2038636335272194241"
+        },
+        {
+          "id": "2038637526043480517",
+          "text": "Demo3：Travel Planning https://t.co/TzdEgEoPb5 https://t.co/qNSzCDgL5S",
+          "createdAt": "2026-03-30T15:20:36.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2038637526043480517",
+          "likes": 144,
+          "retweets": 11,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2038636335272194241"
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -9,43 +39,40 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2038463852271337487",
-          "text": "You either exit a SaaS startup or live long enough to see yourself selling RL training data to AI labs",
-          "createdAt": "2026-03-30T03:50:29.000Z",
-          "url": "https://x.com/deedydas/status/2038463852271337487",
-          "likes": 1166,
+          "id": "2038834655697490156",
+          "text": "Supply chain attacks like the currently breaking axios, litellm and xz are only going to be more commonplace in the vibecoding world.\n\nThe entire premise of vibecoding is “I don’t need to understand the code” happens to also be the entire premise of a supply chain attack.",
+          "createdAt": "2026-03-31T04:23:56.000Z",
+          "url": "https://x.com/deedydas/status/2038834655697490156",
+          "likes": 537,
+          "retweets": 39,
+          "replies": 57,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "❤️ 🍵 ☕️ 🍷 🥃 🍺",
+      "tweets": [
+        {
+          "id": "2038783276937310582",
+          "text": "model+harness is now over model only. agent perf can be significantly influenced by the design and quality of harness. i do believe this is a right direction, nice work! https://t.co/4fBDmBElL8",
+          "createdAt": "2026-03-31T00:59:46.000Z",
+          "url": "https://x.com/JustinLin610/status/2038783276937310582",
+          "likes": 444,
           "retweets": 38,
-          "replies": 73,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2038270005763354678",
-          "text": "Source: https://t.co/MtRDTULDpQ",
-          "createdAt": "2026-03-29T15:00:13.000Z",
-          "url": "https://x.com/deedydas/status/2038270005763354678",
-          "likes": 28,
-          "retweets": 2,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2038269993394356589",
-          "text": "Legendary Don Knuth has now used AI to fully solve his Hamiltonian decomposition problem for odd and even cases.\n\nOpus 4.6 / 5.4 Pro solved the even case, wrote a proof in Lean and a “apparently flawless 14 page paper”\n\nKnuth: “We are living in very interesting times indeed.” https://t.co/erj7guVUEb",
-          "createdAt": "2026-03-29T15:00:10.000Z",
-          "url": "https://x.com/deedydas/status/2038269993394356589",
-          "likes": 1455,
-          "retweets": 190,
-          "replies": 67,
-          "isQuote": false,
-          "quotedTweetId": null
+          "replies": 21,
+          "isQuote": true,
+          "quotedTweetId": "2038640635482456118"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 3
+    "xBuilders": 3,
+    "totalTweets": 4
   }
 }

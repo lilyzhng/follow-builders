@@ -1,8 +1,18 @@
 {
-  "generatedAt": "2026-03-30T07:24:59.238Z",
-  "lookbackHours": 72,
-  "podcasts": [],
+  "generatedAt": "2026-03-31T07:11:13.072Z",
+  "lookbackHours": 336,
+  "podcasts": [
+    {
+      "source": "podcast",
+      "name": "AI & I by Every",
+      "title": "How Every Edits in the Age of AI",
+      "videoId": "Uif_qAcgnLk",
+      "url": "https://youtube.com/watch?v=Uif_qAcgnLk",
+      "publishedAt": "2026-03-18T00:00:00.000Z",
+      "transcript": ""
+    }
+  ],
   "stats": {
-    "podcastEpisodes": 0
+    "podcastEpisodes": 1
   }
 }
