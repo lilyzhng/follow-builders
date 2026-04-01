@@ -1,37 +1,7 @@
 {
-  "generatedAt": "2026-03-31T14:18:20.461Z",
+  "generatedAt": "2026-04-01T14:19:21.914Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Qwen",
-      "handle": "Alibaba_Qwen",
-      "bio": "Open foundation models for AGI.",
-      "tweets": [
-        {
-          "id": "2038637985856733623",
-          "text": "Demo4 ：Multi-Turn Dialogue and Intelligent Interruption https://t.co/9PlYonTn0N https://t.co/qNSzCDgL5S",
-          "createdAt": "2026-03-30T15:22:26.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2038637985856733623",
-          "likes": 252,
-          "retweets": 31,
-          "replies": 7,
-          "isQuote": true,
-          "quotedTweetId": "2038636335272194241"
-        },
-        {
-          "id": "2038637526043480517",
-          "text": "Demo3：Travel Planning https://t.co/TzdEgEoPb5 https://t.co/qNSzCDgL5S",
-          "createdAt": "2026-03-30T15:20:36.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2038637526043480517",
-          "likes": 144,
-          "retweets": 11,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2038636335272194241"
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -39,40 +9,32 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2038834655697490156",
-          "text": "Supply chain attacks like the currently breaking axios, litellm and xz are only going to be more commonplace in the vibecoding world.\n\nThe entire premise of vibecoding is “I don’t need to understand the code” happens to also be the entire premise of a supply chain attack.",
-          "createdAt": "2026-03-31T04:23:56.000Z",
-          "url": "https://x.com/deedydas/status/2038834655697490156",
-          "likes": 537,
-          "retweets": 39,
-          "replies": 57,
+          "id": "2039181162355245296",
+          "text": "Seoul World Model: https://t.co/L92ZGdYTK8\nhttps://t.co/k3VOGGwqmG\nZipMap (a fast technique for making splats): https://t.co/BWKMD88hWk\nRadiance Meshes: https://t.co/kSNX9oM4oH\nOriginal Gaussian splat paper: https://t.co/xJ9qZ31GR8\n4DV demos: https://t.co/J2JWibg9O3\nFantastic video explainer: https://t.co/VxZeunIhts",
+          "createdAt": "2026-04-01T03:20:49.000Z",
+          "url": "https://x.com/deedydas/status/2039181162355245296",
+          "likes": 10,
+          "retweets": 0,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "❤️ 🍵 ☕️ 🍷 🥃 🍺",
-      "tweets": [
+        },
         {
-          "id": "2038783276937310582",
-          "text": "model+harness is now over model only. agent perf can be significantly influenced by the design and quality of harness. i do believe this is a right direction, nice work! https://t.co/4fBDmBElL8",
-          "createdAt": "2026-03-31T00:59:46.000Z",
-          "url": "https://x.com/JustinLin610/status/2038783276937310582",
-          "likes": 444,
-          "retweets": 38,
+          "id": "2039181150279840136",
+          "text": "I’ve been obsessed with the most exciting software tech today that’s not AI: Gaussian splats.\n\nIt’s the next generation of videos where you can move around in the scene. And the whole thing renders in realtime on your iPhone.\n\nI went into a pretty deep rabbit hole on it.. so here’s some history.\n\nThe initial idea was: can we take pictures from different angles and reconstruct a 3D scene?\nFun fact: one of the seminal papers in the field (“Photo Tourism”) was written by a professor I taught graphics for in college, Noah Snavely!\nProblem: objects look different at diff angles, because of light etc\n\nThen we had NeRFs which could figure out lighting. Problem: extremely slow.\n\nGaussian splatting represented a 3D scene with diffuse blobs (gaussians) that encoded structure and appearance. Now, you could take camera shots or drone shots and make a splat in <5s.\nProblem: a) still needed many images b) splats were static and didn’t have video in them c) unseen parts of video or holes are just black or missing\n\nStill need many images? Apple’s ML SHARP can take one image and give you a splat!\n\nCan't have video? Companies like 4DV ai who made the video below build special capture techniques which allow dynamic scenes to be put in a splat\n\nParts of the video just black? Generative models (a subset of world models) can fill in the missing parts not captured by camera.\n\nWhat does that leave us with?\n\nThe future entertainment format whether it's in VR on a Vision Pro or interacting with immersive video are going to use splats. There's still open problrms:\na) how do we create splats more efficiently\nb) how do we store and stream them more efficiently\nc) how do we make them visually more realistic (lighting d) instead of being a flying camera, can we move like a video game character in the space and interact with objects\n\nSplats are closely related world models and virtual reality. Cool projects like Seoul World Model take street view images and let you fly through any part of the city. It's only a matter of time before the entire world gets a 3D representation we can move through baked straight into Google Maps. Or you can play control a video game character watching a live sports game.",
+          "createdAt": "2026-04-01T03:20:47.000Z",
+          "url": "https://x.com/deedydas/status/2039181150279840136",
+          "likes": 164,
+          "retweets": 11,
           "replies": 21,
-          "isQuote": true,
-          "quotedTweetId": "2038640635482456118"
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 4
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
