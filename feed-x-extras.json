@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T14:14:39.117Z",
+  "generatedAt": "2026-04-03T14:06:31.531Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,95 +9,32 @@
       "bio": "Open foundation models for AGI.",
       "tweets": [
         {
-          "id": "2039695229792756034",
-          "text": "（6/8）QwenCode：Letter Flying\n\nQwen3.6-Plus is compatible with Qwen Code. It helps you understand complex codebases, automate tedious work, and ship faster. https://t.co/sNcFVi658s https://t.co/CnHL8CWWTY",
-          "createdAt": "2026-04-02T13:23:33.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2039695229792756034",
-          "likes": 31,
-          "retweets": 3,
-          "replies": 1,
+          "id": "2039725953975521680",
+          "text": "🚀🚀Let's go!! https://t.co/1VFI4OAjai",
+          "createdAt": "2026-04-02T15:25:38.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2039725953975521680",
+          "likes": 233,
+          "retweets": 13,
+          "replies": 9,
           "isQuote": true,
-          "quotedTweetId": "2039693436622872864"
-        },
-        {
-          "id": "2039694871368540272",
-          "text": "（5/8）OpenClaw：Personal Schedule Management\n\nQwen3.6-Plus is compatible with OpenClaw (formerly Moltbot / Clawdbot). Here's the demo of Personal Schedule Management. https://t.co/qjkpRrwa7E https://t.co/CnHL8CWWTY",
-          "createdAt": "2026-04-02T13:22:07.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2039694871368540272",
-          "likes": 37,
-          "retweets": 3,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2039693436622872864"
+          "quotedTweetId": "2039723549976678779"
         }
       ]
     },
     {
       "source": "x",
-      "name": "Z.AI (GLM)",
-      "handle": "Zai_org",
-      "bio": "The AI Lab behind GLM models, dedicated to inspiring the development of AGI to benefit humanity.\n\nhttps://t.co/7a5aSCUNcZ\nhttps://t.co/x14hb3klXm",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "❤️ 🍵 ☕️ 🍷 🥃 🍺",
       "tweets": [
         {
-          "id": "2039371132462137818",
-          "text": "The model can understand design drafts, screenshots, and web interfaces to generate complete, runnable code, truly achieving the goal of \"seeing the screen and writing the code.\" https://t.co/PDn13wal4t",
-          "createdAt": "2026-04-01T15:55:42.000Z",
-          "url": "https://x.com/Zai_org/status/2039371132462137818",
-          "likes": 273,
-          "retweets": 10,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2039371126984360085",
-          "text": "Introducing GLM-5V-Turbo: Vision Coding Model\n\n- Native Multimodal Coding: Natively understands multimodal inputs including images, videos, design drafts, and document layouts.\n- Balanced Visual and Programming Capabilities: Achieves leading performance across core benchmarks for multimodal coding, tool use, and GUI Agents.\n- Deep Adaptation for Claude Code and Claw Scenarios: Works in deep synergy with Agents like Claude Code and OpenClaw.\n\nTry it now: https://t.co/WCqWT0qCQb\nAPI: https://t.co/xDy1O6ZPcz\nCoding Plan trial applications: https://t.co/qCM6cri0KK",
-          "createdAt": "2026-04-01T15:55:41.000Z",
-          "url": "https://x.com/Zai_org/status/2039371126984360085",
-          "likes": 5170,
-          "retweets": 578,
-          "replies": 211,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
-      "tweets": [
-        {
-          "id": "2039395284892205082",
-          "text": "some relevant thoughts with more links on gaussian splats and world models if you're curious https://t.co/ioUxAlaFuE",
-          "createdAt": "2026-04-01T17:31:40.000Z",
-          "url": "https://x.com/deedydas/status/2039395284892205082",
-          "likes": 13,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2039181150279840136"
-        },
-        {
-          "id": "2039377235246022743",
-          "text": "Here's the research that demonstrates this for the city of Seoul using Naver map data (the Google of Korea): https://t.co/k3VOGGwqmG\n\nWorld models are more than just endless virtual environments, it's about capturing  *the actual world we live in*:\n- imagine being able to archive your childhood home\n- your favorite spots growing up\n- being able to explore hard to access parts of the world with your older parents\n- Playing GTA in real cities\n- perfect forensics in crime scenes\nand so many more cool things.",
-          "createdAt": "2026-04-01T16:19:57.000Z",
-          "url": "https://x.com/deedydas/status/2039377235246022743",
-          "likes": 41,
-          "retweets": 7,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2039377223179022578",
-          "text": "Blows my mind that we currently possess the technology for Google Maps to turn all the street view images of the entire world into a video game you can play!\n\nIn the future, we'll be able to say \"yeah let's check out New York City 100 years ago!\" https://t.co/A3aiMRsLlm",
-          "createdAt": "2026-04-01T16:19:54.000Z",
-          "url": "https://x.com/deedydas/status/2039377223179022578",
-          "likes": 2125,
-          "retweets": 113,
-          "replies": 58,
+          "id": "2040040525143904329",
+          "text": "mountain climbing is so funny",
+          "createdAt": "2026-04-03T12:15:37.000Z",
+          "url": "https://x.com/JustinLin610/status/2040040525143904329",
+          "likes": 38,
+          "retweets": 0,
+          "replies": 9,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -105,7 +42,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 7
+    "xBuilders": 2,
+    "totalTweets": 2
   }
 }
