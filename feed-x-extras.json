@@ -1,40 +1,51 @@
 {
-  "generatedAt": "2026-04-03T14:06:31.531Z",
+  "generatedAt": "2026-04-04T14:01:48.487Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Qwen",
-      "handle": "Alibaba_Qwen",
-      "bio": "Open foundation models for AGI.",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2039725953975521680",
-          "text": "🚀🚀Let's go!! https://t.co/1VFI4OAjai",
-          "createdAt": "2026-04-02T15:25:38.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2039725953975521680",
-          "likes": 233,
-          "retweets": 13,
-          "replies": 9,
-          "isQuote": true,
-          "quotedTweetId": "2039723549976678779"
+          "id": "2040147789573714427",
+          "text": "Hermes Agent v0.7.0 is out now.\n\nOur headline update: \nMemory is now an extensible plugin system. Swap in any backend, or build your own. Built-in memory works out of the box; six third-party providers are ready to go. Pick one with 'hermes memory setup'.\n\nFull changelog below ↓ https://t.co/yAXCXtDTml",
+          "createdAt": "2026-04-03T19:21:51.000Z",
+          "url": "https://x.com/NousResearch/status/2040147789573714427",
+          "likes": 2062,
+          "retweets": 175,
+          "replies": 132,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
     {
       "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "❤️ 🍵 ☕️ 🍷 🥃 🍺",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2040040525143904329",
-          "text": "mountain climbing is so funny",
-          "createdAt": "2026-04-03T12:15:37.000Z",
-          "url": "https://x.com/JustinLin610/status/2040040525143904329",
-          "likes": 38,
-          "retweets": 0,
-          "replies": 9,
+          "id": "2040083418512511214",
+          "text": "Source: https://t.co/OD5Edy6eyO",
+          "createdAt": "2026-04-03T15:06:04.000Z",
+          "url": "https://x.com/deedydas/status/2040083418512511214",
+          "likes": 73,
+          "retweets": 12,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2040083405841568115",
+          "text": "This is the best blog post on LLM inference I've seen this year.\n\nThey achieved 10x latency and &gt;1400 tokens/sec by moving speculative decode onto two 2GB SRAM/chip Corsairs, a small cost on top of a standard GPU setup on gpt-oss-120b.\n\nThis performance at this price is insane. https://t.co/5JQU1dkmCY",
+          "createdAt": "2026-04-03T15:06:01.000Z",
+          "url": "https://x.com/deedydas/status/2040083405841568115",
+          "likes": 1043,
+          "retweets": 100,
+          "replies": 33,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -43,6 +54,6 @@
   ],
   "stats": {
     "xBuilders": 2,
-    "totalTweets": 2
+    "totalTweets": 3
   }
 }
