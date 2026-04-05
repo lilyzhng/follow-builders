@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-04T14:01:48.487Z",
+  "generatedAt": "2026-04-05T14:01:43.781Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,13 +9,13 @@
       "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2040147789573714427",
-          "text": "Hermes Agent v0.7.0 is out now.\n\nOur headline update: \nMemory is now an extensible plugin system. Swap in any backend, or build your own. Built-in memory works out of the box; six third-party providers are ready to go. Pick one with 'hermes memory setup'.\n\nFull changelog below ↓ https://t.co/yAXCXtDTml",
-          "createdAt": "2026-04-03T19:21:51.000Z",
-          "url": "https://x.com/NousResearch/status/2040147789573714427",
-          "likes": 2062,
-          "retweets": 175,
-          "replies": 132,
+          "id": "2040471903433896328",
+          "text": "Open Source is inevitable",
+          "createdAt": "2026-04-04T16:49:46.000Z",
+          "url": "https://x.com/NousResearch/status/2040471903433896328",
+          "likes": 1713,
+          "retweets": 181,
+          "replies": 110,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -28,24 +28,32 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2040083418512511214",
-          "text": "Source: https://t.co/OD5Edy6eyO",
-          "createdAt": "2026-04-03T15:06:04.000Z",
-          "url": "https://x.com/deedydas/status/2040083418512511214",
-          "likes": 73,
-          "retweets": 12,
-          "replies": 2,
+          "id": "2040612992996516256",
+          "text": "How to keep up with AI (and everything else)\n\n1. Twitter/X is the fastest source. LinkedIn/Reddit are way behind\n2. Smaller accs (&lt;50k followers) have high alpha\n3. X feed is very noisy though\n4. Add 10-20 accounts to \"notify for all posts\"\n5. Aggregated notif is the curated feed https://t.co/5zCFEsnKWG",
+          "createdAt": "2026-04-05T02:10:24.000Z",
+          "url": "https://x.com/deedydas/status/2040612992996516256",
+          "likes": 301,
+          "retweets": 15,
+          "replies": 35,
           "isQuote": false,
           "quotedTweetId": null
-        },
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "❤️ 🍵 ☕️ 🍷 🥃 🍺",
+      "tweets": [
         {
-          "id": "2040083405841568115",
-          "text": "This is the best blog post on LLM inference I've seen this year.\n\nThey achieved 10x latency and &gt;1400 tokens/sec by moving speculative decode onto two 2GB SRAM/chip Corsairs, a small cost on top of a standard GPU setup on gpt-oss-120b.\n\nThis performance at this price is insane. https://t.co/5JQU1dkmCY",
-          "createdAt": "2026-04-03T15:06:01.000Z",
-          "url": "https://x.com/deedydas/status/2040083405841568115",
-          "likes": 1043,
-          "retweets": 100,
-          "replies": 33,
+          "id": "2040685701411532962",
+          "text": "https://t.co/THIkSGq45U",
+          "createdAt": "2026-04-05T06:59:19.000Z",
+          "url": "https://x.com/JustinLin610/status/2040685701411532962",
+          "likes": 80,
+          "retweets": 1,
+          "replies": 11,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -53,7 +61,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 2,
+    "xBuilders": 3,
     "totalTweets": 3
   }
 }
