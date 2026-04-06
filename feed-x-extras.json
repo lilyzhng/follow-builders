@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-05T14:01:43.781Z",
+  "generatedAt": "2026-04-06T14:11:53.894Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,15 +9,26 @@
       "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2040471903433896328",
-          "text": "Open Source is inevitable",
-          "createdAt": "2026-04-04T16:49:46.000Z",
-          "url": "https://x.com/NousResearch/status/2040471903433896328",
-          "likes": 1713,
-          "retweets": 181,
-          "replies": 110,
+          "id": "2041005688994857343",
+          "text": "@3blue1brown Second PR is in; skill has been updated significantly since this video was rendered and should now produce far more polished output.\n\nhttps://t.co/UQ0wHYLgJW",
+          "createdAt": "2026-04-06T04:10:50.000Z",
+          "url": "https://x.com/NousResearch/status/2041005688994857343",
+          "likes": 64,
+          "retweets": 3,
+          "replies": 3,
           "isQuote": false,
           "quotedTweetId": null
+        },
+        {
+          "id": "2040992620713742385",
+          "text": "@3blue1brown Always a good sign when your users are instantly way better at using your tool than you are \n\nhttps://t.co/fW1SBmpqki",
+          "createdAt": "2026-04-06T03:18:55.000Z",
+          "url": "https://x.com/NousResearch/status/2040992620713742385",
+          "likes": 101,
+          "retweets": 4,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2040982307377381583"
         }
       ]
     },
@@ -28,32 +39,13 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2040612992996516256",
-          "text": "How to keep up with AI (and everything else)\n\n1. Twitter/X is the fastest source. LinkedIn/Reddit are way behind\n2. Smaller accs (&lt;50k followers) have high alpha\n3. X feed is very noisy though\n4. Add 10-20 accounts to \"notify for all posts\"\n5. Aggregated notif is the curated feed https://t.co/5zCFEsnKWG",
-          "createdAt": "2026-04-05T02:10:24.000Z",
-          "url": "https://x.com/deedydas/status/2040612992996516256",
-          "likes": 301,
-          "retweets": 15,
-          "replies": 35,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "❤️ 🍵 ☕️ 🍷 🥃 🍺",
-      "tweets": [
-        {
-          "id": "2040685701411532962",
-          "text": "https://t.co/THIkSGq45U",
-          "createdAt": "2026-04-05T06:59:19.000Z",
-          "url": "https://x.com/JustinLin610/status/2040685701411532962",
-          "likes": 80,
-          "retweets": 1,
-          "replies": 11,
+          "id": "2040806740040831379",
+          "text": "BuiltWith has ONE employee and brings in $14M+ revenue every year.\n\nIt was started ~20yrs ago by Gary Brewers in Sydney to tell you the technology stack behind every website.\n\nNow that's what I call a lean, profitable, bootstrapped business! https://t.co/kcVY4BgqUg",
+          "createdAt": "2026-04-05T15:00:17.000Z",
+          "url": "https://x.com/deedydas/status/2040806740040831379",
+          "likes": 503,
+          "retweets": 32,
+          "replies": 28,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -61,7 +53,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 3,
+    "xBuilders": 2,
     "totalTweets": 3
   }
 }
