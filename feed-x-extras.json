@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T14:11:53.894Z",
+  "generatedAt": "2026-04-07T14:18:09.728Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,26 +9,26 @@
       "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2041005688994857343",
-          "text": "@3blue1brown Second PR is in; skill has been updated significantly since this video was rendered and should now produce far more polished output.\n\nhttps://t.co/UQ0wHYLgJW",
-          "createdAt": "2026-04-06T04:10:50.000Z",
-          "url": "https://x.com/NousResearch/status/2041005688994857343",
-          "likes": 64,
-          "retweets": 3,
-          "replies": 3,
+          "id": "2041240298848764243",
+          "text": "You can now rep your favorite agent with the official Hermes Agent drop!\n\nBoth the tee and sweater are designed by the legendary @johnkarborn, 100% cotton + made in USA,  and live now on our merch store. https://t.co/8IHWDzg80C",
+          "createdAt": "2026-04-06T19:43:06.000Z",
+          "url": "https://x.com/NousResearch/status/2041240298848764243",
+          "likes": 335,
+          "retweets": 23,
+          "replies": 67,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2040992620713742385",
-          "text": "@3blue1brown Always a good sign when your users are instantly way better at using your tool than you are \n\nhttps://t.co/fW1SBmpqki",
-          "createdAt": "2026-04-06T03:18:55.000Z",
-          "url": "https://x.com/NousResearch/status/2040992620713742385",
-          "likes": 101,
-          "retweets": 4,
+          "id": "2041160227106558195",
+          "text": "@3blue1brown https://t.co/jdQpO2sXwW",
+          "createdAt": "2026-04-06T14:24:55.000Z",
+          "url": "https://x.com/NousResearch/status/2041160227106558195",
+          "likes": 10,
+          "retweets": 1,
           "replies": 1,
           "isQuote": true,
-          "quotedTweetId": "2040982307377381583"
+          "quotedTweetId": "2041159076147536215"
         }
       ]
     },
@@ -39,13 +39,54 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2040806740040831379",
-          "text": "BuiltWith has ONE employee and brings in $14M+ revenue every year.\n\nIt was started ~20yrs ago by Gary Brewers in Sydney to tell you the technology stack behind every website.\n\nNow that's what I call a lean, profitable, bootstrapped business! https://t.co/kcVY4BgqUg",
-          "createdAt": "2026-04-05T15:00:17.000Z",
-          "url": "https://x.com/deedydas/status/2040806740040831379",
-          "likes": 503,
-          "retweets": 32,
-          "replies": 28,
+          "id": "2041275898499117353",
+          "text": "1000 customers spending $1M+ a year. \n\nSource: https://t.co/HiDmdPKmkr",
+          "createdAt": "2026-04-06T22:04:33.000Z",
+          "url": "https://x.com/deedydas/status/2041275898499117353",
+          "likes": 18,
+          "retweets": 4,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2041274905304699057",
+          "text": "Anthropic run rate revenue has now crossed $30B, up 3.3x in 4 months from the beginning of the year!! https://t.co/YO62wosDxZ",
+          "createdAt": "2026-04-06T22:00:37.000Z",
+          "url": "https://x.com/deedydas/status/2041274905304699057",
+          "likes": 610,
+          "retweets": 30,
+          "replies": 16,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2041189719250522192",
+          "text": "Paper: https://t.co/nrsbOTU4t4\nDemo: https://t.co/Qz6aC95nQH",
+          "createdAt": "2026-04-06T16:22:07.000Z",
+          "url": "https://x.com/deedydas/status/2041189719250522192",
+          "likes": 38,
+          "retweets": 4,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "❤️ 🍵 ☕️ 🍷 🥃 🍺",
+      "tweets": [
+        {
+          "id": "2041402747434799145",
+          "text": "tokenmaxxing vs. ironmaxxing lol. it should be an era where results matter but it seems not.",
+          "createdAt": "2026-04-07T06:28:37.000Z",
+          "url": "https://x.com/JustinLin610/status/2041402747434799145",
+          "likes": 52,
+          "retweets": 0,
+          "replies": 5,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -53,7 +94,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 3
+    "xBuilders": 3,
+    "totalTweets": 6
   }
 }
