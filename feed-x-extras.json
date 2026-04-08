@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-07T14:18:09.728Z",
+  "generatedAt": "2026-04-08T04:39:31.964Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,26 +9,56 @@
       "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2041240298848764243",
-          "text": "You can now rep your favorite agent with the official Hermes Agent drop!\n\nBoth the tee and sweater are designed by the legendary @johnkarborn, 100% cotton + made in USA,  and live now on our merch store. https://t.co/8IHWDzg80C",
-          "createdAt": "2026-04-06T19:43:06.000Z",
-          "url": "https://x.com/NousResearch/status/2041240298848764243",
-          "likes": 335,
+          "id": "2041643678796570657",
+          "text": "If you're having trouble with your lobster-themed agent since the recent update, try downloading Hermes Agent, then running 'hermes claw migrate'.\n\nWe’ve been told this helps a lot. https://t.co/VWDrFoO7Ye",
+          "createdAt": "2026-04-07T22:25:59.000Z",
+          "url": "https://x.com/NousResearch/status/2041643678796570657",
+          "likes": 586,
           "retweets": 23,
-          "replies": 67,
+          "replies": 52,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2041160227106558195",
-          "text": "@3blue1brown https://t.co/jdQpO2sXwW",
-          "createdAt": "2026-04-06T14:24:55.000Z",
-          "url": "https://x.com/NousResearch/status/2041160227106558195",
-          "likes": 10,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2041159076147536215"
+          "id": "2041632284458041544",
+          "text": "For the uninitiated:\n\nhttps://t.co/NnMMMk4AbF",
+          "createdAt": "2026-04-07T21:40:42.000Z",
+          "url": "https://x.com/NousResearch/status/2041632284458041544",
+          "likes": 19,
+          "retweets": 2,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4Vik4P",
+      "tweets": [
+        {
+          "id": "2041588291318001710",
+          "text": "The Preview model called tools sequentially, overthought simple problems, and got caught in reasoning loops. SWE-1.6 uses parallel tool calls far more often, retrieving context faster and requiring less input from the user. Here's the same question asked against both on the PyTorch codebase:",
+          "createdAt": "2026-04-07T18:45:54.000Z",
+          "url": "https://x.com/cognition/status/2041588291318001710",
+          "likes": 43,
+          "retweets": 2,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2041588234191552782",
+          "text": "We’re releasing SWE-1.6, our best model in both intelligence &amp; model UX. SWE-1.6 matches our Preview model on SWE-Bench Pro while dramatically improving on various behavioral axes.\n\nIt’s available today in Windsurf in two modes: free tier (200 tok/s) and fast tier (950 tok/s). https://t.co/JHwMLsaudO",
+          "createdAt": "2026-04-07T18:45:40.000Z",
+          "url": "https://x.com/cognition/status/2041588234191552782",
+          "likes": 620,
+          "retweets": 54,
+          "replies": 37,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -39,35 +69,24 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2041275898499117353",
-          "text": "1000 customers spending $1M+ a year. \n\nSource: https://t.co/HiDmdPKmkr",
-          "createdAt": "2026-04-06T22:04:33.000Z",
-          "url": "https://x.com/deedydas/status/2041275898499117353",
-          "likes": 18,
-          "retweets": 4,
+          "id": "2041605985555640718",
+          "text": "Source: https://t.co/JsDGui3E8r",
+          "createdAt": "2026-04-07T19:56:12.000Z",
+          "url": "https://x.com/deedydas/status/2041605985555640718",
+          "likes": 37,
+          "retweets": 0,
           "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2041274905304699057",
-          "text": "Anthropic run rate revenue has now crossed $30B, up 3.3x in 4 months from the beginning of the year!! https://t.co/YO62wosDxZ",
-          "createdAt": "2026-04-06T22:00:37.000Z",
-          "url": "https://x.com/deedydas/status/2041274905304699057",
-          "likes": 610,
-          "retweets": 30,
-          "replies": 16,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2041189719250522192",
-          "text": "Paper: https://t.co/nrsbOTU4t4\nDemo: https://t.co/Qz6aC95nQH",
-          "createdAt": "2026-04-06T16:22:07.000Z",
-          "url": "https://x.com/deedydas/status/2041189719250522192",
-          "likes": 38,
-          "retweets": 4,
-          "replies": 0,
+          "id": "2041605983659860115",
+          "text": "Claude Mythos just obliterated every single benchmark in AI. I can't believe what I'm reading. https://t.co/roAwW0Trts",
+          "createdAt": "2026-04-07T19:56:12.000Z",
+          "url": "https://x.com/deedydas/status/2041605983659860115",
+          "likes": 4522,
+          "retweets": 512,
+          "replies": 209,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -80,21 +99,32 @@
       "bio": "❤️ 🍵 ☕️ 🍷 🥃 🍺",
       "tweets": [
         {
-          "id": "2041402747434799145",
-          "text": "tokenmaxxing vs. ironmaxxing lol. it should be an era where results matter but it seems not.",
-          "createdAt": "2026-04-07T06:28:37.000Z",
-          "url": "https://x.com/JustinLin610/status/2041402747434799145",
-          "likes": 52,
+          "id": "2041733351409893778",
+          "text": "happy horse is insanely happy https://t.co/iLu4h1VWkf",
+          "createdAt": "2026-04-08T04:22:19.000Z",
+          "url": "https://x.com/JustinLin610/status/2041733351409893778",
+          "likes": 9,
           "retweets": 0,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2041443303737192802"
+        },
+        {
+          "id": "2041668425542705243",
+          "text": "unbelievable... https://t.co/L3lXRez7BJ",
+          "createdAt": "2026-04-08T00:04:19.000Z",
+          "url": "https://x.com/JustinLin610/status/2041668425542705243",
+          "likes": 101,
+          "retweets": 1,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2041578392852517128"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 6
+    "xBuilders": 4,
+    "totalTweets": 8
   }
 }
