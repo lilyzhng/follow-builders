@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T04:39:31.964Z",
+  "generatedAt": "2026-04-09T04:38:46.847Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,24 +9,24 @@
       "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2041643678796570657",
-          "text": "If you're having trouble with your lobster-themed agent since the recent update, try downloading Hermes Agent, then running 'hermes claw migrate'.\n\nWe’ve been told this helps a lot. https://t.co/VWDrFoO7Ye",
-          "createdAt": "2026-04-07T22:25:59.000Z",
-          "url": "https://x.com/NousResearch/status/2041643678796570657",
-          "likes": 586,
-          "retweets": 23,
-          "replies": 52,
+          "id": "2041950499654500731",
+          "text": "Top Community Contributors: \n\n@SHL0MS (7 PRs) — p5js creative coding skill, manim-video skill + 5 reference  expansions, research-paper-writing, Nous OAuth fix, manim fix\n@sidbing (3 PRs) — Firecrawl cloud browser provider, test re-architecture + CI fixes, Nix flake fixes\nBen Barclay (2 PRs) — Browser Use managed provider switch, Nous portal base URL fix\n@ckerf_24 (2 PRs) — macOS portable base64 encoding, thread-safe PairingStore\nWAXLYY (2 PRs) — send_message secret redaction, gateway media URL sanitization\nMadKangYu (2 PRs) — Telegram log noise reduction, context compaction fix for temperature-restricted models\n\nAdditional Contributors:\n\n@austinkpickett \n@techguysimon \n@tymrtn\n@ZainanZhou \nauspic7\nGratefulDave\nkshitij\nLeo Torres\nlumethegreat\nNeri Cervin\nryanautomated\nVasanthdev2004\n\nThank you to everyone who contributed!",
+          "createdAt": "2026-04-08T18:45:11.000Z",
+          "url": "https://x.com/NousResearch/status/2041950499654500731",
+          "likes": 133,
+          "retweets": 4,
+          "replies": 8,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2041632284458041544",
-          "text": "For the uninitiated:\n\nhttps://t.co/NnMMMk4AbF",
-          "createdAt": "2026-04-07T21:40:42.000Z",
-          "url": "https://x.com/NousResearch/status/2041632284458041544",
-          "likes": 19,
-          "retweets": 2,
-          "replies": 2,
+          "id": "2041950492742521032",
+          "text": "Plus: execute_code on remote backends, Firecrawl cloud browser, Browser Use provider, xAI prompt caching, thinking prefill continuation, cron script injection, Telegram reactions, shared thread sessions, Supermemory memory provider, notify_on_complete for background processes, Nous free-tier model gating, and much more.\n\nFull release notes: https://t.co/8MNQkGBbB0\n\nUpdate with 'hermes update'",
+          "createdAt": "2026-04-08T18:45:09.000Z",
+          "url": "https://x.com/NousResearch/status/2041950492742521032",
+          "likes": 184,
+          "retweets": 5,
+          "replies": 9,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -34,31 +34,20 @@
     },
     {
       "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4Vik4P",
+      "name": "Modal",
+      "handle": "modal",
+      "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
       "tweets": [
         {
-          "id": "2041588291318001710",
-          "text": "The Preview model called tools sequentially, overthought simple problems, and got caught in reasoning loops. SWE-1.6 uses parallel tool calls far more often, retrieving context faster and requiring less input from the user. Here's the same question asked against both on the PyTorch codebase:",
-          "createdAt": "2026-04-07T18:45:54.000Z",
-          "url": "https://x.com/cognition/status/2041588291318001710",
-          "likes": 43,
-          "retweets": 2,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2041588234191552782",
-          "text": "We’re releasing SWE-1.6, our best model in both intelligence &amp; model UX. SWE-1.6 matches our Preview model on SWE-Bench Pro while dramatically improving on various behavioral axes.\n\nIt’s available today in Windsurf in two modes: free tier (200 tok/s) and fast tier (950 tok/s). https://t.co/JHwMLsaudO",
-          "createdAt": "2026-04-07T18:45:40.000Z",
-          "url": "https://x.com/cognition/status/2041588234191552782",
-          "likes": 620,
-          "retweets": 54,
-          "replies": 37,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2041820290716729379",
+          "text": "We partnered with @Zai_org to bring GLM-5.1 to Modal. Free to try as an endpoint for the next month.\n\nGLM-5.1 further improves upon GLM-5's coding abilities and long-horizon effectiveness. https://t.co/dGswF60tYh",
+          "createdAt": "2026-04-08T10:07:47.000Z",
+          "url": "https://x.com/modal/status/2041820290716729379",
+          "likes": 485,
+          "retweets": 21,
+          "replies": 20,
+          "isQuote": true,
+          "quotedTweetId": "2041550153354519022"
         }
       ]
     },
@@ -69,24 +58,13 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2041605985555640718",
-          "text": "Source: https://t.co/JsDGui3E8r",
-          "createdAt": "2026-04-07T19:56:12.000Z",
-          "url": "https://x.com/deedydas/status/2041605985555640718",
-          "likes": 37,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2041605983659860115",
-          "text": "Claude Mythos just obliterated every single benchmark in AI. I can't believe what I'm reading. https://t.co/roAwW0Trts",
-          "createdAt": "2026-04-07T19:56:12.000Z",
-          "url": "https://x.com/deedydas/status/2041605983659860115",
-          "likes": 4522,
-          "retweets": 512,
-          "replies": 209,
+          "id": "2041977413702439273",
+          "text": "Overseen in South Park, San Francisco. https://t.co/P2DVst78C9",
+          "createdAt": "2026-04-08T20:32:08.000Z",
+          "url": "https://x.com/deedydas/status/2041977413702439273",
+          "likes": 569,
+          "retweets": 21,
+          "replies": 47,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -94,37 +72,48 @@
     },
     {
       "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "❤️ 🍵 ☕️ 🍷 🥃 🍺",
+      "name": "Lance Martin",
+      "handle": "RLanceMartin",
+      "bio": "@AnthropicAI. Previously langchain, vision for self-driving trucks / cars 🚘 🤖, phd @stanford 🧪",
       "tweets": [
         {
-          "id": "2041733351409893778",
-          "text": "happy horse is insanely happy https://t.co/iLu4h1VWkf",
-          "createdAt": "2026-04-08T04:22:19.000Z",
-          "url": "https://x.com/JustinLin610/status/2041733351409893778",
-          "likes": 9,
+          "id": "2041932364667134346",
+          "text": "See the post here:\nhttps://t.co/nEHnNyQS9p",
+          "createdAt": "2026-04-08T17:33:07.000Z",
+          "url": "https://x.com/RLanceMartin/status/2041932364667134346",
+          "likes": 2,
           "retweets": 0,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2041443303737192802"
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2041668425542705243",
-          "text": "unbelievable... https://t.co/L3lXRez7BJ",
-          "createdAt": "2026-04-08T00:04:19.000Z",
-          "url": "https://x.com/JustinLin610/status/2041668425542705243",
-          "likes": 101,
-          "retweets": 1,
-          "replies": 4,
+          "id": "2041932362104369343",
+          "text": "a new @AnthropicAI engineering blog post on Claude Managed Agents, our hosted agent in the Claude API. \nwe share lessons from building a system that scales with Claude's capability. was a pleasure writing this with @mc_anthropic, @gcemaj, and @jkeatn. \n\nhttps://t.co/y8BLIoUwJO",
+          "createdAt": "2026-04-08T17:33:07.000Z",
+          "url": "https://x.com/RLanceMartin/status/2041932362104369343",
+          "likes": 66,
+          "retweets": 14,
+          "replies": 3,
           "isQuote": true,
-          "quotedTweetId": "2041578392852517128"
+          "quotedTweetId": "2041929199976640948"
+        },
+        {
+          "id": "2041930948552638617",
+          "text": "a great way to get started is to use our skill, built into Claude Code. get the latest Claude Code release:\n \n$ claude update\n\nthen start Claude Code and run our subcommand:\n$ claude\n/claude-api managed-agents-onboarding https://t.co/1eXmIb6RpN",
+          "createdAt": "2026-04-08T17:27:30.000Z",
+          "url": "https://x.com/RLanceMartin/status/2041930948552638617",
+          "likes": 36,
+          "retweets": 4,
+          "replies": 15,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 4,
-    "totalTweets": 8
+    "totalTweets": 7
   }
 }
