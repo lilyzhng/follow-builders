@@ -213,7 +213,9 @@ async function fetchXContent(xAccounts, bearerToken, state, errors) {
       const res = await fetch(
         `${X_API_BASE}/users/${userData.id}/tweets?` +
         `max_results=5` +       // fetch 5, then filter to 3 new ones
-        `&tweet.fields=created_at,public_metrics,referenced_tweets,note_tweet` +
+        `&tweet.fields=created_at,public_metrics,referenced_tweets,note_tweet,attachments` +
+        `&expansions=attachments.media_keys` +
+        `&media.fields=url,type,preview_image_url` +
         `&exclude=retweets,replies` +
         `&start_time=${cutoff.toISOString()}`,
         { headers: { 'Authorization': `Bearer ${bearerToken}` } }
@@ -231,11 +233,24 @@ async function fetchXContent(xAccounts, bearerToken, state, errors) {
       const data = await res.json();
       const allTweets = data.data || [];
 
+      // Build media lookup from includes (keyed by media_key)
+      const mediaMap = {};
+      for (const m of data.includes?.media || []) {
+        mediaMap[m.media_key] = { type: m.type, url: m.url || m.preview_image_url || null };
+      }
+
       // Filter out already-seen tweets, cap at 3
       const newTweets = [];
       for (const t of allTweets) {
         if (state.seenTweets[t.id]) continue; // dedup
         if (newTweets.length >= MAX_TWEETS_PER_USER) break;
+
+        // Resolve media attachments to URLs
+        const mediaKeys = t.attachments?.media_keys || [];
+        const media = mediaKeys
+          .map(k => mediaMap[k])
+          .filter(Boolean)
+          .filter(m => m.url);
 
         newTweets.push({
           id: t.id,
@@ -247,7 +262,8 @@ async function fetchXContent(xAccounts, bearerToken, state, errors) {
           retweets: t.public_metrics?.retweet_count || 0,
           replies: t.public_metrics?.reply_count || 0,
           isQuote: t.referenced_tweets?.some(r => r.type === 'quoted') || false,
-          quotedTweetId: t.referenced_tweets?.find(r => r.type === 'quoted')?.id || null
+          quotedTweetId: t.referenced_tweets?.find(r => r.type === 'quoted')?.id || null,
+          media: media.length > 0 ? media : undefined
         });
 
         // Mark as seen
