@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T04:38:46.847Z",
+  "generatedAt": "2026-04-10T04:41:17.502Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,45 +9,21 @@
       "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2041950499654500731",
-          "text": "Top Community Contributors: \n\n@SHL0MS (7 PRs) — p5js creative coding skill, manim-video skill + 5 reference  expansions, research-paper-writing, Nous OAuth fix, manim fix\n@sidbing (3 PRs) — Firecrawl cloud browser provider, test re-architecture + CI fixes, Nix flake fixes\nBen Barclay (2 PRs) — Browser Use managed provider switch, Nous portal base URL fix\n@ckerf_24 (2 PRs) — macOS portable base64 encoding, thread-safe PairingStore\nWAXLYY (2 PRs) — send_message secret redaction, gateway media URL sanitization\nMadKangYu (2 PRs) — Telegram log noise reduction, context compaction fix for temperature-restricted models\n\nAdditional Contributors:\n\n@austinkpickett \n@techguysimon \n@tymrtn\n@ZainanZhou \nauspic7\nGratefulDave\nkshitij\nLeo Torres\nlumethegreat\nNeri Cervin\nryanautomated\nVasanthdev2004\n\nThank you to everyone who contributed!",
-          "createdAt": "2026-04-08T18:45:11.000Z",
-          "url": "https://x.com/NousResearch/status/2041950499654500731",
-          "likes": 133,
-          "retweets": 4,
-          "replies": 8,
+          "id": "2042331044179779954",
+          "text": "Thank you for helping to make Hermes Agent amazing. https://t.co/OwuioGds8q",
+          "createdAt": "2026-04-09T19:57:20.000Z",
+          "url": "https://x.com/NousResearch/status/2042331044179779954",
+          "likes": 836,
+          "retweets": 47,
+          "replies": 71,
           "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2041950492742521032",
-          "text": "Plus: execute_code on remote backends, Firecrawl cloud browser, Browser Use provider, xAI prompt caching, thinking prefill continuation, cron script injection, Telegram reactions, shared thread sessions, Supermemory memory provider, notify_on_complete for background processes, Nous free-tier model gating, and much more.\n\nFull release notes: https://t.co/8MNQkGBbB0\n\nUpdate with 'hermes update'",
-          "createdAt": "2026-04-08T18:45:09.000Z",
-          "url": "https://x.com/NousResearch/status/2041950492742521032",
-          "likes": 184,
-          "retweets": 5,
-          "replies": 9,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Modal",
-      "handle": "modal",
-      "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
-      "tweets": [
-        {
-          "id": "2041820290716729379",
-          "text": "We partnered with @Zai_org to bring GLM-5.1 to Modal. Free to try as an endpoint for the next month.\n\nGLM-5.1 further improves upon GLM-5's coding abilities and long-horizon effectiveness. https://t.co/dGswF60tYh",
-          "createdAt": "2026-04-08T10:07:47.000Z",
-          "url": "https://x.com/modal/status/2041820290716729379",
-          "likes": 485,
-          "retweets": 21,
-          "replies": 20,
-          "isQuote": true,
-          "quotedTweetId": "2041550153354519022"
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HFfRLgLXEAAC6Ou.jpg"
+            }
+          ]
         }
       ]
     },
@@ -58,15 +34,21 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2041977413702439273",
-          "text": "Overseen in South Park, San Francisco. https://t.co/P2DVst78C9",
-          "createdAt": "2026-04-08T20:32:08.000Z",
-          "url": "https://x.com/deedydas/status/2041977413702439273",
-          "likes": 569,
-          "retweets": 21,
-          "replies": 47,
+          "id": "2042123153145786763",
+          "text": "Last week, I heard the most heartbreaking story at a conference in New York:\n\nRajeev is blind. He moved from India to attend business school at Columbia University. He’d graduated and was working in Seattle, trying to repay his student loans.\n\nHis only sister, also blind, was getting married and he hoped to be home to attend. Their father had phased away. It meant everything to him to be with his mother and sister for this celebration.\n\nBut. There were no H-1B visa appointments. He tried everything: writing to the consulate, politicians, anyone who would help him. It didn’t work.\n\nHe missed the wedding.\n\n____________\nThis is the story of Rajeev Krishna Annapragada. It brought me to tears. I would’ve gladly volunteered my own slot to Rajeev if I could. I share this story because, regardless of your views on immigration, there are real people with real lives that suffer. Rajeev has shown resilience many of us can only dream of. But the system let him down.\n\nWhy should he, after all the things he’s been through, have to choose between getting his dream education and being there for his family? We can do better.",
+          "createdAt": "2026-04-09T06:11:15.000Z",
+          "url": "https://x.com/deedydas/status/2042123153145786763",
+          "likes": 460,
+          "retweets": 35,
+          "replies": 27,
           "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HFcUL6Va8AINBXd.jpg"
+            }
+          ]
         }
       ]
     },
@@ -77,43 +59,44 @@
       "bio": "@AnthropicAI. Previously langchain, vision for self-driving trucks / cars 🚘 🤖, phd @stanford 🧪",
       "tweets": [
         {
-          "id": "2041932364667134346",
-          "text": "See the post here:\nhttps://t.co/nEHnNyQS9p",
-          "createdAt": "2026-04-08T17:33:07.000Z",
-          "url": "https://x.com/RLanceMartin/status/2041932364667134346",
-          "likes": 2,
-          "retweets": 0,
+          "id": "2042328277675884759",
+          "text": "many tasks use a mix of intelligence. let lower cost model call higher cost one as needed w/ advisor tool: Sonnet calling Opus as advisor is *cheaper* than Sonnet alone (Opus is more tok efficient on the harder parts) and perf also improves. see docs: \nhttps://t.co/kdVvGmf9FQ https://t.co/4cvhrEhyjL",
+          "createdAt": "2026-04-09T19:46:20.000Z",
+          "url": "https://x.com/RLanceMartin/status/2042328277675884759",
+          "likes": 5,
+          "retweets": 1,
           "replies": 0,
           "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HFfOvnjbQAM9LSF.jpg"
+            }
+          ]
         },
         {
-          "id": "2041932362104369343",
-          "text": "a new @AnthropicAI engineering blog post on Claude Managed Agents, our hosted agent in the Claude API. \nwe share lessons from building a system that scales with Claude's capability. was a pleasure writing this with @mc_anthropic, @gcemaj, and @jkeatn. \n\nhttps://t.co/y8BLIoUwJO",
-          "createdAt": "2026-04-08T17:33:07.000Z",
-          "url": "https://x.com/RLanceMartin/status/2041932362104369343",
-          "likes": 66,
-          "retweets": 14,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2041929199976640948"
-        },
-        {
-          "id": "2041930948552638617",
-          "text": "a great way to get started is to use our skill, built into Claude Code. get the latest Claude Code release:\n \n$ claude update\n\nthen start Claude Code and run our subcommand:\n$ claude\n/claude-api managed-agents-onboarding https://t.co/1eXmIb6RpN",
-          "createdAt": "2026-04-08T17:27:30.000Z",
-          "url": "https://x.com/RLanceMartin/status/2041930948552638617",
-          "likes": 36,
-          "retweets": 4,
-          "replies": 15,
+          "id": "2042328271166325100",
+          "text": "Claude’s new “advisor” strategy is familiar: a junior law partner does 95% of the work, senior partner reviews key decision points. cheaper / better than junior partner grinding through it solo (avoid wrong paths). but only use higher cost senior partner selectively. https://t.co/2YAPapZnxm",
+          "createdAt": "2026-04-09T19:46:19.000Z",
+          "url": "https://x.com/RLanceMartin/status/2042328271166325100",
+          "likes": 52,
+          "retweets": 3,
+          "replies": 4,
           "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HFfOvSXbQAEpJOV.jpg"
+            }
+          ]
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 7
+    "xBuilders": 3,
+    "totalTweets": 4
   }
 }
