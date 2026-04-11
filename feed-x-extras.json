@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-04-10T04:41:17.502Z",
+  "generatedAt": "2026-04-11T03:11:18.493Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "Qwen",
+      "handle": "Alibaba_Qwen",
+      "bio": "Open foundation models for AGI.",
+      "tweets": [
+        {
+          "id": "2042551216769765449",
+          "text": "🚀 Qwen Code v0.14.0 – v0.14.2 are now available\n\nChannels：Control Qwen Code remotely from Telegram, DingTalk, or WeChat — send a message from your phone, get results on your server\nCron Jobs ：Schedule recurring AI tasks — auto-run tests every 30 min, pull & build every morning, monitor logs on a timer\nQwen3.6-Plus ：New flagship model with 1M token context, 1,000 free daily requests\nSub-agent Model Selection：Assign different models to sub-agents — use a powerful model for the main task, a fast one for subtasks, save tokens without sacrificing quality\n/plan：Enter planning mode before execution — AI maps out all files and steps first, you confirm, then it executes\nFollow-up Suggestions：AI suggests 2-3 next steps after completing a task — \"Add unit tests?\" \"Check similar files?\" — click to continue\nAdaptive Output Tokens ：Default 8K output, auto-escalates to 64K when truncated — no more manually tuning max_tokens\nCtrl+O Verbosity Toggle ：Switch between verbose and compact output mid-conversation — debug mode when you need it, clean mode when you don't\n\n📋 Full changelog: https://t.co/zPMyCVIskN",
+          "createdAt": "2026-04-10T10:32:13.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2042551216769765449",
+          "likes": 2284,
+          "retweets": 272,
+          "replies": 68,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Nous Research",
@@ -9,19 +28,19 @@
       "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2042331044179779954",
-          "text": "Thank you for helping to make Hermes Agent amazing. https://t.co/OwuioGds8q",
-          "createdAt": "2026-04-09T19:57:20.000Z",
-          "url": "https://x.com/NousResearch/status/2042331044179779954",
-          "likes": 836,
-          "retweets": 47,
-          "replies": 71,
+          "id": "2042680884118131073",
+          "text": "Join the Nous Research team for a Hermes Agent Jam with presentations and Q&amp;A\n\nTuesday April 14th, 4PM EST in the Nous Discord https://t.co/vou9UmNlwO",
+          "createdAt": "2026-04-10T19:07:28.000Z",
+          "url": "https://x.com/NousResearch/status/2042680884118131073",
+          "likes": 231,
+          "retweets": 15,
+          "replies": 23,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HFfRLgLXEAAC6Ou.jpg"
+              "url": "https://pbs.twimg.com/media/HFkPcAmXoAAyJ-1.jpg"
             }
           ]
         }
@@ -34,19 +53,19 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2042123153145786763",
-          "text": "Last week, I heard the most heartbreaking story at a conference in New York:\n\nRajeev is blind. He moved from India to attend business school at Columbia University. He’d graduated and was working in Seattle, trying to repay his student loans.\n\nHis only sister, also blind, was getting married and he hoped to be home to attend. Their father had phased away. It meant everything to him to be with his mother and sister for this celebration.\n\nBut. There were no H-1B visa appointments. He tried everything: writing to the consulate, politicians, anyone who would help him. It didn’t work.\n\nHe missed the wedding.\n\n____________\nThis is the story of Rajeev Krishna Annapragada. It brought me to tears. I would’ve gladly volunteered my own slot to Rajeev if I could. I share this story because, regardless of your views on immigration, there are real people with real lives that suffer. Rajeev has shown resilience many of us can only dream of. But the system let him down.\n\nWhy should he, after all the things he’s been through, have to choose between getting his dream education and being there for his family? We can do better.",
-          "createdAt": "2026-04-09T06:11:15.000Z",
-          "url": "https://x.com/deedydas/status/2042123153145786763",
-          "likes": 460,
-          "retweets": 35,
-          "replies": 27,
+          "id": "2042670566566695208",
+          "text": "Oh, how the tables have turned. OpenAI / ChatGPT is now running sponsored search ads on Claude keywords. https://t.co/ngANNgGCtL",
+          "createdAt": "2026-04-10T18:26:28.000Z",
+          "url": "https://x.com/deedydas/status/2042670566566695208",
+          "likes": 434,
+          "retweets": 8,
+          "replies": 38,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HFcUL6Va8AINBXd.jpg"
+              "url": "https://pbs.twimg.com/media/HFkF6YGaUAAv1n6.jpg"
             }
           ]
         }
@@ -59,44 +78,49 @@
       "bio": "@AnthropicAI. Previously langchain, vision for self-driving trucks / cars 🚘 🤖, phd @stanford 🧪",
       "tweets": [
         {
-          "id": "2042328277675884759",
-          "text": "many tasks use a mix of intelligence. let lower cost model call higher cost one as needed w/ advisor tool: Sonnet calling Opus as advisor is *cheaper* than Sonnet alone (Opus is more tok efficient on the harder parts) and perf also improves. see docs: \nhttps://t.co/kdVvGmf9FQ https://t.co/4cvhrEhyjL",
-          "createdAt": "2026-04-09T19:46:20.000Z",
-          "url": "https://x.com/RLanceMartin/status/2042328277675884759",
-          "likes": 5,
-          "retweets": 1,
+          "id": "2042662099680399522",
+          "text": "for more, see the docs:\nhttps://t.co/nvuGbVRbSC\n\nand check out the post that i wrote w/ @mc_anthropic @gcemaj and @jkeatn:\nhttps://t.co/nEHnNyQS9p",
+          "createdAt": "2026-04-10T17:52:50.000Z",
+          "url": "https://x.com/RLanceMartin/status/2042662099680399522",
+          "likes": 10,
+          "retweets": 0,
           "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2042662096677240943",
+          "text": "9/ also check out our claude-api skill in Claude Code. just run \"/claude-api managed-agents-onboarding\" in the latest release and let Claude guide you. https://t.co/WA1d2JOWvd",
+          "createdAt": "2026-04-10T17:52:49.000Z",
+          "url": "https://x.com/RLanceMartin/status/2042662096677240943",
+          "likes": 20,
+          "retweets": 0,
+          "replies": 2,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HFfOvnjbQAM9LSF.jpg"
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2042657291238092800/img/Bp3wmyvT-dHzSANG.jpg"
             }
           ]
         },
         {
-          "id": "2042328271166325100",
-          "text": "Claude’s new “advisor” strategy is familiar: a junior law partner does 95% of the work, senior partner reviews key decision points. cheaper / better than junior partner grinding through it solo (avoid wrong paths). but only use higher cost senior partner selectively. https://t.co/2YAPapZnxm",
-          "createdAt": "2026-04-09T19:46:19.000Z",
-          "url": "https://x.com/RLanceMartin/status/2042328271166325100",
-          "likes": 52,
-          "retweets": 3,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HFfOvSXbQAEpJOV.jpg"
-            }
-          ]
+          "id": "2042662094601130381",
+          "text": "8/ for usage examples of Managed Agents, check out this video from @LewisMenelaws and these cookbooks from @charmaine_klee. \nhttps://t.co/F4B4hzj3qU\nhttps://t.co/MyIdeYD1iD",
+          "createdAt": "2026-04-10T17:52:48.000Z",
+          "url": "https://x.com/RLanceMartin/status/2042662094601130381",
+          "likes": 18,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2042401788884558090"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 4
+    "xBuilders": 4,
+    "totalTweets": 6
   }
 }
