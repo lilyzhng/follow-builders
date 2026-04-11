@@ -2,8 +2,8 @@ name: Generate Feeds
 
 on:
   schedule:
-    # Run daily at 3:45am UTC (8:45 PM PT / PDT) — feeds ready before 9 PM digest
-    - cron: '45 3 * * *'
+    # Run daily at 3:10am UTC (8:10 PM PT / PDT) — feeds ready before 8:30 PM digest
+    - cron: '10 3 * * *'
   workflow_dispatch:
 
 jobs:
