@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-04-12T04:14:11.701Z",
+  "generatedAt": "2026-04-13T04:16:46.291Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ Discord: https://t.co/uYnFNkYh7y",
+      "tweets": [
+        {
+          "id": "2043195951670780337",
+          "text": "Day-0 vLLM support for MiniMax M2.7 is now live. 🙌\n\nHuge thanks to the @vllm_project team for enabling the open-source community to run M2.7 from day one.\n\n👉 Get started: https://t.co/DKvDd1mwRC https://t.co/0VzWvxJYmM",
+          "createdAt": "2026-04-12T05:14:10.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2043195951670780337",
+          "likes": 121,
+          "retweets": 7,
+          "replies": 12,
+          "isQuote": true,
+          "quotedTweetId": "2043133899593920877"
+        },
+        {
+          "id": "2043186753100796326",
+          "text": "MiniMax M2.7 is now live on @ollama's cloud. \n\nOpen-source, licensed for commercial use, and running with a single command.\n\nHuge thanks to the @ollama team for the Day-0 support. 🙌 https://t.co/9HkF6ZIbh6",
+          "createdAt": "2026-04-12T04:37:37.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2043186753100796326",
+          "likes": 268,
+          "retweets": 18,
+          "replies": 19,
+          "isQuote": true,
+          "quotedTweetId": "2043139204612592057"
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Nous Research",
@@ -9,30 +39,30 @@
       "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2042982710793158935",
-          "text": "https://t.co/WXHSQAHXOU",
-          "createdAt": "2026-04-11T15:06:49.000Z",
-          "url": "https://x.com/NousResearch/status/2042982710793158935",
-          "likes": 1116,
-          "retweets": 62,
-          "replies": 36,
+          "id": "2043378689702871191",
+          "text": "How it feels to discover Hermes https://t.co/fh28yV05p7",
+          "createdAt": "2026-04-12T17:20:18.000Z",
+          "url": "https://x.com/NousResearch/status/2043378689702871191",
+          "likes": 771,
+          "retweets": 57,
+          "replies": 58,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HFmIyWxakAAEDKK.jpg"
+              "url": "https://pbs.twimg.com/media/HFuJNtRW0AAr6CK.jpg"
             }
           ]
         },
         {
-          "id": "2042841854249411011",
-          "text": "@Bravohenry_ @Weixin_WeChat 本适配器使用的是腾讯官方的 iLink Bot API，而非逆向工程协议或非官方客户端。不过，如果您担心账号被封禁，绝对值得保持谨慎，并使用小号进行测试！",
-          "createdAt": "2026-04-11T05:47:06.000Z",
-          "url": "https://x.com/NousResearch/status/2042841854249411011",
-          "likes": 68,
-          "retweets": 1,
-          "replies": 3,
+          "id": "2043342414643855806",
+          "text": "Weekends are for hacking!\n\nWhat are you building with Hermes?",
+          "createdAt": "2026-04-12T14:56:09.000Z",
+          "url": "https://x.com/NousResearch/status/2043342414643855806",
+          "likes": 569,
+          "retweets": 18,
+          "replies": 205,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -45,46 +75,49 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2043127931405529474",
-          "text": "The coolest thing Meta AI's Muse Spark can do by far is counting objects!\n\nAs you can tell, it's far from perfect. They call it \"visual grounding\" and it can count objects and do bounding boxes. I've been playing with the new model and here's what I think so far:\n\nGood stuff:\n– Incredible at vision. It's ability to read text in images is the best I've seen.\n– Really high quality at web design. It's the only model I've seen that uses Unsplash, OpenLibrary and other images by default.\n– It's free! You don't pay to use Muse Spark Thinking.\n\nBad stuff:\n– Meta's classic playbook of growth tactics are dodgy. They're sending Instagram notifs to people's friends without their consent. Their app ranking jump is not organic.\n– Reasoning itself is pretty solid but not best in class. It can do pretty advanced math and science problems.\n\nThe long term threat here is Meta has distribution and has the ability to give their model away for free, which makes them a formidable threat to the big AI labs, particularly in consumer.",
-          "createdAt": "2026-04-12T00:43:52.000Z",
-          "url": "https://x.com/deedydas/status/2043127931405529474",
-          "likes": 101,
-          "retweets": 8,
-          "replies": 18,
+          "id": "2043461147299586491",
+          "text": "This was as one of the first few employees of DeepMind, 4 years before Google bought them and 5 years before OpenAI was founded!",
+          "createdAt": "2026-04-12T22:47:57.000Z",
+          "url": "https://x.com/deedydas/status/2043461147299586491",
+          "likes": 30,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2043456801837142369",
+          "text": "Source: The Infinity Machine by Sebastian Mallaby",
+          "createdAt": "2026-04-12T22:30:41.000Z",
+          "url": "https://x.com/deedydas/status/2043456801837142369",
+          "likes": 35,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2043456799341453602",
+          "text": "Demis Hassabis tried to recruit Ilya to DeepMind in 2010 and despite being a PhD student, pre-AlexNet, he thought the offer was too low! https://t.co/dXMIZKU9cy",
+          "createdAt": "2026-04-12T22:30:41.000Z",
+          "url": "https://x.com/deedydas/status/2043456799341453602",
+          "likes": 831,
+          "retweets": 25,
+          "replies": 12,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HFqmBkObsAAt5XK.jpg"
+              "url": "https://pbs.twimg.com/media/HFvRIMxa8AAySxS.jpg"
             }
           ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "❤️ 🍵 ☕️ 🍷 🥃 🍺",
-      "tweets": [
-        {
-          "id": "2043126077724443069",
-          "text": "we need agent evals that are really consistent with real world usages. otherwise people are optimizing foundation models for the wrong direction. the problem of targeting is even bigger than benchmaxxing.",
-          "createdAt": "2026-04-12T00:36:31.000Z",
-          "url": "https://x.com/JustinLin610/status/2043126077724443069",
-          "likes": 101,
-          "retweets": 9,
-          "replies": 9,
-          "isQuote": false,
-          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 3,
-    "totalTweets": 4
+    "totalTweets": 7
   }
 }
