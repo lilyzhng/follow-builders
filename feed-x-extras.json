@@ -1,37 +1,7 @@
 {
-  "generatedAt": "2026-04-13T04:16:46.291Z",
+  "generatedAt": "2026-04-14T04:13:46.911Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "MiniMax",
-      "handle": "MiniMax_AI",
-      "bio": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ Discord: https://t.co/uYnFNkYh7y",
-      "tweets": [
-        {
-          "id": "2043195951670780337",
-          "text": "Day-0 vLLM support for MiniMax M2.7 is now live. 🙌\n\nHuge thanks to the @vllm_project team for enabling the open-source community to run M2.7 from day one.\n\n👉 Get started: https://t.co/DKvDd1mwRC https://t.co/0VzWvxJYmM",
-          "createdAt": "2026-04-12T05:14:10.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2043195951670780337",
-          "likes": 121,
-          "retweets": 7,
-          "replies": 12,
-          "isQuote": true,
-          "quotedTweetId": "2043133899593920877"
-        },
-        {
-          "id": "2043186753100796326",
-          "text": "MiniMax M2.7 is now live on @ollama's cloud. \n\nOpen-source, licensed for commercial use, and running with a single command.\n\nHuge thanks to the @ollama team for the Day-0 support. 🙌 https://t.co/9HkF6ZIbh6",
-          "createdAt": "2026-04-12T04:37:37.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2043186753100796326",
-          "likes": 268,
-          "retweets": 18,
-          "replies": 19,
-          "isQuote": true,
-          "quotedTweetId": "2043139204612592057"
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Nous Research",
@@ -39,32 +9,38 @@
       "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2043378689702871191",
-          "text": "How it feels to discover Hermes https://t.co/fh28yV05p7",
-          "createdAt": "2026-04-12T17:20:18.000Z",
-          "url": "https://x.com/NousResearch/status/2043378689702871191",
-          "likes": 771,
-          "retweets": 57,
-          "replies": 58,
+          "id": "2043791876835156362",
+          "text": "The Hermes Agent dashboard is here!\n\nRun 'hermes dashboard' https://t.co/qu1Gwnz6BG https://t.co/fQlyyHDwxe",
+          "createdAt": "2026-04-13T20:42:09.000Z",
+          "url": "https://x.com/NousResearch/status/2043791876835156362",
+          "likes": 763,
+          "retweets": 43,
+          "replies": 47,
+          "isQuote": true,
+          "quotedTweetId": "2043771509123232230",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HF0Bc2NasAMQo5z.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2043770366959518121",
+          "text": "Full Release Notes: https://t.co/dw5BoSbwvj\n\nUpdate with 'hermes update' https://t.co/J3tiSiQ0Lr",
+          "createdAt": "2026-04-13T19:16:41.000Z",
+          "url": "https://x.com/NousResearch/status/2043770366959518121",
+          "likes": 395,
+          "retweets": 24,
+          "replies": 30,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HFuJNtRW0AAr6CK.jpg"
+              "url": "https://pbs.twimg.com/media/HFzsWyPWYAAXyzO.png"
             }
           ]
-        },
-        {
-          "id": "2043342414643855806",
-          "text": "Weekends are for hacking!\n\nWhat are you building with Hermes?",
-          "createdAt": "2026-04-12T14:56:09.000Z",
-          "url": "https://x.com/NousResearch/status/2043342414643855806",
-          "likes": 569,
-          "retweets": 18,
-          "replies": 205,
-          "isQuote": false,
-          "quotedTweetId": null
         }
       ]
     },
@@ -75,49 +51,68 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2043461147299586491",
-          "text": "This was as one of the first few employees of DeepMind, 4 years before Google bought them and 5 years before OpenAI was founded!",
-          "createdAt": "2026-04-12T22:47:57.000Z",
-          "url": "https://x.com/deedydas/status/2043461147299586491",
-          "likes": 30,
-          "retweets": 0,
+          "id": "2043735520484962625",
+          "text": "He's pretty cool! \nhttps://t.co/XCWvoWOPLF",
+          "createdAt": "2026-04-13T16:58:13.000Z",
+          "url": "https://x.com/deedydas/status/2043735520484962625",
+          "likes": 42,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "1992624217645527238"
+        },
+        {
+          "id": "2043733917149405574",
+          "text": "Source: https://t.co/xJeHVH3an6",
+          "createdAt": "2026-04-13T16:51:51.000Z",
+          "url": "https://x.com/deedydas/status/2043733917149405574",
+          "likes": 27,
+          "retweets": 2,
           "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2043456801837142369",
-          "text": "Source: The Infinity Machine by Sebastian Mallaby",
-          "createdAt": "2026-04-12T22:30:41.000Z",
-          "url": "https://x.com/deedydas/status/2043456801837142369",
-          "likes": 35,
-          "retweets": 1,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2043456799341453602",
-          "text": "Demis Hassabis tried to recruit Ilya to DeepMind in 2010 and despite being a PhD student, pre-AlexNet, he thought the offer was too low! https://t.co/dXMIZKU9cy",
-          "createdAt": "2026-04-12T22:30:41.000Z",
-          "url": "https://x.com/deedydas/status/2043456799341453602",
-          "likes": 831,
-          "retweets": 25,
-          "replies": 12,
+          "id": "2043733915375153364",
+          "text": "Jeff Yan's profile is a vindication of people who grew up with modest means in a difficult family, was quite introverted and just fell deeply in love with something (math)\n\nHis company Hyperliquid is worth $10B and generated $900M in profit last year. https://t.co/ViAAT3O99S",
+          "createdAt": "2026-04-13T16:51:50.000Z",
+          "url": "https://x.com/deedydas/status/2043733915375153364",
+          "likes": 389,
+          "retweets": 21,
+          "replies": 10,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HFvRIMxa8AAySxS.jpg"
+              "url": "https://pbs.twimg.com/media/HFzL7cbasAMKE7L.jpg"
             }
           ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "❤️ 🍵 ☕️ 🍷 🥃 🍺",
+      "tweets": [
+        {
+          "id": "2043749803780432338",
+          "text": "i do like this passage, and here are some thoughts:\n\n1. critical thinking is essential in the era of agents. i still remember that many years ago when i studied the lesson of critical thinking, i learned that keeping debating with yourself by listing out reasons can really deepen your thinking. today, critical thinking becomes humans debating with agents, so that they can think more deeply together and analyze problems in a more comprehensive way.\n\n2. designing a healthy and well-structured organization and system is essential for creation and building. with systematic support and efficient tooling, humans can work exponentially more effectively together with agents. that gives people more time to take care of their physical and mental health, while also exploring new opportunities.\n\n3. new era often favors newbies, because they have less past experience and therefore less fear of current difficulties. what oldbies should really think about is which parts of their experience are actually worth leveraging. from my perspective, we should think more carefully about which experiences are truly aligned with first principles.\n\nbut anyway, ai first is super, super exciting!",
+          "createdAt": "2026-04-13T17:54:58.000Z",
+          "url": "https://x.com/JustinLin610/status/2043749803780432338",
+          "likes": 133,
+          "retweets": 8,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2043545596699750791"
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 3,
-    "totalTweets": 7
+    "totalTweets": 6
   }
 }
