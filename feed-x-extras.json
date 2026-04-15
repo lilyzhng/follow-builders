@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-14T04:13:46.911Z",
+  "generatedAt": "2026-04-15T04:13:05.420Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,36 +9,66 @@
       "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2043791876835156362",
-          "text": "The Hermes Agent dashboard is here!\n\nRun 'hermes dashboard' https://t.co/qu1Gwnz6BG https://t.co/fQlyyHDwxe",
-          "createdAt": "2026-04-13T20:42:09.000Z",
-          "url": "https://x.com/NousResearch/status/2043791876835156362",
-          "likes": 763,
-          "retweets": 43,
-          "replies": 47,
+          "id": "2043969439188635941",
+          "text": "https://t.co/2IBFyHzRix",
+          "createdAt": "2026-04-14T08:27:44.000Z",
+          "url": "https://x.com/NousResearch/status/2043969439188635941",
+          "likes": 25,
+          "retweets": 0,
+          "replies": 3,
           "isQuote": true,
-          "quotedTweetId": "2043771509123232230",
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HF0Bc2NasAMQo5z.jpg"
-            }
-          ]
+          "quotedTweetId": "2043969403247616478"
         },
         {
-          "id": "2043770366959518121",
-          "text": "Full Release Notes: https://t.co/dw5BoSbwvj\n\nUpdate with 'hermes update' https://t.co/J3tiSiQ0Lr",
-          "createdAt": "2026-04-13T19:16:41.000Z",
-          "url": "https://x.com/NousResearch/status/2043770366959518121",
-          "likes": 395,
-          "retweets": 24,
-          "replies": 30,
+          "id": "2043969403247616478",
+          "text": "Should be fixed now, appreciate everyone’s patience! https://t.co/6OxlvXtuqc",
+          "createdAt": "2026-04-14T08:27:35.000Z",
+          "url": "https://x.com/NousResearch/status/2043969403247616478",
+          "likes": 107,
+          "retweets": 0,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2043968486750187776"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4Vik4P",
+      "tweets": [
+        {
+          "id": "2044174508085666246",
+          "text": "The training setup replicated the exact toolset available in the Windsurf harness, so every gain we saw in training translated directly to production. When dogfooding revealed the model was flagging false positives it could have ruled out by looking up a variable, we built turn-efficient tracing tools into both Windsurf and the training setup and retrained.",
+          "createdAt": "2026-04-14T22:02:36.000Z",
+          "url": "https://x.com/cognition/status/2044174508085666246",
+          "likes": 25,
+          "retweets": 1,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HFzsWyPWYAAXyzO.png"
+              "url": "https://pbs.twimg.com/media/HF5d4aFasAAzrac.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2044174502918303877",
+          "text": "Our bet is that a smaller model trained specifically for bug detection can rival frontier generalists on the task at a fraction of the cost and latency. We built a targeted training set using a data pipeline with real world bugs; here is an example of a ground truth bug-fix from the training set:",
+          "createdAt": "2026-04-14T22:02:35.000Z",
+          "url": "https://x.com/cognition/status/2044174502918303877",
+          "likes": 45,
+          "retweets": 2,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HF5d4DnasAM3gGk.jpg"
             }
           ]
         }
@@ -51,41 +81,47 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2043735520484962625",
-          "text": "He's pretty cool! \nhttps://t.co/XCWvoWOPLF",
-          "createdAt": "2026-04-13T16:58:13.000Z",
-          "url": "https://x.com/deedydas/status/2043735520484962625",
-          "likes": 42,
-          "retweets": 1,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "1992624217645527238"
-        },
-        {
-          "id": "2043733917149405574",
-          "text": "Source: https://t.co/xJeHVH3an6",
-          "createdAt": "2026-04-13T16:51:51.000Z",
-          "url": "https://x.com/deedydas/status/2043733917149405574",
-          "likes": 27,
+          "id": "2044261182278938970",
+          "text": "We talk a lot about the scaling laws of LLMs, but not about the scaling laws of China.\n\nThey’ve gone from 5’6” to 5’9” average height in 34yrs.\n\nAt this rate, they will be the tallest country at 6’ avg by 2050 and over 7’ by 2200. https://t.co/Oc8vNhkLF6",
+          "createdAt": "2026-04-15T03:47:01.000Z",
+          "url": "https://x.com/deedydas/status/2044261182278938970",
+          "likes": 81,
           "retweets": 2,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2043733915375153364",
-          "text": "Jeff Yan's profile is a vindication of people who grew up with modest means in a difficult family, was quite introverted and just fell deeply in love with something (math)\n\nHis company Hyperliquid is worth $10B and generated $900M in profit last year. https://t.co/ViAAT3O99S",
-          "createdAt": "2026-04-13T16:51:50.000Z",
-          "url": "https://x.com/deedydas/status/2043733915375153364",
-          "likes": 389,
-          "retweets": 21,
-          "replies": 10,
+          "replies": 13,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HFzL7cbasAMKE7L.jpg"
+              "url": "https://pbs.twimg.com/media/HF6stjpboAAnSWe.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2043960527123296606",
+          "text": "Source: https://t.co/br26UaAgA4",
+          "createdAt": "2026-04-14T07:52:19.000Z",
+          "url": "https://x.com/deedydas/status/2043960527123296606",
+          "likes": 95,
+          "retweets": 15,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2043960525093216601",
+          "text": "This Polish theoretical physicist just proved you can recreate all math functions from JUST one operation.\n\nE(a, b) = e^a - ln(b)\n\nEvery single operation: +, -, x, / , trig, log, as you can see below.\n\nExtremely mathematically elegant. https://t.co/Aw45T4TLuS",
+          "createdAt": "2026-04-14T07:52:18.000Z",
+          "url": "https://x.com/deedydas/status/2043960525093216601",
+          "likes": 6573,
+          "retweets": 748,
+          "replies": 157,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HF2Ya9NasAMnHk3.jpg"
             }
           ]
         }
@@ -93,26 +129,43 @@
     },
     {
       "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "❤️ 🍵 ☕️ 🍷 🥃 🍺",
+      "name": "Felix Rieseberg (Claude Cowork)",
+      "handle": "felixrieseberg",
+      "bio": "Claude Cowork / Code @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
       "tweets": [
         {
-          "id": "2043749803780432338",
-          "text": "i do like this passage, and here are some thoughts:\n\n1. critical thinking is essential in the era of agents. i still remember that many years ago when i studied the lesson of critical thinking, i learned that keeping debating with yourself by listing out reasons can really deepen your thinking. today, critical thinking becomes humans debating with agents, so that they can think more deeply together and analyze problems in a more comprehensive way.\n\n2. designing a healthy and well-structured organization and system is essential for creation and building. with systematic support and efficient tooling, humans can work exponentially more effectively together with agents. that gives people more time to take care of their physical and mental health, while also exploring new opportunities.\n\n3. new era often favors newbies, because they have less past experience and therefore less fear of current difficulties. what oldbies should really think about is which parts of their experience are actually worth leveraging. from my perspective, we should think more carefully about which experiences are truly aligned with first principles.\n\nbut anyway, ai first is super, super exciting!",
-          "createdAt": "2026-04-13T17:54:58.000Z",
-          "url": "https://x.com/JustinLin610/status/2043749803780432338",
-          "likes": 133,
-          "retweets": 8,
-          "replies": 5,
-          "isQuote": true,
-          "quotedTweetId": "2043545596699750791"
+          "id": "2044128195969200451",
+          "text": "Some of the new features: An integrated terminal, in-app file editing, a rebuilt diff viewer, side chats, SSH connections - and a large amount of little quality of life.\n\nDownload or update the Claude desktop app to get started: https://t.co/AxuwWfzWzA",
+          "createdAt": "2026-04-14T18:58:34.000Z",
+          "url": "https://x.com/felixrieseberg/status/2044128195969200451",
+          "likes": 396,
+          "retweets": 7,
+          "replies": 30,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2044128194647994585",
+          "text": "Today is a big day! We're launching a ~ new ~ version of Claude Code in the desktop app. It's been redesigned from the ground up for parallel work and is a lot faster.\n\nIt's been my main way to use Claude Code for the last few weeks. https://t.co/BOd6H8POLh",
+          "createdAt": "2026-04-14T18:58:34.000Z",
+          "url": "https://x.com/felixrieseberg/status/2044128194647994585",
+          "likes": 7775,
+          "retweets": 355,
+          "replies": 467,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2044124448807366658/img/0Up1HGL5vQmeN8Pw.jpg"
+            }
+          ]
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 6
+    "xBuilders": 4,
+    "totalTweets": 9
   }
 }
