@@ -1,65 +1,34 @@
 {
-  "generatedAt": "2026-04-17T04:14:36.067Z",
+  "generatedAt": "2026-04-18T04:05:53.242Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "MiniMax",
-      "handle": "MiniMax_AI",
-      "bio": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ Discord: https://t.co/uYnFNkYh7y",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2044646995416260875",
-          "text": "Excited to power Astra Voice 2.0 with @Wati_io 🎙️✨\n\nBringing MiniMax voice technology to businesses on WhatsApp worldwide, with voice that actually sounds like nature conversation, in whatever language your customer speaks. https://t.co/fEaicrEU25",
-          "createdAt": "2026-04-16T05:20:06.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2044646995416260875",
-          "likes": 61,
-          "retweets": 3,
-          "replies": 5,
-          "isQuote": true,
-          "quotedTweetId": "2044639069905490358"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Perplexity",
-      "handle": "perplexity_ai",
-      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android: https://t.co/BBZ1kG0TVG",
-      "tweets": [
-        {
-          "id": "2044805998272196679",
-          "text": "Personal Computer securely connects to any folder to search, read, and write files locally.\n\nIt can access and work across iMessage, Apple Mail, Calendar and other native Mac apps. https://t.co/lbWvJZmpdg",
-          "createdAt": "2026-04-16T15:51:55.000Z",
-          "url": "https://x.com/perplexity_ai/status/2044805998272196679",
-          "likes": 445,
-          "retweets": 16,
-          "replies": 19,
+          "id": "2045225472586404030",
+          "text": "Submissions due EOD Sunday, May 3rd\n\nTo enter: tweet a demo video tagging @NousResearch with a short writeup, then drop the link to the post in the \"⁠creative-hackathon-submissions\" channel on the Nous Research Discord.\n\nhttps://t.co/qxek9haYeb\n\nThe submissions will be judged by the Nous Research and Kimi team on creativity, usefulness and presentation.\n\nTo qualify for the Kimi Track, you must prove your use of Kimi models in your submission video. Submissions using Kimi models are eligible for both tracks.",
+          "createdAt": "2026-04-17T19:38:45.000Z",
+          "url": "https://x.com/NousResearch/status/2045225472586404030",
+          "likes": 79,
+          "retweets": 2,
+          "replies": 6,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HGCcNzAaAAACEnF.jpg"
-            }
-          ]
+          "quotedTweetId": null
         },
         {
-          "id": "2044805973085454518",
-          "text": "Today we're releasing Personal Computer.\n\nPersonal Computer integrates with the Perplexity Mac App for secure orchestration across your local files, native apps, and browser.\n\nWe’re rolling this out to all Perplexity Max subscribers and everyone on the waitlist starting today. https://t.co/kxgFQFo7BB",
-          "createdAt": "2026-04-16T15:51:49.000Z",
-          "url": "https://x.com/perplexity_ai/status/2044805973085454518",
-          "likes": 10650,
-          "retweets": 993,
-          "replies": 560,
+          "id": "2045225470958985584",
+          "text": "This Hackathon will have two tracks:\n\nMain Track // $15k pool\n\n1st - $10,000\n2nd - $3,500\n3rd - $1,500\n\nKimi Track // $5k pool\n\n1st - $3,500\n2nd - $1,000\n3rd - $500\n\nIn addition, $5k in Kimi Credits will be distributed amongst the winners.\n\nHow To Submit Below ↓",
+          "createdAt": "2026-04-17T19:38:45.000Z",
+          "url": "https://x.com/NousResearch/status/2045225470958985584",
+          "likes": 85,
+          "retweets": 2,
+          "replies": 3,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2044805831334752256/img/b_-8ZALHlgfYBPFU.jpg"
-            }
-          ]
+          "quotedTweetId": null
         }
       ]
     },
@@ -70,94 +39,41 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2044791881952006480",
-          "text": "System Card: https://t.co/6waBNRej8w",
-          "createdAt": "2026-04-16T14:55:49.000Z",
-          "url": "https://x.com/deedydas/status/2044791881952006480",
-          "likes": 8,
+          "id": "2045291517401813007",
+          "text": "Source: https://t.co/JYiRWxj4lX",
+          "createdAt": "2026-04-18T00:01:12.000Z",
+          "url": "https://x.com/deedydas/status/2045291517401813007",
+          "likes": 2,
           "retweets": 0,
           "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2044791879557111902",
-          "text": "Opus 4.7 benchmarks colored by ranking.\n\n– Strong coding (SWE-Bench) bump\n– Strong Computer use bump\n– Strong visual reasoning (CharXiv) bump\n– Weak Terminal Bench bump\n– BrowseComp regression\n\nSlots in between 4.6 and Mythos.\n\n[Chart generated by 4.7] https://t.co/h7iXLx3xlY",
-          "createdAt": "2026-04-16T14:55:49.000Z",
-          "url": "https://x.com/deedydas/status/2044791879557111902",
-          "likes": 294,
-          "retweets": 22,
-          "replies": 29,
+          "id": "2045291505347444771",
+          "text": "Fintool, which lets you build agents on top of the high quality public financial data, just got acquired by Microsoft.\n\nI met the founders Nicolas (@nicbstme) and Edouard (@edouardgodfrey) far before being an investor, and the rigor of their approach to building was a class apart. Later, this became more obvious to the world after Nic’s phenomenal essays on building kept going viral (read them: they’re as relevant today as ever!).\n\nIt was a no brainer for us at Menlo Ventures to invest at the seed and a fantastic exit for the Anthology Fund!",
+          "createdAt": "2026-04-18T00:01:09.000Z",
+          "url": "https://x.com/deedydas/status/2045291505347444771",
+          "likes": 58,
+          "retweets": 3,
+          "replies": 7,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HGCPYKWaMAAWxIw.jpg"
+              "url": "https://pbs.twimg.com/media/HGJVyR8a8AE3ehR.jpg"
             }
           ]
         },
         {
-          "id": "2044685150324465900",
-          "text": "i generated this entire 45s movie clip (audio + video) with claude code + seedance 2 api\n\nthere's still telltale AI smell, but we should be at full length movies indistinguishable from real ones by the end of the year (veo 5) https://t.co/FXhWxeJOqa",
-          "createdAt": "2026-04-16T07:51:42.000Z",
-          "url": "https://x.com/deedydas/status/2044685150324465900",
-          "likes": 1284,
-          "retweets": 82,
-          "replies": 156,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2044679725352984576/img/BOr0EnRIwGYqSdG7.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "@AnthropicAI. Previously langchain, vision for self-driving trucks / cars 🚘 🤖, phd @stanford 🧪",
-      "tweets": [
-        {
-          "id": "2044832905915224363",
-          "text": "it follows the best practice from our migration guide:\nhttps://t.co/QnPf7B2OTK",
-          "createdAt": "2026-04-16T17:38:50.000Z",
-          "url": "https://x.com/RLanceMartin/status/2044832905915224363",
-          "likes": 5,
-          "retweets": 2,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2044832904560398414",
-          "text": "useful Claude Code tip: if you want to test your code w/ Opus 4.7,  just say \"migrate to Opus 4.7\". the latest release will use our claude-api skill to update model names, prompts, effort, etc specifically for Opus 4.7.",
-          "createdAt": "2026-04-16T17:38:50.000Z",
-          "url": "https://x.com/RLanceMartin/status/2044832904560398414",
-          "likes": 155,
-          "retweets": 6,
+          "id": "2045064494502785142",
+          "text": "Source: https://t.co/D5gjbjujPL",
+          "createdAt": "2026-04-17T08:59:05.000Z",
+          "url": "https://x.com/deedydas/status/2045064494502785142",
+          "likes": 52,
+          "retweets": 7,
           "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2044827913263226880/img/4984epdCvtH2VndU.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2044816706468770095",
-          "text": "on @ClaudeDevs, we’ll be sharing regular updates aimed at helping developers using Claude, including practical tips + tricks via posts, webinars, and videos from members of our team.",
-          "createdAt": "2026-04-16T16:34:28.000Z",
-          "url": "https://x.com/RLanceMartin/status/2044816706468770095",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -170,49 +86,38 @@
       "bio": "Claude Cowork / Code @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
       "tweets": [
         {
-          "id": "2044920615271109089",
-          "text": "There are plenty of manufacturers that make small and relatively cheap maker devices and chips. Claude Code is *excellent* at programming them into whatever device you can dream up.",
-          "createdAt": "2026-04-16T23:27:22.000Z",
-          "url": "https://x.com/felixrieseberg/status/2044920615271109089",
-          "likes": 48,
-          "retweets": 1,
-          "replies": 6,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2044920613920530496",
-          "text": "You can find the API reference and my example code here: https://t.co/y4keo7bFeU\n\nThe API is only enabled if your app is in developer mode. If you're building something cool with it, please share!",
-          "createdAt": "2026-04-16T23:27:21.000Z",
-          "url": "https://x.com/felixrieseberg/status/2044920613920530496",
-          "likes": 96,
-          "retweets": 3,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2044920611215233397",
-          "text": "Hi! I'm here with *another launch*, it just happens to be extremely niche, nerdy, and probably only for a handful of people. \n\nIn the desktop app, Claude Cowork and Code now have a little Bluetooth API for makers & developers, allowing you to build hardware devices that interact with Claude.\n\nI, for instance, built a little desk pet that alerts me whenever Claude is waiting for permission.",
-          "createdAt": "2026-04-16T23:27:21.000Z",
-          "url": "https://x.com/felixrieseberg/status/2044920611215233397",
-          "likes": 725,
-          "retweets": 58,
-          "replies": 54,
+          "id": "2045211232534474959",
+          "text": "We ship new little improvements every single day, but this one was requested so much that I'm tweeting about it: Skip all permissions for Claude Cowork.\n\nUse with care, brought to you by @dreamofabear https://t.co/H9na82L5Em",
+          "createdAt": "2026-04-17T18:42:10.000Z",
+          "url": "https://x.com/felixrieseberg/status/2045211232534474959",
+          "likes": 980,
+          "retweets": 47,
+          "replies": 56,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HGD_9iCagAEtn9Q.jpg"
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2045210764286562304/img/tBVTptC7E1kGUMoU.jpg"
             }
           ]
+        },
+        {
+          "id": "2045159301501837508",
+          "text": "https://t.co/QYDyyvDKUS\n\n(A Labs Project)",
+          "createdAt": "2026-04-17T15:15:49.000Z",
+          "url": "https://x.com/felixrieseberg/status/2045159301501837508",
+          "likes": 238,
+          "retweets": 5,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 5,
-    "totalTweets": 12
+    "xBuilders": 3,
+    "totalTweets": 7
   }
 }
