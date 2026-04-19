@@ -1,37 +1,7 @@
 {
-  "generatedAt": "2026-04-18T04:05:53.242Z",
+  "generatedAt": "2026-04-19T04:15:02.117Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
-      "tweets": [
-        {
-          "id": "2045225472586404030",
-          "text": "Submissions due EOD Sunday, May 3rd\n\nTo enter: tweet a demo video tagging @NousResearch with a short writeup, then drop the link to the post in the \"⁠creative-hackathon-submissions\" channel on the Nous Research Discord.\n\nhttps://t.co/qxek9haYeb\n\nThe submissions will be judged by the Nous Research and Kimi team on creativity, usefulness and presentation.\n\nTo qualify for the Kimi Track, you must prove your use of Kimi models in your submission video. Submissions using Kimi models are eligible for both tracks.",
-          "createdAt": "2026-04-17T19:38:45.000Z",
-          "url": "https://x.com/NousResearch/status/2045225472586404030",
-          "likes": 79,
-          "retweets": 2,
-          "replies": 6,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2045225470958985584",
-          "text": "This Hackathon will have two tracks:\n\nMain Track // $15k pool\n\n1st - $10,000\n2nd - $3,500\n3rd - $1,500\n\nKimi Track // $5k pool\n\n1st - $3,500\n2nd - $1,000\n3rd - $500\n\nIn addition, $5k in Kimi Credits will be distributed amongst the winners.\n\nHow To Submit Below ↓",
-          "createdAt": "2026-04-17T19:38:45.000Z",
-          "url": "https://x.com/NousResearch/status/2045225470958985584",
-          "likes": 85,
-          "retweets": 2,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -39,77 +9,41 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2045291517401813007",
-          "text": "Source: https://t.co/JYiRWxj4lX",
-          "createdAt": "2026-04-18T00:01:12.000Z",
-          "url": "https://x.com/deedydas/status/2045291517401813007",
-          "likes": 2,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2045291505347444771",
-          "text": "Fintool, which lets you build agents on top of the high quality public financial data, just got acquired by Microsoft.\n\nI met the founders Nicolas (@nicbstme) and Edouard (@edouardgodfrey) far before being an investor, and the rigor of their approach to building was a class apart. Later, this became more obvious to the world after Nic’s phenomenal essays on building kept going viral (read them: they’re as relevant today as ever!).\n\nIt was a no brainer for us at Menlo Ventures to invest at the seed and a fantastic exit for the Anthology Fund!",
-          "createdAt": "2026-04-18T00:01:09.000Z",
-          "url": "https://x.com/deedydas/status/2045291505347444771",
-          "likes": 58,
-          "retweets": 3,
-          "replies": 7,
+          "id": "2045684751529603525",
+          "text": "Every single book that influenced Demis Hassabis and DeepMind (and how it inspired them), from “Infinity Machine”.\n\nClassics like GEB, Hitchhikers, Foundation series, Culture series and modern ones like the Altman influences.\n\nBookmark this. Required reading all technologists. https://t.co/eTlEnTSBmf",
+          "createdAt": "2026-04-19T02:03:46.000Z",
+          "url": "https://x.com/deedydas/status/2045684751529603525",
+          "likes": 384,
+          "retweets": 38,
+          "replies": 12,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HGJVyR8a8AE3ehR.jpg"
+              "url": "https://pbs.twimg.com/media/HGO7cI_b0AAKDxB.jpg"
             }
           ]
         },
         {
-          "id": "2045064494502785142",
-          "text": "Source: https://t.co/D5gjbjujPL",
-          "createdAt": "2026-04-17T08:59:05.000Z",
-          "url": "https://x.com/deedydas/status/2045064494502785142",
-          "likes": 52,
-          "retweets": 7,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Felix Rieseberg (Claude Cowork)",
-      "handle": "felixrieseberg",
-      "bio": "Claude Cowork / Code @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
-      "tweets": [
-        {
-          "id": "2045211232534474959",
-          "text": "We ship new little improvements every single day, but this one was requested so much that I'm tweeting about it: Skip all permissions for Claude Cowork.\n\nUse with care, brought to you by @dreamofabear https://t.co/H9na82L5Em",
-          "createdAt": "2026-04-17T18:42:10.000Z",
-          "url": "https://x.com/felixrieseberg/status/2045211232534474959",
-          "likes": 980,
-          "retweets": 47,
-          "replies": 56,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2045210764286562304/img/tBVTptC7E1kGUMoU.jpg"
-            }
-          ]
+          "id": "2045599989615952068",
+          "text": "random but kyoto is elon's favorite place in japan\nhttps://t.co/kOVCPlSoKC",
+          "createdAt": "2026-04-18T20:26:57.000Z",
+          "url": "https://x.com/deedydas/status/2045599989615952068",
+          "likes": 8,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2045577165534875928"
         },
         {
-          "id": "2045159301501837508",
-          "text": "https://t.co/QYDyyvDKUS\n\n(A Labs Project)",
-          "createdAt": "2026-04-17T15:15:49.000Z",
-          "url": "https://x.com/felixrieseberg/status/2045159301501837508",
-          "likes": 238,
-          "retweets": 5,
-          "replies": 12,
+          "id": "2045548373911208420",
+          "text": "If you want to be nitpicky, Gion district inside Higashiyama ward has ~35 stars and ~2000 residents which is 1 star per 60 residents. \n\nDistrict to district comparison is more apple-to-apples and Gion in Kyoto is #1 by density",
+          "createdAt": "2026-04-18T17:01:51.000Z",
+          "url": "https://x.com/deedydas/status/2045548373911208420",
+          "likes": 27,
+          "retweets": 0,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -117,7 +51,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 7
+    "xBuilders": 1,
+    "totalTweets": 3
   }
 }
