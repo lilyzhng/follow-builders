@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-04-20T04:16:42.294Z",
+  "generatedAt": "2026-04-21T04:14:26.042Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "Kimi (Moonshot AI)",
+      "handle": "Kimi_Moonshot",
+      "bio": "Built by Moonshot AI to empower everyone to be superhuman. ⚡️API: https://t.co/mzWxjgGO1h\n@KimiProduct where we share cool use cases and prompts.",
+      "tweets": [
+        {
+          "id": "2046265981333549433",
+          "text": "Sheer fabric with light transmission. Cloth physics that responds to wind. Depth-of-field compositing. Physically-based lighting - all rendered live in the browser. https://t.co/JwmalU4FQj",
+          "createdAt": "2026-04-20T16:33:22.000Z",
+          "url": "https://x.com/Kimi_Moonshot/status/2046265981333549433",
+          "likes": 93,
+          "retweets": 5,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2046265773916815361/img/PZwZUAKSfHibh4mK.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2046265978024231067",
+          "text": "Kimi wires up auth + database + backend in one pass\nOne prompt gets you user registration, login, database, booking systems, admin dashboards - wired up and deployed.\nNo separate \"now build the backend\" step. https://t.co/mTmfQp7r46",
+          "createdAt": "2026-04-20T16:33:21.000Z",
+          "url": "https://x.com/Kimi_Moonshot/status/2046265978024231067",
+          "likes": 73,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HGXLxKOaAAAujyP.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -9,49 +51,67 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2045952806092484626",
-          "text": "this is the 70g tethered thermal sensing unmanned covert ops helicopter, the teledyne flir black hornet 4: https://t.co/m1yIe5Q6sB\n\npeople know anduril lockheed and some more but there are so many interesting companies: aerovironment, kratos, l3harris, hanwha, general atomics, rheinmetall etc. look them up and check out their catalog for a fun weekend rabbit hole",
-          "createdAt": "2026-04-19T19:48:55.000Z",
-          "url": "https://x.com/deedydas/status/2045952806092484626",
-          "likes": 26,
-          "retweets": 2,
-          "replies": 2,
+          "id": "2046261687129624816",
+          "text": "Source: https://t.co/uXoFlxB1Xj",
+          "createdAt": "2026-04-20T16:16:18.000Z",
+          "url": "https://x.com/deedydas/status/2046261687129624816",
+          "likes": 20,
+          "retweets": 3,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2045950687000072404",
-          "text": "defense tech is so freaking cool https://t.co/UzOtWKwBK8",
-          "createdAt": "2026-04-19T19:40:30.000Z",
-          "url": "https://x.com/deedydas/status/2045950687000072404",
-          "likes": 1224,
-          "retweets": 69,
-          "replies": 39,
+          "id": "2046261675163316239",
+          "text": "Computer Science majors are down 8% this year, the biggest drop since 2003-08.\n\nThis is the beginning of the third major decline in CS in history. If you majored in CS during the last slump, youd have pretty well for yourself. I suspect history will repeat itself today. https://t.co/bs2QmImuRo",
+          "createdAt": "2026-04-20T16:16:15.000Z",
+          "url": "https://x.com/deedydas/status/2046261675163316239",
+          "likes": 1664,
+          "retweets": 118,
+          "replies": 80,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2045950547463987200/img/FOtfGOxO_A4mvm4N.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HGXIJlKaEAAyROr.jpg"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Felix Rieseberg (Claude Cowork)",
+      "handle": "felixrieseberg",
+      "bio": "Claude Cowork / Code @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
+      "tweets": [
         {
-          "id": "2045799980506747235",
-          "text": "Source: https://t.co/O6jmhGCY69",
-          "createdAt": "2026-04-19T09:41:39.000Z",
-          "url": "https://x.com/deedydas/status/2045799980506747235",
-          "likes": 9,
-          "retweets": 0,
-          "replies": 1,
+          "id": "2046334841663389792",
+          "text": "A small feature drop in Cowork: Live Artifacts! \n\nAsk Claude to create a dashboard, report, or deck - and whenever you open it, Claude will refetch data from your Connectors to keep all information up to date. Simple idea, super useful in practice.\n\nGet Claude at https://t.co/hHH7bjSeQj. Simply tell Claude that you'd like a \"live artifact\" to get started.",
+          "createdAt": "2026-04-20T21:06:59.000Z",
+          "url": "https://x.com/felixrieseberg/status/2046334841663389792",
+          "likes": 784,
+          "retweets": 26,
+          "replies": 33,
           "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HGYG5sLa0AAiD58.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HGYKIpTa8AApUWb.jpg"
+            }
+          ]
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 3
+    "xBuilders": 3,
+    "totalTweets": 5
   }
 }
