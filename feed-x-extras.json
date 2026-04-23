@@ -1,40 +1,46 @@
 {
-  "generatedAt": "2026-04-22T04:12:42.773Z",
+  "generatedAt": "2026-04-23T04:14:35.207Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Kimi (Moonshot AI)",
-      "handle": "Kimi_Moonshot",
-      "bio": "Built by Moonshot AI to empower everyone to be superhuman. ⚡️API: https://t.co/mzWxjgGO1h\n@KimiProduct where we share cool use cases and prompts.",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
       "tweets": [
         {
-          "id": "2046498140224966944",
-          "text": "📢 Kimi K2.6 API is live\n\n• Input Price (Cache Hit): $0.16 / M tokens \n• Input Price (Cache Miss): $0.95 / M tokens \n• Output: $4.00 / M tokens  \n\nKimi K2.6 is our latest + most intelligent model - stronger long-horizon coding, better instruction following & self-correction.   \n\nNative multimodal (text/image/video), thinking + non-thinking, 256K context. Supports tool calls, JSON / Partial mode, and web search.  \n\nTry it → https://t.co/XCrgjXAqMw",
-          "createdAt": "2026-04-21T07:55:53.000Z",
-          "url": "https://x.com/Kimi_Moonshot/status/2046498140224966944",
-          "likes": 2641,
-          "retweets": 157,
-          "replies": 65,
+          "id": "2047016415627284817",
+          "text": "@Alibaba_Qwen We first fine-tune the model to follow instructions, stay within guardrails, and keep language consistent.\n\nThen we run on‑policy RL to improve search accuracy and tool efficiency while preserving those behaviors. https://t.co/KaVs7h5Ixa",
+          "createdAt": "2026-04-22T18:15:19.000Z",
+          "url": "https://x.com/perplexity_ai/status/2047016415627284817",
+          "likes": 92,
+          "retweets": 3,
+          "replies": 2,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HGae-XKaAAEx1Zs.jpg"
+              "url": "https://pbs.twimg.com/media/HGh2lRVawAA3ZAF.jpg"
             }
           ]
         },
         {
-          "id": "2046451397827477761",
-          "text": "We are excited to have @FireworksAI_HQ as a day 0 launch partner for Kimi K2.6!  \n\nTheir inference and fine-tuning platform is fast, reliable, and scales well under real production load, making it easy to get K2.6 into your users' hands today. Already trusted by enterprises and startups around the world!  \n\nTry it out at: https://t.co/InG7kVvLoy",
-          "createdAt": "2026-04-21T04:50:09.000Z",
-          "url": "https://x.com/Kimi_Moonshot/status/2046451397827477761",
-          "likes": 432,
-          "retweets": 21,
-          "replies": 12,
-          "isQuote": true,
-          "quotedTweetId": "2046370745731981716"
+          "id": "2047016400292839808",
+          "text": "We've published new research on how we post-train models for accurate search-augmented answers.\n\nOur SFT + RL pipeline improves search, citation quality, instruction following, and efficiency.\n\nWith Qwen models, we match or beat GPT models on factuality at a lower cost. https://t.co/0w0Jmc9xlS",
+          "createdAt": "2026-04-22T18:15:16.000Z",
+          "url": "https://x.com/perplexity_ai/status/2047016400292839808",
+          "likes": 1230,
+          "retweets": 106,
+          "replies": 48,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HGh2kXobcAAvVUX.jpg"
+            }
+          ]
         }
       ]
     },
@@ -45,100 +51,47 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2046799777120366681",
-          "text": "Truly I’m at a point where\n1. it just doesn’t make sense to share an image that is not “beautified” by ChatGPT\n2. I don’t think it is necessary to use an image editing tool to create any sort of infographic\n3. UI design will probably go through ChatGPT first and saves a lot more tokens than generating it from scratch\n\n11/11",
-          "createdAt": "2026-04-22T03:54:29.000Z",
-          "url": "https://x.com/deedydas/status/2046799777120366681",
-          "likes": 4,
+          "id": "2047056099573219785",
+          "text": "Correction: I was made aware by the Google team that the 2nd quote was \"Dario is the person I know best amongst the other lab leaders\"\n\nApologies, I may have misheard (if anyone else was at the event, please chime in)",
+          "createdAt": "2026-04-22T20:53:01.000Z",
+          "url": "https://x.com/deedydas/status/2047056099573219785",
+          "likes": 6,
           "retweets": 0,
           "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2046799764394807463",
-          "text": "“Make this picture more visually aesthetic”\n\nTook an HTML screenshot from Claude and it added really neat logos and elevated the look and feel significantly.\n\n10/11 https://t.co/SJrvysuLrH",
-          "createdAt": "2026-04-22T03:54:26.000Z",
-          "url": "https://x.com/deedydas/status/2046799764394807463",
-          "likes": 3,
-          "retweets": 0,
-          "replies": 1,
+          "id": "2046986776439660997",
+          "text": "In ~2yrs, Google has gone from 0% code written by AI to 75% code written by AI.\n\nWhat an incredible transformation of how software is created. https://t.co/NafWO83JVd",
+          "createdAt": "2026-04-22T16:17:33.000Z",
+          "url": "https://x.com/deedydas/status/2046986776439660997",
+          "likes": 1313,
+          "retweets": 146,
+          "replies": 112,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HGexiYZacAAhztU.jpg"
+              "url": "https://pbs.twimg.com/media/HGhboDEboAE3fCy.jpg"
             }
           ]
         },
         {
-          "id": "2046799746241884198",
-          "text": "“Map of California with exaggerated labels features”\n\nI love this prompt so much. Really cool way to understand the geography of various places.\n\n9/11 https://t.co/psi1dJdvJh",
-          "createdAt": "2026-04-22T03:54:21.000Z",
-          "url": "https://x.com/deedydas/status/2046799746241884198",
-          "likes": 2,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HGexhTxawAAEgf3.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "@AnthropicAI. Previously langchain, vision for self-driving trucks / cars 🚘 🤖, phd @stanford 🧪",
-      "tweets": [
-        {
-          "id": "2046649638703468689",
-          "text": "@trq212 and check it out in the Console here:\nhttps://t.co/daBGIfGlo3",
-          "createdAt": "2026-04-21T17:57:53.000Z",
-          "url": "https://x.com/RLanceMartin/status/2046649638703468689",
-          "likes": 5,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2046648503561322579",
-          "text": "... for some useful tips to improve prompt cache hit rate, check out my blog below and also @trq212 article. also you can just run \"/claude-api\" in Claude Code to trigger our skill: it can help you configure prompt caching. \n\nhttps://t.co/VYnSSGwDet\n\nhttps://t.co/22baBLO3bJ https://t.co/s5KLszhkDE",
-          "createdAt": "2026-04-21T17:53:22.000Z",
-          "url": "https://x.com/RLanceMartin/status/2046648503561322579",
-          "likes": 14,
+          "id": "2046852171812184174",
+          "text": "@patrickc Recipes with real ingredients shown https://t.co/7caTUdWdz3",
+          "createdAt": "2026-04-22T07:22:41.000Z",
+          "url": "https://x.com/deedydas/status/2046852171812184174",
+          "likes": 105,
           "retweets": 2,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2024574133011673516",
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HGcmZboaUAAb7bD.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2046648501950713973",
-          "text": "i really like the new prompt caching dashboard in Claude Console. prompt caching is impt for saving cost + improving latency. this dashboard provides very useful diagnostics + visibility. https://t.co/qvrFOTmNUs",
-          "createdAt": "2026-04-21T17:53:22.000Z",
-          "url": "https://x.com/RLanceMartin/status/2046648501950713973",
-          "likes": 71,
-          "retweets": 9,
-          "replies": 5,
+          "replies": 3,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HGclRCubYAAMpJQ.jpg"
+              "url": "https://pbs.twimg.com/media/HGfhNAgbcAAgV51.jpg"
             }
           ]
         }
@@ -146,7 +99,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 8
+    "xBuilders": 2,
+    "totalTweets": 5
   }
 }
