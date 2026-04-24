@@ -1,44 +1,116 @@
 {
-  "generatedAt": "2026-04-23T04:14:35.207Z",
+  "generatedAt": "2026-04-24T04:16:09.451Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Perplexity",
-      "handle": "perplexity_ai",
-      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "name": "Kimi (Moonshot AI)",
+      "handle": "Kimi_Moonshot",
+      "bio": "Built by Moonshot AI to empower everyone to be superhuman. ⚡️API: https://t.co/mzWxjgGO1h\n@KimiProduct where we share cool use cases and prompts.",
       "tweets": [
         {
-          "id": "2047016415627284817",
-          "text": "@Alibaba_Qwen We first fine-tune the model to follow instructions, stay within guardrails, and keep language consistent.\n\nThen we run on‑policy RL to improve search accuracy and tool efficiency while preserving those behaviors. https://t.co/KaVs7h5Ixa",
-          "createdAt": "2026-04-22T18:15:19.000Z",
-          "url": "https://x.com/perplexity_ai/status/2047016415627284817",
-          "likes": 92,
-          "retweets": 3,
-          "replies": 2,
+          "id": "2047190589360521526",
+          "text": "One 🔹prompt → 10 tabloid-style magazine covers (real history, real headlines) https://t.co/0TgOKQix8L",
+          "createdAt": "2026-04-23T05:47:26.000Z",
+          "url": "https://x.com/Kimi_Moonshot/status/2047190589360521526",
+          "likes": 57,
+          "retweets": 1,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HGh2lRVawAA3ZAF.jpg"
+              "url": "https://pbs.twimg.com/media/HGkT48ebAAA9UL9.jpg"
             }
           ]
         },
         {
-          "id": "2047016400292839808",
-          "text": "We've published new research on how we post-train models for accurate search-augmented answers.\n\nOur SFT + RL pipeline improves search, citation quality, instruction following, and efficiency.\n\nWith Qwen models, we match or beat GPT models on factuality at a lower cost. https://t.co/0w0Jmc9xlS",
-          "createdAt": "2026-04-22T18:15:16.000Z",
-          "url": "https://x.com/perplexity_ai/status/2047016400292839808",
-          "likes": 1230,
-          "retweets": 106,
-          "replies": 48,
+          "id": "2047190585434644489",
+          "text": "🔹 40 PDFs → 100,000-word literature review + cited dataset https://t.co/LEwwo14RQH",
+          "createdAt": "2026-04-23T05:47:25.000Z",
+          "url": "https://x.com/Kimi_Moonshot/status/2047190585434644489",
+          "likes": 119,
+          "retweets": 5,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HGh2kXobcAAvVUX.jpg"
+              "url": "https://pbs.twimg.com/media/HGkTaSBbQAAlZX4.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Qwen",
+      "handle": "Alibaba_Qwen",
+      "bio": "Open foundation models for AGI.",
+      "tweets": [
+        {
+          "id": "2047201183987900648",
+          "text": "⚡️⚡️Run Qwen3.6-27B locally! @UnslothAI https://t.co/qkFBrrzBqy",
+          "createdAt": "2026-04-23T06:29:32.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2047201183987900648",
+          "likes": 771,
+          "retweets": 53,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2046959757299487029"
+        },
+        {
+          "id": "2047200782009991377",
+          "text": "Day 0 vLLM support for Qwen3.6-27B! @vllm_project  ♥️❤️ https://t.co/OAUxO2Xvgy",
+          "createdAt": "2026-04-23T06:27:56.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2047200782009991377",
+          "likes": 226,
+          "retweets": 9,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2046943674890871019"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
+      "tweets": [
+        {
+          "id": "2047439871917068467",
+          "text": "New subscription tiers are live on Nous Portal\n\n→ Plus ($20)\n→ Super ($100)\n→ Ultra ($200)\n\nBonus credits on signups, upgrades, and renewals: +$2 on Plus / +$10 on Super / +$20 on Ultra\n\nAll tiers include access to:\n→ 300+ models\n→ Bundled tool usage\n\nhttps://t.co/R6H1nIpuzO https://t.co/gy5L3QFNcE",
+          "createdAt": "2026-04-23T22:17:59.000Z",
+          "url": "https://x.com/NousResearch/status/2047439871917068467",
+          "likes": 430,
+          "retweets": 32,
+          "replies": 45,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2047434312610390016/img/bZvQOR9W4jpQKpuT.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2047396132716962059",
+          "text": "We’re extending free Kimi K2.6 usage through Nous Portal until midnight PT tonight!\n\nWhat will you build? https://t.co/eCUS7p9jzg https://t.co/mSQp48HyrP",
+          "createdAt": "2026-04-23T19:24:11.000Z",
+          "url": "https://x.com/NousResearch/status/2047396132716962059",
+          "likes": 445,
+          "retweets": 28,
+          "replies": 43,
+          "isQuote": true,
+          "quotedTweetId": "2047065502757876207",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HGnP7IqbEAAqf3J.jpg"
             }
           ]
         }
@@ -51,55 +123,120 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2047056099573219785",
-          "text": "Correction: I was made aware by the Google team that the 2nd quote was \"Dario is the person I know best amongst the other lab leaders\"\n\nApologies, I may have misheard (if anyone else was at the event, please chime in)",
-          "createdAt": "2026-04-22T20:53:01.000Z",
-          "url": "https://x.com/deedydas/status/2047056099573219785",
-          "likes": 6,
+          "id": "2047382995208962366",
+          "text": "it's still a very good model! espp for math, been playing with it and will report more findings soon",
+          "createdAt": "2026-04-23T18:31:59.000Z",
+          "url": "https://x.com/deedydas/status/2047382995208962366",
+          "likes": 48,
           "retweets": 0,
-          "replies": 0,
+          "replies": 3,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2046986776439660997",
-          "text": "In ~2yrs, Google has gone from 0% code written by AI to 75% code written by AI.\n\nWhat an incredible transformation of how software is created. https://t.co/NafWO83JVd",
-          "createdAt": "2026-04-22T16:17:33.000Z",
-          "url": "https://x.com/deedydas/status/2046986776439660997",
-          "likes": 1313,
-          "retweets": 146,
-          "replies": 112,
+          "id": "2047380540664492219",
+          "text": "GPT 5.5 underperforms Opus 4.7 on SWE-Bench Pro. Couldn't find any reported SWE-Bench scores at all and an internal benchmark is reported instead.\n\nThat footnote is trying really hard to bury the lede. GPT 5.5 isn't SOTA for coding. https://t.co/AiRKqgRjxS",
+          "createdAt": "2026-04-23T18:22:14.000Z",
+          "url": "https://x.com/deedydas/status/2047380540664492219",
+          "likes": 988,
+          "retweets": 30,
+          "replies": 147,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HGhboDEboAE3fCy.jpg"
+              "url": "https://pbs.twimg.com/media/HGnAoxVbsAAHTkq.jpg"
             }
           ]
         },
         {
-          "id": "2046852171812184174",
-          "text": "@patrickc Recipes with real ingredients shown https://t.co/7caTUdWdz3",
-          "createdAt": "2026-04-22T07:22:41.000Z",
-          "url": "https://x.com/deedydas/status/2046852171812184174",
-          "likes": 105,
-          "retweets": 2,
-          "replies": 3,
+          "id": "2047184500418077168",
+          "text": "Here’s the AlphaFold paper, for example https://t.co/kdcFewtFDH",
+          "createdAt": "2026-04-23T05:23:14.000Z",
+          "url": "https://x.com/deedydas/status/2047184500418077168",
+          "likes": 58,
+          "retweets": 4,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HGfhNAgbcAAgV51.jpg"
+              "url": "https://pbs.twimg.com/media/HGkPdCLaMAAaJ0V.jpg"
             }
           ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lance Martin",
+      "handle": "RLanceMartin",
+      "bio": "@AnthropicAI. Previously langchain, vision for self-driving trucks / cars 🚘 🤖, phd @stanford 🧪",
+      "tweets": [
+        {
+          "id": "2047442112627536169",
+          "text": "across model generations, Claude gets better at using the filesystem to manage memory. i wrote abt one example here from Claude Plays Pokémon (c/o @DavidSHershey): Sonnet 3.5 v Opus 4.6 shows a striking difference in its memory files. \n\nhttps://t.co/VYnSSGw5oV https://t.co/QhWoYrmTmM",
+          "createdAt": "2026-04-23T22:26:53.000Z",
+          "url": "https://x.com/RLanceMartin/status/2047442112627536169",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HGn5u5RXUAALq8B.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HGn5u5DWcAAg6DA.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2047442080440459573",
+          "text": "Claude Managed Agents just added memory. memory files are managed by Claude, shared across sessions, and easily exported / edited. \nhttps://t.co/ZLekevLiE9 https://t.co/ePkQVFdqvI https://t.co/KHMpAdGF4X",
+          "createdAt": "2026-04-23T22:26:46.000Z",
+          "url": "https://x.com/RLanceMartin/status/2047442080440459573",
+          "likes": 22,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2047424063543681240",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HGn5tUCWIAIN-aY.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Felix Rieseberg (Claude Cowork)",
+      "handle": "felixrieseberg",
+      "bio": "Claude Cowork / Code @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
+      "tweets": [
+        {
+          "id": "2047367515500659128",
+          "text": "Tiny feature, also a bit of a nerdy one: We've added deep links so you can pre-fill new sessions in Chat, Cowork, or Code with a claude:// link.\n\nI like using it for composition in my workflows or adding \"Open in Claude\" buttons to other apps. It does require the desktop app.\n\nhttps://t.co/0rDK5B8awq",
+          "createdAt": "2026-04-23T17:30:28.000Z",
+          "url": "https://x.com/felixrieseberg/status/2047367515500659128",
+          "likes": 138,
+          "retweets": 9,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 5
+    "xBuilders": 6,
+    "totalTweets": 12
   }
 }
