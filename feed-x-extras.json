@@ -1,34 +1,40 @@
 {
-  "generatedAt": "2026-04-25T04:08:29.126Z",
+  "generatedAt": "2026-04-26T04:17:44.321Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
+      "name": "Qwen",
+      "handle": "Alibaba_Qwen",
+      "bio": "Open foundation models for AGI.",
       "tweets": [
         {
-          "id": "2047756972741529984",
-          "text": "@Kimi_Moonshot CORRECTION: The Hackathon has been extended to May 3rd",
-          "createdAt": "2026-04-24T19:18:02.000Z",
-          "url": "https://x.com/NousResearch/status/2047756972741529984",
-          "likes": 29,
-          "retweets": 2,
+          "id": "2048024933805244779",
+          "text": "Sharper Instruction Following: \nThe model now adheres more closely to prompt semantics, especially for complex compositions. Better handling of multiple objects, spatial relationships and attribute binding\nYes, this is not a screenshot.📲 https://t.co/Bjs1zgT4mF",
+          "createdAt": "2026-04-25T13:02:49.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2048024933805244779",
+          "likes": 131,
+          "retweets": 4,
           "replies": 2,
           "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HGwKO1YawAARle8.jpg"
+            }
+          ]
         },
         {
-          "id": "2047755600944124066",
-          "text": "Thank you to @Kimi_Moonshot for adding an additional $1000 to the prize pool in honor of the Kimi 2.6 release",
-          "createdAt": "2026-04-24T19:12:35.000Z",
-          "url": "https://x.com/NousResearch/status/2047755600944124066",
-          "likes": 40,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2048022731548229869",
+          "text": "Qwen-Image-2.0-Pro is now live 🚀🚀\n\nWe’ve pushed image quality, multilingual text rendering, and instruction following to a new level, while making performance much more consistent across styles.🌅🌃\n\nRanked #9 worldwide for Text-to-Image on @arena \n\n🔗Try it now on \nModelScope:\nhttps://t.co/pPtrbjzzBK\nhttps://t.co/raB6WWMEMP\nAPI：https://t.co/EgYS5qt2bF",
+          "createdAt": "2026-04-25T12:54:04.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2048022731548229869",
+          "likes": 2281,
+          "retweets": 255,
+          "replies": 100,
+          "isQuote": true,
+          "quotedTweetId": "2047341506441380054"
         }
       ]
     },
@@ -39,65 +45,38 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2047885377768484994",
-          "text": "Jane Street made ~$40B in 2025 with 3,500 employees, a ~2x from the year before.\n\nAt ~65-70% profit margin, that's $8M profit / employee, the highest for a 1000+ ppl company.  High-frequency trading continues to be the most efficient money making engine.\n\nI want to share an old story about my Jane Street interview in 2014. Jane Street was known for hiring a lot of math, physics and CS olympiad winners from top  universities and putting them through many rounds - including, for trading roles, a gauntlet of mental math. It was my 6th interview and my final round and I recall being asked \"What is the next day after today in DD/MM/YYYY where all the digits are unique?\" They'd toy with you and say \"You can use a pencil and paper, if you want\" but you knew that was an instant no. Painstakingly and as quickly as I could, I came to an answer. \"How confident are you that this is correct on a 0-1 probability scale?\" the interviewer said. \"0.95\", I blurted out, not fully knowing how to answer that. \"Are you sure?\" After thinking harder for a few more seconds, I realized I could've flipped the digits around to get a closer date. I gave the interviewer my answer. It was correct. \"0.95 huh?\" he chuckled. That's when I knew I failed.\n\nNote: fwiw, other companies that come close in efficiency are\n- Tether ($90M+ profit/emp)\n- Hyperliquid ($80M+ profit/emp)\nand on revenue:\n- Valve ($50M/emp)\n- OnlyFans ($37M/emp)\n- Craigslist ($14M/emp)\n- Anthropic ($12M/emp, run rate)\n- OpenAI ($8M/emp, run rate)\nFor comparison, Nvidia is very efficient at scale and is $4.4M/emp.",
-          "createdAt": "2026-04-25T03:48:16.000Z",
-          "url": "https://x.com/deedydas/status/2047885377768484994",
-          "likes": 44,
-          "retweets": 3,
-          "replies": 4,
+          "id": "2048108983429575059",
+          "text": "The new Pangram extension is absolute kryptonite for all the slop-posters on X, LinkedIn and Reddit.\n\nGamechanging way to eliminate slop. https://t.co/VhXH5qQ2uP",
+          "createdAt": "2026-04-25T18:36:48.000Z",
+          "url": "https://x.com/deedydas/status/2048108983429575059",
+          "likes": 283,
+          "retweets": 13,
+          "replies": 8,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HGuM5gMbEAA2ykc.jpg"
+              "url": "https://pbs.twimg.com/media/HGxYRBDa0AAHDcl.jpg"
             }
           ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "❤️ 🍵 ☕️ 🍷 🥃 🍺",
-      "tweets": [
+        },
         {
-          "id": "2047577502277865631",
-          "text": "why preview https://t.co/CvdqqNrh2j",
-          "createdAt": "2026-04-24T07:24:53.000Z",
-          "url": "https://x.com/JustinLin610/status/2047577502277865631",
-          "likes": 327,
-          "retweets": 4,
-          "replies": 30,
-          "isQuote": true,
-          "quotedTweetId": "2047516922263285776"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "@AnthropicAI. Previously langchain, vision for self-driving trucks / cars 🚘 🤖, phd @stanford 🧪",
-      "tweets": [
-        {
-          "id": "2047720067107033525",
-          "text": "https://t.co/EQueWgwseh",
-          "createdAt": "2026-04-24T16:51:23.000Z",
-          "url": "https://x.com/RLanceMartin/status/2047720067107033525",
-          "likes": 172,
-          "retweets": 21,
+          "id": "2047907139453407509",
+          "text": "Question validated by a former Jane Streeter https://t.co/FYLYVL8v1u",
+          "createdAt": "2026-04-25T05:14:44.000Z",
+          "url": "https://x.com/deedydas/status/2047907139453407509",
+          "likes": 95,
+          "retweets": 1,
           "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
+          "isQuote": true,
+          "quotedTweetId": "2047902543095705788"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 5
+    "xBuilders": 2,
+    "totalTweets": 4
   }
 }
