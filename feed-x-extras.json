@@ -1,43 +1,7 @@
 {
-  "generatedAt": "2026-04-26T04:17:44.321Z",
+  "generatedAt": "2026-04-27T04:22:27.692Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Qwen",
-      "handle": "Alibaba_Qwen",
-      "bio": "Open foundation models for AGI.",
-      "tweets": [
-        {
-          "id": "2048024933805244779",
-          "text": "Sharper Instruction Following: \nThe model now adheres more closely to prompt semantics, especially for complex compositions. Better handling of multiple objects, spatial relationships and attribute binding\nYes, this is not a screenshot.📲 https://t.co/Bjs1zgT4mF",
-          "createdAt": "2026-04-25T13:02:49.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2048024933805244779",
-          "likes": 131,
-          "retweets": 4,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HGwKO1YawAARle8.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2048022731548229869",
-          "text": "Qwen-Image-2.0-Pro is now live 🚀🚀\n\nWe’ve pushed image quality, multilingual text rendering, and instruction following to a new level, while making performance much more consistent across styles.🌅🌃\n\nRanked #9 worldwide for Text-to-Image on @arena \n\n🔗Try it now on \nModelScope:\nhttps://t.co/pPtrbjzzBK\nhttps://t.co/raB6WWMEMP\nAPI：https://t.co/EgYS5qt2bF",
-          "createdAt": "2026-04-25T12:54:04.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2048022731548229869",
-          "likes": 2281,
-          "retweets": 255,
-          "replies": 100,
-          "isQuote": true,
-          "quotedTweetId": "2047341506441380054"
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -45,38 +9,40 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2048108983429575059",
-          "text": "The new Pangram extension is absolute kryptonite for all the slop-posters on X, LinkedIn and Reddit.\n\nGamechanging way to eliminate slop. https://t.co/VhXH5qQ2uP",
-          "createdAt": "2026-04-25T18:36:48.000Z",
-          "url": "https://x.com/deedydas/status/2048108983429575059",
-          "likes": 283,
-          "retweets": 13,
-          "replies": 8,
+          "id": "2048262182962610347",
+          "text": "There’s a mistake on the Hyperliquid in the chart: revenue should be $100M/emp",
+          "createdAt": "2026-04-26T04:45:33.000Z",
+          "url": "https://x.com/deedydas/status/2048262182962610347",
+          "likes": 35,
+          "retweets": 0,
+          "replies": 1,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HGxYRBDa0AAHDcl.jpg"
-            }
-          ]
-        },
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lance Martin",
+      "handle": "RLanceMartin",
+      "bio": "@AnthropicAI. Previously langchain, vision for self-driving trucks / cars 🚘 🤖, phd @stanford 🧪",
+      "tweets": [
         {
-          "id": "2047907139453407509",
-          "text": "Question validated by a former Jane Streeter https://t.co/FYLYVL8v1u",
-          "createdAt": "2026-04-25T05:14:44.000Z",
-          "url": "https://x.com/deedydas/status/2047907139453407509",
-          "likes": 95,
-          "retweets": 1,
-          "replies": 2,
+          "id": "2048455663756677618",
+          "text": "a few lessons we’ve learned on context management + long-term memory https://t.co/9saByCG8B5",
+          "createdAt": "2026-04-26T17:34:23.000Z",
+          "url": "https://x.com/RLanceMartin/status/2048455663756677618",
+          "likes": 372,
+          "retweets": 35,
+          "replies": 12,
           "isQuote": true,
-          "quotedTweetId": "2047902543095705788"
+          "quotedTweetId": "2047720067107033525"
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 2,
-    "totalTweets": 4
+    "totalTweets": 2
   }
 }
