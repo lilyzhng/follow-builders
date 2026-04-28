@@ -1,48 +1,12 @@
 {
-  "generatedAt": "2026-04-27T04:22:27.692Z",
+  "generatedAt": "2026-04-28T04:24:49.698Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
-      "tweets": [
-        {
-          "id": "2048262182962610347",
-          "text": "There’s a mistake on the Hyperliquid in the chart: revenue should be $100M/emp",
-          "createdAt": "2026-04-26T04:45:33.000Z",
-          "url": "https://x.com/deedydas/status/2048262182962610347",
-          "likes": 35,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "@AnthropicAI. Previously langchain, vision for self-driving trucks / cars 🚘 🤖, phd @stanford 🧪",
-      "tweets": [
-        {
-          "id": "2048455663756677618",
-          "text": "a few lessons we’ve learned on context management + long-term memory https://t.co/9saByCG8B5",
-          "createdAt": "2026-04-26T17:34:23.000Z",
-          "url": "https://x.com/RLanceMartin/status/2048455663756677618",
-          "likes": 372,
-          "retweets": 35,
-          "replies": 12,
-          "isQuote": true,
-          "quotedTweetId": "2047720067107033525"
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 2
-  }
+    "xBuilders": 0,
+    "totalTweets": 0
+  },
+  "errors": [
+    "X API: User lookup failed: HTTP 402"
+  ]
 }
