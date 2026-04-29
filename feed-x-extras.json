@@ -1,12 +1,76 @@
 {
-  "generatedAt": "2026-04-29T04:21:49.166Z",
+  "generatedAt": "2026-04-29T18:20:44.469Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "World-class open source AI\nhttps://t.co/vrD0aDJeto",
+      "tweets": [
+        {
+          "id": "2049211984696987785",
+          "text": "Hermes Agent only has to be told once https://t.co/Wiy1e2jVKY",
+          "createdAt": "2026-04-28T19:39:44.000Z",
+          "url": "https://x.com/NousResearch/status/2049211984696987785",
+          "likes": 270,
+          "retweets": 11,
+          "replies": 26,
+          "isQuote": true,
+          "quotedTweetId": "2049206802202411353"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
+      "tweets": [
+        {
+          "id": "2049547888209051753",
+          "text": "@bojie_li I should note: the confidence intervals here are huge and I know through hearsay and DMs that these numbers can be very off for certain models!\n\nThese sizes are not to be interpreted as fact",
+          "createdAt": "2026-04-29T17:54:29.000Z",
+          "url": "https://x.com/deedydas/status/2049547888209051753",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2049523586168508505",
+          "text": "Source: https://t.co/gZe4tnnQ6h\n\nAwesome work @bojie_li",
+          "createdAt": "2026-04-29T16:17:55.000Z",
+          "url": "https://x.com/deedydas/status/2049523586168508505",
+          "likes": 6,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2049523583517634862",
+          "text": "Researchers just estimated the size of all the LLMs by asking it knowledge questions of varying degrees of obscurity!\n\n– GPT 5.5: ~10T params\n– Claude Opus 4.x: ~4-5T\n– Grok 4: ~3T\n\nThe idea here is that factual capacity scales log-linearly with size. The paper shows 7 knowledge tiers and T7  is essentially ~0% for all models, suggesting there is still significant headroom for pretraining. Gemini 3.1 Pro is likely >10T given its used as an anchor but has no direct estimate.\n\nThis means we can infer what different models might cost to some degree and their post-training effectiveness (performance at certain non-factual tasks given its size).\n\nOne of the coolest papers I’ve read of late.",
+          "createdAt": "2026-04-29T16:17:55.000Z",
+          "url": "https://x.com/deedydas/status/2049523583517634862",
+          "likes": 512,
+          "retweets": 48,
+          "replies": 57,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HHFe1dpbcAAAcB-.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
-  },
-  "errors": [
-    "X API: User lookup failed: HTTP 402"
-  ]
+    "xBuilders": 2,
+    "totalTweets": 4
+  }
 }
