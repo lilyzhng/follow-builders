@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T18:20:44.469Z",
+  "generatedAt": "2026-04-30T04:23:47.299Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,15 +9,88 @@
       "bio": "World-class open source AI\nhttps://t.co/vrD0aDJeto",
       "tweets": [
         {
-          "id": "2049211984696987785",
-          "text": "Hermes Agent only has to be told once https://t.co/Wiy1e2jVKY",
-          "createdAt": "2026-04-28T19:39:44.000Z",
-          "url": "https://x.com/NousResearch/status/2049211984696987785",
-          "likes": 270,
-          "retweets": 11,
-          "replies": 26,
-          "isQuote": true,
-          "quotedTweetId": "2049206802202411353"
+          "id": "2049584595465572752",
+          "text": "ComfyUI is the most flexible, composable, and powerful open-source media generation tool with a massive ecosystem of workflows and custom nodes.  \n\nYour Hermes Agent can now install, launch, manage, and run sophisticated @ComfyUI workflows on demand. https://t.co/IXYdAe1Mnf",
+          "createdAt": "2026-04-29T20:20:21.000Z",
+          "url": "https://x.com/NousResearch/status/2049584595465572752",
+          "likes": 2020,
+          "retweets": 181,
+          "replies": 140,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/media/HHGWNakWAAA_9fm.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Modal",
+      "handle": "modal",
+      "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
+      "tweets": [
+        {
+          "id": "2049572567095144762",
+          "text": "We wanted to know if Evolution Strategies could beat GRPO for RL. \n\nWe teamed up with @AEStudioLA to find out, using Lean theorem proving as our experiment's foundation. https://t.co/ki2Ppa9c5A",
+          "createdAt": "2026-04-29T19:32:33.000Z",
+          "url": "https://x.com/modal/status/2049572567095144762",
+          "likes": 47,
+          "retweets": 6,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HHF7IU5bkAALIY4.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Z.AI (GLM)",
+      "handle": "Zai_org",
+      "bio": "The AI Lab behind GLM models, dedicated to inspiring the development of AGI to benefit humanity.\n\nhttps://t.co/7a5aSCUNcZ\nhttps://t.co/x14hb3klXm",
+      "tweets": [
+        {
+          "id": "2049601041063162348",
+          "text": "One root cause was a KV Cache reuse race under PD disaggregation.\n\nDecode could abort a timed-out request and reuse its KV Cache while Prefill was still writing old KV data. The fix was to reclaim KV Cache only after Prefill confirms the writes are safe or complete. https://t.co/7V4b1rDaJ0",
+          "createdAt": "2026-04-29T21:25:42.000Z",
+          "url": "https://x.com/Zai_org/status/2049601041063162348",
+          "likes": 39,
+          "retweets": 2,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HHGje1Ia4AAT5Wj.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2049601035946394044",
+          "text": "The first challenge: rare garbled outputs, repetition, and rare-character generation were hard to reproduce.\n\nThey only appeared under high-concurrency, long-context Coding Agent workloads. Speculative decoding metrics became the signal: low spec_accept_length flagged garbled and rare-character outputs; high spec_accept_rate flagged repetition.",
+          "createdAt": "2026-04-29T21:25:41.000Z",
+          "url": "https://x.com/Zai_org/status/2049601035946394044",
+          "likes": 55,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HHGjZwBXAAIv3LA.jpg"
+            }
+          ]
         }
       ]
     },
@@ -28,49 +101,21 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2049547888209051753",
-          "text": "@bojie_li I should note: the confidence intervals here are huge and I know through hearsay and DMs that these numbers can be very off for certain models!\n\nThese sizes are not to be interpreted as fact",
-          "createdAt": "2026-04-29T17:54:29.000Z",
-          "url": "https://x.com/deedydas/status/2049547888209051753",
-          "likes": 4,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2049523586168508505",
-          "text": "Source: https://t.co/gZe4tnnQ6h\n\nAwesome work @bojie_li",
-          "createdAt": "2026-04-29T16:17:55.000Z",
-          "url": "https://x.com/deedydas/status/2049523586168508505",
-          "likes": 6,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2049523583517634862",
-          "text": "Researchers just estimated the size of all the LLMs by asking it knowledge questions of varying degrees of obscurity!\n\n– GPT 5.5: ~10T params\n– Claude Opus 4.x: ~4-5T\n– Grok 4: ~3T\n\nThe idea here is that factual capacity scales log-linearly with size. The paper shows 7 knowledge tiers and T7  is essentially ~0% for all models, suggesting there is still significant headroom for pretraining. Gemini 3.1 Pro is likely >10T given its used as an anchor but has no direct estimate.\n\nThis means we can infer what different models might cost to some degree and their post-training effectiveness (performance at certain non-factual tasks given its size).\n\nOne of the coolest papers I’ve read of late.",
-          "createdAt": "2026-04-29T16:17:55.000Z",
-          "url": "https://x.com/deedydas/status/2049523583517634862",
-          "likes": 512,
-          "retweets": 48,
-          "replies": 57,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HHFe1dpbcAAAcB-.jpg"
-            }
-          ]
+          "id": "2049659108836745680",
+          "text": "People love these stats only when it suits their narrative.\n\nLet's play this game for Indians:\n\nNet lifetime contribution to economy: \n🟢 +$1.6M (largest of any group)\nCrime per 100k:\n🟢 <88 per 100k (lowest)\nIQ:\n🟢 Studies are contested unreliable so let's use education as proxy: 75-85% with bachelors and 40% with masters (highest)\nLiteracy / English proficiency:\n🟢~99%",
+          "createdAt": "2026-04-30T01:16:27.000Z",
+          "url": "https://x.com/deedydas/status/2049659108836745680",
+          "likes": 450,
+          "retweets": 44,
+          "replies": 25,
+          "isQuote": true,
+          "quotedTweetId": "2049539795735695521"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 4
+    "xBuilders": 4,
+    "totalTweets": 5
   }
 }
