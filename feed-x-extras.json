@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T04:23:47.299Z",
+  "generatedAt": "2026-05-01T04:33:12.877Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,113 +9,57 @@
       "bio": "World-class open source AI\nhttps://t.co/vrD0aDJeto",
       "tweets": [
         {
-          "id": "2049584595465572752",
-          "text": "ComfyUI is the most flexible, composable, and powerful open-source media generation tool with a massive ecosystem of workflows and custom nodes.  \n\nYour Hermes Agent can now install, launch, manage, and run sophisticated @ComfyUI workflows on demand. https://t.co/IXYdAe1Mnf",
-          "createdAt": "2026-04-29T20:20:21.000Z",
-          "url": "https://x.com/NousResearch/status/2049584595465572752",
-          "likes": 2020,
-          "retweets": 181,
-          "replies": 140,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/media/HHGWNakWAAA_9fm.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Modal",
-      "handle": "modal",
-      "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
-      "tweets": [
-        {
-          "id": "2049572567095144762",
-          "text": "We wanted to know if Evolution Strategies could beat GRPO for RL. \n\nWe teamed up with @AEStudioLA to find out, using Lean theorem proving as our experiment's foundation. https://t.co/ki2Ppa9c5A",
-          "createdAt": "2026-04-29T19:32:33.000Z",
-          "url": "https://x.com/modal/status/2049572567095144762",
-          "likes": 47,
-          "retweets": 6,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HHF7IU5bkAALIY4.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Z.AI (GLM)",
-      "handle": "Zai_org",
-      "bio": "The AI Lab behind GLM models, dedicated to inspiring the development of AGI to benefit humanity.\n\nhttps://t.co/7a5aSCUNcZ\nhttps://t.co/x14hb3klXm",
-      "tweets": [
-        {
-          "id": "2049601041063162348",
-          "text": "One root cause was a KV Cache reuse race under PD disaggregation.\n\nDecode could abort a timed-out request and reuse its KV Cache while Prefill was still writing old KV data. The fix was to reclaim KV Cache only after Prefill confirms the writes are safe or complete. https://t.co/7V4b1rDaJ0",
-          "createdAt": "2026-04-29T21:25:42.000Z",
-          "url": "https://x.com/Zai_org/status/2049601041063162348",
-          "likes": 39,
-          "retweets": 2,
+          "id": "2049898711065518536",
+          "text": "p5js\n\nhttps://t.co/Y0QKyg5Vzn",
+          "createdAt": "2026-04-30T17:08:32.000Z",
+          "url": "https://x.com/NousResearch/status/2049898711065518536",
+          "likes": 15,
+          "retweets": 0,
           "replies": 1,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HHGje1Ia4AAT5Wj.jpg"
-            }
-          ]
+          "quotedTweetId": null
         },
         {
-          "id": "2049601035946394044",
-          "text": "The first challenge: rare garbled outputs, repetition, and rare-character generation were hard to reproduce.\n\nThey only appeared under high-concurrency, long-context Coding Agent workloads. Speculative decoding metrics became the signal: low spec_accept_length flagged garbled and rare-character outputs; high spec_accept_rate flagged repetition.",
-          "createdAt": "2026-04-29T21:25:41.000Z",
-          "url": "https://x.com/Zai_org/status/2049601035946394044",
-          "likes": 55,
-          "retweets": 1,
+          "id": "2049898708645388683",
+          "text": "Pretext\n\nhttps://t.co/c5zEx42v4z",
+          "createdAt": "2026-04-30T17:08:32.000Z",
+          "url": "https://x.com/NousResearch/status/2049898708645388683",
+          "likes": 16,
+          "retweets": 0,
           "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HHGjZwBXAAIv3LA.jpg"
-            }
-          ]
+          "isQuote": true,
+          "quotedTweetId": "2049629510123864538"
         }
       ]
     },
     {
       "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
+      "name": "Felix Rieseberg (Claude Cowork)",
+      "handle": "felixrieseberg",
+      "bio": "Claude Cowork / Code @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
       "tweets": [
         {
-          "id": "2049659108836745680",
-          "text": "People love these stats only when it suits their narrative.\n\nLet's play this game for Indians:\n\nNet lifetime contribution to economy: \n🟢 +$1.6M (largest of any group)\nCrime per 100k:\n🟢 <88 per 100k (lowest)\nIQ:\n🟢 Studies are contested unreliable so let's use education as proxy: 75-85% with bachelors and 40% with masters (highest)\nLiteracy / English proficiency:\n🟢~99%",
-          "createdAt": "2026-04-30T01:16:27.000Z",
-          "url": "https://x.com/deedydas/status/2049659108836745680",
-          "likes": 450,
-          "retweets": 44,
-          "replies": 25,
-          "isQuote": true,
-          "quotedTweetId": "2049539795735695521"
+          "id": "2050012783832695036",
+          "text": "What a cutie https://t.co/df5pycnVZS",
+          "createdAt": "2026-05-01T00:41:49.000Z",
+          "url": "https://x.com/felixrieseberg/status/2050012783832695036",
+          "likes": 28,
+          "retweets": 1,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HHMbvtCbIAAxTSI.jpg"
+            }
+          ]
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 5
+    "xBuilders": 2,
+    "totalTweets": 3
   }
 }
