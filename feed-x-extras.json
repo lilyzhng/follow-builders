@@ -1,65 +1,9 @@
 {
-  "generatedAt": "2026-05-01T04:33:12.877Z",
+  "generatedAt": "2026-05-02T04:16:23.946Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "World-class open source AI\nhttps://t.co/vrD0aDJeto",
-      "tweets": [
-        {
-          "id": "2049898711065518536",
-          "text": "p5js\n\nhttps://t.co/Y0QKyg5Vzn",
-          "createdAt": "2026-04-30T17:08:32.000Z",
-          "url": "https://x.com/NousResearch/status/2049898711065518536",
-          "likes": 15,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2049898708645388683",
-          "text": "Pretext\n\nhttps://t.co/c5zEx42v4z",
-          "createdAt": "2026-04-30T17:08:32.000Z",
-          "url": "https://x.com/NousResearch/status/2049898708645388683",
-          "likes": 16,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2049629510123864538"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Felix Rieseberg (Claude Cowork)",
-      "handle": "felixrieseberg",
-      "bio": "Claude Cowork / Code @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
-      "tweets": [
-        {
-          "id": "2050012783832695036",
-          "text": "What a cutie https://t.co/df5pycnVZS",
-          "createdAt": "2026-05-01T00:41:49.000Z",
-          "url": "https://x.com/felixrieseberg/status/2050012783832695036",
-          "likes": 28,
-          "retweets": 1,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HHMbvtCbIAAxTSI.jpg"
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 3
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
