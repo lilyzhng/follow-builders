@@ -1,35 +1,40 @@
 {
-  "generatedAt": "2026-05-04T04:28:55.590Z",
+  "generatedAt": "2026-05-05T04:15:51.434Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "World-class open source AI\nhttps://t.co/vrD0aDJeto",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2050997692977844324",
-          "text": "Hermes Agent now has multi-agent via the Kanban, new in v0.12.0.\n\nAgents claim tasks from a board, work in parallel, and hand off when blocked. You watch progress and unblock from one easy view instead of juggling terminals.\n\nWe asked it to plan and make this video about itself: https://t.co/SsRIaa1lvs",
-          "createdAt": "2026-05-03T17:55:30.000Z",
-          "url": "https://x.com/NousResearch/status/2050997692977844324",
-          "likes": 3768,
-          "retweets": 305,
-          "replies": 179,
+          "id": "2051497844310413447",
+          "text": "I used to think it's crazy that VCs invest in huge $1B+ valuations before a product with $0 revenue.\n\nHere is a deep dive on 11 reasons that explain the forces driving this new world order, and why this strategy might actually... work. \n\nhttps://t.co/oQVZoVuVyJ",
+          "createdAt": "2026-05-05T03:02:55.000Z",
+          "url": "https://x.com/deedydas/status/2051497844310413447",
+          "likes": 68,
+          "retweets": 5,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2051496852076584988"
+        },
+        {
+          "id": "2051496852076584988",
+          "text": "https://t.co/lBfXeg8Cqa",
+          "createdAt": "2026-05-05T02:58:59.000Z",
+          "url": "https://x.com/deedydas/status/2051496852076584988",
+          "likes": 30,
+          "retweets": 2,
+          "replies": 4,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2050973076397989888/img/nIA9SjsHpti6eYRQ.jpg"
-            }
-          ]
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 1
+    "totalTweets": 2
   }
 }
