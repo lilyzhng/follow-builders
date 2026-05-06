@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-05-05T04:15:51.434Z",
+  "generatedAt": "2026-05-06T04:24:38.526Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "tweets": [
+        {
+          "id": "2051694128501825870",
+          "text": "Sourcing screen: enter target criteria and get a screened company list, including why each company matches and what signals were used. https://t.co/TnA3aUtPeY",
+          "createdAt": "2026-05-05T16:02:53.000Z",
+          "url": "https://x.com/perplexity_ai/status/2051694128501825870",
+          "likes": 42,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2051694055277645824/img/2CuOneCGHaaTN0Gd.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2051694042136940812",
+          "text": "Annotated stock chart: enter a ticker and get a chart marked up with relevant events: earnings, news, product launches, market moves, or other catalysts. https://t.co/xnEADmCGtn",
+          "createdAt": "2026-05-05T16:02:32.000Z",
+          "url": "https://x.com/perplexity_ai/status/2051694042136940812",
+          "likes": 55,
+          "retweets": 4,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2051693980518400000/img/72z8d050gkrPF1Mp.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4Vik4P",
+      "tweets": [
+        {
+          "id": "2051708731671331171",
+          "text": "On March 31, a malicious axios version shipped with a hidden dependency on an impersonator package. \n\nDevin Review flagged it for customers in under an hour, before the attack was publicly known.\n\nhttps://t.co/lCJH1F9fT9",
+          "createdAt": "2026-05-05T17:00:55.000Z",
+          "url": "https://x.com/cognition/status/2051708731671331171",
+          "likes": 20,
+          "retweets": 3,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2038865428693332094"
+        },
+        {
+          "id": "2051708729880416614",
+          "text": "Security remediation is an engineering capacity problem. AI has collapsed the time to exploit, but defensive tools haven’t kept up.\n\nToday we’re introducing Devin for Security: a set of workflows for reducing security debt, securing every release, and accelerating response",
+          "createdAt": "2026-05-05T17:00:54.000Z",
+          "url": "https://x.com/cognition/status/2051708729880416614",
+          "likes": 164,
+          "retweets": 29,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HHkhfg8XMAQ1u13.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -9,32 +87,74 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2051497844310413447",
-          "text": "I used to think it's crazy that VCs invest in huge $1B+ valuations before a product with $0 revenue.\n\nHere is a deep dive on 11 reasons that explain the forces driving this new world order, and why this strategy might actually... work. \n\nhttps://t.co/oQVZoVuVyJ",
-          "createdAt": "2026-05-05T03:02:55.000Z",
-          "url": "https://x.com/deedydas/status/2051497844310413447",
-          "likes": 68,
-          "retweets": 5,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2051496852076584988"
+          "id": "2051878517080821949",
+          "text": "Almost every single semi stock in the has gone 2x in the last month.\n\nMore enterprise value created in non-Nvidia publics in the last month than all big labs this year. https://t.co/SR4mxVztpx",
+          "createdAt": "2026-05-06T04:15:35.000Z",
+          "url": "https://x.com/deedydas/status/2051878517080821949",
+          "likes": 20,
+          "retweets": 6,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HHm8oyFa4AAY-uL.jpg"
+            }
+          ]
         },
         {
-          "id": "2051496852076584988",
-          "text": "https://t.co/lBfXeg8Cqa",
-          "createdAt": "2026-05-05T02:58:59.000Z",
-          "url": "https://x.com/deedydas/status/2051496852076584988",
-          "likes": 30,
-          "retweets": 2,
+          "id": "2051819513474318572",
+          "text": "Addressing other criticism. To be clear I'm not defending them.\n\n1. They didn't test harnesses like CC / codex: well, they could just do that\n2. Don't like that they measured only completion rates, not progress (@scaling01): yeah, but you could just measure and rank by that \n3. Not using internet is not a good constraint: it prevents some blatant cheating, but I agree it can lead to hillclimbing on the wrong thing. You can always just measure performance with internet access too!\n4. Why not use novel problems not solved problems: painful and laborious to come up with, hard to write great exhaustive tests for without knowing what a solution looks like, hard to ascertain that it actually is a real world task and not some made up fiction",
+          "createdAt": "2026-05-06T00:21:07.000Z",
+          "url": "https://x.com/deedydas/status/2051819513474318572",
+          "likes": 8,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2051716902704337025",
+          "text": "The other critique which is more baffling to me is \"well, humans can't do this.\"\n\nSo? Humans can't do a lot of things LLMs today can do today. The goal of benchmarks is to hillclimb on intelligence far above the average human.",
+          "createdAt": "2026-05-05T17:33:23.000Z",
+          "url": "https://x.com/deedydas/status/2051716902704337025",
+          "likes": 116,
+          "retweets": 3,
           "replies": 4,
           "isQuote": false,
           "quotedTweetId": null
         }
       ]
+    },
+    {
+      "source": "x",
+      "name": "Lance Martin",
+      "handle": "RLanceMartin",
+      "bio": "staff @anthropicai",
+      "tweets": [
+        {
+          "id": "2051859349522481452",
+          "text": "come say hi at Code With Claude tomorrow! \n\nill be giving a talk w @jess__yan on some new things we’re excited to share. \n\njoin the livestream here:\nhttps://t.co/9V8GNWwdIk https://t.co/MRt9D9upuJ",
+          "createdAt": "2026-05-06T02:59:25.000Z",
+          "url": "https://x.com/RLanceMartin/status/2051859349522481452",
+          "likes": 23,
+          "retweets": 2,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HHmrCgFboAAnzyI.jpg"
+            }
+          ]
+        }
+      ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 2
+    "xBuilders": 4,
+    "totalTweets": 8
   }
 }
