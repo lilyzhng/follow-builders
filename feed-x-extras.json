@@ -1,44 +1,27 @@
 {
-  "generatedAt": "2026-05-07T04:24:41.020Z",
+  "generatedAt": "2026-05-08T04:15:44.742Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Perplexity",
-      "handle": "perplexity_ai",
-      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "World-class open source AI\nhttps://t.co/vrD0aDJeto",
       "tweets": [
         {
-          "id": "2052028029824905384",
-          "text": "@PPLXfinance @PPLXDevs On FinSearchComp T1, Finance Search delivered the highest accuracy for live financial data and the lowest cost per correct answer in the cohort.\n\nEvery result includes citations, so financial agents can be current, accurate, and easy to verify. https://t.co/MO3ZaiAnXF",
-          "createdAt": "2026-05-06T14:09:41.000Z",
-          "url": "https://x.com/perplexity_ai/status/2052028029824905384",
-          "likes": 52,
-          "retweets": 3,
-          "replies": 1,
+          "id": "2052493732205744303",
+          "text": "Hermes Agent v0.13.0 - “The Tenacity Release” https://t.co/LJE8ZLW8qK",
+          "createdAt": "2026-05-07T21:00:13.000Z",
+          "url": "https://x.com/NousResearch/status/2052493732205744303",
+          "likes": 1505,
+          "retweets": 120,
+          "replies": 100,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HHpEnf0aAAAVdvr.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2052028012313649194",
-          "text": "Finance Search is now available in the Perplexity Agent API.\n\nIn one tool call, developers can now retrieve licensed financial datasets, real-time market data, and cited web sources for agents that need current, verifiable financial answers. https://t.co/cfZM7qfboc",
-          "createdAt": "2026-05-06T14:09:37.000Z",
-          "url": "https://x.com/perplexity_ai/status/2052028012313649194",
-          "likes": 648,
-          "retweets": 52,
-          "replies": 45,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HHpEmi8boAAaWJX.jpg"
+              "type": "video",
+              "url": "https://pbs.twimg.com/media/HHvr-l2WEAQb591.jpg"
             }
           ]
         }
@@ -46,50 +29,115 @@
     },
     {
       "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "staff @anthropicai",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
       "tweets": [
         {
-          "id": "2052138017171906702",
-          "text": "and here: \n\nhttps://t.co/mpim0CLvv1",
-          "createdAt": "2026-05-06T21:26:44.000Z",
-          "url": "https://x.com/RLanceMartin/status/2052138017171906702",
-          "likes": 2,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2052064938840228237"
-        },
+          "id": "2052445405754040816",
+          "text": "Personal Computer is now available to all users in a new Perplexity Mac app.\n\nPersonal Computer is an advanced version of Perplexity Computer.\n\nIt operates on any Mac, running tasks across your local files, native Mac apps, the web, and Perplexity’s secure servers. https://t.co/M1QMZJuOyJ",
+          "createdAt": "2026-05-07T17:48:11.000Z",
+          "url": "https://x.com/perplexity_ai/status/2052445405754040816",
+          "likes": 1665,
+          "retweets": 130,
+          "replies": 115,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2052445271385346048/img/uNqWWhnGybdzoTPv.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4Vik4P",
+      "tweets": [
         {
-          "id": "2052138015611572309",
-          "text": "more details here: \n\nhttps://t.co/FZ3MrfFGJJ",
-          "createdAt": "2026-05-06T21:26:44.000Z",
-          "url": "https://x.com/RLanceMartin/status/2052138015611572309",
-          "likes": 1,
+          "id": "2052490659408322936",
+          "text": "Intelligence at 1000 tokens per second, right in your terminal.\n\nNow available with SWE-1.6 Fast, powered by @cerebras.\n\nWe're giving the first 100 people who respond a free month of Max to try it out. https://t.co/ExGS4bu4YB",
+          "createdAt": "2026-05-07T20:48:01.000Z",
+          "url": "https://x.com/cognition/status/2052490659408322936",
+          "likes": 488,
+          "retweets": 45,
+          "replies": 334,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2052490094209052675/img/BFyQmh4aRdmz98QU.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Z.AI (GLM)",
+      "handle": "Zai_org",
+      "bio": "The AI Lab behind GLM models, dedicated to inspiring the development of AGI to benefit humanity.\n\nhttps://t.co/7a5aSCUNcZ\nhttps://t.co/x14hb3klXm",
+      "tweets": [
+        {
+          "id": "2052426783069274115",
+          "text": "We also introduced a new benchmark for \"think with image, deep search with image.\" Models must crop, magnify, and re-examine image regions through multi-step tool calls, not parametric recall. \nhttps://t.co/v3t9pYwcmZ",
+          "createdAt": "2026-05-07T16:34:11.000Z",
+          "url": "https://x.com/Zai_org/status/2052426783069274115",
+          "likes": 44,
           "retweets": 0,
           "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2052069321355182447"
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2052138013564776949",
-          "text": "roundup of today's Claude news:\n\n&gt; raising Claude Code + API rate limits \n&gt; SpaceX compute partnership (300 MW capacity)\n&gt; Claude Managed Agents gets dreaming, outcomes, multi-agent, &amp; webhooks \n\nhad a great time on stage w/ @jess__yan at Code w/ Claude! https://t.co/4YJ6CljpwR",
-          "createdAt": "2026-05-06T21:26:43.000Z",
-          "url": "https://x.com/RLanceMartin/status/2052138013564776949",
-          "likes": 65,
+          "id": "2052426780745572453",
+          "text": "On the agentic side:\n\nToolchain expansion and framework integration\n- The model chains multimodal tools, including search, cropping, annotation, and web reading, within a perception, planning, and execution loop. GLM-5V-Turbo then integrates with Claude Code and OpenClaw as a vision-language controller, bridging high-level reasoning with browser and file system execution.\n\nMultimodal deep research and content creation\n- Autonomous cycles of planning, multimodal reading, and synthesis across heterogeneous sources. Extracts textual and visual evidence in tandem, then produces structured outputs: interleaved reports, slide decks, and document-style write-ups.",
+          "createdAt": "2026-05-07T16:34:11.000Z",
+          "url": "https://x.com/Zai_org/status/2052426780745572453",
+          "likes": 45,
           "retweets": 2,
-          "replies": 6,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
+      "tweets": [
+        {
+          "id": "2052268594285982123",
+          "text": "Previous list from 3 months ago: \nhttps://t.co/jK63rMS718",
+          "createdAt": "2026-05-07T06:05:36.000Z",
+          "url": "https://x.com/deedydas/status/2052268594285982123",
+          "likes": 12,
+          "retweets": 3,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2024151978599989475"
+        },
+        {
+          "id": "2052266037979320752",
+          "text": "The Ultimate List of Artificial Intelligence \"Neolabs\": May 2026.\n\nA Neolab is a pre-revenue scale startup working on long-term AI breakthroughs, usually with a $1B+ valuation.\n\nThere are now 63 of them! https://t.co/7SlUmed6pW",
+          "createdAt": "2026-05-07T05:55:27.000Z",
+          "url": "https://x.com/deedydas/status/2052266037979320752",
+          "likes": 1447,
+          "retweets": 157,
+          "replies": 77,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HHqk69vaoAArrFE.jpg"
-            },
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HHqnHvQasAAy3ri.jpg"
+              "url": "https://pbs.twimg.com/media/HHsdFUabYAAKiwm.jpg"
             }
           ]
         }
@@ -97,7 +145,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 5
+    "xBuilders": 5,
+    "totalTweets": 7
   }
 }
