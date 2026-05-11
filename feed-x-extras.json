@@ -1,46 +1,9 @@
 {
-  "generatedAt": "2026-05-10T04:30:55.027Z",
+  "generatedAt": "2026-05-11T04:37:18.444Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
-      "tweets": [
-        {
-          "id": "2053303877387358324",
-          "text": "Curious to see the April update. I expect OpenAI to see a boost from GPT 5.5 / Codex.\n\nExplore interactively here: https://t.co/AqS7YUHpQu\n\nDefinitions:\nAdoption Rate: \"measures the share of businesses that purchased from a vendor, out of all businesses that made purchases in that software category over the past 12 months. It reflects a vendor's market penetration within its category, helping distinguish established leaders from emerging challengers serving the same use case.\"\n\nGrowth Rate: \"measures the period-over-period delta in a vendor's Adoption Rate. It captures how quickly a vendor's market share is accelerating, including momentum from new customers, expanding usage within existing customers, or broader market presence.\"",
-          "createdAt": "2026-05-10T02:39:27.000Z",
-          "url": "https://x.com/deedydas/status/2053303877387358324",
-          "likes": 0,
-          "retweets": 2,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2053303865269952513",
-          "text": "This graph of the top 69 software products by growth vs adoption is the best snapshot of the current winners and losers in tech.\n\n— Scaling leaders (Anthropic)\n— Incumbents at Risk (OpenAI)\n— Rising Challengers (Granola)\n— Long tail (11x)\n\nSpend data from Ramp, up to Mar 2026. https://t.co/aFE9gL3mCt",
-          "createdAt": "2026-05-10T02:39:24.000Z",
-          "url": "https://x.com/deedydas/status/2053303865269952513",
-          "likes": 65,
-          "retweets": 5,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HH7M--0a4AALilD.jpg"
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 2
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
