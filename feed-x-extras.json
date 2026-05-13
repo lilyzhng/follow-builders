@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T04:25:44.254Z",
+  "generatedAt": "2026-05-13T04:29:51.118Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,30 +9,19 @@
       "bio": "World-class open source AI\nhttps://t.co/vrD0aDJeto",
       "tweets": [
         {
-          "id": "2053876582071026129",
-          "text": "@Alibaba_Qwen Sign up to get free access to Qwen 3.6 Plus and much more at https://t.co/R6H1nIpuzO!",
-          "createdAt": "2026-05-11T16:35:11.000Z",
-          "url": "https://x.com/NousResearch/status/2053876582071026129",
-          "likes": 45,
-          "retweets": 5,
-          "replies": 8,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2053876496045920601",
-          "text": "Qwen 3.6 Plus by @Alibaba_Qwen is now FREE for a limited time on Nous Portal!\n\nNous Portal is one easy subscription that gives you access to 300+ models, exclusive discounts, and bundles your tokens and paid tools together for hassle-free setup and simple billing. https://t.co/nHFuB02xzI",
-          "createdAt": "2026-05-11T16:34:50.000Z",
-          "url": "https://x.com/NousResearch/status/2053876496045920601",
-          "likes": 1291,
-          "retweets": 105,
-          "replies": 101,
+          "id": "2054251270928539667",
+          "text": "Step 3.5 Flash from @StepFun_ai is now free again in Nous Portal for the next 15 days! https://t.co/XcH8pUxrqK",
+          "createdAt": "2026-05-12T17:24:03.000Z",
+          "url": "https://x.com/NousResearch/status/2054251270928539667",
+          "likes": 322,
+          "retweets": 28,
+          "replies": 31,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "video",
-              "url": "https://pbs.twimg.com/media/HIDPyWOWsAAqZWu.jpg"
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2054250327054921729/img/rTf7K4IlH8Pfuolr.jpg"
             }
           ]
         }
@@ -40,41 +29,24 @@
     },
     {
       "source": "x",
-      "name": "Thinking Machines",
-      "handle": "thinkymachines",
-      "bio": "Thinking, beeping, and booping.\n@tinkerapi",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
       "tweets": [
         {
-          "id": "2053938905121227182",
-          "text": "and draws when things are easier to explain visually! https://t.co/yI7D9xUSnx",
-          "createdAt": "2026-05-11T20:42:49.000Z",
-          "url": "https://x.com/thinkymachines/status/2053938905121227182",
-          "likes": 150,
-          "retweets": 3,
-          "replies": 2,
+          "id": "2054204402144350450",
+          "text": "We published new research on how we serve post-trained Qwen3 235B models on NVIDIA GB200 NVL72 Blackwell racks.\n\nGB200 is a major step up over Hopper for high-throughput inference on large MoE models, not just a training platform. https://t.co/yYZuPRXWzr",
+          "createdAt": "2026-05-12T14:17:49.000Z",
+          "url": "https://x.com/perplexity_ai/status/2054204402144350450",
+          "likes": 920,
+          "retweets": 87,
+          "replies": 49,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2053935454547005440/img/mBGfuo3bEWT6rPHk.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2053938903510565326",
-          "text": "The model can multi-task!\n\nLong thinks the model knows everything, but the model actually searched while listening and responding to him so he didn't notice. https://t.co/et50Lkyy5s",
-          "createdAt": "2026-05-11T20:42:49.000Z",
-          "url": "https://x.com/thinkymachines/status/2053938903510565326",
-          "likes": 178,
-          "retweets": 1,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2053935381645783040/img/bBIOYUW1IOzBQ2S5.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HIIABHcaMAAc2iW.png"
             }
           ]
         }
@@ -87,74 +59,49 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2054033029606326403",
-          "text": "Things every AI app startup says today to justify their defensibility:\n\n1. We support multiple models. Our customers do not want to lock in to one vendor.\n2. We have a data moat. We post-train open-source models to be much better and cheaper than closed-source.\n3. We do deep integrations to help our harness use our \"context graph\" and build custom workflows.\n\nIn the best case, this is actually true. In many cases, it is hilariously false.",
-          "createdAt": "2026-05-12T02:56:51.000Z",
-          "url": "https://x.com/deedydas/status/2054033029606326403",
-          "likes": 80,
-          "retweets": 2,
-          "replies": 12,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HIFkJ9vaEAAMj5v.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "staff @anthropicai",
-      "tweets": [
-        {
-          "id": "2053906846747156941",
-          "text": "@jess__yan + my talk covering Managed Agents fundamentals, mutli-agent, and outcomes:\nhttps://t.co/dLY83JjVgB\n\n@maheshmurag talk on dreaming:\nhttps://t.co/PI47uNFeuy",
-          "createdAt": "2026-05-11T18:35:26.000Z",
-          "url": "https://x.com/RLanceMartin/status/2053906846747156941",
-          "likes": 12,
+          "id": "2054417500457345309",
+          "text": "Source: https://t.co/NNrcbThr15\nAnd of course, Jim Fan's talk on \"Robotics' End Game\": https://t.co/NmJ2dCOyGP\n\nI will say that parts of the post are AI-written, but it captures the state of today well nonetheless.",
+          "createdAt": "2026-05-13T04:24:35.000Z",
+          "url": "https://x.com/deedydas/status/2054417500457345309",
+          "likes": 1,
           "retweets": 0,
-          "replies": 1,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2053906845019091435",
-          "text": "5/ dreaming is an offline process for learning *across sessions* for memory pruning / consolidation / skill learning using observed patterns. @maheshmurag gave a overview. https://t.co/BCFEhYptUO",
-          "createdAt": "2026-05-11T18:35:26.000Z",
-          "url": "https://x.com/RLanceMartin/status/2053906845019091435",
-          "likes": 8,
-          "retweets": 0,
-          "replies": 1,
+          "id": "2054417488558059755",
+          "text": "This is the single best read on World Models and one of the most important reads in AI.\n\n$10B has flowed into \"world models\" in the last 18mos, from Yann LeCun to FeiFei Li. The promise is, like LLMs, world models will provide the data it takes to scale robotics foundation models, and solve robotics.\n\n..but the word has been abused to mean one of many things.\n\nThis post unpacks:\n– What 5 traits makes a world model?\n– How do the different approaches stack up?\n– What is it used for within and beyond robotics?\n– Where is the opportunity?\n– Citations to research, news and blog posts\n\nCompanies / products in the space include:\n– BigCo products: Google Genie, Tesla Optimus, Nvidia DreamDojo, DreamZero, Microsoft Muse\n– Pure world model: AMI Labs, World Labs, Runway, Rhoda, Decart, Spaitial, Odyssey, Embo, Dream Labs, OneWorld\n– Robot foundation model cos: Skild, Physical Intelligence, Figure, Mind\n\nVery likely one of the seminal technologies of the next decade.",
+          "createdAt": "2026-05-13T04:24:33.000Z",
+          "url": "https://x.com/deedydas/status/2054417488558059755",
+          "likes": 12,
+          "retweets": 2,
+          "replies": 3,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HIDwf8caQAA__Wl.jpg"
+              "url": "https://pbs.twimg.com/media/HILB0adbgAA2hd9.jpg"
             }
           ]
         },
         {
-          "id": "2053906843261694386",
-          "text": "4/ we launched memory with Managed Agents a few weeks ago, and i wrote about it here. agents write to a filesystem over the course of a session *as they work*. \nhttps://t.co/wNaEB4L5sN",
-          "createdAt": "2026-05-11T18:35:25.000Z",
-          "url": "https://x.com/RLanceMartin/status/2053906843261694386",
-          "likes": 13,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2047720067107033525"
+          "id": "2054079225410490487",
+          "text": "Correlation is not causation, of course.\n\nIndian CEOs are disproportionately tech stocks which have happened to do well in the last 15 years. Was just an interesting observation.",
+          "createdAt": "2026-05-12T06:00:24.000Z",
+          "url": "https://x.com/deedydas/status/2054079225410490487",
+          "likes": 1095,
+          "retweets": 27,
+          "replies": 36,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 8
+    "xBuilders": 3,
+    "totalTweets": 5
   }
 }
