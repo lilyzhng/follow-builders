@@ -1,122 +1,44 @@
 {
-  "generatedAt": "2026-05-14T04:29:13.656Z",
+  "generatedAt": "2026-05-15T04:32:26.407Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "StepFun",
-      "handle": "StepFun_ai",
-      "bio": "Scale-up possibilities for everyone.\nOpenRouter: https://t.co/7fdRQBsTgc\nHuggingFace: https://t.co/isMgbv7q2O\nReddit: https://t.co/uvf7HEu1tt",
+      "name": "Kimi (Moonshot AI)",
+      "handle": "Kimi_Moonshot",
+      "bio": "Built by Moonshot AI to empower everyone to be superhuman. ⚡️API: https://t.co/mzWxjgGO1h\n@KimiProduct where we share cool use cases and prompts.",
       "tweets": [
         {
-          "id": "2054728742971310327",
-          "text": "Our first Bay Area mixer. 🧵 https://t.co/3PQ2LKNwus",
-          "createdAt": "2026-05-14T01:01:21.000Z",
-          "url": "https://x.com/StepFun_ai/status/2054728742971310327",
-          "likes": 1,
+          "id": "2054918381032395042",
+          "text": "With K2.6's multimodal capability, your agent will open a website, navigate through it, and replicate it. https://t.co/EQzfHhBhyB",
+          "createdAt": "2026-05-14T13:34:55.000Z",
+          "url": "https://x.com/Kimi_Moonshot/status/2054918381032395042",
+          "likes": 53,
           "retweets": 0,
           "replies": 1,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HIPc5tKWgAAwv82.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2054687939540525174",
-          "text": "This is what building with Step 3.5 Flash on @gg_lemonade looks like — from prompts to a playable game loop in minutes https://t.co/W1pIZ5YstG",
-          "createdAt": "2026-05-13T22:19:13.000Z",
-          "url": "https://x.com/StepFun_ai/status/2054687939540525174",
-          "likes": 8,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2054663910016618753"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "World-class open source AI\nhttps://t.co/vrD0aDJeto",
-      "tweets": [
-        {
-          "id": "2054681434456301821",
-          "text": "Thank you again to all 227 submitters!\n\nWe loved seeing the range of creative domains and all of the unusual uses for Hermes Agent you found. The team will be highlighting more personal favorites and standout entries, as well as continuing with themed hackathons in the future.\n\nIn the meantime, all winners will be contacted via Discord for prize distribution. Finally, if you’re new here and all of these projects have you feeling inspired to build something of your own, try out Hermes Agent!\n\nhttps://t.co/oxNkSHsFSH",
-          "createdAt": "2026-05-13T21:53:22.000Z",
-          "url": "https://x.com/NousResearch/status/2054681434456301821",
-          "likes": 49,
-          "retweets": 2,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2054681431956173231",
-          "text": "Kimi track - Third place: Permanence by @MachYear \n\nA personal taste-keeping workspace where Hermes Agent synthesizes your references with you and reshapes its own interface to match your aesthetics.\n\nhttps://t.co/vKMYA1qb43 https://t.co/TinkL3i63S",
-          "createdAt": "2026-05-13T21:53:22.000Z",
-          "url": "https://x.com/NousResearch/status/2054681431956173231",
-          "likes": 110,
-          "retweets": 4,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2051198437090103444",
-          "media": [
-            {
               "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2054679138322022400/img/ZsFVH0WKEHmwN2v1.jpg"
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2054898469773692928/img/5y2IzclItQN1wex5.jpg"
             }
           ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
-      "tweets": [
+        },
         {
-          "id": "2054444398365356496",
-          "text": "Clarifications:\n1. The main driving positions are not the only positions. This includes poorer performers like Hubspot, Starbucks and is captured in the footnote. \n\n2. For those who think Michael Milken is just a \"criminal\" and \"junk bond king\" should read more history. He is one of the most important people to the world of modern finance. His innovations drive a lot of Wall Street today. \n\n3. I don't even think the \"they fire people and hire cheap labor\" or \"no innovation happens under them\" really even warrants a response. These comments are from people completely delusional about the way these companies work.",
-          "createdAt": "2026-05-13T06:11:28.000Z",
-          "url": "https://x.com/deedydas/status/2054444398365356496",
-          "likes": 38,
-          "retweets": 4,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Felix Rieseberg (Claude Cowork)",
-      "handle": "felixrieseberg",
-      "bio": "Claude Cowork / Code @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
-      "tweets": [
-        {
-          "id": "2054690676076609657",
-          "text": "I'm moving and found a fun little use for Claude Cowork: Hand it a floorplan and ask it create a 3D planner. The attached demo (not my real place) was a one-shot.\n\nI also had it find all the email receipts for furniture I got over the last few years and put in matching models.\n\nYesterday, I asked it to add a game mode so I can walk through different versions of my new place. The future is SO FUN",
-          "createdAt": "2026-05-13T22:30:06.000Z",
-          "url": "https://x.com/felixrieseberg/status/2054690676076609657",
-          "likes": 134,
-          "retweets": 5,
-          "replies": 8,
+          "id": "2054918377978908933",
+          "text": "Search across multiple platforms at scale and auto-fill results directly into your spreadsheet. https://t.co/vRgdvRKmJ6",
+          "createdAt": "2026-05-14T13:34:54.000Z",
+          "url": "https://x.com/Kimi_Moonshot/status/2054918377978908933",
+          "likes": 79,
+          "retweets": 0,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HIO40zbbIAAddLQ.png"
-            },
-            {
               "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2054689098913468416/img/CkOuPCui2ynSQiE9.jpg"
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2054897363790217216/img/nbniEtocC-P--Ux9.jpg"
             }
           ]
         }
@@ -124,7 +46,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 6
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
