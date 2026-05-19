@@ -1,9 +1,99 @@
 {
-  "generatedAt": "2026-05-18T04:39:35.777Z",
+  "generatedAt": "2026-05-19T04:35:39.569Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4VhMfh",
+      "tweets": [
+        {
+          "id": "2056396942767268267",
+          "text": "Auto-Triage connects Devin to the systems where issues already show up: Slack, Linear, GitHub, schedules, webhooks, observability tools, tickets, alerts, and code.\n\nWhen something needs attention, Devin starts to investigate automatically.",
+          "createdAt": "2026-05-18T15:30:11.000Z",
+          "url": "https://x.com/cognition/status/2056396942767268267",
+          "likes": 34,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2056396941181727210",
+          "text": "Introducing Devin Auto-Triage: Your AI first-responder with long-term memory.\n\nDevin can monitor incoming bugs, alerts, and incidents, investigate them, and come back with context, next steps, or a PR.",
+          "createdAt": "2026-05-18T15:30:11.000Z",
+          "url": "https://x.com/cognition/status/2056396941181727210",
+          "likes": 409,
+          "retweets": 48,
+          "replies": 22,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2056379644450897920/img/YrN_hTSmEXw-DdYe.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lance Martin",
+      "handle": "RLanceMartin",
+      "bio": "staff @anthropicai",
+      "tweets": [
+        {
+          "id": "2056437878453142009",
+          "text": "this pairs well with the claude-api skill (bundled with Claude Code). \n\nask Claude Code to investigate the cache misses using the diagnostics to guide. \n\nconsole link:\nhttps://t.co/02EOpLFNgm\n\ndocs:\nhttps://t.co/eUmyBLWXkB\n\nhttps://t.co/AnImwG6ojk",
+          "createdAt": "2026-05-18T18:12:51.000Z",
+          "url": "https://x.com/RLanceMartin/status/2056437878453142009",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2049575802568839648"
+        },
+        {
+          "id": "2056437876871831657",
+          "text": "Claude Console now gives diagnostics on prompt cache misses. \n\nit will attribute cache misses to messages, system prompt, tool, or model changes. https://t.co/ElQpmvHQdg",
+          "createdAt": "2026-05-18T18:12:51.000Z",
+          "url": "https://x.com/RLanceMartin/status/2056437876871831657",
+          "likes": 42,
+          "retweets": 4,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HInt4pLbMAAfaG2.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2056406701889478657",
+          "text": "new article w Claude Code tips for large codebases \n\ncovers common ways to make codebases navigable &amp; maintain memory / CLAUDE.md as models get smarter.\n\nhttps://t.co/9WhITDXtrY https://t.co/ZG2lqpKR7y",
+          "createdAt": "2026-05-18T16:08:58.000Z",
+          "url": "https://x.com/RLanceMartin/status/2056406701889478657",
+          "likes": 243,
+          "retweets": 16,
+          "replies": 17,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HInR2b5a4AAb9fA.png"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 2,
+    "totalTweets": 5
   }
 }
