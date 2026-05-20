@@ -1,38 +1,57 @@
 {
-  "generatedAt": "2026-05-19T04:35:39.569Z",
+  "generatedAt": "2026-05-20T04:37:01.322Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4VhMfh",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "World-class open source AI\nhttps://t.co/vrD0aDJeto",
       "tweets": [
         {
-          "id": "2056396942767268267",
-          "text": "Auto-Triage connects Devin to the systems where issues already show up: Slack, Linear, GitHub, schedules, webhooks, observability tools, tickets, alerts, and code.\n\nWhen something needs attention, Devin starts to investigate automatically.",
-          "createdAt": "2026-05-18T15:30:11.000Z",
-          "url": "https://x.com/cognition/status/2056396942767268267",
-          "likes": 34,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2056806048414015774",
+          "text": "Join us as a Forward Deployed Engineer! https://t.co/pGwVx9ml8u",
+          "createdAt": "2026-05-19T18:35:50.000Z",
+          "url": "https://x.com/NousResearch/status/2056806048414015774",
+          "likes": 818,
+          "retweets": 35,
+          "replies": 49,
+          "isQuote": true,
+          "quotedTweetId": "2056805799867961726"
         },
         {
-          "id": "2056396941181727210",
-          "text": "Introducing Devin Auto-Triage: Your AI first-responder with long-term memory.\n\nDevin can monitor incoming bugs, alerts, and incidents, investigate them, and come back with context, next steps, or a PR.",
-          "createdAt": "2026-05-18T15:30:11.000Z",
-          "url": "https://x.com/cognition/status/2056396941181727210",
-          "likes": 409,
-          "retweets": 48,
-          "replies": 22,
+          "id": "2056778759437517218",
+          "text": "What we find most useful about CNA is that the intervention is simple yet powerful. The steering is a multiplicative ablation on a sparse set of MLP neurons, which makes CNA a clean addition on top of standard production pipelines: instruction tuning, RL, and safety post-training. We find the neuron basis to be ripe for further exploration in interpretability and steering domains.\n\nPaper: https://t.co/NEVG9QCTDb\nBlog: https://t.co/q8hknexg54\nCode: https://t.co/BIxwoBg1tZ\nHF: https://t.co/PzJKs0NA2t\n\nCNA is a contribution from the mechanistic interpretability team at Nous. If you want to work on problems like this, find us on Discord.",
+          "createdAt": "2026-05-19T16:47:24.000Z",
+          "url": "https://x.com/NousResearch/status/2056778759437517218",
+          "likes": 42,
+          "retweets": 3,
+          "replies": 2,
           "isQuote": false,
-          "quotedTweetId": null,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Modal",
+      "handle": "modal",
+      "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
+      "tweets": [
+        {
+          "id": "2056663757158220057",
+          "text": "Modal is proud to now support @claudeai Managed Agents with Modal Sandboxes. https://t.co/uHbChlSRdV https://t.co/Aj4wvbOuej",
+          "createdAt": "2026-05-19T09:10:25.000Z",
+          "url": "https://x.com/modal/status/2056663757158220057",
+          "likes": 414,
+          "retweets": 29,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2056645485696315581",
           "media": [
             {
               "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2056379644450897920/img/YrN_hTSmEXw-DdYe.jpg"
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2056663700828790784/img/FQwS0wuJKVmft0DZ.jpg"
             }
           ]
         }
@@ -45,47 +64,47 @@
       "bio": "staff @anthropicai",
       "tweets": [
         {
-          "id": "2056437878453142009",
-          "text": "this pairs well with the claude-api skill (bundled with Claude Code). \n\nask Claude Code to investigate the cache misses using the diagnostics to guide. \n\nconsole link:\nhttps://t.co/02EOpLFNgm\n\ndocs:\nhttps://t.co/eUmyBLWXkB\n\nhttps://t.co/AnImwG6ojk",
-          "createdAt": "2026-05-18T18:12:51.000Z",
-          "url": "https://x.com/RLanceMartin/status/2056437878453142009",
-          "likes": 0,
-          "retweets": 0,
+          "id": "2056790626591715745",
+          "text": "we've updated the claude-api skill to help onboard on self-hosted sandboxes. \n\nyou can invoke this in the latest version of Claude Code (with the \"/claude-api\" command) and ask questions. \n\nsee repo here:\nhttps://t.co/wKlvKQDwJu\n\nmore cookbooks here:\nhttps://t.co/WOYFBmkwHB",
+          "createdAt": "2026-05-19T17:34:33.000Z",
+          "url": "https://x.com/RLanceMartin/status/2056790626591715745",
+          "likes": 10,
+          "retweets": 1,
           "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2049575802568839648"
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2056437876871831657",
-          "text": "Claude Console now gives diagnostics on prompt cache misses. \n\nit will attribute cache misses to messages, system prompt, tool, or model changes. https://t.co/ElQpmvHQdg",
-          "createdAt": "2026-05-18T18:12:51.000Z",
-          "url": "https://x.com/RLanceMartin/status/2056437876871831657",
-          "likes": 42,
-          "retweets": 4,
-          "replies": 2,
+          "id": "2056790624716894384",
+          "text": "@vercel: use a Vercel Sandbox for fine control over both networking and credentials. Vercel runs compute inside / adjacent to your own network. lets you reach internal databases, private APIs, or services.\n\nhttps://t.co/0vxiLJbYsv https://t.co/c2XcCXJ908",
+          "createdAt": "2026-05-19T17:34:32.000Z",
+          "url": "https://x.com/RLanceMartin/status/2056790624716894384",
+          "likes": 4,
+          "retweets": 2,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HInt4pLbMAAfaG2.jpg"
+              "url": "https://pbs.twimg.com/media/HIsszckbUAAPnYQ.jpg"
             }
           ]
         },
         {
-          "id": "2056406701889478657",
-          "text": "new article w Claude Code tips for large codebases \n\ncovers common ways to make codebases navigable &amp; maintain memory / CLAUDE.md as models get smarter.\n\nhttps://t.co/9WhITDXtrY https://t.co/ZG2lqpKR7y",
-          "createdAt": "2026-05-18T16:08:58.000Z",
-          "url": "https://x.com/RLanceMartin/status/2056406701889478657",
-          "likes": 243,
-          "retweets": 16,
-          "replies": 17,
+          "id": "2056790623148249227",
+          "text": "@modal: use custom images to set network security, scale to 100,000 concurrent sandboxes per customer. configure CPU, memory, &amp; GPU resources.\n\nhttps://t.co/3odQN9MNkh https://t.co/auSFck0eSR",
+          "createdAt": "2026-05-19T17:34:32.000Z",
+          "url": "https://x.com/RLanceMartin/status/2056790623148249227",
+          "likes": 3,
+          "retweets": 1,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HInR2b5a4AAb9fA.png"
+              "url": "https://pbs.twimg.com/media/HIsrNkqaoAAN8zH.jpg"
             }
           ]
         }
@@ -93,7 +112,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 5
+    "xBuilders": 3,
+    "totalTweets": 6
   }
 }
