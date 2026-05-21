@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T04:37:01.322Z",
+  "generatedAt": "2026-05-21T04:40:36.209Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,26 +9,32 @@
       "bio": "World-class open source AI\nhttps://t.co/vrD0aDJeto",
       "tweets": [
         {
-          "id": "2056806048414015774",
-          "text": "Join us as a Forward Deployed Engineer! https://t.co/pGwVx9ml8u",
-          "createdAt": "2026-05-19T18:35:50.000Z",
-          "url": "https://x.com/NousResearch/status/2056806048414015774",
-          "likes": 818,
-          "retweets": 35,
-          "replies": 49,
+          "id": "2057147728333770821",
+          "text": "More context on the catalog:\n\nhttps://t.co/HuJrNTCImJ",
+          "createdAt": "2026-05-20T17:13:33.000Z",
+          "url": "https://x.com/NousResearch/status/2057147728333770821",
+          "likes": 87,
+          "retweets": 7,
+          "replies": 5,
           "isQuote": true,
-          "quotedTweetId": "2056805799867961726"
+          "quotedTweetId": "2056487690175152601"
         },
         {
-          "id": "2056778759437517218",
-          "text": "What we find most useful about CNA is that the intervention is simple yet powerful. The steering is a multiplicative ablation on a sparse set of MLP neurons, which makes CNA a clean addition on top of standard production pipelines: instruction tuning, RL, and safety post-training. We find the neuron basis to be ripe for further exploration in interpretability and steering domains.\n\nPaper: https://t.co/NEVG9QCTDb\nBlog: https://t.co/q8hknexg54\nCode: https://t.co/BIxwoBg1tZ\nHF: https://t.co/PzJKs0NA2t\n\nCNA is a contribution from the mechanistic interpretability team at Nous. If you want to work on problems like this, find us on Discord.",
-          "createdAt": "2026-05-19T16:47:24.000Z",
-          "url": "https://x.com/NousResearch/status/2056778759437517218",
-          "likes": 42,
-          "retweets": 3,
-          "replies": 2,
+          "id": "2057147726735774203",
+          "text": "Hermes Agent now has access to hundreds of browser skills through @browserbase’s new https://t.co/SZ93w9Z0mk hub, so agents can more reliably perform any task on the internet. You can try a skill from their catalog or contribute your own. https://t.co/wENKsQpHSd",
+          "createdAt": "2026-05-20T17:13:32.000Z",
+          "url": "https://x.com/NousResearch/status/2057147726735774203",
+          "likes": 1673,
+          "retweets": 131,
+          "replies": 86,
           "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2057146869055193088/img/HtK8QE-iuDD9HtTr.jpg"
+            }
+          ]
         }
       ]
     },
@@ -39,19 +45,36 @@
       "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
       "tweets": [
         {
-          "id": "2056663757158220057",
-          "text": "Modal is proud to now support @claudeai Managed Agents with Modal Sandboxes. https://t.co/uHbChlSRdV https://t.co/Aj4wvbOuej",
-          "createdAt": "2026-05-19T09:10:25.000Z",
-          "url": "https://x.com/modal/status/2056663757158220057",
-          "likes": 414,
-          "retweets": 29,
-          "replies": 8,
-          "isQuote": true,
-          "quotedTweetId": "2056645485696315581",
+          "id": "2057176602585272404",
+          "text": "Training their models is a multi-step process, where each piece has unique infrastructure and compute needs. https://t.co/FBLlaQTjDP",
+          "createdAt": "2026-05-20T19:08:17.000Z",
+          "url": "https://x.com/modal/status/2057176602585272404",
+          "likes": 16,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
           "media": [
             {
               "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2056663700828790784/img/FQwS0wuJKVmft0DZ.jpg"
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2057176546343784448/img/TphTSTarCLH37X3s.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2057176544007667914",
+          "text": "Frontier models set the floor. Specialized models raise the ceiling.\n\nWith Modal, @AppliedCompute is training custom agent workforces for companies like DoorDash, Mercor, and Cognition. https://t.co/CgFvhzfvrw",
+          "createdAt": "2026-05-20T19:08:03.000Z",
+          "url": "https://x.com/modal/status/2057176544007667914",
+          "likes": 98,
+          "retweets": 12,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2057176494732935168/img/kP1M5OetPd1icyTI.jpg"
             }
           ]
         }
@@ -59,52 +82,35 @@
     },
     {
       "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "staff @anthropicai",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2056790626591715745",
-          "text": "we've updated the claude-api skill to help onboard on self-hosted sandboxes. \n\nyou can invoke this in the latest version of Claude Code (with the \"/claude-api\" command) and ask questions. \n\nsee repo here:\nhttps://t.co/wKlvKQDwJu\n\nmore cookbooks here:\nhttps://t.co/WOYFBmkwHB",
-          "createdAt": "2026-05-19T17:34:33.000Z",
-          "url": "https://x.com/RLanceMartin/status/2056790626591715745",
-          "likes": 10,
+          "id": "2057000466274562168",
+          "text": "https://t.co/GaFA1P38uy",
+          "createdAt": "2026-05-20T07:28:23.000Z",
+          "url": "https://x.com/deedydas/status/2057000466274562168",
+          "likes": 30,
           "retweets": 1,
-          "replies": 0,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2056790624716894384",
-          "text": "@vercel: use a Vercel Sandbox for fine control over both networking and credentials. Vercel runs compute inside / adjacent to your own network. lets you reach internal databases, private APIs, or services.\n\nhttps://t.co/0vxiLJbYsv https://t.co/c2XcCXJ908",
-          "createdAt": "2026-05-19T17:34:32.000Z",
-          "url": "https://x.com/RLanceMartin/status/2056790624716894384",
-          "likes": 4,
-          "retweets": 2,
-          "replies": 1,
+          "id": "2057000464101834946",
+          "text": "I’m still in shock. Soma didn’t just have an exceptionally successful career, he was the kindest, most authentic man you could ever hope to meet. And now he’s gone.\n\nHe had more of a lasting impact on me than he ever knew. When I was just a confused college student trying to figure out my life, I sent him a cold email asking for help choosing a job. He was a CVP at Microsoft, the most senior level exec you could be. He had every reason to ignore me. Instead, he gave me an hour of his time.\n\nI still remember that conversation so vividly. “Don’t come to Microsoft,” he told me gently. “You don’t have to do the ‘safe’ thing. Aim higher than you think the world allows you to” He gave me, a kid, the courage to believe in himself before that kid had any reason to.\n\nThat was Soma. A man who, despite carrying the weight of an enormous career, made room in his day to lift up a stranger.\n\nSoma went on to be a Managing Director at Madrona, of one of Seattle’s most storied venture funds, where he backed the next generation of founders with the same generosity. He co-owned the US cricket team, the Seattle Orcas, bringing the sport he loved to a country learning to love it. He made everything he touched warmer.\n\n59 is too young. The world had so few people like him, and now it has one less.\n\nRest in peace, Soma (1966-2026).",
+          "createdAt": "2026-05-20T07:28:22.000Z",
+          "url": "https://x.com/deedydas/status/2057000464101834946",
+          "likes": 1160,
+          "retweets": 32,
+          "replies": 39,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HIsszckbUAAPnYQ.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2056790623148249227",
-          "text": "@modal: use custom images to set network security, scale to 100,000 concurrent sandboxes per customer. configure CPU, memory, &amp; GPU resources.\n\nhttps://t.co/3odQN9MNkh https://t.co/auSFck0eSR",
-          "createdAt": "2026-05-19T17:34:32.000Z",
-          "url": "https://x.com/RLanceMartin/status/2056790623148249227",
-          "likes": 3,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HIsrNkqaoAAN8zH.jpg"
+              "url": "https://pbs.twimg.com/media/HIvvBWebcAAD7ax.jpg"
             }
           ]
         }
