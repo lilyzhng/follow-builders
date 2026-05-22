@@ -1,38 +1,44 @@
 {
-  "generatedAt": "2026-05-21T04:40:36.209Z",
+  "generatedAt": "2026-05-22T04:36:47.709Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "World-class open source AI\nhttps://t.co/vrD0aDJeto",
+      "name": "Qwen",
+      "handle": "Alibaba_Qwen",
+      "bio": "Open foundation models for AGI.",
       "tweets": [
         {
-          "id": "2057147728333770821",
-          "text": "More context on the catalog:\n\nhttps://t.co/HuJrNTCImJ",
-          "createdAt": "2026-05-20T17:13:33.000Z",
-          "url": "https://x.com/NousResearch/status/2057147728333770821",
-          "likes": 87,
-          "retweets": 7,
-          "replies": 5,
-          "isQuote": true,
-          "quotedTweetId": "2056487690175152601"
-        },
-        {
-          "id": "2057147726735774203",
-          "text": "Hermes Agent now has access to hundreds of browser skills through @browserbase’s new https://t.co/SZ93w9Z0mk hub, so agents can more reliably perform any task on the internet. You can try a skill from their catalog or contribute your own. https://t.co/wENKsQpHSd",
-          "createdAt": "2026-05-20T17:13:32.000Z",
-          "url": "https://x.com/NousResearch/status/2057147726735774203",
-          "likes": 1673,
-          "retweets": 131,
-          "replies": 86,
+          "id": "2057450231638437940",
+          "text": "Cross-Harness Generalization：Across QwenClawBench and CoWorkBench, Qwen3.7-Max delivers strong, consistent performance regardless of the harness used at evaluation time, confirming that the model has learned to solve tasks — not to exploit particular harnesses. https://t.co/aSZaOLTEbU",
+          "createdAt": "2026-05-21T13:15:35.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2057450231638437940",
+          "likes": 98,
+          "retweets": 0,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2057146869055193088/img/HtK8QE-iuDD9HtTr.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HI18yI-bAAARpqr.png"
+            }
+          ]
+        },
+        {
+          "id": "2057450227968454893",
+          "text": "Agent Scaling：Building on Qwen3.5's environment scaling approach, we've aggressively expanded the quality and diversity of agentic training environments in Qwen3.7 — agentic capabilities generalize from diverse environments, just as language models do from diverse text. The figure below shows a clear and consistent improvement trajectory, with Qwen3.7-Max achieving a top-3 average ranking that approaches Claude-4.6-Opus-Max.",
+          "createdAt": "2026-05-21T13:15:34.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2057450227968454893",
+          "likes": 166,
+          "retweets": 7,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HI18q0XbUAApITX.jpg"
             }
           ]
         }
@@ -40,41 +46,96 @@
     },
     {
       "source": "x",
-      "name": "Modal",
-      "handle": "modal",
-      "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ",
       "tweets": [
         {
-          "id": "2057176602585272404",
-          "text": "Training their models is a multi-step process, where each piece has unique infrastructure and compute needs. https://t.co/FBLlaQTjDP",
-          "createdAt": "2026-05-20T19:08:17.000Z",
-          "url": "https://x.com/modal/status/2057176602585272404",
-          "likes": 16,
-          "retweets": 0,
-          "replies": 1,
+          "id": "2057576909274554595",
+          "text": "MiniMax just wrapped up an eventful week in the US 🥳 Quick recap 🧵",
+          "createdAt": "2026-05-21T21:38:57.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2057576909274554595",
+          "likes": 556,
+          "retweets": 1,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "World-class open source AI\nhttps://t.co/vrD0aDJeto",
+      "tweets": [
+        {
+          "id": "2057610983351140437",
+          "text": "Each hypothesis maps to a minimal modification of the byte-level pipeline, designed to introduce negligible compute overhead and leave the rest of the training loop untouched. For four of the interventions (sample throughput, boundary-as-inductive-bias, subword distances, next-subword prediction), the modification is applied only for the first 50k of 100k steps and then removed, so we can separate the prior from the inductive bias.\n\nAll comparisons use bits-per-byte cross-entropy on a held-out fineweb-edu split.",
+          "createdAt": "2026-05-21T23:54:21.000Z",
+          "url": "https://x.com/NousResearch/status/2057610983351140437",
+          "likes": 28,
+          "retweets": 3,
+          "replies": 2,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2057176546343784448/img/TphTSTarCLH37X3s.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HI4aHu8WgAAWodZ.jpg"
             }
           ]
         },
         {
-          "id": "2057176544007667914",
-          "text": "Frontier models set the floor. Specialized models raise the ceiling.\n\nWith Modal, @AppliedCompute is training custom agent workforces for companies like DoorDash, Mercor, and Cognition. https://t.co/CgFvhzfvrw",
-          "createdAt": "2026-05-20T19:08:03.000Z",
-          "url": "https://x.com/modal/status/2057176544007667914",
-          "likes": 98,
-          "retweets": 12,
-          "replies": 4,
+          "id": "2057610978934546805",
+          "text": "Today we release a study on decoupling the benefits of subword tokenization for language model training, by simulating each suspected benefit one at a time inside a 1.7B byte-level pretraining pipeline.\n\nWe formulate seven hypotheses for why subword LLMs outperform byte-level LLMs (covering computational efficiency, structural priors over subword boundaries and positions, and the optimization objective) and implement each as a controlled intervention against a byte-level baseline. Three of the seven move the validation loss at this scale; the rest either have negligible effect or hurt.\n\nValidated at 1.7B parameters on fineweb-edu with a LLaMA-3 architecture, with 68M-parameter replications in the appendix.\n\nThe work was led by Théo Gigant, Bowen Peng, and Jeffrey Quesnelle.\n\nPaper: https://t.co/Blk7YdVLnc",
+          "createdAt": "2026-05-21T23:54:20.000Z",
+          "url": "https://x.com/NousResearch/status/2057610978934546805",
+          "likes": 496,
+          "retweets": 50,
+          "replies": 29,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HI4aD7_XIAAi6fC.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4VhMfh",
+      "tweets": [
+        {
+          "id": "2057496133304267228",
+          "text": "You can now access the full power of Devin on Windows. \n\n→ Map, build, and modernize Windows applications  \n→ Migrate .NET Framework to .NET Core with built-in QA and testing \n→ Test and QA Windows apps with Devin’s computer use capabilities",
+          "createdAt": "2026-05-21T16:17:59.000Z",
+          "url": "https://x.com/cognition/status/2057496133304267228",
+          "likes": 21,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2057496130225668360",
+          "text": "Devin is getting a Windows PC.\n\nDevin can now natively run in a Windows VM, so it can build, run, and test native Windows applications. https://t.co/mvDOguAuLo",
+          "createdAt": "2026-05-21T16:17:58.000Z",
+          "url": "https://x.com/cognition/status/2057496130225668360",
+          "likes": 285,
+          "retweets": 35,
+          "replies": 14,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2057176494732935168/img/kP1M5OetPd1icyTI.jpg"
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2057493956183662592/img/Tf5mqF903EgiyMkt.jpg"
             }
           ]
         }
@@ -87,38 +148,21 @@
       "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2057000466274562168",
-          "text": "https://t.co/GaFA1P38uy",
-          "createdAt": "2026-05-20T07:28:23.000Z",
-          "url": "https://x.com/deedydas/status/2057000466274562168",
-          "likes": 30,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2057000464101834946",
-          "text": "I’m still in shock. Soma didn’t just have an exceptionally successful career, he was the kindest, most authentic man you could ever hope to meet. And now he’s gone.\n\nHe had more of a lasting impact on me than he ever knew. When I was just a confused college student trying to figure out my life, I sent him a cold email asking for help choosing a job. He was a CVP at Microsoft, the most senior level exec you could be. He had every reason to ignore me. Instead, he gave me an hour of his time.\n\nI still remember that conversation so vividly. “Don’t come to Microsoft,” he told me gently. “You don’t have to do the ‘safe’ thing. Aim higher than you think the world allows you to” He gave me, a kid, the courage to believe in himself before that kid had any reason to.\n\nThat was Soma. A man who, despite carrying the weight of an enormous career, made room in his day to lift up a stranger.\n\nSoma went on to be a Managing Director at Madrona, of one of Seattle’s most storied venture funds, where he backed the next generation of founders with the same generosity. He co-owned the US cricket team, the Seattle Orcas, bringing the sport he loved to a country learning to love it. He made everything he touched warmer.\n\n59 is too young. The world had so few people like him, and now it has one less.\n\nRest in peace, Soma (1966-2026).",
-          "createdAt": "2026-05-20T07:28:22.000Z",
-          "url": "https://x.com/deedydas/status/2057000464101834946",
-          "likes": 1160,
-          "retweets": 32,
-          "replies": 39,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HIvvBWebcAAD7ax.jpg"
-            }
-          ]
+          "id": "2057569977860047045",
+          "text": "When I first joined Menlo, Modal was the #1 early stage company I wanted to invest in. Back then, they were just a ~$100M company.\n\nFinally, 2 years later, it’s an honor to finally partner with Erik, Akshat and team.\n\nAs an engineer myself, I’ve never found an easier ways to scalably run all AI infra workloads (training, inference, sandbox, etc) across some of the best AI companies in the world: Anthropic, Meta, Suno, Doordash, Applied Compute, Cognition.\n\nFun fact: Modal is one of the only companies where both founders are IOI gold medalists (2003 Sweden and 2014 India) and one of the most efficient startups in terms of revenue / employee",
+          "createdAt": "2026-05-21T21:11:25.000Z",
+          "url": "https://x.com/deedydas/status/2057569977860047045",
+          "likes": 327,
+          "retweets": 5,
+          "replies": 10,
+          "isQuote": true,
+          "quotedTweetId": "2057530320790995262"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 6
+    "xBuilders": 5,
+    "totalTweets": 8
   }
 }
