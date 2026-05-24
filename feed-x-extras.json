@@ -1,9 +1,75 @@
 {
-  "generatedAt": "2026-05-23T04:27:19.499Z",
+  "generatedAt": "2026-05-24T04:38:01.474Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
+      "tweets": [
+        {
+          "id": "2058057299688833090",
+          "text": "Source: @manifest_os",
+          "createdAt": "2026-05-23T05:27:51.000Z",
+          "url": "https://x.com/deedydas/status/2058057299688833090",
+          "likes": 7,
+          "retweets": 2,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2058057287449952591",
+          "text": "There's a ton of confusion on the new US immigration policy.\n\nHere's an immigration lawyer's analysis, and how it actually affects every current US visa holder. https://t.co/AAVG1fjITD",
+          "createdAt": "2026-05-23T05:27:48.000Z",
+          "url": "https://x.com/deedydas/status/2058057287449952591",
+          "likes": 840,
+          "retweets": 86,
+          "replies": 48,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HI-wMjnbMAA3Qjs.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Felix Rieseberg (Claude Cowork)",
+      "handle": "felixrieseberg",
+      "bio": "Claude Cowork / Code @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
+      "tweets": [
+        {
+          "id": "2058246536321290289",
+          "text": "I've moved into a somewhat older house so I'm having tons of little engineering problems in the REAL PHYSICAL WORLD but I keep arming myself with illustrated instruction manuals for my specific problems and I feel unstoppable \n\nI'm vibeplumbing https://t.co/B2wuFINtO7",
+          "createdAt": "2026-05-23T17:59:49.000Z",
+          "url": "https://x.com/felixrieseberg/status/2058246536321290289",
+          "likes": 150,
+          "retweets": 4,
+          "replies": 21,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJBcQAAbkAAswPf.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJBcP_naUAAkQA7.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 2,
+    "totalTweets": 3
   }
 }
