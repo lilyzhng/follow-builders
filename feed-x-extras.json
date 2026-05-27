@@ -1,9 +1,57 @@
 {
-  "generatedAt": "2026-05-26T04:35:57.582Z",
+  "generatedAt": "2026-05-27T04:43:02.600Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
+      "tweets": [
+        {
+          "id": "2059470440142417939",
+          "text": "I'm convinced that adding \"Open-\" to your company name instantly 10x's your odds of success.\n\nOpenAI\nOpenEvidence\nOpenTable\nOpenRouter\nOpenCode\nOpenDoor\nOpenGov\nOpenWeb\nOpenText\nOpenView\nOpenSea\nOpenStore\nOpenFX\nOpenSpace\nOpenArt\nOpenHands\nOpenPipe\nOpenNote https://t.co/LFIDhABhyx",
+          "createdAt": "2026-05-27T03:03:10.000Z",
+          "url": "https://x.com/deedydas/status/2059470440142417939",
+          "likes": 155,
+          "retweets": 3,
+          "replies": 37,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJS1c3vawAAQkVx.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2059298900696301672",
+          "text": "OpenRouter announcement: https://t.co/R3NLIEciuL",
+          "createdAt": "2026-05-26T15:41:32.000Z",
+          "url": "https://x.com/deedydas/status/2059298900696301672",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2059277623629664758"
+        },
+        {
+          "id": "2059298478153732577",
+          "text": "Methodology behind comparison:\n\nGoogle / OpenAI report in per minute, which isn't directly comparable (and is usually a peak of a sinusoid number) whereas OR is based on per week. There ofc is double counting because OR serves GPT and Gemini.\n\nGoogle token run rate: https://t.co/poITmMulsz [19B/min x 60 x 24 x 365 is upper bound 10Qa, lower bound say 5Qa]\nOpenAI token run rate: https://t.co/tQTvB5YhBC [15B/min x 60 x 24 x 365 is upper bound 7.8Qa, lower bound say 4Qa]\nMicrosoft Azure Foundry: https://t.co/NH134ncNfH (recently reported 250 customers over 1T, not total tokens)\nhttps://t.co/ibHbRnVcxb (was 400T growing 5x 1yr ago, assuming the same growth)\n\nQa = quadrillionhttps://menlovc.com/perspective/openrouter-now-processes-more-than-a-quadrillion-tokens-a-year/",
+          "createdAt": "2026-05-26T15:39:51.000Z",
+          "url": "https://x.com/deedydas/status/2059298478153732577",
+          "likes": 7,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 1,
+    "totalTweets": 3
   }
 }
