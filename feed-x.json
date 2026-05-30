@@ -1,12 +1,527 @@
 {
-  "generatedAt": "2026-05-29T04:39:30.155Z",
+  "generatedAt": "2026-05-30T04:31:37.546Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2060443102507302948",
+          "text": "A bird flies out of your laptop:\nhttps://t.co/KOsdoA76xo",
+          "createdAt": "2026-05-29T19:28:11.000Z",
+          "url": "https://x.com/joshwoodward/status/2060443102507302948",
+          "likes": 41,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2060322611586834518"
+        },
+        {
+          "id": "2060443100703842527",
+          "text": "20 environments, 20 jobs:\nhttps://t.co/YWUVIIYG4W",
+          "createdAt": "2026-05-29T19:28:11.000Z",
+          "url": "https://x.com/joshwoodward/status/2060443100703842527",
+          "likes": 16,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2060051677323915670"
+        },
+        {
+          "id": "2060443097302208937",
+          "text": "Bring your photo roll to life:\nhttps://t.co/0PQpWo9Dkr",
+          "createdAt": "2026-05-29T19:28:10.000Z",
+          "url": "https://x.com/joshwoodward/status/2060443097302208937",
+          "likes": 13,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2060030922951458869"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "tweets": [
+        {
+          "id": "2060254968968569062",
+          "text": "If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.\n\nJoin 110,000+ subscribers here:\nhttps://t.co/yz9xcsfrhF",
+          "createdAt": "2026-05-29T07:00:36.000Z",
+          "url": "https://x.com/petergyang/status/2060254968968569062",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nan Yu",
+      "handle": "thenanyu",
+      "bio": "head of product @linear",
+      "tweets": [
+        {
+          "id": "2060452026765500662",
+          "text": "pretty sure investors view it as an elon company https://t.co/NCIfilG6UT",
+          "createdAt": "2026-05-29T20:03:39.000Z",
+          "url": "https://x.com/thenanyu/status/2060452026765500662",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2060433734046773413"
+        },
+        {
+          "id": "2060358981340524589",
+          "text": "…yet https://t.co/edcO36dMQn",
+          "createdAt": "2026-05-29T13:53:55.000Z",
+          "url": "https://x.com/thenanyu/status/2060358981340524589",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2060322763718725798"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2060443982342357032",
+          "text": "Docker inside ▲ Sandbox live 𝚗𝚘𝚠 https://t.co/o9qDvMcX3I",
+          "createdAt": "2026-05-29T19:31:41.000Z",
+          "url": "https://x.com/rauchg/status/2060443982342357032",
+          "likes": 204,
+          "retweets": 5,
+          "replies": 26,
+          "isQuote": true,
+          "quotedTweetId": "2060443240902627388"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2060525104384418271",
+          "text": "The app layer couldn’t get a better advertisement than a company spending $500M to build their own version of it. Obviously lots of nuance here that can’t be captured in the headline, but this should make you very bullish on software. https://t.co/laysmOjyo7",
+          "createdAt": "2026-05-30T00:54:02.000Z",
+          "url": "https://x.com/levie/status/2060525104384418271",
+          "likes": 295,
+          "retweets": 15,
+          "replies": 27,
+          "isQuote": true,
+          "quotedTweetId": "2059861227757768954"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Harrison Chase",
+      "handle": "hwchase17",
+      "bio": "@LangChain\n\nAlways hiring: https://t.co/D5Ut3loFO7",
+      "tweets": [
+        {
+          "id": "2060451985305080285",
+          "text": "agent builder! https://t.co/7F2IILtd02",
+          "createdAt": "2026-05-29T20:03:29.000Z",
+          "url": "https://x.com/hwchase17/status/2060451985305080285",
+          "likes": 20,
+          "retweets": 1,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2060436095867785300"
+        },
+        {
+          "id": "2060422390040195244",
+          "text": "open models are having a moment! https://t.co/xM91z2HdkS",
+          "createdAt": "2026-05-29T18:05:53.000Z",
+          "url": "https://x.com/hwchase17/status/2060422390040195244",
+          "likes": 19,
+          "retweets": 1,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2060405874993115532"
+        },
+        {
+          "id": "2060386130684756313",
+          "text": "llm spend is starting to get really high...\n\na key part of our LLM gateway is spend visibility and spend control\n\nsign up for the private beta to try it out today! https://t.co/WyaJ0DYXdQ https://t.co/1Ss9zHpIrG",
+          "createdAt": "2026-05-29T15:41:48.000Z",
+          "url": "https://x.com/hwchase17/status/2060386130684756313",
+          "likes": 19,
+          "retweets": 1,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2060375967638446491"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "tweets": [
+        {
+          "id": "2060435594334130467",
+          "text": "People use the term “AI psychosis” half-jokingly but I’d actually be very interested in seeing some studies on the effect of heavy AI usage on human psychology\n\nLike does constant context switching between multiple agent sessions reduce your attention span? Do you feel like your attention span has worsened since using AI?",
+          "createdAt": "2026-05-29T18:58:21.000Z",
+          "url": "https://x.com/zarazhangrui/status/2060435594334130467",
+          "likes": 27,
+          "retweets": 0,
+          "replies": 18,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2060420902521835905",
+          "text": "If you are seeing revenue explode for application startups, it's because a lot of them are trying to get into the token path as quickly as possible..\n\nMargins are a different story though 🙃",
+          "createdAt": "2026-05-29T17:59:58.000Z",
+          "url": "https://x.com/nikunj/status/2060420902521835905",
+          "likes": 41,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2060363468595761636",
+          "text": "Every week, like clockwork..\n\nThem: How did you get your followers?\n\nMe: Idk man, I just write and post my shower thoughts consistently. \n\nThem: Do you ragebait?\n\nMe: No\n\nThem: Do you reply a lot?\n\nMe: Not really, but I do if I like a take. \n\nThem: Do you post controversial things?\n\nMe: No, just mostly about tech and life. I won’t hesitate to take a stand. \n\nThem: Did you buy followers? \n\nMe: No\n\nThem: Did you do a lot of videos?\n\nMe: No\n\nThem: I don’t believe you\n\nMe: 🤷‍♂️ \n\nLeaving this here so I can just share it with the next person that DMs me. \n\nBut, it’s really sad when people think you need all these shortcuts to build a following. \n\nWhen it’s honestly as simple as having good takes.",
+          "createdAt": "2026-05-29T14:11:45.000Z",
+          "url": "https://x.com/nikunj/status/2060363468595761636",
+          "likes": 48,
+          "retweets": 0,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2060371944168358250",
+          "text": "“clanker” is not a slur. “vibe coding” is. https://t.co/emcRyuNADJ",
+          "createdAt": "2026-05-29T14:45:26.000Z",
+          "url": "https://x.com/steipete/status/2060371944168358250",
+          "likes": 212,
+          "retweets": 11,
+          "replies": 38,
+          "isQuote": true,
+          "quotedTweetId": "2059266709144371345"
+        },
+        {
+          "id": "2060369325895094607",
+          "text": "Since many folks misunderstood my comment - this is about the domain. At least that was the main rename-drama I had. Content is fine.",
+          "createdAt": "2026-05-29T14:35:01.000Z",
+          "url": "https://x.com/steipete/status/2060369325895094607",
+          "likes": 92,
+          "retweets": 1,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2060358460831682895",
+          "text": "No LLMs for finding bugs even? https://t.co/VWyyrXwoBh",
+          "createdAt": "2026-05-29T13:51:51.000Z",
+          "url": "https://x.com/steipete/status/2060358460831682895",
+          "likes": 229,
+          "retweets": 12,
+          "replies": 38,
+          "isQuote": true,
+          "quotedTweetId": "2060079294081314989"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2060487621915152571",
+          "text": "extremely sick https://t.co/aV3SISsMbv",
+          "createdAt": "2026-05-29T22:25:05.000Z",
+          "url": "https://x.com/danshipper/status/2060487621915152571",
+          "likes": 185,
+          "retweets": 4,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2060464235868836235"
+        },
+        {
+          "id": "2060382815821209801",
+          "text": "Extremely smart take on the tokenmaxxing panic and why it won’t last: https://t.co/Su1yOhAuL7",
+          "createdAt": "2026-05-29T15:28:38.000Z",
+          "url": "https://x.com/danshipper/status/2060382815821209801",
+          "likes": 214,
+          "retweets": 23,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2060000498913247688"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ",
+      "tweets": [
+        {
+          "id": "2060421829307830341",
+          "text": "MiniMax M2.7 + CyOps = the scorecard speaks for itself 💪 https://t.co/Zt7Omjwihd",
+          "createdAt": "2026-05-29T18:03:39.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2060421829307830341",
+          "likes": 315,
+          "retweets": 7,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2060341400932385164"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "StepFun",
+      "handle": "StepFun_ai",
+      "bio": "Scale-up possibilities for everyone.\nOpenRouter: https://t.co/7fdRQBsTgc\nHuggingFace: https://t.co/isMgbv7q2O\nReddit: https://t.co/uvf7HEu1tt",
+      "tweets": [
+        {
+          "id": "2060345416785531175",
+          "text": "Step 3.7 Flash is now live in @kilocode !\nOpen weights, ready to run. Appreciate the quick integration 🙏 https://t.co/hOhWWzlWKQ",
+          "createdAt": "2026-05-29T13:00:01.000Z",
+          "url": "https://x.com/StepFun_ai/status/2060345416785531175",
+          "likes": 31,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2060341963119837635"
+        },
+        {
+          "id": "2060344803125289396",
+          "text": "Appreciate it 🙏 Step 3.7 Flash was built for agentic workflows — curious to see what @NousResearch users build with it on Hermes Agent. https://t.co/YNDxXmz1yS",
+          "createdAt": "2026-05-29T12:57:35.000Z",
+          "url": "https://x.com/StepFun_ai/status/2060344803125289396",
+          "likes": 51,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2060331006272348334"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "World-class open source AI\nhttps://t.co/vrD0aDJeto",
+      "tweets": [
+        {
+          "id": "2060491074338972072",
+          "text": "As always, 'hermes update'\n\nMore info:\n\nhttps://t.co/uOPZEJ1yQ4",
+          "createdAt": "2026-05-29T22:38:48.000Z",
+          "url": "https://x.com/NousResearch/status/2060491074338972072",
+          "likes": 65,
+          "retweets": 3,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2060490936124105179",
+          "text": "Hermes Agent now has Tool Search, so your agent only loads what it needs https://t.co/CaWrKo5mxp",
+          "createdAt": "2026-05-29T22:38:15.000Z",
+          "url": "https://x.com/NousResearch/status/2060490936124105179",
+          "likes": 1585,
+          "retweets": 124,
+          "replies": 90,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/media/HJhUwfjXgAUnLk2.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2060331006272348334",
+          "text": "Our users love @StepFun_ai models and this new release packs a punch at a small size. Looking forward to seeing how well it works with Hermes Agent! https://t.co/JpUbmwbxH4",
+          "createdAt": "2026-05-29T12:02:45.000Z",
+          "url": "https://x.com/NousResearch/status/2060331006272348334",
+          "likes": 426,
+          "retweets": 21,
+          "replies": 28,
+          "isQuote": true,
+          "quotedTweetId": "2060149124117475791"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4VhMfh",
+      "tweets": [
+        {
+          "id": "2060416342704935107",
+          "text": "We've seen lots of enthusiasm for Devin's end-to-end testing capabilities in its virtual machine.\n\nIn this post, @ido_pesok shares the technical details behind how we implement testing for verification at scale. https://t.co/SZrDESY87m",
+          "createdAt": "2026-05-29T17:41:51.000Z",
+          "url": "https://x.com/cognition/status/2060416342704935107",
+          "likes": 143,
+          "retweets": 18,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2060416230641881336"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Modal",
+      "handle": "modal",
+      "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
+      "tweets": [
+        {
+          "id": "2060457233725407404",
+          "text": "Cyber attackers don't wait for you to spin up infrastructure. \n\nHow @DoppelHQ uses Modal's elastic compute to scale inference, cut training overhead, and parallelize experimentation 👇 https://t.co/DkTFLVhlb1",
+          "createdAt": "2026-05-29T20:24:20.000Z",
+          "url": "https://x.com/modal/status/2060457233725407404",
+          "likes": 13,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2060454005654917488"
+        },
+        {
+          "id": "2060358437486330109",
+          "text": "Deploy today: https://t.co/OgUnC3GPRo",
+          "createdAt": "2026-05-29T13:51:45.000Z",
+          "url": "https://x.com/modal/status/2060358437486330109",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2060358425150926959",
+          "text": "Day 0 support for Step 3.7 Flash on Modal.\n\n- 198B parameter MoE with 11B active\n- 256K context\n- 3 reasoning levels\n- Native image &amp; video understanding\n\nGreat to work with @StepFun_ai and @sgl_project on this one. https://t.co/3tC2Ow9a2t",
+          "createdAt": "2026-05-29T13:51:42.000Z",
+          "url": "https://x.com/modal/status/2060358425150926959",
+          "likes": 74,
+          "retweets": 8,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJfdEZHbQAAA6DX.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cheng Lou",
+      "handle": "_chenglou",
+      "bio": "Worked on: @reactjs, @messenger, @reasonml, @rescriptlang\nCurrently: @midjourney, Pretext",
+      "tweets": [
+        {
+          "id": "2060457548852170982",
+          "text": "You either know your layout positions or spend a whole career documenting workarounds",
+          "createdAt": "2026-05-29T20:25:35.000Z",
+          "url": "https://x.com/_chenglou/status/2060457548852170982",
+          "likes": 9,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
+      "tweets": [
+        {
+          "id": "2060569138746339781",
+          "text": "Something tells me we're going to see a lot more of these glossy black oval devices this year. https://t.co/xcucrWdE7K",
+          "createdAt": "2026-05-30T03:49:00.000Z",
+          "url": "https://x.com/deedydas/status/2060569138746339781",
+          "likes": 39,
+          "retweets": 1,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJictlkaIAA2_Ct.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2060400203862266100",
+          "text": "Instead of fixing or even acknowledging their issues, they've chosen to ask all their principals to do PR damage control on social media by repeating their company line.\n\nSystemic failure of the education system https://t.co/ZkU3g7pxJu",
+          "createdAt": "2026-05-29T16:37:43.000Z",
+          "url": "https://x.com/deedydas/status/2060400203862266100",
+          "likes": 169,
+          "retweets": 17,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2060214633190072506"
+        },
+        {
+          "id": "2060390429724725651",
+          "text": "The national high school exam of India, CBSE, has been Pwned!\n\nThis incompetent organization continues to deny the allegations against them. And a teenager has taken over their prod servers hosting the exam booklet scans of 2M test takers. They have just taken it down.\n\nAll they had to say is \"can you help us fix the problem?\" but their ego is too big to admit they were wrong.\n\nIncompetence is one thing. The complete lack of accountability to the nation while your servers get catastrophically owned is another. Internet-scale embarrassment.",
+          "createdAt": "2026-05-29T15:58:53.000Z",
+          "url": "https://x.com/deedydas/status/2060390429724725651",
+          "likes": 3048,
+          "retweets": 561,
+          "replies": 42,
+          "isQuote": true,
+          "quotedTweetId": "2060320391617499380"
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
-  },
-  "errors": [
-    "X API: User lookup failed: HTTP 500"
-  ]
+    "xBuilders": 17,
+    "totalTweets": 33
+  }
 }
