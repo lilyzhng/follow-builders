@@ -1,57 +1,29 @@
 {
-  "generatedAt": "2026-05-30T04:31:39.080Z",
+  "generatedAt": "2026-05-31T04:43:42.342Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
+      "name": "StepFun",
+      "handle": "StepFun_ai",
+      "bio": "Scale-up possibilities for everyone.\nOpenRouter: https://t.co/7fdRQBsTgc\nHuggingFace: https://t.co/isMgbv7q2O\nReddit: https://t.co/uvf7HEu1tt",
       "tweets": [
         {
-          "id": "2060569138746339781",
-          "text": "Something tells me we're going to see a lot more of these glossy black oval devices this year. https://t.co/xcucrWdE7K",
-          "createdAt": "2026-05-30T03:49:00.000Z",
-          "url": "https://x.com/deedydas/status/2060569138746339781",
-          "likes": 39,
-          "retweets": 1,
-          "replies": 11,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HJictlkaIAA2_Ct.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2060400203862266100",
-          "text": "Instead of fixing or even acknowledging their issues, they've chosen to ask all their principals to do PR damage control on social media by repeating their company line.\n\nSystemic failure of the education system https://t.co/ZkU3g7pxJu",
-          "createdAt": "2026-05-29T16:37:43.000Z",
-          "url": "https://x.com/deedydas/status/2060400203862266100",
-          "likes": 169,
-          "retweets": 17,
-          "replies": 1,
+          "id": "2060678753030947226",
+          "text": "Small is a feature. 😌 https://t.co/dOAi3Xmfhl",
+          "createdAt": "2026-05-30T11:04:34.000Z",
+          "url": "https://x.com/StepFun_ai/status/2060678753030947226",
+          "likes": 49,
+          "retweets": 0,
+          "replies": 0,
           "isQuote": true,
-          "quotedTweetId": "2060214633190072506"
-        },
-        {
-          "id": "2060390429724725651",
-          "text": "The national high school exam of India, CBSE, has been Pwned!\n\nThis incompetent organization continues to deny the allegations against them. And a teenager has taken over their prod servers hosting the exam booklet scans of 2M test takers. They have just taken it down.\n\nAll they had to say is \"can you help us fix the problem?\" but their ego is too big to admit they were wrong.\n\nIncompetence is one thing. The complete lack of accountability to the nation while your servers get catastrophically owned is another. Internet-scale embarrassment.",
-          "createdAt": "2026-05-29T15:58:53.000Z",
-          "url": "https://x.com/deedydas/status/2060390429724725651",
-          "likes": 3048,
-          "retweets": 561,
-          "replies": 42,
-          "isQuote": true,
-          "quotedTweetId": "2060320391617499380"
+          "quotedTweetId": "2060156049080885738"
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 3
+    "totalTweets": 1
   }
 }
