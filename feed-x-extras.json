@@ -1,29 +1,59 @@
 {
-  "generatedAt": "2026-05-31T04:43:42.342Z",
+  "generatedAt": "2026-06-01T04:44:28.500Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "StepFun",
-      "handle": "StepFun_ai",
-      "bio": "Scale-up possibilities for everyone.\nOpenRouter: https://t.co/7fdRQBsTgc\nHuggingFace: https://t.co/isMgbv7q2O\nReddit: https://t.co/uvf7HEu1tt",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ",
       "tweets": [
         {
-          "id": "2060678753030947226",
-          "text": "Small is a feature. 😌 https://t.co/dOAi3Xmfhl",
-          "createdAt": "2026-05-30T11:04:34.000Z",
-          "url": "https://x.com/StepFun_ai/status/2060678753030947226",
-          "likes": 49,
-          "retweets": 0,
-          "replies": 0,
+          "id": "2061283737674092665",
+          "text": "M3 on @AskVenice, available anonymously 🔥 \n\nopen-weight, frontier coding + agentic, 1M context, native multimodal.\n\nLive on day one https://t.co/yOoRRA7PrC",
+          "createdAt": "2026-06-01T03:08:34.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2061283737674092665",
+          "likes": 46,
+          "retweets": 1,
+          "replies": 5,
           "isQuote": true,
-          "quotedTweetId": "2060156049080885738"
+          "quotedTweetId": "2061267492735971777"
+        },
+        {
+          "id": "2061280344297578941",
+          "text": "M3 on @OpenRouter same day we dropped it 🔥.\n\n1M context, frontier coding + agentic, native multimodal. 50% off the first week. https://t.co/sFObvd4D7r",
+          "createdAt": "2026-06-01T02:55:05.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2061280344297578941",
+          "likes": 132,
+          "retweets": 3,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2061277148502192246"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "StepFun",
+      "handle": "StepFun_ai",
+      "bio": "Scale-up possibilities for everyone.\nOpenRouter: https://t.co/1yZfzkC2N0\nHuggingFace: https://t.co/isMgbv7XSm",
+      "tweets": [
+        {
+          "id": "2061070218311659849",
+          "text": "Want to try Step 3.7 Flash without touching a line of code?\n\nIt now has a hosted demo — open it right in your browser, no install needed.\n\nBuilt on Gradio by @_akhaliq 🙏, now live in our Hugging Face org.\n\nGive it a try 👇",
+          "createdAt": "2026-05-31T13:00:07.000Z",
+          "url": "https://x.com/StepFun_ai/status/2061070218311659849",
+          "likes": 89,
+          "retweets": 5,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 2,
+    "totalTweets": 3
   }
 }
