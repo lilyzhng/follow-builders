@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-06-01T04:44:28.500Z",
+  "generatedAt": "2026-06-02T04:44:04.104Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "Qwen",
+      "handle": "Alibaba_Qwen",
+      "bio": "Open foundation models for AGI.",
+      "tweets": [
+        {
+          "id": "2061506648628490643",
+          "text": "Performance2：Multimodal Benchmarks\n\nQwen3.7-Plus’s multimodal improvements are not limited to isolated gains in visual understanding. Instead, they reflect a systematic enhancement of the core capabilities required by multimodal agents—understanding complex visual inputs, reasoning over visual information, using tools to solve problems, and ultimately executing tasks in code or GUI environments.",
+          "createdAt": "2026-06-01T17:54:20.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2061506648628490643",
+          "likes": 90,
+          "retweets": 5,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJvxRambgAEqnvK.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2061506644367069392",
+          "text": "Performance1：Text Benchmarks\n\nQwen3.7-Plus delivers competitive text performance that approaches Max-tier models across the board. https://t.co/irPhTOWN98",
+          "createdAt": "2026-06-01T17:54:19.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2061506644367069392",
+          "likes": 125,
+          "retweets": 8,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJvxNJxasAAw58x.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "MiniMax",
@@ -9,51 +51,110 @@
       "bio": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ",
       "tweets": [
         {
-          "id": "2061283737674092665",
-          "text": "M3 on @AskVenice, available anonymously 🔥 \n\nopen-weight, frontier coding + agentic, 1M context, native multimodal.\n\nLive on day one https://t.co/yOoRRA7PrC",
-          "createdAt": "2026-06-01T03:08:34.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2061283737674092665",
-          "likes": 46,
+          "id": "2061584342342893954",
+          "text": "M3 on Cloudflare AI Gateway, day one ⚡ \n\nFrontier coding, 1M context, and native multimodal and now just one fetch away. \n\nIt is time to build something. 🦞 https://t.co/1G5UGc2wQV",
+          "createdAt": "2026-06-01T23:03:04.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2061584342342893954",
+          "likes": 91,
           "retweets": 1,
           "replies": 5,
           "isQuote": true,
-          "quotedTweetId": "2061267492735971777"
+          "quotedTweetId": "2061562372142322056"
         },
         {
-          "id": "2061280344297578941",
-          "text": "M3 on @OpenRouter same day we dropped it 🔥.\n\n1M context, frontier coding + agentic, native multimodal. 50% off the first week. https://t.co/sFObvd4D7r",
-          "createdAt": "2026-06-01T02:55:05.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2061280344297578941",
-          "likes": 132,
-          "retweets": 3,
-          "replies": 11,
+          "id": "2061530812361941272",
+          "text": "the price tags tell the story 👀\n\nM3 on @aimlapi!\n\ngo test it yourself 😎 https://t.co/p4vMmcyPHZ",
+          "createdAt": "2026-06-01T19:30:21.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2061530812361941272",
+          "likes": 40,
+          "retweets": 1,
+          "replies": 5,
           "isQuote": true,
-          "quotedTweetId": "2061277148502192246"
+          "quotedTweetId": "2061522466971717991"
         }
       ]
     },
     {
       "source": "x",
-      "name": "StepFun",
-      "handle": "StepFun_ai",
-      "bio": "Scale-up possibilities for everyone.\nOpenRouter: https://t.co/1yZfzkC2N0\nHuggingFace: https://t.co/isMgbv7XSm",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "World-class open source AI\nhttps://t.co/vrD0aDJeto",
       "tweets": [
         {
-          "id": "2061070218311659849",
-          "text": "Want to try Step 3.7 Flash without touching a line of code?\n\nIt now has a hosted demo — open it right in your browser, no install needed.\n\nBuilt on Gradio by @_akhaliq 🙏, now live in our Hugging Face org.\n\nGive it a try 👇",
-          "createdAt": "2026-05-31T13:00:07.000Z",
-          "url": "https://x.com/StepFun_ai/status/2061070218311659849",
-          "likes": 89,
-          "retweets": 5,
-          "replies": 5,
+          "id": "2061516265303216462",
+          "text": "A new beginning of PC starts with @NVIDIARTXSpark, supercharging what's possible in Hermes Agent. https://t.co/lYyyf8LzvA",
+          "createdAt": "2026-06-01T18:32:33.000Z",
+          "url": "https://x.com/NousResearch/status/2061516265303216462",
+          "likes": 445,
+          "retweets": 39,
+          "replies": 30,
+          "isQuote": true,
+          "quotedTweetId": "2061305494539469143"
+        },
+        {
+          "id": "2061323987804713083",
+          "text": "We have been working closely with @nvidia to ensure Hermes Agent works smoothly on their new @NVIDIARTXSpark superchip and integrates with the new OpenShell runtime, which connects Hermes to @Microsoft's security primitives.\n\nWatch our feature in the big announcement at Computex: https://t.co/fLeQQ7THPA",
+          "createdAt": "2026-06-01T05:48:30.000Z",
+          "url": "https://x.com/NousResearch/status/2061323987804713083",
+          "likes": 5968,
+          "retweets": 595,
+          "replies": 277,
           "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2061323633344032770/img/zwhKhjAfFyg2Kxpc.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "tweets": [
+        {
+          "id": "2061506394118136054",
+          "text": "We tested Search as Code on deep research (DSQA, BrowseComp, HLE) and wide research benchmarks (WideSearch, WANDR).\n\nIt matches or beats every competing system across all five. https://t.co/tdZhmn6HhD",
+          "createdAt": "2026-06-01T17:53:19.000Z",
+          "url": "https://x.com/perplexity_ai/status/2061506394118136054",
+          "likes": 74,
+          "retweets": 3,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJvxI9XaoAAK8ml.png"
+            }
+          ]
+        },
+        {
+          "id": "2061506376741134845",
+          "text": "@PPLXDevs The traditional tool-calling approach suffers from high latency, manual control flow, and context pollution.\n\nWith Search as Code, the model composes search primitives: fanning out queries asynchronously, deduping, filtering, joining, and ranking before results hits its context. https://t.co/4cLyvDIFXi",
+          "createdAt": "2026-06-01T17:53:15.000Z",
+          "url": "https://x.com/perplexity_ai/status/2061506376741134845",
+          "likes": 97,
+          "retweets": 3,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJvxH8YbgAAt4aN.png"
+            }
+          ]
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 3
+    "xBuilders": 4,
+    "totalTweets": 8
   }
 }
