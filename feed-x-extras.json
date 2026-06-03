@@ -1,49 +1,7 @@
 {
-  "generatedAt": "2026-06-02T04:44:04.104Z",
+  "generatedAt": "2026-06-03T04:44:29.167Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Qwen",
-      "handle": "Alibaba_Qwen",
-      "bio": "Open foundation models for AGI.",
-      "tweets": [
-        {
-          "id": "2061506648628490643",
-          "text": "Performance2：Multimodal Benchmarks\n\nQwen3.7-Plus’s multimodal improvements are not limited to isolated gains in visual understanding. Instead, they reflect a systematic enhancement of the core capabilities required by multimodal agents—understanding complex visual inputs, reasoning over visual information, using tools to solve problems, and ultimately executing tasks in code or GUI environments.",
-          "createdAt": "2026-06-01T17:54:20.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2061506648628490643",
-          "likes": 90,
-          "retweets": 5,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HJvxRambgAEqnvK.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2061506644367069392",
-          "text": "Performance1：Text Benchmarks\n\nQwen3.7-Plus delivers competitive text performance that approaches Max-tier models across the board. https://t.co/irPhTOWN98",
-          "createdAt": "2026-06-01T17:54:19.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2061506644367069392",
-          "likes": 125,
-          "retweets": 8,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HJvxNJxasAAw58x.jpg"
-            }
-          ]
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "MiniMax",
@@ -51,26 +9,26 @@
       "bio": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ",
       "tweets": [
         {
-          "id": "2061584342342893954",
-          "text": "M3 on Cloudflare AI Gateway, day one ⚡ \n\nFrontier coding, 1M context, and native multimodal and now just one fetch away. \n\nIt is time to build something. 🦞 https://t.co/1G5UGc2wQV",
-          "createdAt": "2026-06-01T23:03:04.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2061584342342893954",
-          "likes": 91,
-          "retweets": 1,
-          "replies": 5,
+          "id": "2061944204604101020",
+          "text": "We wrapped a live session on M3 yesterday with the @togethercompute  team & our researchers @zpysky1125 and @HaohaiSun \n\nA few highlights 🧵  \n1. MSA (MiniMax Sparse Attention) is the star ⭐️. Unlike CSA/HCA, which compress the KV cache, MSA keeps the real, uncompressed KV and does block-level selection with a small top-K. That's how the 1M context window stays tractable.\n\n2. The efficiency win is huge. In our previous generation, ~30% of per-decode wall-clock time went to the attention kernel. With MSA that now drops to ~5%. Big gains for long-context generation.  \n\n3. M3 isn't just a coding model. Natively multimodal (image + video in), ability to handle long-horizon agentic tasks, and even operate a desktop computer. People are already throwing game-dev + Minecraft-style builds at it (Unity included) and it's holding its own.\n\n4. M3 can self-evaluate on vision-coding tasks: it builds a website or SVG, browses and inspects its own rendered output, judges it, and iterates - grading work visually.\n\n5. We're also seeing junior-analyst-level performance on finance tasks; something we haven't even showcased publicly yet.  \n\n6. What's next: harder long-horizon / multi-file tasks in future releases, scaling data + post-training (RL) compute toward pre-training scale, and going deeper into finance, legal & bio.  \n\nThanks to everyone who joined 🙏\n\nTry M3 link in the comments👇",
+          "createdAt": "2026-06-02T22:53:02.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2061944204604101020",
+          "likes": 58,
+          "retweets": 3,
+          "replies": 7,
           "isQuote": true,
-          "quotedTweetId": "2061562372142322056"
+          "quotedTweetId": "2061270619627368557"
         },
         {
-          "id": "2061530812361941272",
-          "text": "the price tags tell the story 👀\n\nM3 on @aimlapi!\n\ngo test it yourself 😎 https://t.co/p4vMmcyPHZ",
-          "createdAt": "2026-06-01T19:30:21.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2061530812361941272",
-          "likes": 40,
-          "retweets": 1,
-          "replies": 5,
+          "id": "2061935980291223631",
+          "text": "MiniMax-M3 #6 overall on @ValsAI \n\nthe new open-weight SOTA 🚀 https://t.co/FwiiBSmDBs",
+          "createdAt": "2026-06-02T22:20:21.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2061935980291223631",
+          "likes": 73,
+          "retweets": 2,
+          "replies": 8,
           "isQuote": true,
-          "quotedTweetId": "2061522466971717991"
+          "quotedTweetId": "2061926305722200226"
         }
       ]
     },
@@ -81,30 +39,30 @@
       "bio": "World-class open source AI\nhttps://t.co/vrD0aDJeto",
       "tweets": [
         {
-          "id": "2061516265303216462",
-          "text": "A new beginning of PC starts with @NVIDIARTXSpark, supercharging what's possible in Hermes Agent. https://t.co/lYyyf8LzvA",
-          "createdAt": "2026-06-01T18:32:33.000Z",
-          "url": "https://x.com/NousResearch/status/2061516265303216462",
-          "likes": 445,
-          "retweets": 39,
-          "replies": 30,
-          "isQuote": true,
-          "quotedTweetId": "2061305494539469143"
+          "id": "2061843626187985243",
+          "text": "Available on all platforms at the link below:\n\nhttps://t.co/qkT3GUYthx",
+          "createdAt": "2026-06-02T16:13:22.000Z",
+          "url": "https://x.com/NousResearch/status/2061843626187985243",
+          "likes": 731,
+          "retweets": 62,
+          "replies": 74,
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2061323987804713083",
-          "text": "We have been working closely with @nvidia to ensure Hermes Agent works smoothly on their new @NVIDIARTXSpark superchip and integrates with the new OpenShell runtime, which connects Hermes to @Microsoft's security primitives.\n\nWatch our feature in the big announcement at Computex: https://t.co/fLeQQ7THPA",
-          "createdAt": "2026-06-01T05:48:30.000Z",
-          "url": "https://x.com/NousResearch/status/2061323987804713083",
-          "likes": 5968,
-          "retweets": 595,
-          "replies": 277,
+          "id": "2061843507417944552",
+          "text": "The next evolution of Hermes Agent is here! \n\nIntroducing Hermes Desktop: everything you love about Hermes, now native on your machine.\n\nFirst demoed in Jensen's GTC keynote, it's now in public preview. https://t.co/8ND1k8hyaz",
+          "createdAt": "2026-06-02T16:12:54.000Z",
+          "url": "https://x.com/NousResearch/status/2061843507417944552",
+          "likes": 9338,
+          "retweets": 1066,
+          "replies": 868,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2061323633344032770/img/zwhKhjAfFyg2Kxpc.jpg"
+              "url": "https://pbs.twimg.com/media/HJ0jlUAWsAEsYRd.jpg"
             }
           ]
         }
@@ -112,41 +70,35 @@
     },
     {
       "source": "x",
-      "name": "Perplexity",
-      "handle": "perplexity_ai",
-      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4VhMfh",
       "tweets": [
         {
-          "id": "2061506394118136054",
-          "text": "We tested Search as Code on deep research (DSQA, BrowseComp, HLE) and wide research benchmarks (WideSearch, WANDR).\n\nIt matches or beats every competing system across all five. https://t.co/tdZhmn6HhD",
-          "createdAt": "2026-06-01T17:53:19.000Z",
-          "url": "https://x.com/perplexity_ai/status/2061506394118136054",
-          "likes": 74,
-          "retweets": 3,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HJvxI9XaoAAK8ml.png"
-            }
-          ]
+          "id": "2061889598192509330",
+          "text": "Devin Desktop is built on Windsurf, with all the features you know and love.\n\nhttps://t.co/Ruky9xlAU6",
+          "createdAt": "2026-06-02T19:16:02.000Z",
+          "url": "https://x.com/cognition/status/2061889598192509330",
+          "likes": 69,
+          "retweets": 4,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2061889084541509922"
         },
         {
-          "id": "2061506376741134845",
-          "text": "@PPLXDevs The traditional tool-calling approach suffers from high latency, manual control flow, and context pollution.\n\nWith Search as Code, the model composes search primitives: fanning out queries asynchronously, deduping, filtering, joining, and ranking before results hits its context. https://t.co/4cLyvDIFXi",
-          "createdAt": "2026-06-01T17:53:15.000Z",
-          "url": "https://x.com/perplexity_ai/status/2061506376741134845",
-          "likes": 97,
-          "retweets": 3,
-          "replies": 3,
+          "id": "2061889596703551926",
+          "text": "Introducing Devin Desktop.\n\nManage fleets of local and cloud agents from one surface. Plan, delegate, review, and ship without leaving your editor.",
+          "createdAt": "2026-06-02T19:16:02.000Z",
+          "url": "https://x.com/cognition/status/2061889596703551926",
+          "likes": 818,
+          "retweets": 97,
+          "replies": 63,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HJvxH8YbgAAt4aN.png"
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2061889538734149632/img/7J9RtlcO5fiT45_R.jpg"
             }
           ]
         }
@@ -154,7 +106,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 8
+    "xBuilders": 3,
+    "totalTweets": 6
   }
 }
