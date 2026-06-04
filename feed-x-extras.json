@@ -1,46 +1,9 @@
 {
-  "generatedAt": "2026-06-04T04:44:20.526Z",
+  "generatedAt": "2026-06-04T05:09:54.239Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "MiniMax",
-      "handle": "MiniMax_AI",
-      "bio": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ",
-      "tweets": [
-        {
-          "id": "2062268644869145069",
-          "text": "@nvidia @Microsoft Quick clarification on “will it run on my PC?”: M3 is open-weight for local/self-hosted deployment across a range of setups. On consumer hardware, expect quantized runs and reduced context. Full 1M context is server-class.\n\nWeights ship in &lt;10 days, run it and tell us what fits.",
-          "createdAt": "2026-06-03T20:22:14.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2062268644869145069",
-          "likes": 18,
-          "retweets": 2,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2062254981747822921",
-          "text": "We are part of @nvidia and @Microsoft ’s Local LLM lineup at #GTC Taipei.🔥\n\nThe PC is being reinvented around local, agentic, open-weight models\n\nMiniMax-M3 is built exactly for this future:\nOpen-weight.\n1M context.\nStrong coding.\nNative multimodality.\n\nExcited for what comes next!",
-          "createdAt": "2026-06-03T19:27:57.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2062254981747822921",
-          "likes": 143,
-          "retweets": 8,
-          "replies": 12,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HJ6ZUa5bAAAsriv.jpg"
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 2
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
