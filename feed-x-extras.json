@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T04:44:29.167Z",
+  "generatedAt": "2026-06-04T04:44:20.526Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,96 +9,30 @@
       "bio": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ",
       "tweets": [
         {
-          "id": "2061944204604101020",
-          "text": "We wrapped a live session on M3 yesterday with the @togethercompute  team & our researchers @zpysky1125 and @HaohaiSun \n\nA few highlights 🧵  \n1. MSA (MiniMax Sparse Attention) is the star ⭐️. Unlike CSA/HCA, which compress the KV cache, MSA keeps the real, uncompressed KV and does block-level selection with a small top-K. That's how the 1M context window stays tractable.\n\n2. The efficiency win is huge. In our previous generation, ~30% of per-decode wall-clock time went to the attention kernel. With MSA that now drops to ~5%. Big gains for long-context generation.  \n\n3. M3 isn't just a coding model. Natively multimodal (image + video in), ability to handle long-horizon agentic tasks, and even operate a desktop computer. People are already throwing game-dev + Minecraft-style builds at it (Unity included) and it's holding its own.\n\n4. M3 can self-evaluate on vision-coding tasks: it builds a website or SVG, browses and inspects its own rendered output, judges it, and iterates - grading work visually.\n\n5. We're also seeing junior-analyst-level performance on finance tasks; something we haven't even showcased publicly yet.  \n\n6. What's next: harder long-horizon / multi-file tasks in future releases, scaling data + post-training (RL) compute toward pre-training scale, and going deeper into finance, legal & bio.  \n\nThanks to everyone who joined 🙏\n\nTry M3 link in the comments👇",
-          "createdAt": "2026-06-02T22:53:02.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2061944204604101020",
-          "likes": 58,
-          "retweets": 3,
-          "replies": 7,
-          "isQuote": true,
-          "quotedTweetId": "2061270619627368557"
-        },
-        {
-          "id": "2061935980291223631",
-          "text": "MiniMax-M3 #6 overall on @ValsAI \n\nthe new open-weight SOTA 🚀 https://t.co/FwiiBSmDBs",
-          "createdAt": "2026-06-02T22:20:21.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2061935980291223631",
-          "likes": 73,
+          "id": "2062268644869145069",
+          "text": "@nvidia @Microsoft Quick clarification on “will it run on my PC?”: M3 is open-weight for local/self-hosted deployment across a range of setups. On consumer hardware, expect quantized runs and reduced context. Full 1M context is server-class.\n\nWeights ship in &lt;10 days, run it and tell us what fits.",
+          "createdAt": "2026-06-03T20:22:14.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2062268644869145069",
+          "likes": 18,
           "retweets": 2,
-          "replies": 8,
-          "isQuote": true,
-          "quotedTweetId": "2061926305722200226"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "World-class open source AI\nhttps://t.co/vrD0aDJeto",
-      "tweets": [
-        {
-          "id": "2061843626187985243",
-          "text": "Available on all platforms at the link below:\n\nhttps://t.co/qkT3GUYthx",
-          "createdAt": "2026-06-02T16:13:22.000Z",
-          "url": "https://x.com/NousResearch/status/2061843626187985243",
-          "likes": 731,
-          "retweets": 62,
-          "replies": 74,
+          "replies": 4,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2061843507417944552",
-          "text": "The next evolution of Hermes Agent is here! \n\nIntroducing Hermes Desktop: everything you love about Hermes, now native on your machine.\n\nFirst demoed in Jensen's GTC keynote, it's now in public preview. https://t.co/8ND1k8hyaz",
-          "createdAt": "2026-06-02T16:12:54.000Z",
-          "url": "https://x.com/NousResearch/status/2061843507417944552",
-          "likes": 9338,
-          "retweets": 1066,
-          "replies": 868,
+          "id": "2062254981747822921",
+          "text": "We are part of @nvidia and @Microsoft ’s Local LLM lineup at #GTC Taipei.🔥\n\nThe PC is being reinvented around local, agentic, open-weight models\n\nMiniMax-M3 is built exactly for this future:\nOpen-weight.\n1M context.\nStrong coding.\nNative multimodality.\n\nExcited for what comes next!",
+          "createdAt": "2026-06-03T19:27:57.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2062254981747822921",
+          "likes": 143,
+          "retweets": 8,
+          "replies": 12,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/media/HJ0jlUAWsAEsYRd.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4VhMfh",
-      "tweets": [
-        {
-          "id": "2061889598192509330",
-          "text": "Devin Desktop is built on Windsurf, with all the features you know and love.\n\nhttps://t.co/Ruky9xlAU6",
-          "createdAt": "2026-06-02T19:16:02.000Z",
-          "url": "https://x.com/cognition/status/2061889598192509330",
-          "likes": 69,
-          "retweets": 4,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2061889084541509922"
-        },
-        {
-          "id": "2061889596703551926",
-          "text": "Introducing Devin Desktop.\n\nManage fleets of local and cloud agents from one surface. Plan, delegate, review, and ship without leaving your editor.",
-          "createdAt": "2026-06-02T19:16:02.000Z",
-          "url": "https://x.com/cognition/status/2061889596703551926",
-          "likes": 818,
-          "retweets": 97,
-          "replies": 63,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2061889538734149632/img/7J9RtlcO5fiT45_R.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HJ6ZUa5bAAAsriv.jpg"
             }
           ]
         }
@@ -106,7 +40,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 6
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
