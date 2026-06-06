@@ -1,104 +1,40 @@
 {
-  "generatedAt": "2026-06-05T04:42:16.806Z",
+  "generatedAt": "2026-06-06T04:32:19.267Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4VhMfh",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
       "tweets": [
         {
-          "id": "2062597242167628019",
-          "text": "AI should earn its keep. Introducing the AI Productivity Guarantee.\n\nIf Devin delivers less engineering value than you’re paying for, Cognition will fund your usage until it does, up to $10 million.\n\nIt’s time for the AI industry to stop maximizing tokens and start maximizing productive output.",
-          "createdAt": "2026-06-04T18:07:58.000Z",
-          "url": "https://x.com/cognition/status/2062597242167628019",
-          "likes": 821,
-          "retweets": 73,
-          "replies": 55,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HJ-71HMaAAAVCVJ.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "❤️ 🍵 ☕️",
-      "tweets": [
-        {
-          "id": "2062581295079940598",
-          "text": "what do u think of gemma 4 12b?",
-          "createdAt": "2026-06-04T17:04:36.000Z",
-          "url": "https://x.com/JustinLin610/status/2062581295079940598",
-          "likes": 55,
-          "retweets": 1,
-          "replies": 17,
+          "id": "2063075888871407731",
+          "text": "Didn’t count:\n- Unconfirmed revenue: Thinking Machines, Skild, Reflection, Physical Intelligence, SSI\n- Non core AI: Databricks, Applied Intuition, Anduril, Shield, Vast Data, Cyera, Notion, Grammarly, Canva, Bytedance, Ramp\n- Just short: Fal, ReplIt, Together, Glean, Runway, Cohere, Suno\n- Public: Cerebras, Coreweave, Nebius, Minimax. Zhipu\n- No known valuation: Midjourney, Surge\n\nLet me know if I missed something!",
+          "createdAt": "2026-06-06T01:49:56.000Z",
+          "url": "https://x.com/deedydas/status/2063075888871407731",
+          "likes": 35,
+          "retweets": 0,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "MTS @anthropicai",
-      "tweets": [
+        },
         {
-          "id": "2062631235755872320",
-          "text": "We just published internal data on how quickly Claude is improving: \n   \nAnthropic engineers on average ship 8x as much code per quarter as they did from 2021-2025.\n\nClaude’s success rate on the hardest tasks is up 50 percentage points in six months.\n\nhttps://t.co/FavidPJYWv https://t.co/C4L3cRIS5m",
-          "createdAt": "2026-06-04T20:23:03.000Z",
-          "url": "https://x.com/RLanceMartin/status/2062631235755872320",
-          "likes": 31,
-          "retweets": 2,
-          "replies": 6,
-          "isQuote": true,
-          "quotedTweetId": "2062568862479208923",
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HJ_pSqiaQAAFBYD.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Felix Rieseberg (Claude Cowork)",
-      "handle": "felixrieseberg",
-      "bio": "Claude Cowork / Code @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
-      "tweets": [
-        {
-          "id": "2062620494306902332",
-          "text": "I'd like to tell you about a personal silly weekend project.\n\nBecause I have love for the computing of the 90s, I built Relic, a tiny coding agent that runs on ancient devices. It fits on a floppy, needs 4MB of memory, and handles systems that were made before we got HTTPS. It's made with the same stuff used to build DOOM.\n\nIt runs on Windows 95, a Wii, or the original Xbox. If you got a smart toaster, it'll probably run there, too. \n\nhttps://t.co/g0uJFEnLUr",
-          "createdAt": "2026-06-04T19:40:22.000Z",
-          "url": "https://x.com/felixrieseberg/status/2062620494306902332",
-          "likes": 362,
-          "retweets": 32,
-          "replies": 30,
+          "id": "2063075876452155728",
+          "text": "Every single AI startup with $10B+ valuation and $100M+ revenue run rate:\n\nCrusoe - $10B\nMercor - $10B\nElevenLabs - $11B\nBaseten - $11B*\nHarvey - $11B\nLovable - $12B*\nOpenEvidence - $12B\nMistral - $14B\nNscale - $14.6B\nFireworks - $15B*\nSierra - $15.8B\nMoonshot - $20B\nPerplexity - $22.6B\nCognition - $26B\nScale - $29B**\nDeepSeek - $52-59B*\nCursor - $60B*\nWaymo - $126B**\nxAI - $250B**\nOpenAI - $852B\nAnthropic - $965B\n\n21 total companies.\n\n*rumored / unannounced\n**not fully independent",
+          "createdAt": "2026-06-06T01:49:53.000Z",
+          "url": "https://x.com/deedydas/status/2063075876452155728",
+          "likes": 531,
+          "retweets": 41,
+          "replies": 39,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HJ_WQ6Ra4AAMqj3.png"
-            }
-          ]
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 4
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
