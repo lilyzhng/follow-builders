@@ -1,40 +1,9 @@
 {
-  "generatedAt": "2026-06-06T04:32:19.267Z",
+  "generatedAt": "2026-06-07T04:44:00.265Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner @MenloVentures. Formerly founding team @glean, @google Search. @cornell CS. Investor @AnthropicAI, @GoodfireAI, @OpenRouter, @WisprFlow, @_inception_ai",
-      "tweets": [
-        {
-          "id": "2063075888871407731",
-          "text": "Didn’t count:\n- Unconfirmed revenue: Thinking Machines, Skild, Reflection, Physical Intelligence, SSI\n- Non core AI: Databricks, Applied Intuition, Anduril, Shield, Vast Data, Cyera, Notion, Grammarly, Canva, Bytedance, Ramp\n- Just short: Fal, ReplIt, Together, Glean, Runway, Cohere, Suno\n- Public: Cerebras, Coreweave, Nebius, Minimax. Zhipu\n- No known valuation: Midjourney, Surge\n\nLet me know if I missed something!",
-          "createdAt": "2026-06-06T01:49:56.000Z",
-          "url": "https://x.com/deedydas/status/2063075888871407731",
-          "likes": 35,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2063075876452155728",
-          "text": "Every single AI startup with $10B+ valuation and $100M+ revenue run rate:\n\nCrusoe - $10B\nMercor - $10B\nElevenLabs - $11B\nBaseten - $11B*\nHarvey - $11B\nLovable - $12B*\nOpenEvidence - $12B\nMistral - $14B\nNscale - $14.6B\nFireworks - $15B*\nSierra - $15.8B\nMoonshot - $20B\nPerplexity - $22.6B\nCognition - $26B\nScale - $29B**\nDeepSeek - $52-59B*\nCursor - $60B*\nWaymo - $126B**\nxAI - $250B**\nOpenAI - $852B\nAnthropic - $965B\n\n21 total companies.\n\n*rumored / unannounced\n**not fully independent",
-          "createdAt": "2026-06-06T01:49:53.000Z",
-          "url": "https://x.com/deedydas/status/2063075876452155728",
-          "likes": 531,
-          "retweets": 41,
-          "replies": 39,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 2
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
