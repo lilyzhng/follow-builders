@@ -1,37 +1,7 @@
 {
-  "generatedAt": "2026-06-07T04:43:58.389Z",
+  "generatedAt": "2026-06-08T04:44:03.531Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Swyx",
-      "handle": "swyx",
-      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
-      "tweets": [
-        {
-          "id": "2063474153995526219",
-          "text": "idea - universal basic ai:\n\n1 share of xai, oai, and ant to each US citizen. \n\ncost\nSpaceXai: $135.00 × 349 million = $47B\nOpenAI: $733.54 × 349 million = $256B\nAnthropic: $930.45 × 349 million = $325B\n\ntotal $628B cost is 8.5% of US Govt budget, 62% of defense budget, roughly same as ~$700B of TARP program during the Financial Crisis (mostly given to big banks, this would be a lot more decentralized)",
-          "createdAt": "2026-06-07T04:12:30.000Z",
-          "url": "https://x.com/swyx/status/2063474153995526219",
-          "likes": 12,
-          "retweets": 0,
-          "replies": 11,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2063432747432268259",
-          "text": "one popular theory is that research paper alpha* and lab publishing ~died when researchers realized that instead of fighting with marketing depts they could simply walk out the door and get >$100m for their legally protected tacit knowledge gained\n\ncalifornia non-noncompetes have a bigger impact on knowledge spreading than github, arxiv, and huggingface combined\n\n*btw this is a motivator for me to set up @aidotengineer as a product-centric industry conference to complement the paper-centric research conferences",
-          "createdAt": "2026-06-07T01:27:58.000Z",
-          "url": "https://x.com/swyx/status/2063432747432268259",
-          "likes": 78,
-          "retweets": 3,
-          "replies": 17,
-          "isQuote": true,
-          "quotedTweetId": "2063426261666660701"
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Peter Yang",
@@ -39,35 +9,35 @@
       "bio": "Practical AI tutorials and interviews for busy people | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
       "tweets": [
         {
-          "id": "2063475353335869922",
-          "text": "There should be a way to filter or sort all my Codex threads in different ways vs. only by project. \n\nLike filter or sort by:\n\n- All waiting for approval\n- All currently working\n\nI'm trying to keep it to 10 threads but it's already getting unwieldly.  wdyt @ajambrosino ?",
-          "createdAt": "2026-06-07T04:17:16.000Z",
-          "url": "https://x.com/petergyang/status/2063475353335869922",
-          "likes": 5,
+          "id": "2063819323106615434",
+          "text": "Ok ChatGPT had a good one:\n\nWife: \"I did, the loop is called marriage and this is your daily cron job.\"",
+          "createdAt": "2026-06-08T03:04:05.000Z",
+          "url": "https://x.com/petergyang/status/2063819323106615434",
+          "likes": 12,
           "retweets": 0,
-          "replies": 4,
+          "replies": 2,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2063353542103167369",
-          "text": "Weekends are for driving kids to activities and then hiding in a corner to dictate to codex on the phone 🙈",
-          "createdAt": "2026-06-06T20:13:14.000Z",
-          "url": "https://x.com/petergyang/status/2063353542103167369",
-          "likes": 55,
+          "id": "2063818032280170721",
+          "text": "My wife asked me to take out the trash.\n\nI said, “You shouldn’t be prompting me anymore. You should be designing loops.\"\n\nFinish the punch line of this dad joke please.",
+          "createdAt": "2026-06-08T02:58:57.000Z",
+          "url": "https://x.com/petergyang/status/2063818032280170721",
+          "likes": 46,
           "retweets": 1,
-          "replies": 24,
+          "replies": 17,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2063288150089515394",
-          "text": "Ok here's an example: \n\nI built a skill to post to various social media platforms. Some of them have no APIs (Substack Notes) and others have nuances (e.g., on LinkedIn posts it needs to remove the @ mention from the tags on X posts). On Threads (yes I still post there) it can only support max 500 characters.\n\nI brain dumped all this nuance to Codex and it figured it out and ran this using browser alone.",
-          "createdAt": "2026-06-06T15:53:23.000Z",
-          "url": "https://x.com/petergyang/status/2063288150089515394",
-          "likes": 94,
-          "retweets": 2,
-          "replies": 7,
+          "id": "2063773025196192188",
+          "text": "Links I mentioned:\n\nCompound Engineering:\nhttps://t.co/zo3cxxgMeD\n\nKun Chen's free tools:\nhttps://t.co/aqEdDzZKPe",
+          "createdAt": "2026-06-08T00:00:06.000Z",
+          "url": "https://x.com/petergyang/status/2063773025196192188",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -80,15 +50,15 @@
       "bio": "Prev: Product Leader at Google - Gemini, Veo, Nano Banana.",
       "tweets": [
         {
-          "id": "2063342268472574268",
-          "text": "Routing to models is genuinely hard. It means mapping each task to the right model - which requires benchmarking models against your product's specific tasks and dialing in the quality/cost trade-off. \n\nAnd there is an opportunity in that difficulty.\n\nHere is the progression I saw with enterprises while on Gemini.\n\nPhase 1 (2024): Default to the \"it\" model. Everybody used GPT regardless of task, because it was the shiny new thing.\n\nPhase 2 (early 2025): Over-optimize. Teams over-corrected, looking for the smallest/cheapest model for their task, but did not have evals sophisticated enough to map tasks to models. They ended up burning cycles and shipping slower.\n\nPhase 3: Nuanced routing. The industry’s eval muscle and model diversity got to a point where the most sophisticated AI-native startups succeeded in breaking their product into sub-agents and routed each task to the right model - e.g. hardest reasoning to Claude, simplest to Gemini Flash-Lite or open-weight models.\n\nAnd like most product patterns, enterprises followed the AI-native builders 6-9 months later.",
-          "createdAt": "2026-06-06T19:28:26.000Z",
-          "url": "https://x.com/realmadhuguru/status/2063342268472574268",
-          "likes": 21,
+          "id": "2063704354910347520",
+          "text": "A common misconception is that training data is low skill, grunt work - scan some notebooks, mine the internet, create labeled samples.\n\nThe data required to advance the model frontier is the opposite. Labs need training data for high-economic-value tasks. And most of these tasks outside of SWE have little documentation - it is complex, domain-specific knowledge built over the  years, spanning legacy tools that don’t talk to each other.\n\nThat's why we have SWE agents and not knowledge work agents yet.\n\nThe companies creating this training data, such as Mercor, are doing extremely high-leverage, high-skill work. \n\nCritical to moving AI forward. And deeply underappreciated.",
+          "createdAt": "2026-06-07T19:27:14.000Z",
+          "url": "https://x.com/realmadhuguru/status/2063704354910347520",
+          "likes": 48,
           "retweets": 2,
-          "replies": 5,
+          "replies": 2,
           "isQuote": true,
-          "quotedTweetId": "2063292917964517830"
+          "quotedTweetId": "2063401401368395810"
         }
       ]
     },
@@ -99,32 +69,34 @@
       "bio": "ceo @replit. civilizationist",
       "tweets": [
         {
-          "id": "2063344460705288401",
-          "text": "When I spoke out against the Gaza genocide, a bunch of midwit VCs ganged up on me both in public and tried to hurt me in private too.\n\nMany of those who stood by me were also VCs. Just the better ones. Both morally, and in return profile.\n\nThe best way to avoid sociopaths is to have them self select out of your life by standing for your beliefs.",
-          "createdAt": "2026-06-06T19:37:09.000Z",
-          "url": "https://x.com/amasad/status/2063344460705288401",
-          "likes": 4341,
-          "retweets": 361,
-          "replies": 115,
+          "id": "2063744208587125142",
+          "text": "Replit is about removing all distractions and have you focus on what matters — getting to market and getting the bag. Congrats! https://t.co/Z2gcG0WF0t",
+          "createdAt": "2026-06-07T22:05:36.000Z",
+          "url": "https://x.com/amasad/status/2063744208587125142",
+          "likes": 170,
+          "retweets": 4,
+          "replies": 13,
           "isQuote": true,
-          "quotedTweetId": "2061794787825479818"
-        },
+          "quotedTweetId": "2063733251735527822"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
         {
-          "id": "2063300737296400516",
-          "text": "Vibecon https://t.co/ggY7LLaB8y https://t.co/9YBgC412BZ",
-          "createdAt": "2026-06-06T16:43:24.000Z",
-          "url": "https://x.com/amasad/status/2063300737296400516",
-          "likes": 466,
-          "retweets": 12,
-          "replies": 19,
-          "isQuote": true,
-          "quotedTweetId": "2063101361617621204",
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HKJRFJ1aQAA4q8M.jpg"
-            }
-          ]
+          "id": "2063714700618334260",
+          "text": "Vercel AI Gateway recovers on average over 1T tokens a month 🤯 \n\nMuch like Stripe recovers revenue with smart retries on failed payments or credit card updates.\n\nAnd we do it with 0️⃣ zero markup over the labs; adding redundancy, zero-data retention enforcement, observability, usage APIs, caps, …\n\nhttps://t.co/OougSipbBX",
+          "createdAt": "2026-06-07T20:08:21.000Z",
+          "url": "https://x.com/rauchg/status/2063714700618334260",
+          "likes": 240,
+          "retweets": 24,
+          "replies": 29,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -135,15 +107,43 @@
       "bio": "ceo @box - your business lives in content. unleash it with AI",
       "tweets": [
         {
-          "id": "2063320673217609936",
-          "text": "Token costs are becoming one of the hottest topics for any enterprise I talk with right now. It’s very bullish for AI in general because it means these systems are being used at a scale that wasn’t contemplated before. \n\nIt also gives way to another form of differentiation that will emerge for the applied AI layer, which is model routing.\n\nAs tokens take on a significant amount of the cost of any given workflow, then companies will inevitably want to ensure that their dollars go into the most efficient use of tokens for the particular job at hand. \n\nFrontier intelligence will always be relevant at the high end of tasks, like coding, legal and financial analysis, healthcare, and more. And dollars spent here will only go up over time. But, equally, you can peel off individual tasks to lower cost models (whether they’re from open weights vendors or the major labs) and deliver a more efficient end outcome. \n\nTo do this effectively, the applied AI layer needs to understand the workflows in their domain better than anyone else, and be able to mix and match models to different jobs. If you’re doing document extraction, you need to know which models perform better or worse for any given document type. If you’re legal analysis, you want to know which models perform various types of tasks best. And so on.\n\nThis will become one of the bigger differentiation points over time. The companies with the best evals, the best ability to route the workloads, and those that have business models directly aligned to customers financial goals, will be in a great position.",
-          "createdAt": "2026-06-06T18:02:37.000Z",
-          "url": "https://x.com/levie/status/2063320673217609936",
-          "likes": 373,
-          "retweets": 57,
-          "replies": 68,
+          "id": "2063835799096090749",
+          "text": "The numbers may be a bit extreme here, but unquestionably use-cases have to stratify in the next year or two between model families.\n\nWe’ll see a split between frontier intelligence for high end tasks and work, and much cheaper models for high volume workloads that can sufficiently be peeled off to cheaper models. Frontier will still be far bigger than today because the use-cases will demand it, but the low-end will get quite a bit larger as well.\n\nThe big update here is that the layer that can efficiently route the workload to the right model will then become increasingly valuable since that becomes one of the new hard problems in AI agents. Agent orchestration that can cost optimize while still performing the task successfully will be in a strong position.",
+          "createdAt": "2026-06-08T04:09:33.000Z",
+          "url": "https://x.com/levie/status/2063835799096090749",
+          "likes": 56,
+          "retweets": 4,
+          "replies": 19,
           "isQuote": true,
-          "quotedTweetId": "2063292917964517830"
+          "quotedTweetId": "2063782620815876515"
+        },
+        {
+          "id": "2063756386572681606",
+          "text": "This is what the market got wrong about AI eating enterprise software. Building good software in the past was very hard. Yes, AI has made that a bit easier, though it’s still hard to build something that’s got good taste, differentiated, high quality, secure, and so on.\n\nBut nevertheless, that’s only one component of building a platform that enterprises rely on. The plurality of costs in most enterprise software companies is actually on GTM, because at scale most enterprise software categories are tough to break into and need a heavy amount of consultative selling and support for implementation and integration of solutions.  \n\nAI hasn’t reduced the need for that, and in many cases requires it even more now, as landscapes get even more busy and complicated for buyers to navigate through. If you make one thing cheaper and more abundant (development of software) then the new problem of discoverability and market differentiation (GTM) becomes the hardest part.",
+          "createdAt": "2026-06-07T22:53:59.000Z",
+          "url": "https://x.com/levie/status/2063756386572681606",
+          "likes": 300,
+          "retweets": 31,
+          "replies": 55,
+          "isQuote": true,
+          "quotedTweetId": "2063645301714362813"
+        },
+        {
+          "id": "2063649508681224367",
+          "text": "Box now has a markdown editor on the web. Full CLI support. Commenting. Full version history. Box Drive also lets you connect to any desktop client as a mounted drive, so you instantly work with all your files in Claude Cowork, Codex, Obsidian, Cursor, or any other app. https://t.co/3dJ5SBzhM5 https://t.co/WLUKegtiJ5",
+          "createdAt": "2026-06-07T15:49:18.000Z",
+          "url": "https://x.com/levie/status/2063649508681224367",
+          "likes": 240,
+          "retweets": 18,
+          "replies": 27,
+          "isQuote": true,
+          "quotedTweetId": "2063324468056072524",
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2063649400552034304/img/9JtcpSdgnwtmUO0c.jpg"
+            }
+          ]
         }
       ]
     },
@@ -154,15 +154,21 @@
       "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
       "tweets": [
         {
-          "id": "2063391758189572266",
-          "text": "Really enjoyed this talk!\nThe value of static content is going down, the value of live interaction is going up\nPeople want to connect with the human being behind a piece of work, whether it's content or software\nRaw &amp; opinionated &gt; polished &amp; generic https://t.co/bjOvGLZ1RZ",
-          "createdAt": "2026-06-06T22:45:05.000Z",
-          "url": "https://x.com/zarazhangrui/status/2063391758189572266",
-          "likes": 20,
-          "retweets": 1,
-          "replies": 4,
+          "id": "2063638307586662539",
+          "text": "I think one reason that my Frontend Slides skill has grown so much organically is because slides are inherently social\n\nPeople see these cool slides and always ask \"how did you make it\". And people tend to perceive those using HTML decks as more AI-native and AI-savvy\n\nhttps://t.co/CiQpfibZn5",
+          "createdAt": "2026-06-07T15:04:47.000Z",
+          "url": "https://x.com/zarazhangrui/status/2063638307586662539",
+          "likes": 77,
+          "retweets": 4,
+          "replies": 5,
           "isQuote": true,
-          "quotedTweetId": "2061871693891776808"
+          "quotedTweetId": "2062304465357590559",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HKODTlAbUAAxJvI.jpg"
+            }
+          ]
         }
       ]
     },
@@ -173,191 +179,59 @@
       "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
       "tweets": [
         {
-          "id": "2063381764782116914",
-          "text": "don’t forget to touch sand this weekend 🌞 https://t.co/oeVCnITvpF",
-          "createdAt": "2026-06-06T22:05:23.000Z",
-          "url": "https://x.com/nikunj/status/2063381764782116914",
-          "likes": 38,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HKKaxumaMAA0k__.jpg"
-            },
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HKKaxumbkAAMYdG.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2063263389238087745",
-          "text": "A Walk In The Park (part II) feat @taiuti 🌎\n\n(00:00) 👋\n(01:10) What world models are\n(03:42) Origin story from text-to-3D to @reactorworld \n(09:22) Deciding to start the company\n(11:22) GTA, games, and the path into programming\n(15:09) Building in stealth and keeping secrets\n(18:32) Picking investors with independent conviction\n(21:43) Where world models will grow first\n(26:08) Why low latency matters\n(29:34) Becoming CEO and scaling the team\n(32:23) Final advice",
-          "createdAt": "2026-06-06T14:15:00.000Z",
-          "url": "https://x.com/nikunj/status/2063263389238087745",
-          "likes": 67,
-          "retweets": 2,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2063137773897613313/img/4JMZkEjWZzIpUam4.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2063143108070744492",
-          "text": "Full video out tomorrow am 🕺",
-          "createdAt": "2026-06-06T06:17:02.000Z",
-          "url": "https://x.com/nikunj/status/2063143108070744492",
-          "likes": 0,
+          "id": "2063829369949467050",
+          "text": "Given all the “loops” conversation, @Apple has the chance (and address) to do the funniest thing at WWDC.. https://t.co/HAhOpSW5Pn",
+          "createdAt": "2026-06-08T03:44:00.000Z",
+          "url": "https://x.com/nikunj/status/2063829369949467050",
+          "likes": 3,
           "retweets": 0,
           "replies": 0,
           "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Dan Shipper",
-      "handle": "danshipper",
-      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-      "tweets": [
-        {
-          "id": "2063438262841094604",
-          "text": "my absolute favorite of Plato's Dialogues is a deep discussion of the limits of techne and the necessity of aidos and dike\n\nProtagoras here, in the way he talks about where knowledge comes from and whether virtue can be taught,  pre-sages LLMs:\nhttps://t.co/8pDOaMnIIa",
-          "createdAt": "2026-06-07T01:49:53.000Z",
-          "url": "https://x.com/danshipper/status/2063438262841094604",
-          "likes": 5,
-          "retweets": 1,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2063436919967522848",
-          "text": "to add two more that increase in value:\n\nAidōs—reverence and responsiveness to others \nDikē—the capacity to perceive what is right https://t.co/X3LsGPfZa5",
-          "createdAt": "2026-06-07T01:44:33.000Z",
-          "url": "https://x.com/danshipper/status/2063436919967522848",
-          "likes": 26,
-          "retweets": 2,
-          "replies": 5,
-          "isQuote": true,
-          "quotedTweetId": "2063397981290979765"
-        },
-        {
-          "id": "2063426632824562167",
-          "text": "LLMs are not conscious. \n\nLLMs are not not conscious. \n\nBoth true.",
-          "createdAt": "2026-06-07T01:03:40.000Z",
-          "url": "https://x.com/danshipper/status/2063426632824562167",
-          "likes": 29,
-          "retweets": 4,
-          "replies": 20,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "MiniMax",
-      "handle": "MiniMax_AI",
-      "bio": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ",
-      "tweets": [
-        {
-          "id": "2063397618034844135",
-          "text": "$0.07 for M3, $3.39 for Opus. Both caught 13 of 17 bugs.\n\nReally interesting breakdown from @kilocode \n\nDefinitely worth the read https://t.co/82mI3Gg8Hp",
-          "createdAt": "2026-06-06T23:08:22.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2063397618034844135",
-          "likes": 490,
-          "retweets": 24,
-          "replies": 42,
-          "isQuote": true,
-          "quotedTweetId": "2063259733025321029"
-        },
-        {
-          "id": "2063347483145855256",
-          "text": "Register here: https://t.co/Qlqo56fhSe",
-          "createdAt": "2026-06-06T19:49:09.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2063347483145855256",
-          "likes": 4,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2063335114202042426",
-          "text": "We’re heading to the AWS Builder Loft in SF on June 9 for an evening on open-weight foundation models on Amazon Bedrock.\n\nWe’ll be showcasing MiniMax M3, including MiniMax Sparse Attention, the architecture that helps enable M3’s 1M-token context window, strong coding/agentic performance, and native multimodality in one open-weight model.\n\nJoined us are @ArtificialAnlys, @coderabbitai , @nvidia , and Daily.\n\n📍 AWS Builder Loft, SF\n\n📅 June 9 · 5:00–8:30 PM\n\n🪪 Gov-issued ID required\n\nCome say hi at the MiniMax table.\n\nRegister below 👇.\n\n#OpenWeights #AmazonBedrock #MiniMax",
-          "createdAt": "2026-06-06T19:00:00.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2063335114202042426",
-          "likes": 78,
-          "retweets": 5,
-          "replies": 16,
-          "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HKHWoILagAESgRO.jpg"
+              "url": "https://pbs.twimg.com/media/HKQx3-XaMAEoWeJ.jpg"
             }
           ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "World-class open source AI\nhttps://t.co/vrD0aDJeto",
-      "tweets": [
+        },
         {
-          "id": "2063379687070466559",
-          "text": "Hermes Agent is for the Artists https://t.co/xcVxzeeYzy",
-          "createdAt": "2026-06-06T21:57:07.000Z",
-          "url": "https://x.com/NousResearch/status/2063379687070466559",
-          "likes": 786,
-          "retweets": 45,
-          "replies": 67,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HKKY2haXMAA-alw.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lulu Cheng Meservey",
-      "handle": "lulumeservey",
-      "bio": "Rostra founder, Shopify board, ex Activision & Substack, writing https://t.co/4xKo7wQTQo",
-      "tweets": [
-        {
-          "id": "2063439759158947925",
-          "text": "Easier than ever to build, harder than ever to make people care\n\nAttention is all you lack https://t.co/21Hv5sQPvA",
-          "createdAt": "2026-06-07T01:55:50.000Z",
-          "url": "https://x.com/lulumeservey/status/2063439759158947925",
-          "likes": 45,
+          "id": "2063630238123483195",
+          "text": "The vibe shift from tokenmaxxing and token anxiety to tokenoptimizing in just a few weeks is wild 😅\n\nMight be a hot take but I still believe companies should give copious amounts of token budget to employees to stay at the frontier and explore all the edges. \n\nOtherwise, it’s way too easy to fall back to “doing the things how they have always been done”.",
+          "createdAt": "2026-06-07T14:32:43.000Z",
+          "url": "https://x.com/nikunj/status/2063630238123483195",
+          "likes": 84,
           "retweets": 2,
-          "replies": 6,
-          "isQuote": true,
-          "quotedTweetId": "2063032701087883647"
+          "replies": 21,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 11,
-    "totalTweets": 21
-  }
+    "xBuilders": 7,
+    "totalTweets": 12
+  },
+  "errors": [
+    "X API: Failed to fetch tweets for @steipete: HTTP 402",
+    "X API: Failed to fetch tweets for @danshipper: HTTP 402",
+    "X API: Failed to fetch tweets for @adityaag: HTTP 402",
+    "X API: Failed to fetch tweets for @sama: HTTP 402",
+    "X API: Failed to fetch tweets for @claudeai: HTTP 402",
+    "X API: Failed to fetch tweets for @Kimi_Moonshot: HTTP 402",
+    "X API: Failed to fetch tweets for @Alibaba_Qwen: HTTP 402",
+    "X API: Failed to fetch tweets for @MiniMax_AI: HTTP 402",
+    "X API: Failed to fetch tweets for @StepFun_ai: HTTP 402",
+    "X API: Failed to fetch tweets for @UnslothAI: HTTP 402",
+    "X API: Failed to fetch tweets for @NousResearch: HTTP 402",
+    "X API: Failed to fetch tweets for @perplexity_ai: HTTP 402",
+    "X API: Failed to fetch tweets for @cognition: HTTP 402",
+    "X API: Failed to fetch tweets for @modal: HTTP 402",
+    "X API: Failed to fetch tweets for @Zai_org: HTTP 402",
+    "X API: Failed to fetch tweets for @thinkymachines: HTTP 402",
+    "X API: Failed to fetch tweets for @_chenglou: HTTP 402",
+    "X API: Failed to fetch tweets for @lulumeservey: HTTP 402",
+    "X API: Failed to fetch tweets for @srush_nlp: HTTP 402"
+  ]
 }

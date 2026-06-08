@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-06-07T04:44:00.265Z",
+  "generatedAt": "2026-06-08T04:44:03.699Z",
   "lookbackHours": 24,
   "x": [],
   "stats": {
     "xBuilders": 0,
     "totalTweets": 0
-  }
+  },
+  "errors": [
+    "X API: User lookup failed: HTTP 402"
+  ]
 }
