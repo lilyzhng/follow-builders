@@ -1,12 +1,166 @@
 {
-  "generatedAt": "2026-06-10T04:41:16.872Z",
+  "generatedAt": "2026-06-10T17:38:17.877Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ",
+      "tweets": [
+        {
+          "id": "2064413239715438622",
+          "text": "Proud of this partnership with @Supplyaiusa 🤝 @HKGoodFortune. https://t.co/o8MZRy2WnT",
+          "createdAt": "2026-06-09T18:24:05.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2064413239715438622",
+          "likes": 20,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2064362648930541957"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress toward open source AI\nhttps://t.co/vrD0aDJeto",
+      "tweets": [
+        {
+          "id": "2064425611632722150",
+          "text": "Sign up for Nous Portal at https://t.co/aHGXAcLs93",
+          "createdAt": "2026-06-09T19:13:15.000Z",
+          "url": "https://x.com/NousResearch/status/2064425611632722150",
+          "likes": 55,
+          "retweets": 1,
+          "replies": 14,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2064425527360774216",
+          "text": "Claude Fable 5 is now supported for use in Hermes Agent via Nous Portal! \n\nThe first 500 new users get one month free access to the Plus plan to try out Fable. Code in video: https://t.co/l4WzOtxpCI",
+          "createdAt": "2026-06-09T19:12:55.000Z",
+          "url": "https://x.com/NousResearch/status/2064425527360774216",
+          "likes": 2027,
+          "retweets": 113,
+          "replies": 181,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/media/HKZP-jXXIAANR6j.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. Investor Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
+      "tweets": [
+        {
+          "id": "2064628929575670012",
+          "text": "&gt; Previous batch of 10 demos:\nhttps://t.co/0n1HGyf5HY",
+          "createdAt": "2026-06-10T08:41:10.000Z",
+          "url": "https://x.com/deedydas/status/2064628929575670012",
+          "likes": 17,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2064519826333397149"
+        },
+        {
+          "id": "2064628917160628619",
+          "text": "8. Rich Email marketing\nhttps://t.co/t28BJ89hKg",
+          "createdAt": "2026-06-10T08:41:07.000Z",
+          "url": "https://x.com/deedydas/status/2064628917160628619",
+          "likes": 29,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2064435630457700693"
+        },
+        {
+          "id": "2064628892116398376",
+          "text": "7. Upgraded website design\nhttps://t.co/iP3WAGnB6j",
+          "createdAt": "2026-06-10T08:41:01.000Z",
+          "url": "https://x.com/deedydas/status/2064628892116398376",
+          "likes": 26,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2064418578992930818"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "❤️ 🍵 ☕️",
+      "tweets": [
+        {
+          "id": "2064623877192606111",
+          "text": "exactement https://t.co/7fSpnLrw0N",
+          "createdAt": "2026-06-10T08:21:05.000Z",
+          "url": "https://x.com/JustinLin610/status/2064623877192606111",
+          "likes": 56,
+          "retweets": 1,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2064481719626154417"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Felix Rieseberg (Claude Cowork)",
+      "handle": "felixrieseberg",
+      "bio": "Claude Cowork / Code @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
+      "tweets": [
+        {
+          "id": "2064738032897630420",
+          "text": "https://t.co/w8ZTeo96th",
+          "createdAt": "2026-06-10T15:54:42.000Z",
+          "url": "https://x.com/felixrieseberg/status/2064738032897630420",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2064586083975745870"
+        },
+        {
+          "id": "2064737028743590098",
+          "text": "https://t.co/GmtMFW0eYG",
+          "createdAt": "2026-06-10T15:50:43.000Z",
+          "url": "https://x.com/felixrieseberg/status/2064737028743590098",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2064435888881537178"
+        },
+        {
+          "id": "2064737027254583298",
+          "text": "https://t.co/L0XxKNpZHt",
+          "createdAt": "2026-06-10T15:50:42.000Z",
+          "url": "https://x.com/felixrieseberg/status/2064737027254583298",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2064459148016619928"
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
-  },
-  "errors": [
-    "X API: User lookup failed: HTTP 402"
-  ]
+    "xBuilders": 5,
+    "totalTweets": 10
+  }
 }
