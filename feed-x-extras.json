@@ -1,84 +1,95 @@
 {
-  "generatedAt": "2026-06-11T04:44:09.842Z",
+  "generatedAt": "2026-06-12T04:44:12.981Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. Investor Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ",
       "tweets": [
         {
-          "id": "2064628879747408169",
-          "text": "6. 3D version of Yosemite.\n\nthis one really blew my mind\nhttps://t.co/N5RwaaPRx2",
-          "createdAt": "2026-06-10T08:40:58.000Z",
-          "url": "https://x.com/deedydas/status/2064628879747408169",
-          "likes": 32,
-          "retweets": 0,
-          "replies": 1,
+          "id": "2065051857542885450",
+          "text": "Weights on Friday 🫶 https://t.co/iDtiZFd6aS",
+          "createdAt": "2026-06-11T12:41:44.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2065051857542885450",
+          "likes": 387,
+          "retweets": 27,
+          "replies": 20,
           "isQuote": true,
-          "quotedTweetId": "2064480977641230785"
-        },
-        {
-          "id": "2064628867290296425",
-          "text": "5. Apple Glass liquid UI with just CSS\nhttps://t.co/EJ5SgpHTCk",
-          "createdAt": "2026-06-10T08:40:55.000Z",
-          "url": "https://x.com/deedydas/status/2064628867290296425",
-          "likes": 48,
-          "retweets": 0,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2064551182748762620"
+          "quotedTweetId": "2065010795625562486"
         }
       ]
     },
     {
       "source": "x",
-      "name": "Felix Rieseberg (Claude Cowork)",
-      "handle": "felixrieseberg",
-      "bio": "Claude Cowork / Code @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4VhMfh",
       "tweets": [
         {
-          "id": "2064839833600897318",
-          "text": "If you're also a La Marzocco nerd with a caffeine problem, you can find instructions on how to make your own here: https://t.co/JGeu158iTW",
-          "createdAt": "2026-06-10T22:39:13.000Z",
-          "url": "https://x.com/felixrieseberg/status/2064839833600897318",
-          "likes": 27,
-          "retweets": 0,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2064839830077579682",
-          "text": "About three hours ago I decided that my espresso machine should have a display. With a $50 controller, I now have a little device that lets me control my machine. \n\nIf you have the opportunity, try talking to Claude about hardware. It's *much* cheaper and easier than you might think. Fable is amazing at it.",
-          "createdAt": "2026-06-10T22:39:13.000Z",
-          "url": "https://x.com/felixrieseberg/status/2064839830077579682",
-          "likes": 374,
-          "retweets": 9,
-          "replies": 16,
+          "id": "2065086671545155644",
+          "text": "Two days left to apply for the Inference-Time Compute Hackathon, hosted by Cognition, @mercor_ai, @Etched, and @AnthropicAI, where you get:\n • 8x H100s per team\n • $100k+ in prizes\n • Dedicated Agents Track\nBuild something that pushes the frontier. https://t.co/1P5XbxDJNB",
+          "createdAt": "2026-06-11T15:00:04.000Z",
+          "url": "https://x.com/cognition/status/2065086671545155644",
+          "likes": 141,
+          "retweets": 14,
+          "replies": 6,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HKfEPy7aEAAhZoS.jpg"
-            },
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HKfEPy7aoAAfAak.jpg"
-            },
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HKfEPy7bMAAxpWg.jpg"
+              "url": "https://pbs.twimg.com/media/HKipYRLW8AAMXQw.jpg"
             }
           ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
+      "tweets": [
+        {
+          "id": "2065279054216151355",
+          "text": "Fed study:  https://t.co/CWX30Vd1uX\nLopez-Lira study: https://t.co/qGTiFwZAYT\nJust one public instance of the SSI rumor: https://t.co/Sq258ZYZJr\n￼",
+          "createdAt": "2026-06-12T03:44:32.000Z",
+          "url": "https://x.com/deedydas/status/2065279054216151355",
+          "likes": 11,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2026237936346263783"
+        },
+        {
+          "id": "2065277997356355927",
+          "text": "There’s a new phenomenon of small groups of people who are running these small little quant funds driven by AI models who are making fuck-you returns.\n\nI’ve personally seen many who are 2x’ing capital in months. Many unsubstantiated rumors also claim SSI is a quant shop too.\n\nWell known quant funds have all tested out LLMs for trading. Some claim it doesn’t work. Others, well.. what do we think Jane Street doing with their huge GPU cluster? On top of that, there’s a ton of people asking Claude / GPT what stocks to buy and/or “vibe code me a trading engine”. Applies to other financial instruments too: derivatives, futures, crypto, and on the less sophisticated side, prediction masks.\n\nIt begs the question: how does this change how we think about markets? how much retail volume is driven purely by the ripple effects of AI models? does this completely destroy efficient market hypotheses in favor of “correlated model hypothesis.” Early theories say\n– Small studies including one by the Fed show destabilizing effects.\n– We see amplified concentrated trades into the 20 known names in the market.\n– Can leave trading vulnerable to GEO attacks like publishing specific articles to “poison” the models decision making.\n\nEventually any alpha generated by the model at a point of time *should* decay over time. New anti-AI trading strategies with custom post trains too. Remember, you need be able to afford the tokens to participate in this alpha. What does this mean for the future of wealth accumulation?\n\nWe live in a brave new world.",
+          "createdAt": "2026-06-12T03:40:20.000Z",
+          "url": "https://x.com/deedydas/status/2065277997356355927",
+          "likes": 158,
+          "retweets": 8,
+          "replies": 21,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2065122914224259339",
+          "text": "The quality of your data directly dictates the quality of your AI model. \n\nBut the way data affects model performance is hand-wavy voodoo at worst and intuition at best.\n\nThis new research now lets you debug your data BEFORE you spend a fortune on an irreversible training run. https://t.co/POHe1K4cFX",
+          "createdAt": "2026-06-11T17:24:05.000Z",
+          "url": "https://x.com/deedydas/status/2065122914224259339",
+          "likes": 79,
+          "retweets": 8,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2065118189986717902"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 4
+    "xBuilders": 3,
+    "totalTweets": 5
   }
 }
