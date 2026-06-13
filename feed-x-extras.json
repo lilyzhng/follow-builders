@@ -1,48 +1,63 @@
 {
-  "generatedAt": "2026-06-12T04:44:12.981Z",
+  "generatedAt": "2026-06-13T04:42:55.042Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "MiniMax",
-      "handle": "MiniMax_AI",
-      "bio": "Agent: @MiniMaxAgent Token Plan: https://t.co/BDCycxepZw API: https://t.co/fHRdSV7BwZ",
+      "name": "Kimi (Moonshot AI)",
+      "handle": "Kimi_Moonshot",
+      "bio": "Built by Moonshot AI to empower everyone to be superhuman. \n⚡️API: https://t.co/XCrgjXAqMw\n@KimiProduct where we share cool use cases.\n@Kimidevs built for developers",
       "tweets": [
         {
-          "id": "2065051857542885450",
-          "text": "Weights on Friday 🫶 https://t.co/iDtiZFd6aS",
-          "createdAt": "2026-06-11T12:41:44.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2065051857542885450",
-          "likes": 387,
-          "retweets": 27,
-          "replies": 20,
-          "isQuote": true,
-          "quotedTweetId": "2065010795625562486"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4VhMfh",
-      "tweets": [
-        {
-          "id": "2065086671545155644",
-          "text": "Two days left to apply for the Inference-Time Compute Hackathon, hosted by Cognition, @mercor_ai, @Etched, and @AnthropicAI, where you get:\n • 8x H100s per team\n • $100k+ in prizes\n • Dedicated Agents Track\nBuild something that pushes the frontier. https://t.co/1P5XbxDJNB",
-          "createdAt": "2026-06-11T15:00:04.000Z",
-          "url": "https://x.com/cognition/status/2065086671545155644",
-          "likes": 141,
-          "retweets": 14,
-          "replies": 6,
+          "id": "2065377579130142937",
+          "text": "🌘 Kimi-K2.7-Code, our latest coding model, is now released and open-sourced!\n\n🔷 Improved coding & agent performance over K2.6: +21.8% on Kimi Code Bench v2, +11.0% on Program Bench, and +31.5% on MLS Bench Lite.\n🔷 Reasoning efficiency: Less overthinking, with 30% lower reasoning-token usage compared to K2.6.\n🔷 Long-horizon coding: Improved instruction following, higher end-to-end coding task success rates.\n\n⚡️ 6x High-Speed Mode coming soon!\n🔌 Available today via Kimi API and Kimi Code.\n\n🔗 Kimi Code: https://t.co/uvoSJKyGCY\n🔗 API: https://t.co/EOZkbOwCN4",
+          "createdAt": "2026-06-12T10:16:02.000Z",
+          "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
+          "likes": 11662,
+          "retweets": 1372,
+          "replies": 514,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HKipYRLW8AAMXQw.jpg"
+              "url": "https://pbs.twimg.com/media/HKmxoVmagAAJKj8.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HKmxpGYaUAAstZB.jpg"
             }
           ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Agent: @MiniMaxAgent \nToken Plan: https://t.co/BDCycxepZw \nAPI: https://t.co/fHRdSV7BwZ\nCommunity: https://t.co/uhxxfLgkLU",
+      "tweets": [
+        {
+          "id": "2065578679296500141",
+          "text": "lmk👀 https://t.co/sBWbvm1Ld6",
+          "createdAt": "2026-06-12T23:35:08.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2065578679296500141",
+          "likes": 46,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2065500452440191010"
+        },
+        {
+          "id": "2065542980677902611",
+          "text": "M3 now on @FactoryAI droid https://t.co/vufmkWAMxo",
+          "createdAt": "2026-06-12T21:13:17.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2065542980677902611",
+          "likes": 56,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2065506746962178090"
         }
       ]
     },
@@ -53,43 +68,91 @@
       "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
       "tweets": [
         {
-          "id": "2065279054216151355",
-          "text": "Fed study:  https://t.co/CWX30Vd1uX\nLopez-Lira study: https://t.co/qGTiFwZAYT\nJust one public instance of the SSI rumor: https://t.co/Sq258ZYZJr\n￼",
-          "createdAt": "2026-06-12T03:44:32.000Z",
-          "url": "https://x.com/deedydas/status/2065279054216151355",
-          "likes": 11,
-          "retweets": 1,
+          "id": "2065456690401841461",
+          "text": "Github: https://t.co/VL6ZZJdyKY",
+          "createdAt": "2026-06-12T15:30:23.000Z",
+          "url": "https://x.com/deedydas/status/2065456690401841461",
+          "likes": 24,
+          "retweets": 0,
           "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2026237936346263783"
-        },
-        {
-          "id": "2065277997356355927",
-          "text": "There’s a new phenomenon of small groups of people who are running these small little quant funds driven by AI models who are making fuck-you returns.\n\nI’ve personally seen many who are 2x’ing capital in months. Many unsubstantiated rumors also claim SSI is a quant shop too.\n\nWell known quant funds have all tested out LLMs for trading. Some claim it doesn’t work. Others, well.. what do we think Jane Street doing with their huge GPU cluster? On top of that, there’s a ton of people asking Claude / GPT what stocks to buy and/or “vibe code me a trading engine”. Applies to other financial instruments too: derivatives, futures, crypto, and on the less sophisticated side, prediction masks.\n\nIt begs the question: how does this change how we think about markets? how much retail volume is driven purely by the ripple effects of AI models? does this completely destroy efficient market hypotheses in favor of “correlated model hypothesis.” Early theories say\n– Small studies including one by the Fed show destabilizing effects.\n– We see amplified concentrated trades into the 20 known names in the market.\n– Can leave trading vulnerable to GEO attacks like publishing specific articles to “poison” the models decision making.\n\nEventually any alpha generated by the model at a point of time *should* decay over time. New anti-AI trading strategies with custom post trains too. Remember, you need be able to afford the tokens to participate in this alpha. What does this mean for the future of wealth accumulation?\n\nWe live in a brave new world.",
-          "createdAt": "2026-06-12T03:40:20.000Z",
-          "url": "https://x.com/deedydas/status/2065277997356355927",
-          "likes": 158,
-          "retweets": 8,
-          "replies": 21,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2065122914224259339",
-          "text": "The quality of your data directly dictates the quality of your AI model. \n\nBut the way data affects model performance is hand-wavy voodoo at worst and intuition at best.\n\nThis new research now lets you debug your data BEFORE you spend a fortune on an irreversible training run. https://t.co/POHe1K4cFX",
-          "createdAt": "2026-06-11T17:24:05.000Z",
-          "url": "https://x.com/deedydas/status/2065122914224259339",
-          "likes": 79,
-          "retweets": 8,
-          "replies": 7,
-          "isQuote": true,
-          "quotedTweetId": "2065118189986717902"
+          "id": "2065456678154428809",
+          "text": "Claude 5 Fable (Ultracode)\n\n\"Make a playable alpine glacial valley at sunrise\"\n\nNo meshes or models. Everything you see is math. Fable screenshotted its own work and iterated.\n\nTook ~30 mins, ~500k tokens, ~2500 lines of code, and ~$25. Extremely impressive. https://t.co/QtJ6AmE21h",
+          "createdAt": "2026-06-12T15:30:21.000Z",
+          "url": "https://x.com/deedydas/status/2065456678154428809",
+          "likes": 859,
+          "retweets": 59,
+          "replies": 48,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2065456599922343936/img/eNocEZNeUfJu5rk0.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lance Martin",
+      "handle": "RLanceMartin",
+      "bio": "MTS @anthropicai",
+      "tweets": [
+        {
+          "id": "2065508174170612178",
+          "text": "see docs here for more detail:\nhttps://t.co/b0L7CUtJiq",
+          "createdAt": "2026-06-12T18:54:58.000Z",
+          "url": "https://x.com/RLanceMartin/status/2065508174170612178",
+          "likes": 1,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2065508171683094576",
+          "text": "8/ Claude Managed Agents w/ @daytonaio\n\nhttps://t.co/dtqaN9xb53 https://t.co/OcMTTnoGUe",
+          "createdAt": "2026-06-12T18:54:58.000Z",
+          "url": "https://x.com/RLanceMartin/status/2065508171683094576",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HKom3hxboAAu0tR.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2065508168927694871",
+          "text": "7/ Claude Managed Agents w/ @modal\n\nhttps://t.co/3odQN9MNkh https://t.co/QEuODoYN7N",
+          "createdAt": "2026-06-12T18:54:57.000Z",
+          "url": "https://x.com/RLanceMartin/status/2065508168927694871",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HKom9jgaEAAZSLb.jpg"
+            }
+          ]
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 5
+    "xBuilders": 4,
+    "totalTweets": 8
   }
 }
