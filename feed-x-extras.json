@@ -1,36 +1,7 @@
 {
-  "generatedAt": "2026-06-13T04:42:55.042Z",
+  "generatedAt": "2026-06-14T04:44:29.191Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Kimi (Moonshot AI)",
-      "handle": "Kimi_Moonshot",
-      "bio": "Built by Moonshot AI to empower everyone to be superhuman. \n⚡️API: https://t.co/XCrgjXAqMw\n@KimiProduct where we share cool use cases.\n@Kimidevs built for developers",
-      "tweets": [
-        {
-          "id": "2065377579130142937",
-          "text": "🌘 Kimi-K2.7-Code, our latest coding model, is now released and open-sourced!\n\n🔷 Improved coding & agent performance over K2.6: +21.8% on Kimi Code Bench v2, +11.0% on Program Bench, and +31.5% on MLS Bench Lite.\n🔷 Reasoning efficiency: Less overthinking, with 30% lower reasoning-token usage compared to K2.6.\n🔷 Long-horizon coding: Improved instruction following, higher end-to-end coding task success rates.\n\n⚡️ 6x High-Speed Mode coming soon!\n🔌 Available today via Kimi API and Kimi Code.\n\n🔗 Kimi Code: https://t.co/uvoSJKyGCY\n🔗 API: https://t.co/EOZkbOwCN4",
-          "createdAt": "2026-06-12T10:16:02.000Z",
-          "url": "https://x.com/Kimi_Moonshot/status/2065377579130142937",
-          "likes": 11662,
-          "retweets": 1372,
-          "replies": 514,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HKmxoVmagAAJKj8.jpg"
-            },
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HKmxpGYaUAAstZB.jpg"
-            }
-          ]
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "MiniMax",
@@ -38,121 +9,21 @@
       "bio": "Agent: @MiniMaxAgent \nToken Plan: https://t.co/BDCycxepZw \nAPI: https://t.co/fHRdSV7BwZ\nCommunity: https://t.co/uhxxfLgkLU",
       "tweets": [
         {
-          "id": "2065578679296500141",
-          "text": "lmk👀 https://t.co/sBWbvm1Ld6",
-          "createdAt": "2026-06-12T23:35:08.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2065578679296500141",
-          "likes": 46,
-          "retweets": 0,
-          "replies": 2,
+          "id": "2065731987823116517",
+          "text": "We love what the community is building with M3 open weights ♥️\n\nExcited for what’s next https://t.co/JRNr1amsjB",
+          "createdAt": "2026-06-13T09:44:19.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2065731987823116517",
+          "likes": 150,
+          "retweets": 9,
+          "replies": 13,
           "isQuote": true,
-          "quotedTweetId": "2065500452440191010"
-        },
-        {
-          "id": "2065542980677902611",
-          "text": "M3 now on @FactoryAI droid https://t.co/vufmkWAMxo",
-          "createdAt": "2026-06-12T21:13:17.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2065542980677902611",
-          "likes": 56,
-          "retweets": 1,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2065506746962178090"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
-      "tweets": [
-        {
-          "id": "2065456690401841461",
-          "text": "Github: https://t.co/VL6ZZJdyKY",
-          "createdAt": "2026-06-12T15:30:23.000Z",
-          "url": "https://x.com/deedydas/status/2065456690401841461",
-          "likes": 24,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2065456678154428809",
-          "text": "Claude 5 Fable (Ultracode)\n\n\"Make a playable alpine glacial valley at sunrise\"\n\nNo meshes or models. Everything you see is math. Fable screenshotted its own work and iterated.\n\nTook ~30 mins, ~500k tokens, ~2500 lines of code, and ~$25. Extremely impressive. https://t.co/QtJ6AmE21h",
-          "createdAt": "2026-06-12T15:30:21.000Z",
-          "url": "https://x.com/deedydas/status/2065456678154428809",
-          "likes": 859,
-          "retweets": 59,
-          "replies": 48,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2065456599922343936/img/eNocEZNeUfJu5rk0.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "MTS @anthropicai",
-      "tweets": [
-        {
-          "id": "2065508174170612178",
-          "text": "see docs here for more detail:\nhttps://t.co/b0L7CUtJiq",
-          "createdAt": "2026-06-12T18:54:58.000Z",
-          "url": "https://x.com/RLanceMartin/status/2065508174170612178",
-          "likes": 1,
-          "retweets": 1,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2065508171683094576",
-          "text": "8/ Claude Managed Agents w/ @daytonaio\n\nhttps://t.co/dtqaN9xb53 https://t.co/OcMTTnoGUe",
-          "createdAt": "2026-06-12T18:54:58.000Z",
-          "url": "https://x.com/RLanceMartin/status/2065508171683094576",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HKom3hxboAAu0tR.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2065508168927694871",
-          "text": "7/ Claude Managed Agents w/ @modal\n\nhttps://t.co/3odQN9MNkh https://t.co/QEuODoYN7N",
-          "createdAt": "2026-06-12T18:54:57.000Z",
-          "url": "https://x.com/RLanceMartin/status/2065508168927694871",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HKom9jgaEAAZSLb.jpg"
-            }
-          ]
+          "quotedTweetId": "2065671313889357907"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 8
+    "xBuilders": 1,
+    "totalTweets": 1
   }
 }
