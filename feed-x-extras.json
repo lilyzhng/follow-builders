@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-06-14T04:44:29.191Z",
+  "generatedAt": "2026-06-15T04:44:49.513Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "MiniMax",
-      "handle": "MiniMax_AI",
-      "bio": "Agent: @MiniMaxAgent \nToken Plan: https://t.co/BDCycxepZw \nAPI: https://t.co/fHRdSV7BwZ\nCommunity: https://t.co/uhxxfLgkLU",
-      "tweets": [
-        {
-          "id": "2065731987823116517",
-          "text": "We love what the community is building with M3 open weights ♥️\n\nExcited for what’s next https://t.co/JRNr1amsjB",
-          "createdAt": "2026-06-13T09:44:19.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2065731987823116517",
-          "likes": 150,
-          "retweets": 9,
-          "replies": 13,
-          "isQuote": true,
-          "quotedTweetId": "2065671313889357907"
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
