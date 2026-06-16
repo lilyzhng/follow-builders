@@ -1,9 +1,73 @@
 {
-  "generatedAt": "2026-06-15T04:44:49.513Z",
+  "generatedAt": "2026-06-16T04:44:52.862Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Agent: @MiniMaxAgent \nToken Plan: https://t.co/BDCycxepZw \nAPI: https://t.co/fHRdSV7BwZ\nCommunity: https://t.co/uhxxfLgkLU",
+      "tweets": [
+        {
+          "id": "2066592449578115284",
+          "text": "M3's free on @0G_labs 0G compute for three days, starting today. \n\nAmazing chance to throw a long-running task at it 👇 https://t.co/iLIbgL5E5R",
+          "createdAt": "2026-06-15T18:43:30.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2066592449578115284",
+          "likes": 174,
+          "retweets": 10,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2066495518335758774"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress toward open source AI\nhttps://t.co/vrD0aDJeto",
+      "tweets": [
+        {
+          "id": "2066619860852134384",
+          "text": "No more waiting for subagents to finish to keep working with your Hermes Agent. \n\nAsyncronous subagents are here. https://t.co/pZKSecFj4B",
+          "createdAt": "2026-06-15T20:32:25.000Z",
+          "url": "https://x.com/NousResearch/status/2066619860852134384",
+          "likes": 1510,
+          "retweets": 110,
+          "replies": 64,
+          "isQuote": true,
+          "quotedTweetId": "2066619275989991861"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Modal",
+      "handle": "modal",
+      "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
+      "tweets": [
+        {
+          "id": "2066558831099093401",
+          "text": "We worked with @lmsysorg and https://t.co/Cg0JsVomui to\n- integrate DFlash spec into @sgl_project\n- make it faster with overlap\n- train a DFlash drafter for @Alibaba_Qwen 397B-A17B\n\nThe result: up to 4.3x greater throughput over baseline and 1.5x over native MTP. https://t.co/tIypW8vc7E",
+          "createdAt": "2026-06-15T16:29:54.000Z",
+          "url": "https://x.com/modal/status/2066558831099093401",
+          "likes": 191,
+          "retweets": 24,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HK3kTlaaoAANp45.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 3,
+    "totalTweets": 3
   }
 }
