@@ -1,7 +1,57 @@
 {
-  "generatedAt": "2026-06-16T04:44:52.862Z",
+  "generatedAt": "2026-06-17T04:44:27.395Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "Qwen",
+      "handle": "Alibaba_Qwen",
+      "bio": "Open foundation models for AGI.",
+      "tweets": [
+        {
+          "id": "2066870201380118843",
+          "text": "Qwen-RobotNav：a scalable navigation model built on Qwen3-VL that addresses this through a parameterised interface with two complementary dimensions: task modes that select the navigation behaviour, and controllable observation parameters (token budget, temporal decay, per-camera weights) that govern how visual history is encoded.\nTrained on 15.6 million samples with training-time randomization over all parameters, Qwen-RobotNav generalizes to any inference-time configuration without architectural modification, unifying five task families under a single set of weights and serving as a natural building block for agentic systems.\nHere's the blog link to know more about Qwen-RobotNav:  https://t.co/h4GjQxSYuJ",
+          "createdAt": "2026-06-16T13:07:11.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2066870201380118843",
+          "likes": 101,
+          "retweets": 3,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HK77vvuakAIDs78.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HK77x_xaEAAU1bf.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2066870197122899980",
+          "text": "📣 Introducing the Qwen-Robot Suite — Qwen-RobotNav, Qwen-RobotManip, Qwen-RobotWorld, three foundation models, a full stack for embodied intelligence.\n\n🧭 Qwen-RobotNav — the gateway to mobility.\n• Unifies 5 navigation tasks in one model: instruction following, point-goal, object-goal, target tracking, autonomous driving\n• Controllable observation protocol\n• Tool interface for agentic systems\n\n🤖 Qwen-RobotManip —  the foundation of interaction.\n• Unified state-action space across heterogeneous robots\n• Camera-frame delta poses for coherent cross-embodiment training\n• Pretrained on a 38,100+ hour open-source corpus\n\n🌍 Qwen-RobotWorld — infinite worlds for physical agents.\n• Single world model, 20+ embodiments\n• Natural-language action interface\n• Predicts physically grounded futures across manipulation, driving, and navigation\n\nEach model is independently useful, and could be composed as physical-world tools.Together, they form the low-level toolkit for general-purpose agentic systems that don't just see the world, but act in it.\n\n📷 Blog:\nhttps://t.co/ytLcbYET26\n📖 Report：\nQwen-RobotNav: https://t.co/uPmSwDYGxg\nQwen-RobotManip: https://t.co/GeyIzJSpU8\nQwen-RobotWorld： https://t.co/SXPH1qzDFy",
+          "createdAt": "2026-06-16T13:07:10.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2066870197122899980",
+          "likes": 2321,
+          "retweets": 343,
+          "replies": 71,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HK73q7UbUAAYGBF.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HK73tqCbQAAzGeL.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "MiniMax",
@@ -9,57 +59,38 @@
       "bio": "Agent: @MiniMaxAgent \nToken Plan: https://t.co/BDCycxepZw \nAPI: https://t.co/fHRdSV7BwZ\nCommunity: https://t.co/uhxxfLgkLU",
       "tweets": [
         {
-          "id": "2066592449578115284",
-          "text": "M3's free on @0G_labs 0G compute for three days, starting today. \n\nAmazing chance to throw a long-running task at it 👇 https://t.co/iLIbgL5E5R",
-          "createdAt": "2026-06-15T18:43:30.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2066592449578115284",
-          "likes": 174,
-          "retweets": 10,
-          "replies": 6,
+          "id": "2066954409662443625",
+          "text": "nice example of M3 in a real agent loop, all served through @togethercompute https://t.co/2que18a6Ni",
+          "createdAt": "2026-06-16T18:41:48.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2066954409662443625",
+          "likes": 80,
+          "retweets": 2,
+          "replies": 2,
           "isQuote": true,
-          "quotedTweetId": "2066495518335758774"
+          "quotedTweetId": "2066949934684024905"
         }
       ]
     },
     {
       "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "A bunch of nerds making progress toward open source AI\nhttps://t.co/vrD0aDJeto",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
       "tweets": [
         {
-          "id": "2066619860852134384",
-          "text": "No more waiting for subagents to finish to keep working with your Hermes Agent. \n\nAsyncronous subagents are here. https://t.co/pZKSecFj4B",
-          "createdAt": "2026-06-15T20:32:25.000Z",
-          "url": "https://x.com/NousResearch/status/2066619860852134384",
-          "likes": 1510,
-          "retweets": 110,
-          "replies": 64,
-          "isQuote": true,
-          "quotedTweetId": "2066619275989991861"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Modal",
-      "handle": "modal",
-      "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
-      "tweets": [
-        {
-          "id": "2066558831099093401",
-          "text": "We worked with @lmsysorg and https://t.co/Cg0JsVomui to\n- integrate DFlash spec into @sgl_project\n- make it faster with overlap\n- train a DFlash drafter for @Alibaba_Qwen 397B-A17B\n\nThe result: up to 4.3x greater throughput over baseline and 1.5x over native MTP. https://t.co/tIypW8vc7E",
-          "createdAt": "2026-06-15T16:29:54.000Z",
-          "url": "https://x.com/modal/status/2066558831099093401",
-          "likes": 191,
-          "retweets": 24,
-          "replies": 8,
+          "id": "2066923649261854746",
+          "text": "What a brilliant $60B exit for Cursor to SpaceX today!\n\n$4B in run rate growing 7x YoY.\n\nThe 4 25yo MIT founders will make ~$2.7B in a span 4yrs and first 50 hires ~$20-500M each.\n\nA testament to why you should actually join early stage startups and of huge outcomes building apps on top of AI models.",
+          "createdAt": "2026-06-16T16:39:34.000Z",
+          "url": "https://x.com/deedydas/status/2066923649261854746",
+          "likes": 3655,
+          "retweets": 238,
+          "replies": 114,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HK3kTlaaoAANp45.jpg"
+              "url": "https://pbs.twimg.com/media/HK8wGx6bEAAX_Ox.jpg"
             }
           ]
         }
@@ -68,6 +99,6 @@
   ],
   "stats": {
     "xBuilders": 3,
-    "totalTweets": 3
+    "totalTweets": 4
   }
 }
