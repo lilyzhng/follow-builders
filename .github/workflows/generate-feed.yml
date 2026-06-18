@@ -2,8 +2,10 @@ name: Generate Feeds
 
 on:
   schedule:
-    # Run daily at 2:30am UTC (7:30 PM PT / PDT), feed ready ~15 min before the 7:45 PM digest trigger
-    - cron: '30 2 * * *'
+    # Run daily at 2:00am UTC (7:00 PM PT / PDT). GitHub scheduled crons here drift ~95 min late
+    # (observed: 03:10 nominal landed ~04:44 UTC for weeks), so nominal 7:00 lands ~8:30 PM PT.
+    # Earlier-than-digest nominal keeps the feed safely ahead of the 7:45 digest trigger. See chained-trigger TODO.
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 jobs:
