@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-06-18T04:44:17.762Z",
+  "generatedAt": "2026-06-18T20:54:21.122Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "A bunch of nerds making progress toward open source AI\nhttps://t.co/vrD0aDJeto",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4VhMfh",
       "tweets": [
         {
-          "id": "2067337553624125621",
-          "text": "Nous Portal now has Teams: share a single pool of credits across your whole org with one billing owner plus granular visibility and controls.\n\nCreate your team in the Nous Portal dashboard today at https://t.co/4KFwhsReyA. More details below: https://t.co/HDNJIdAWm4",
-          "createdAt": "2026-06-17T20:04:16.000Z",
-          "url": "https://x.com/NousResearch/status/2067337553624125621",
-          "likes": 494,
-          "retweets": 41,
-          "replies": 44,
+          "id": "2067649690921820212",
+          "text": "Security review is now part of every Devin Review.\n\nOpen a PR and Devin automatically finds the vulnerabilities scanners miss, explains each one, and drafts the fix. https://t.co/3xgoQBBYid",
+          "createdAt": "2026-06-18T16:44:36.000Z",
+          "url": "https://x.com/cognition/status/2067649690921820212",
+          "likes": 170,
+          "retweets": 26,
+          "replies": 11,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "video",
-              "url": "https://pbs.twimg.com/media/HLCkPGcWEAAek40.jpg"
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2067632305900818432/img/ntscn1X48L6Qmd9B.jpg"
             }
           ]
         }
@@ -34,30 +34,30 @@
       "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
       "tweets": [
         {
-          "id": "2067428044676157677",
-          "text": "Source: https://t.co/q8n1QlIFdG",
-          "createdAt": "2026-06-18T02:03:51.000Z",
-          "url": "https://x.com/deedydas/status/2067428044676157677",
-          "likes": 39,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2067637325467926724",
+          "text": "Pretty neat that with one URL change, you can now replicate and iterate on AI papers without having to even provision your own GPUs https://t.co/nv0QBq8ENe",
+          "createdAt": "2026-06-18T15:55:27.000Z",
+          "url": "https://x.com/deedydas/status/2067637325467926724",
+          "likes": 290,
+          "retweets": 16,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2067593673072877833"
         },
         {
-          "id": "2067428043195621454",
-          "text": "I thought this was a joke. Meta now has made 30-50% of software engineers on core teams become data labelers.\n\nTheir job is \"giving human feedback on AI-generated Github repos\" in an org called Agent Data Optimization. \n\nMaybe we are all training data generators after all. https://t.co/ZckjdtdoEl",
-          "createdAt": "2026-06-18T02:03:51.000Z",
-          "url": "https://x.com/deedydas/status/2067428043195621454",
-          "likes": 790,
-          "retweets": 57,
-          "replies": 74,
+          "id": "2067631455145177300",
+          "text": "the midjourney roadmap was public the whole time https://t.co/pfaaK9xspm",
+          "createdAt": "2026-06-18T15:32:08.000Z",
+          "url": "https://x.com/deedydas/status/2067631455145177300",
+          "likes": 2215,
+          "retweets": 88,
+          "replies": 21,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HLD5ZhGbIAAa78v.jpg"
+              "url": "https://pbs.twimg.com/media/HLGz2eCbMAAbiZr.jpg"
             }
           ]
         }
