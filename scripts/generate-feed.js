@@ -204,28 +204,40 @@ async function fetchXContent(xAccounts, bearerToken, state, errors) {
     }
   }
 
-  // Fetch recent tweets per user (max 3, exclude retweets/replies)
-  for (const account of xAccounts) {
+  // Fetch recent tweets per user (max 3, exclude retweets/replies).
+  // Rotate account order by day so a rate-limit never starves the same tail of the
+  // list, and on 429 wait for the window to reset instead of dropping every
+  // remaining account (the old `break` always hid the end of the follow list).
+  const rot = xAccounts.length ? Math.floor(Date.now() / 86400000) % xAccounts.length : 0;
+  const rotatedAccounts = xAccounts.slice(rot).concat(xAccounts.slice(0, rot));
+
+  for (const account of rotatedAccounts) {
     const userData = userMap[account.handle.toLowerCase()];
     if (!userData) continue;
 
     try {
-      const res = await fetch(
+      const tweetsUrl =
         `${X_API_BASE}/users/${userData.id}/tweets?` +
         `max_results=5` +       // fetch 5, then filter to 3 new ones
         `&tweet.fields=created_at,public_metrics,referenced_tweets,note_tweet,attachments` +
         `&expansions=attachments.media_keys` +
         `&media.fields=url,type,preview_image_url` +
         `&exclude=retweets,replies` +
-        `&start_time=${cutoff.toISOString()}`,
-        { headers: { 'Authorization': `Bearer ${bearerToken}` } }
-      );
+        `&start_time=${cutoff.toISOString()}`;
+      const authHeaders = { 'Authorization': `Bearer ${bearerToken}` };
+
+      let res = await fetch(tweetsUrl, { headers: authHeaders });
+      if (res.status === 429) {
+        // Wait for the rate-limit window to reset (capped at 15 min), then retry this
+        // account once. Never break: that silently dropped the rest of the follow list.
+        const resetMs = (parseInt(res.headers.get('x-rate-limit-reset') || '0', 10) || 0) * 1000;
+        const waitMs = Math.min(Math.max(resetMs - Date.now(), 1000), 15 * 60 * 1000);
+        errors.push(`X API: rate limited, waiting ${Math.round(waitMs / 1000)}s then resuming`);
+        await new Promise(r => setTimeout(r, waitMs + 1000));
+        res = await fetch(tweetsUrl, { headers: authHeaders });
+      }
 
       if (!res.ok) {
-        if (res.status === 429) {
-          errors.push(`X API: Rate limited, skipping remaining accounts`);
-          break;
-        }
         errors.push(`X API: Failed to fetch tweets for @${account.handle}: HTTP ${res.status}`);
         continue;
       }
