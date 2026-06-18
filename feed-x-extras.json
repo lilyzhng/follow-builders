@@ -1,71 +1,9 @@
 {
-  "generatedAt": "2026-06-18T20:54:21.122Z",
+  "generatedAt": "2026-06-18T23:34:55.541Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/JZDd4VhMfh",
-      "tweets": [
-        {
-          "id": "2067649690921820212",
-          "text": "Security review is now part of every Devin Review.\n\nOpen a PR and Devin automatically finds the vulnerabilities scanners miss, explains each one, and drafts the fix. https://t.co/3xgoQBBYid",
-          "createdAt": "2026-06-18T16:44:36.000Z",
-          "url": "https://x.com/cognition/status/2067649690921820212",
-          "likes": 170,
-          "retweets": 26,
-          "replies": 11,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2067632305900818432/img/ntscn1X48L6Qmd9B.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
-      "tweets": [
-        {
-          "id": "2067637325467926724",
-          "text": "Pretty neat that with one URL change, you can now replicate and iterate on AI papers without having to even provision your own GPUs https://t.co/nv0QBq8ENe",
-          "createdAt": "2026-06-18T15:55:27.000Z",
-          "url": "https://x.com/deedydas/status/2067637325467926724",
-          "likes": 290,
-          "retweets": 16,
-          "replies": 6,
-          "isQuote": true,
-          "quotedTweetId": "2067593673072877833"
-        },
-        {
-          "id": "2067631455145177300",
-          "text": "the midjourney roadmap was public the whole time https://t.co/pfaaK9xspm",
-          "createdAt": "2026-06-18T15:32:08.000Z",
-          "url": "https://x.com/deedydas/status/2067631455145177300",
-          "likes": 2215,
-          "retweets": 88,
-          "replies": 21,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HLGz2eCbMAAbiZr.jpg"
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 3
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
