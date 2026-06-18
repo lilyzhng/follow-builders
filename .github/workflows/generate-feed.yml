@@ -2,10 +2,12 @@ name: Generate Feeds
 
 on:
   schedule:
-    # Run daily at 2:00am UTC (7:00 PM PT / PDT). GitHub scheduled crons here drift ~95 min late
-    # (observed: 03:10 nominal landed ~04:44 UTC for weeks), so nominal 7:00 lands ~8:30 PM PT.
-    # Earlier-than-digest nominal keeps the feed safely ahead of the 7:45 digest trigger. See chained-trigger TODO.
-    - cron: '0 2 * * *'
+    # Single source of truth for evening-digest timing (feed + digest are CHAINED, see last step).
+    # GitHub scheduled crons in this repo drift ~95 min late (observed: 03:10 nominal -> ~04:44 UTC
+    # for weeks). Nominal 6:10 PM PT (01:10 UTC) lands the feed ~7:45 PM PT actual; the chained
+    # trigger then pings the digest owner, so the digest lands ~8 PM PT. Feed is always fresh
+    # before the ping because it's the same job. Do NOT add a separate clock-based digest cron.
+    - cron: '10 1 * * *'
   workflow_dispatch:
 
 jobs:
@@ -73,3 +75,15 @@ jobs:
           git add feed-x.json feed-podcasts.json feed-x-extras.json state-feed.json
           git diff --cached --quiet || git commit -m "chore: update feeds [skip ci]"
           git push
+
+      - name: Trigger evening digest (chained off the fresh feed)
+        if: github.event_name == 'schedule'
+        env:
+          DIGEST_TRIGGER_BOT_TOKEN: ${{ secrets.DIGEST_TRIGGER_BOT_TOKEN }}
+        run: |
+          DAILY_DIGEST_CHANNEL="1485075381613760603"
+          DIGEST_OWNER_ID="1485446312798457866"  # Andrej / genius-researcher owns the digest
+          curl -sf -H "Content-Type: application/json" \
+            -H "Authorization: Bot ${DIGEST_TRIGGER_BOT_TOKEN}" \
+            -d "{\"content\": \"<@${DIGEST_OWNER_ID}> Run the evening builder digest now. feed-x.json just regenerated (chained off generate-feed, so it is fresh). Follow the builder-digest skill.\"}" \
+            "https://discord.com/api/v10/channels/${DAILY_DIGEST_CHANNEL}/messages"
