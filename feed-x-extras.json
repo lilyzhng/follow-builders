@@ -1,73 +1,29 @@
 {
-  "generatedAt": "2026-06-17T04:44:27.395Z",
+  "generatedAt": "2026-06-18T04:44:17.762Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Qwen",
-      "handle": "Alibaba_Qwen",
-      "bio": "Open foundation models for AGI.",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress toward open source AI\nhttps://t.co/vrD0aDJeto",
       "tweets": [
         {
-          "id": "2066870201380118843",
-          "text": "Qwen-RobotNav：a scalable navigation model built on Qwen3-VL that addresses this through a parameterised interface with two complementary dimensions: task modes that select the navigation behaviour, and controllable observation parameters (token budget, temporal decay, per-camera weights) that govern how visual history is encoded.\nTrained on 15.6 million samples with training-time randomization over all parameters, Qwen-RobotNav generalizes to any inference-time configuration without architectural modification, unifying five task families under a single set of weights and serving as a natural building block for agentic systems.\nHere's the blog link to know more about Qwen-RobotNav:  https://t.co/h4GjQxSYuJ",
-          "createdAt": "2026-06-16T13:07:11.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2066870201380118843",
-          "likes": 101,
-          "retweets": 3,
-          "replies": 2,
+          "id": "2067337553624125621",
+          "text": "Nous Portal now has Teams: share a single pool of credits across your whole org with one billing owner plus granular visibility and controls.\n\nCreate your team in the Nous Portal dashboard today at https://t.co/4KFwhsReyA. More details below: https://t.co/HDNJIdAWm4",
+          "createdAt": "2026-06-17T20:04:16.000Z",
+          "url": "https://x.com/NousResearch/status/2067337553624125621",
+          "likes": 494,
+          "retweets": 41,
+          "replies": 44,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HK77vvuakAIDs78.jpg"
-            },
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HK77x_xaEAAU1bf.jpg"
+              "type": "video",
+              "url": "https://pbs.twimg.com/media/HLCkPGcWEAAek40.jpg"
             }
           ]
-        },
-        {
-          "id": "2066870197122899980",
-          "text": "📣 Introducing the Qwen-Robot Suite — Qwen-RobotNav, Qwen-RobotManip, Qwen-RobotWorld, three foundation models, a full stack for embodied intelligence.\n\n🧭 Qwen-RobotNav — the gateway to mobility.\n• Unifies 5 navigation tasks in one model: instruction following, point-goal, object-goal, target tracking, autonomous driving\n• Controllable observation protocol\n• Tool interface for agentic systems\n\n🤖 Qwen-RobotManip —  the foundation of interaction.\n• Unified state-action space across heterogeneous robots\n• Camera-frame delta poses for coherent cross-embodiment training\n• Pretrained on a 38,100+ hour open-source corpus\n\n🌍 Qwen-RobotWorld — infinite worlds for physical agents.\n• Single world model, 20+ embodiments\n• Natural-language action interface\n• Predicts physically grounded futures across manipulation, driving, and navigation\n\nEach model is independently useful, and could be composed as physical-world tools.Together, they form the low-level toolkit for general-purpose agentic systems that don't just see the world, but act in it.\n\n📷 Blog:\nhttps://t.co/ytLcbYET26\n📖 Report：\nQwen-RobotNav: https://t.co/uPmSwDYGxg\nQwen-RobotManip: https://t.co/GeyIzJSpU8\nQwen-RobotWorld： https://t.co/SXPH1qzDFy",
-          "createdAt": "2026-06-16T13:07:10.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2066870197122899980",
-          "likes": 2321,
-          "retweets": 343,
-          "replies": 71,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HK73q7UbUAAYGBF.jpg"
-            },
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HK73tqCbQAAzGeL.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "MiniMax",
-      "handle": "MiniMax_AI",
-      "bio": "Agent: @MiniMaxAgent \nToken Plan: https://t.co/BDCycxepZw \nAPI: https://t.co/fHRdSV7BwZ\nCommunity: https://t.co/uhxxfLgkLU",
-      "tweets": [
-        {
-          "id": "2066954409662443625",
-          "text": "nice example of M3 in a real agent loop, all served through @togethercompute https://t.co/2que18a6Ni",
-          "createdAt": "2026-06-16T18:41:48.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2066954409662443625",
-          "likes": 80,
-          "retweets": 2,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2066949934684024905"
         }
       ]
     },
@@ -78,19 +34,30 @@
       "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
       "tweets": [
         {
-          "id": "2066923649261854746",
-          "text": "What a brilliant $60B exit for Cursor to SpaceX today!\n\n$4B in run rate growing 7x YoY.\n\nThe 4 25yo MIT founders will make ~$2.7B in a span 4yrs and first 50 hires ~$20-500M each.\n\nA testament to why you should actually join early stage startups and of huge outcomes building apps on top of AI models.",
-          "createdAt": "2026-06-16T16:39:34.000Z",
-          "url": "https://x.com/deedydas/status/2066923649261854746",
-          "likes": 3655,
-          "retweets": 238,
-          "replies": 114,
+          "id": "2067428044676157677",
+          "text": "Source: https://t.co/q8n1QlIFdG",
+          "createdAt": "2026-06-18T02:03:51.000Z",
+          "url": "https://x.com/deedydas/status/2067428044676157677",
+          "likes": 39,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2067428043195621454",
+          "text": "I thought this was a joke. Meta now has made 30-50% of software engineers on core teams become data labelers.\n\nTheir job is \"giving human feedback on AI-generated Github repos\" in an org called Agent Data Optimization. \n\nMaybe we are all training data generators after all. https://t.co/ZckjdtdoEl",
+          "createdAt": "2026-06-18T02:03:51.000Z",
+          "url": "https://x.com/deedydas/status/2067428043195621454",
+          "likes": 790,
+          "retweets": 57,
+          "replies": 74,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HK8wGx6bEAAX_Ox.jpg"
+              "url": "https://pbs.twimg.com/media/HLD5ZhGbIAAa78v.jpg"
             }
           ]
         }
@@ -98,7 +65,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 4
+    "xBuilders": 2,
+    "totalTweets": 3
   }
 }
