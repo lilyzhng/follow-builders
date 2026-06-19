@@ -1,37 +1,7 @@
 {
-  "generatedAt": "2026-06-18T23:34:53.623Z",
+  "generatedAt": "2026-06-19T02:07:51.663Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Lulu Cheng Meservey",
-      "handle": "lulumeservey",
-      "bio": "Rostra founder, Shopify board, ex Activision & Substack, writing https://t.co/4xKo7wQTQo",
-      "tweets": [
-        {
-          "id": "2067729856687984842",
-          "text": "Here’s the stream of the full Midjourney Medical launch last night for anyone who wants to catch up on the hullabaloo https://t.co/qYjfwyB9go",
-          "createdAt": "2026-06-18T22:03:09.000Z",
-          "url": "https://x.com/lulumeservey/status/2067729856687984842",
-          "likes": 44,
-          "retweets": 4,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2067415751989076070"
-        },
-        {
-          "id": "2067498988258169048",
-          "text": "David: “In the 1990s people used to talk about ‘the 21st century’!  But now we never talk about the 22nd century. It’s like the future doesn’t exist.” https://t.co/zaacBuxD7j",
-          "createdAt": "2026-06-18T06:45:45.000Z",
-          "url": "https://x.com/lulumeservey/status/2067498988258169048",
-          "likes": 159,
-          "retweets": 9,
-          "replies": 13,
-          "isQuote": true,
-          "quotedTweetId": "2067421950314688759"
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Graham Neubig",
@@ -39,37 +9,21 @@
       "bio": "Associate professor @LTIatCMU.\nCo-founder/chief scientist @OpenHandsDev.\nI mostly work on modeling language.",
       "tweets": [
         {
-          "id": "2067651023355711704",
-          "text": "We also have much more fine grained results, and the full set of agent trajectories across the 5 benchmarks here: https://t.co/mCy7wIrnJP\n\nAnd these results were enabled by our new ACP support in the OpenHands SDK, which you can use for benchmarking or many other things, learn more here: https://t.co/pWGGHhJhNq",
-          "createdAt": "2026-06-18T16:49:53.000Z",
-          "url": "https://x.com/gneubig/status/2067651023355711704",
-          "likes": 2,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2067643119957410096"
-        },
-        {
-          "id": "2067651021384413602",
-          "text": "The results are interesting. Overall the trends are:\n- OpenHands generally outperforms Claude Code on both accuracy and cost when using Claude Opus\n- OpenHands beats Codex on accuracy, but falls behind on cost when using GPT\n- Gemini-CLI outperforms OpenHands when using Gemini",
-          "createdAt": "2026-06-18T16:49:53.000Z",
-          "url": "https://x.com/gneubig/status/2067651021384413602",
-          "likes": 2,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2067651020159635515",
-          "text": "Specifically, we evaluated on the OpenHands Index, our composite benchmark that covers:\n- Issue Resolution (SWE-Bench)\n- Frontend Development (SWE-Bench Multimodal)\n- Greenfield Development (commit0)\n- Software Testing (SWT-Bench)\n- Information Gathering (GAIA)",
+          "id": "2067651018217648595",
+          "text": "Many coding agent benchmarks evaluate LLM performance (with the same harness) or harness performance (with the same LLM).\n\nBut in reality, it is the harness + the LLM that determins the overall performance.\n\nWe introduced new, holistic results that measure both. https://t.co/EsOolZkD4H",
           "createdAt": "2026-06-18T16:49:52.000Z",
-          "url": "https://x.com/gneubig/status/2067651020159635515",
-          "likes": 3,
-          "retweets": 0,
-          "replies": 1,
+          "url": "https://x.com/gneubig/status/2067651018217648595",
+          "likes": 57,
+          "retweets": 5,
+          "replies": 6,
           "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HLHDaUlWwAAqLVF.jpg"
+            }
+          ]
         }
       ]
     },
@@ -80,41 +34,24 @@
       "bio": "High fidelity research",
       "tweets": [
         {
-          "id": "2067631310940557515",
-          "text": "read more:\nhttps://t.co/xFnZVzfHLB",
-          "createdAt": "2026-06-18T15:31:33.000Z",
-          "url": "https://x.com/askalphaxiv/status/2067631310940557515",
-          "likes": 4,
+          "id": "2067594721795740025",
+          "text": "3/N As models improve, this testbed can extend to more complex tasks that involve actually iterating and improving upon an existing work. Having a public, observable repository of experiments that research agents carry out is going to be invaluable. A slop-free environment where researchers can see exactly what attempts an agent has made when either trying to reproduce a work or make an improvement.",
+          "createdAt": "2026-06-18T13:06:10.000Z",
+          "url": "https://x.com/askalphaxiv/status/2067594721795740025",
+          "likes": 26,
           "retweets": 0,
-          "replies": 0,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2067631308948275368",
-          "text": "“Looped World Models”\n\nWorld models need deep computation for stable long-horizon simulation, but deeper models are expensive and errors compound over rollouts.\n\nThis paper makes depth reusable by looping the same Transformer block over latent states, so the model can refine a transition multiple times without adding new parameters.\n\nWith spectral stability, adaptive early exit, and deferred decoding, LoopWM turns world-model scaling into iterative latent compute, getting strong ScienceWorld results with only around 1B parameters.",
-          "createdAt": "2026-06-18T15:31:33.000Z",
-          "url": "https://x.com/askalphaxiv/status/2067631308948275368",
-          "likes": 217,
-          "retweets": 35,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HLGztyTXAAEdFxB.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2067594764233716068",
-          "text": "4/N To try it out change the url of any CS arxiv paper from ‘https://t.co/v1mblM8jp2 (https://t.co/qj0T1TiNDt)’ -&gt; ‘https://t.co/L06ShQQjuw (https://t.co/UvosprEccF)’ You can also try it out on a private codebase by visiting https://t.co/GQIbWpFvWc (https://t.co/orpVTpjX7e)",
-          "createdAt": "2026-06-18T13:06:20.000Z",
-          "url": "https://x.com/askalphaxiv/status/2067594764233716068",
+          "id": "2067593805264720222",
+          "text": "2/N In this case the objective that is hillclimbed is a 0/1 on whether a paper’s initial claims can be matched. In addition to making previous research codebases reproducible, we also believe a tool like this can make it easy for authors to ensure their codebases are legible in the first place.",
+          "createdAt": "2026-06-18T13:02:31.000Z",
+          "url": "https://x.com/askalphaxiv/status/2067593805264720222",
           "likes": 25,
-          "retweets": 1,
-          "replies": 0,
+          "retweets": 2,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -127,30 +64,19 @@
       "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
       "tweets": [
         {
-          "id": "2067744224892821737",
-          "text": "@DevinAI @tbpn https://t.co/uNX04pBigg",
-          "createdAt": "2026-06-18T23:00:14.000Z",
-          "url": "https://x.com/swyx/status/2067744224892821737",
-          "likes": 3,
-          "retweets": 0,
-          "replies": 0,
+          "id": "2067764968808915392",
+          "text": "+55% in one day. i should start a fund\n\n(dm if you would actually help me run one, i have no idea how to run one) https://t.co/xDABotzUVq https://t.co/whWdtDyZv4",
+          "createdAt": "2026-06-19T00:22:40.000Z",
+          "url": "https://x.com/swyx/status/2067764968808915392",
+          "likes": 24,
+          "retweets": 1,
+          "replies": 5,
           "isQuote": true,
-          "quotedTweetId": "2067743962270708015"
-        },
-        {
-          "id": "2067741621647749296",
-          "text": "@midjourney @Scobleizer @bryan_johnson @DavidSHolz @iScienceLuvr whoa i had no idea who i was talking to lmao https://t.co/dcDg09MkgY https://t.co/KoZWmFDwBb",
-          "createdAt": "2026-06-18T22:49:54.000Z",
-          "url": "https://x.com/swyx/status/2067741621647749296",
-          "likes": 2,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2067723391033819597",
+          "quotedTweetId": "2067468331918242127",
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HLIX_ohaYAAaxB6.jpg"
+              "url": "https://pbs.twimg.com/media/HLItIw-aoAAUYdV.jpg"
             }
           ]
         }
@@ -163,129 +89,32 @@
       "bio": "Practical AI tutorials and interviews for busy people | Join 150K+ readers at https://t.co/XYKTmGVH14",
       "tweets": [
         {
-          "id": "2067729596343259319",
-          "text": "If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.\n\nJoin 110,000+ subscribers here:\nhttps://t.co/yz9xcsfrhF",
-          "createdAt": "2026-06-18T22:02:06.000Z",
-          "url": "https://x.com/petergyang/status/2067729596343259319",
-          "likes": 0,
-          "retweets": 0,
+          "id": "2067783369153470878",
+          "text": "@OpenAIDevs how about letting us add voice over narration next like taking a quick clip to explain how to do something to a coworker",
+          "createdAt": "2026-06-19T01:35:47.000Z",
+          "url": "https://x.com/petergyang/status/2067783369153470878",
+          "likes": 1,
+          "retweets": 1,
           "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2067726258583330945",
-          "text": "Anything you do on a computer codex can do too https://t.co/iLf02kx7BQ",
-          "createdAt": "2026-06-18T21:48:51.000Z",
-          "url": "https://x.com/petergyang/status/2067726258583330945",
-          "likes": 73,
-          "retweets": 6,
-          "replies": 5,
-          "isQuote": true,
-          "quotedTweetId": "2067681320281723113"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Thariq",
-      "handle": "trq212",
-      "bio": "Claude Code @anthropicai.   prev YC W20, @southpkcommons, @medialab",
-      "tweets": [
-        {
-          "id": "2067737885378568653",
-          "text": "https://t.co/Sl36HC0Cli",
-          "createdAt": "2026-06-18T22:35:03.000Z",
-          "url": "https://x.com/trq212/status/2067737885378568653",
-          "likes": 15,
-          "retweets": 0,
-          "replies": 1,
+          "id": "2067760098265706566",
+          "text": "How do you steer Claude Code with new prompts in the desktop app while it's working?",
+          "createdAt": "2026-06-19T00:03:19.000Z",
+          "url": "https://x.com/petergyang/status/2067760098265706566",
+          "likes": 30,
+          "retweets": 1,
+          "replies": 25,
           "isQuote": false,
           "quotedTweetId": null
-        },
-        {
-          "id": "2067737883545596368",
-          "text": "I'll be giving the the Day 2 opening keynote at AI Engineer World's Fair on July 1st at 9am.\n\nHope to see you there, here's a quick preview https://t.co/s5DNmuBjJK",
-          "createdAt": "2026-06-18T22:35:02.000Z",
-          "url": "https://x.com/trq212/status/2067737883545596368",
-          "likes": 197,
-          "retweets": 3,
-          "replies": 16,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HLITRDFa8AAzQ_z.png"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Nikunj Kothari",
-      "handle": "nikunj",
-      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
-      "tweets": [
-        {
-          "id": "2067748864967503942",
-          "text": "Ok @artie_labs clearly takes the cake for fire swag.. like literally 🔥 \n\nProud angel investor and congrats on the self-serve launch! https://t.co/BcQT7xMkod",
-          "createdAt": "2026-06-18T23:18:40.000Z",
-          "url": "https://x.com/nikunj/status/2067748864967503942",
-          "likes": 3,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2067748804875689984/img/UGCshTYY6rSDDP2-.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2067724821283438980",
-          "text": "Mind fudging blown https://t.co/b6VNdVflbm",
-          "createdAt": "2026-06-18T21:43:08.000Z",
-          "url": "https://x.com/nikunj/status/2067724821283438980",
-          "likes": 2,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HLIIxDXbUAACoZ3.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Dan Shipper",
-      "handle": "danshipper",
-      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
-      "tweets": [
-        {
-          "id": "2067749268928995737",
-          "text": "Extremely sick https://t.co/qfpZGJTde1",
-          "createdAt": "2026-06-18T23:20:17.000Z",
-          "url": "https://x.com/danshipper/status/2067749268928995737",
-          "likes": 7,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2067681320281723113"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 8,
-    "totalTweets": 17
+    "xBuilders": 4,
+    "totalTweets": 6
   }
 }
