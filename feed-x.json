@@ -1,29 +1,129 @@
 {
-  "generatedAt": "2026-06-19T02:07:51.663Z",
+  "generatedAt": "2026-06-20T01:53:34.199Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Graham Neubig",
-      "handle": "gneubig",
-      "bio": "Associate professor @LTIatCMU.\nCo-founder/chief scientist @OpenHandsDev.\nI mostly work on modeling language.",
+      "name": "Z.AI (GLM)",
+      "handle": "Zai_org",
+      "bio": "The AI Lab behind GLM models, dedicated to inspiring the development of AGI to benefit humanity.\n\nhttps://t.co/7a5aSCUNcZ\nhttps://t.co/x14hb3klXm",
       "tweets": [
         {
-          "id": "2067651018217648595",
-          "text": "Many coding agent benchmarks evaluate LLM performance (with the same harness) or harness performance (with the same LLM).\n\nBut in reality, it is the harness + the LLM that determins the overall performance.\n\nWe introduced new, holistic results that measure both. https://t.co/EsOolZkD4H",
-          "createdAt": "2026-06-18T16:49:52.000Z",
-          "url": "https://x.com/gneubig/status/2067651018217648595",
-          "likes": 57,
+          "id": "2067806055598264695",
+          "text": "Long-horizon is more than a concept. It should live in real-world scenarios, empowering AI builders to solve the problems that matter. \n\nAnd more scenarios are on the way. https://t.co/dwYZHd8fqr",
+          "createdAt": "2026-06-19T03:05:56.000Z",
+          "url": "https://x.com/Zai_org/status/2067806055598264695",
+          "likes": 762,
+          "retweets": 48,
+          "replies": 32,
+          "isQuote": true,
+          "quotedTweetId": "2067803136283005393"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lulu Cheng Meservey",
+      "handle": "lulumeservey",
+      "bio": "Rostra founder, Shopify board, ex Activision & Substack, writing https://t.co/4xKo7wQTQo",
+      "tweets": [
+        {
+          "id": "2068135195845509581",
+          "text": "Great idea, excellent distribution mechanism https://t.co/q73g6QiFXS https://t.co/7Q0sIixBPY",
+          "createdAt": "2026-06-20T00:53:49.000Z",
+          "url": "https://x.com/lulumeservey/status/2068135195845509581",
+          "likes": 26,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2067660484963410361",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HLN9-d9a0AAqfNa.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2068121605964984437",
+          "text": "A measure of employee morale is Leaks Per Capita\n\nSome companies try to prevent leaks by keeping employees in the dark\n\nBut that can actually make leaks worse because it creates an atmosphere of distrust\n\nAnduril has very low LPC, in part because:\n\n- there’s high trust and transparency with employees\n- fostering a culture of “we’re in this together”\n- extreme intolerance for doing wrong",
+          "createdAt": "2026-06-19T23:59:49.000Z",
+          "url": "https://x.com/lulumeservey/status/2068121605964984437",
+          "likes": 35,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2068015689605288408",
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2068121254213926912/img/K9Z1XolxZRcD1LIg.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2068088924254486753",
+          "text": "If you ask anyone in tech to name a great recruiting campaign, chances are they’ll say Don’t Work at Anduril\n\nJeff and I get into:\n\n- how the idea came together\n- how the team executed\n- what it did to their candidate pipeline https://t.co/laqw1iKMve https://t.co/KURbeVhJUG",
+          "createdAt": "2026-06-19T21:49:57.000Z",
+          "url": "https://x.com/lulumeservey/status/2068088924254486753",
+          "likes": 101,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2068015689605288408",
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2068088401233166336/img/FY8w3ABpJFzHBDcg.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Graham Neubig",
+      "handle": "gneubig",
+      "bio": "Associate professor @LTIatCMU.\nCo-founder/chief scientist @OpenHandsDev.\nI mostly work on modeling languages.",
+      "tweets": [
+        {
+          "id": "2068080256347476428",
+          "text": "Another day, another benchmark that @OpenHandsDev tops 😄 https://t.co/D79AUu6Kzm",
+          "createdAt": "2026-06-19T21:15:30.000Z",
+          "url": "https://x.com/gneubig/status/2068080256347476428",
+          "likes": 14,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2067711629274624232"
+        },
+        {
+          "id": "2068022915388383446",
+          "text": "Wow, this is really interesting. I started a conversation with glm-5.2, and then switched to gpt-5.5 mid-conversation (keeping the context).\n\nglm was sending messages in coherent English, but gpt-5.5 started messaging like a caveman.\n\nMay be what gpt's hidden CoTs look like? https://t.co/SoTyKWINit",
+          "createdAt": "2026-06-19T17:27:39.000Z",
+          "url": "https://x.com/gneubig/status/2068022915388383446",
+          "likes": 88,
           "retweets": 5,
-          "replies": 6,
+          "replies": 11,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HLHDaUlWwAAqLVF.jpg"
+              "url": "https://pbs.twimg.com/media/HLMXitIXMAARtqw.png"
             }
           ]
+        },
+        {
+          "id": "2067980056148717817",
+          "text": "\"non-multimodal model number 1 at design\" was definitely not on my bingo card. https://t.co/FFgTCAgXXv",
+          "createdAt": "2026-06-19T14:37:21.000Z",
+          "url": "https://x.com/gneubig/status/2067980056148717817",
+          "likes": 87,
+          "retweets": 4,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2066940737011560652"
         }
       ]
     },
@@ -34,24 +134,41 @@
       "bio": "High fidelity research",
       "tweets": [
         {
-          "id": "2067594721795740025",
-          "text": "3/N As models improve, this testbed can extend to more complex tasks that involve actually iterating and improving upon an existing work. Having a public, observable repository of experiments that research agents carry out is going to be invaluable. A slop-free environment where researchers can see exactly what attempts an agent has made when either trying to reproduce a work or make an improvement.",
-          "createdAt": "2026-06-18T13:06:10.000Z",
-          "url": "https://x.com/askalphaxiv/status/2067594721795740025",
-          "likes": 26,
+          "id": "2068012993166659885",
+          "text": "read more:\nhttps://t.co/FC45gLAmJU",
+          "createdAt": "2026-06-19T16:48:14.000Z",
+          "url": "https://x.com/askalphaxiv/status/2068012993166659885",
+          "likes": 3,
           "retweets": 0,
-          "replies": 1,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2067593805264720222",
-          "text": "2/N In this case the objective that is hillclimbed is a 0/1 on whether a paper’s initial claims can be matched. In addition to making previous research codebases reproducible, we also believe a tool like this can make it easy for authors to ensure their codebases are legible in the first place.",
-          "createdAt": "2026-06-18T13:02:31.000Z",
-          "url": "https://x.com/askalphaxiv/status/2067593805264720222",
-          "likes": 25,
-          "retweets": 2,
-          "replies": 1,
+          "id": "2068012991090442399",
+          "text": "“Position: Anthropomorphic Misalignment Research Needs Stronger Evidence”\n\nAI safety papers often say models are deceptive, scheming, or self-preserving, but many results only show behavior that looks human-like.\n\nThis paper argues the field needs to separate what the model does, what harm it causes, and whether we actually know why it happened.\n\nThe key point is most scary L3 claims about intent or mechanisms are only backed by L1 behavioral evidence.\n\nIt’s important because it gives anthropomorphic misalignment research a cleaner evidence standard before these claims shape deployment, regulation, or safety policy.",
+          "createdAt": "2026-06-19T16:48:13.000Z",
+          "url": "https://x.com/askalphaxiv/status/2068012991090442399",
+          "likes": 59,
+          "retweets": 4,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HLMOyv6XEAEJVU2.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2068012741248307484",
+          "text": "read more:\nhttps://t.co/zGXgHNpXcQ",
+          "createdAt": "2026-06-19T16:47:13.000Z",
+          "url": "https://x.com/askalphaxiv/status/2068012741248307484",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -64,19 +181,169 @@
       "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
       "tweets": [
         {
-          "id": "2067764968808915392",
-          "text": "+55% in one day. i should start a fund\n\n(dm if you would actually help me run one, i have no idea how to run one) https://t.co/xDABotzUVq https://t.co/whWdtDyZv4",
-          "createdAt": "2026-06-19T00:22:40.000Z",
-          "url": "https://x.com/swyx/status/2067764968808915392",
-          "likes": 24,
-          "retweets": 1,
-          "replies": 5,
+          "id": "2068149297389208049",
+          "text": "I think @AriX @skybysoftware is one of the highest ROI acquisitions @sama ever did https://t.co/aYAzac852W",
+          "createdAt": "2026-06-20T01:49:51.000Z",
+          "url": "https://x.com/swyx/status/2068149297389208049",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 1,
           "isQuote": true,
-          "quotedTweetId": "2067468331918242127",
+          "quotedTweetId": "2067681320281723113"
+        },
+        {
+          "id": "2068084391260426345",
+          "text": "Anthropic is going to IPO at $2T https://t.co/SHYMaH3v9q",
+          "createdAt": "2026-06-19T21:31:56.000Z",
+          "url": "https://x.com/swyx/status/2068084391260426345",
+          "likes": 182,
+          "retweets": 1,
+          "replies": 15,
+          "isQuote": true,
+          "quotedTweetId": "2068001285173834106"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amanda Askell",
+      "handle": "AmandaAskell",
+      "bio": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+      "tweets": [
+        {
+          "id": "2067830990089884022",
+          "text": "I'm going to add \"wear an Iris van Herpen dress\" to my retirement wishlist. What good art.",
+          "createdAt": "2026-06-19T04:45:01.000Z",
+          "url": "https://x.com/AmandaAskell/status/2067830990089884022",
+          "likes": 204,
+          "retweets": 7,
+          "replies": 27,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2067832394913104309",
+          "text": "✨ https://t.co/gfIUUE8Ors",
+          "createdAt": "2026-06-19T04:50:36.000Z",
+          "url": "https://x.com/amasad/status/2067832394913104309",
+          "likes": 53,
+          "retweets": 2,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2067693715796193774"
+        },
+        {
+          "id": "2067831841357193237",
+          "text": "😎 https://t.co/V87qUtfcI9",
+          "createdAt": "2026-06-19T04:48:24.000Z",
+          "url": "https://x.com/amasad/status/2067831841357193237",
+          "likes": 134,
+          "retweets": 1,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2067750445326450970"
+        },
+        {
+          "id": "2067831496388358176",
+          "text": "Awesome! https://t.co/jL8Ft9e8Sz",
+          "createdAt": "2026-06-19T04:47:01.000Z",
+          "url": "https://x.com/amasad/status/2067831496388358176",
+          "likes": 104,
+          "retweets": 2,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2067787053853557088"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2067936390285807940",
+          "text": "Agents are motivating so many healthy software habits. Open APIs, documentation (skills), tests (evals), Unix (CLIs), payment &amp; commerce protocols, even wide 𝙰𝚌𝚌𝚎𝚙𝚝 use (markdown/json/html).\n\nThe original vision of the WWW coming to life before our eyes.",
+          "createdAt": "2026-06-19T11:43:50.000Z",
+          "url": "https://x.com/rauchg/status/2067936390285807940",
+          "likes": 1106,
+          "retweets": 75,
+          "replies": 79,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2068068247413694532",
+          "text": "The main variable in getting success with agents is whether you can get the agent the context it needs to do its work; and a major factor in that is if you can create a shared working area for that agent that a human can understand as well. \n\nThis is one of the reasons why agents using file systems is such a big deal. It creates a unified system that both the person and the agent can work within to pass around data. \n\n“What they need is a working set: plans, notes, task lists, policies, drafts, summaries, logs, corrections,  decisions, etc. For that layer, a filesystem-shaped interface tends to be more legible to both the model and the humans supervising it.”\n\nIt turns out giving agents access to the systems we already know how to use, but in a way that is best optimized for them, is the perfect primitive for agents to work.",
+          "createdAt": "2026-06-19T20:27:47.000Z",
+          "url": "https://x.com/levie/status/2068068247413694532",
+          "likes": 212,
+          "retweets": 19,
+          "replies": 29,
+          "isQuote": true,
+          "quotedTweetId": "2066558169741173177"
+        },
+        {
+          "id": "2067821985342878180",
+          "text": "The fact that open weights models are being discussed credibly at this level of capability should be a huge update for many. \n\nThe implications of open models getting to frontier performance ensures that you can always have sovereign AI, have the ability to post train for your specific workflows, cost optimize for various workloads, and actually afford to do much more with AI (which opens up meaningfully different applications).\n\nHuge win for the applied AI layer.",
+          "createdAt": "2026-06-19T04:09:14.000Z",
+          "url": "https://x.com/levie/status/2067821985342878180",
+          "likes": 661,
+          "retweets": 91,
+          "replies": 75,
+          "isQuote": true,
+          "quotedTweetId": "2067640859957539104"
+        },
+        {
+          "id": "2067802697324212562",
+          "text": "This is a good update for getting access to Fable. It also gives us a view into what the future is likely going to look like with AI regulation. \n\nThe government will have frameworks that are used to determine future model releases past a certain threshold of capability or compute levels. Given all the constituents involved, and the economic and societal significance of AI, this was practically an inevitability.\n\nIt may seem small but the implications are massive. It will mean that each model update will go through an extensive review, testing, and feedback process. And in that processes lots of groups will weigh in on the risk of the model, and there will be lots of subjectivity on what the actual risks are or practicalities of exploiting those risks. \n\nA positive potential future here would be we still get massive model progress but they just happen in bigger jumps at once, where the labs pack in major improvements since the cost and slow down of each review stacks up. \n\nOn the other side, the risk is that past a certain threshold we may not get to see the rapid back and forth of model progress that we’ve gotten used to which can have negative compounding effects. Hoping for the former outcome.",
+          "createdAt": "2026-06-19T02:52:35.000Z",
+          "url": "https://x.com/levie/status/2067802697324212562",
+          "likes": 214,
+          "retweets": 19,
+          "replies": 28,
+          "isQuote": true,
+          "quotedTweetId": "2067696772840063370"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Harrison Chase",
+      "handle": "hwchase17",
+      "bio": "@LangChain\n\nAlways hiring: https://t.co/D5Ut3loFO7",
+      "tweets": [
+        {
+          "id": "2068075256993169619",
+          "text": "it is indeed quite good!\n\ndon't try it in claude code/codex - those harnesses are overly tuned for their proprietary models\n\ndcode (deepagents code) is a model agnostic harness - try it there with @FireworksAI_HQ :\n\n```\ndcode --model fireworks:accounts/fireworks/models/glm-5p2\n```\ndocs: https://t.co/AZ6NWTmR4I",
+          "createdAt": "2026-06-19T20:55:38.000Z",
+          "url": "https://x.com/hwchase17/status/2068075256993169619",
+          "likes": 68,
+          "retweets": 8,
+          "replies": 14,
+          "isQuote": false,
+          "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HLItIw-aoAAUYdV.jpg"
+              "url": "https://pbs.twimg.com/media/HLNHeHCbIAAB-tv.jpg"
             }
           ]
         }
@@ -84,37 +351,212 @@
     },
     {
       "source": "x",
-      "name": "Peter Yang",
-      "handle": "petergyang",
-      "bio": "Practical AI tutorials and interviews for busy people | Join 150K+ readers at https://t.co/XYKTmGVH14",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
       "tweets": [
         {
-          "id": "2067783369153470878",
-          "text": "@OpenAIDevs how about letting us add voice over narration next like taking a quick clip to explain how to do something to a coworker",
-          "createdAt": "2026-06-19T01:35:47.000Z",
-          "url": "https://x.com/petergyang/status/2067783369153470878",
-          "likes": 1,
-          "retweets": 1,
+          "id": "2068087153091858801",
+          "text": "When your VC is exhausted from attending the board meeting https://t.co/PHHnZWwumQ",
+          "createdAt": "2026-06-19T21:42:55.000Z",
+          "url": "https://x.com/mattturck/status/2068087153091858801",
+          "likes": 62,
+          "retweets": 3,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2068087096590344192/img/uVa0zpZYOLzYj2bQ.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder. Dangerously skips permissions. Harvard’17. GitHub: https://t.co/KCuEajezlL YouTube: https://t.co/8xzbGWtf6w",
+      "tweets": [
+        {
+          "id": "2068094591220531583",
+          "text": "The 3 most important things that set someone apart in the AI age:\n\n- Agency\n- Taste\n- Distribution",
+          "createdAt": "2026-06-19T22:12:28.000Z",
+          "url": "https://x.com/zarazhangrui/status/2068094591220531583",
+          "likes": 90,
+          "retweets": 16,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2067851144664342725",
+          "text": "Frontend Slides skill: https://t.co/F951xNM4Bp\n\nRecording of my talk: https://t.co/t6cVHdM3Oo",
+          "createdAt": "2026-06-19T06:05:06.000Z",
+          "url": "https://x.com/zarazhangrui/status/2067851144664342725",
+          "likes": 8,
+          "retweets": 2,
           "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2067760098265706566",
-          "text": "How do you steer Claude Code with new prompts in the desktop app while it's working?",
-          "createdAt": "2026-06-19T00:03:19.000Z",
-          "url": "https://x.com/petergyang/status/2067760098265706566",
-          "likes": 30,
-          "retweets": 1,
-          "replies": 25,
+          "id": "2067850383758901669",
+          "text": "Made a beautiful HTML deck using my Frontend Slides skill; very happy with how it turned out! \n\nLots of easter eggs (e.g. you can click any image to enlarge them, lots of nested content/hyperlinks/interactive elements etc)\n\nCheck it out: https://t.co/PBTqcZmZYX https://t.co/l0GcD8L3vc",
+          "createdAt": "2026-06-19T06:02:04.000Z",
+          "url": "https://x.com/zarazhangrui/status/2067850383758901669",
+          "likes": 209,
+          "retweets": 24,
+          "replies": 28,
           "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2067850030288130048/img/wOv9plZj4kN44KDy.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2068127547980918879",
+          "text": "Some people meditate, I listen to @EITS 💥 https://t.co/mgiVZ3YE2Z",
+          "createdAt": "2026-06-20T00:23:26.000Z",
+          "url": "https://x.com/nikunj/status/2068127547980918879",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HLN3Cv1bsAAUrNk.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2067830061009633294",
+          "text": "Launched a side project quietly a few weeks ago.. \n\nWanted to test how many impressions/clicks I could get by simply having Claude Code / Codex optimize the hell out of the website.\n\nGot it to about 16k impressions, and 94 clicks over the last 28 days. Not bad eh?\n\nNo backlinks, no mention of this website anywhere on my socials, no Reddit hacking - simply old school SEO/GEO optimization. \n\nOfficial launch soon - parents will like this one 🍩",
+          "createdAt": "2026-06-19T04:41:19.000Z",
+          "url": "https://x.com/nikunj/status/2067830061009633294",
+          "likes": 179,
+          "retweets": 3,
+          "replies": 33,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HLJoGxCb0AEBscC.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2067821739556413651",
+          "text": "Everything’s either a fast or slow API now. https://t.co/2ue8zjQ2Bf",
+          "createdAt": "2026-06-19T04:08:15.000Z",
+          "url": "https://x.com/steipete/status/2067821739556413651",
+          "likes": 435,
+          "retweets": 17,
+          "replies": 17,
+          "isQuote": true,
+          "quotedTweetId": "2067683680177504624"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Agent: @MiniMaxAgent \nToken Plan: https://t.co/BDCycxepZw \nAPI: https://t.co/fHRdSV7BwZ\nCommunity: https://t.co/uhxxfLgkLU",
+      "tweets": [
+        {
+          "id": "2067913044752044159",
+          "text": "Thanks to the @BAI_AGI team for making M3 available from day one. https://t.co/GtTbIgq8s6",
+          "createdAt": "2026-06-19T10:11:04.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2067913044752044159",
+          "likes": 94,
+          "retweets": 2,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2067878025333743767"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress toward open source AI\nhttps://t.co/vrD0aDJeto",
+      "tweets": [
+        {
+          "id": "2068056504125563317",
+          "text": "Full Release Notes:  https://t.co/fXe5nVmG2A\n\nTo update, run: 'hermes update' https://t.co/N3zSOumCzf",
+          "createdAt": "2026-06-19T19:41:07.000Z",
+          "url": "https://x.com/NousResearch/status/2068056504125563317",
+          "likes": 199,
+          "retweets": 12,
+          "replies": 16,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HLM2ayDWcAADQCz.png"
+            }
+          ]
+        },
+        {
+          "id": "2068056222457115126",
+          "text": "Hermes Agent v0.17.0 - The Reach Release\n\nChangelog below: https://t.co/QVLRvTqDeB",
+          "createdAt": "2026-06-19T19:40:00.000Z",
+          "url": "https://x.com/NousResearch/status/2068056222457115126",
+          "likes": 1700,
+          "retweets": 136,
+          "replies": 121,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/media/HLMuXNMaEAA7HJP.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2068024982446215279",
+          "text": "Hermes Agent is so good right now… https://t.co/YJX70KvY0H",
+          "createdAt": "2026-06-19T17:35:52.000Z",
+          "url": "https://x.com/NousResearch/status/2068024982446215279",
+          "likes": 905,
+          "retweets": 31,
+          "replies": 60,
+          "isQuote": true,
+          "quotedTweetId": "2067980283215769880"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 6
+    "xBuilders": 16,
+    "totalTweets": 32
   }
 }
