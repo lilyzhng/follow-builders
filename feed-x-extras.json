@@ -1,48 +1,9 @@
 {
-  "generatedAt": "2026-06-21T02:00:42.700Z",
+  "generatedAt": "2026-06-22T02:02:14.312Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
-      "tweets": [
-        {
-          "id": "2068238634600554699",
-          "text": "Most software engineers are facing an identity crisis bordering on depression.\n\nAs CTOs aggressively evangelize tokenmaxxing, a class divide ensues.\n\nThe lazy. The lazy push code. They don't write it. They don't manually test it. They don't even read it. They're on autopilot. See Jira ticket, prompt for task, submit code. Many of them are barely on their computer the whole day. A comment on the PR asking why they did this? The lazy ask AI. A Slack message? The lazy ask AI. Need to prepare for standup? The lazy ask AI. As long as it sounds enough like them and isn't detected. Some of the lazy are even overemployed, and work multiple jobs. The lazy smart ones get away with this, and even rewarded. After all, software engineering for the lazy is just a dance to convince your colleagues you're smart and hard working.\n\nThe craftsmen. The craftsmen are tired. Very tired. 15 PRs in queue. Slack blowing up. The entire burden of review falls on the craftsman. The burden of understanding. They try. They work their way through the code, thoughtfully commenting to improve what ships. The response? A lazy: \"That's a clever idea! You're absolutely right.\" with an incorrect change. It's fine, the craftsman says. I can fix them. They write a doc urging his colleagues to be better. The next day? 20,000 line PR to review. Day after day, their workload grows. Bugs seep into production. No one seems to care. Another round of AI is thrown at it. Their animosity to their colleagues rises. Eventually, they give up. It's just not what it used to be. The craft they loved is dead. They eventually wake up, a lazy.\n\nThis isn't all companies. Many companies are genuinely more productive, adopt the right set of principles and practices around AI development and have highly talented teams that trust each other. It tends to happen in bigger companies that are 10+yrs old with a higher talent variance. But it happens. A lot.",
-          "createdAt": "2026-06-20T07:44:51.000Z",
-          "url": "https://x.com/deedydas/status/2068238634600554699",
-          "likes": 3650,
-          "retweets": 335,
-          "replies": 262,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "❤️ 🍵 ☕️",
-      "tweets": [
-        {
-          "id": "2068353767268122942",
-          "text": "y codex so dumb these several days",
-          "createdAt": "2026-06-20T15:22:20.000Z",
-          "url": "https://x.com/JustinLin610/status/2068353767268122942",
-          "likes": 40,
-          "retweets": 2,
-          "replies": 11,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 2
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
