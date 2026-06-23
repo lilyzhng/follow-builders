@@ -1,9 +1,71 @@
 {
-  "generatedAt": "2026-06-22T02:02:14.312Z",
+  "generatedAt": "2026-06-23T01:50:38.660Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress toward open source AI\nhttps://t.co/vrD0aDJeto",
+      "tweets": [
+        {
+          "id": "2069118966497222831",
+          "text": "@trycua Computer Use docs:\n\nhttps://t.co/5zvbSNqdVc",
+          "createdAt": "2026-06-22T18:02:58.000Z",
+          "url": "https://x.com/NousResearch/status/2069118966497222831",
+          "likes": 73,
+          "retweets": 5,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2069118782132363662",
+          "text": "Hermes Agent now supports computer use via @trycua on Windows and Linux in addition to existing macOS support https://t.co/62BdC5QdhL",
+          "createdAt": "2026-06-22T18:02:14.000Z",
+          "url": "https://x.com/NousResearch/status/2069118782132363662",
+          "likes": 1120,
+          "retweets": 92,
+          "replies": 65,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/media/HLb0mwEXQAAr0kN.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
+      "tweets": [
+        {
+          "id": "2068935671004512702",
+          "text": "I thought peptides were mostly an internet thing before I walked into a clinic in SF and they had them all laid out like a choose-your-own-adventure brochure https://t.co/mgR7BQIGGN",
+          "createdAt": "2026-06-22T05:54:37.000Z",
+          "url": "https://x.com/deedydas/status/2068935671004512702",
+          "likes": 714,
+          "retweets": 44,
+          "replies": 73,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HLZWB3LaQAAjlJK.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 2,
+    "totalTweets": 3
   }
 }
