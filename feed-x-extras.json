@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T01:50:38.660Z",
+  "generatedAt": "2026-06-24T01:49:40.962Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,32 +9,26 @@
       "bio": "A bunch of nerds making progress toward open source AI\nhttps://t.co/vrD0aDJeto",
       "tweets": [
         {
-          "id": "2069118966497222831",
-          "text": "@trycua Computer Use docs:\n\nhttps://t.co/5zvbSNqdVc",
-          "createdAt": "2026-06-22T18:02:58.000Z",
-          "url": "https://x.com/NousResearch/status/2069118966497222831",
-          "likes": 73,
-          "retweets": 5,
-          "replies": 3,
+          "id": "2069511437014245376",
+          "text": "https://t.co/EwKtv4jGr3",
+          "createdAt": "2026-06-23T20:02:30.000Z",
+          "url": "https://x.com/NousResearch/status/2069511437014245376",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2069118782132363662",
-          "text": "Hermes Agent now supports computer use via @trycua on Windows and Linux in addition to existing macOS support https://t.co/62BdC5QdhL",
-          "createdAt": "2026-06-22T18:02:14.000Z",
-          "url": "https://x.com/NousResearch/status/2069118782132363662",
-          "likes": 1120,
-          "retweets": 92,
-          "replies": 65,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/media/HLb0mwEXQAAr0kN.jpg"
-            }
-          ]
+          "id": "2069503299263385930",
+          "text": "Join us in 30 minutes!\n\nhttps://t.co/tgqC1R07fy https://t.co/yPh7FZr1Sr",
+          "createdAt": "2026-06-23T19:30:10.000Z",
+          "url": "https://x.com/NousResearch/status/2069503299263385930",
+          "likes": 148,
+          "retweets": 10,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2069150335386456283"
         }
       ]
     },
@@ -45,27 +39,74 @@
       "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
       "tweets": [
         {
-          "id": "2068935671004512702",
-          "text": "I thought peptides were mostly an internet thing before I walked into a clinic in SF and they had them all laid out like a choose-your-own-adventure brochure https://t.co/mgR7BQIGGN",
-          "createdAt": "2026-06-22T05:54:37.000Z",
-          "url": "https://x.com/deedydas/status/2068935671004512702",
-          "likes": 714,
-          "retweets": 44,
-          "replies": 73,
+          "id": "2069452673108336959",
+          "text": "Source: https://t.co/xcg6qYPTVY",
+          "createdAt": "2026-06-23T16:09:00.000Z",
+          "url": "https://x.com/deedydas/status/2069452673108336959",
+          "likes": 16,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2069452660353454198",
+          "text": "Menlo just raised $3B in new capital, our largest pool of capital yet, on our 50th year in business!\n\nIts been an amazing run for us in the past few years: Anthropic (since the C), Suno, Lovable, Wispr, OpenRouter, Higgsfield, OpenRouter, Neon (acq Databricks), Fleet, Modal, Gimlet, Prime Intellect, Clerk, Chai Discovery, Goodfire, Grow Therapy, OpenEvidence, Legora, Skild, Mercor, Axiom, Graphite (acq Cursor), Sana (acq Workday), Orb (acq Adyen) and many more.\n\nThe climate of venture has changed significantly in the past 10yrs, but we still take the view that it is still a game of pickers: we do an avg of ~2 investments per partner per year, and invest in every stage from seed to Series X.\n\nAnd our partners like Tim Tully, CTO of Splunk, Joff Redfern, CPO of Atlassian, Matt Kraning, a founder who sold a $1B+ co and myself have built, bought and sold companies and spend all our time helping our investments succeed.\n\nJust like startups, fundraising is not the goal. This is still day 0. For all the hits, we’ve had many misses, and those hurt the most. We’re humble to know how much work is left to be done and curious to react to the changing market, and hungry to be the most loved partner to founders.",
+          "createdAt": "2026-06-23T16:08:57.000Z",
+          "url": "https://x.com/deedydas/status/2069452660353454198",
+          "likes": 344,
+          "retweets": 15,
+          "replies": 52,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HLZWB3LaQAAjlJK.jpg"
+              "url": "https://pbs.twimg.com/media/HLgsOjNbcAA9tGm.jpg"
             }
           ]
+        },
+        {
+          "id": "2069273172806091037",
+          "text": "The founder of Indian startup Cred, Kunal Shah, will be global head of the most used daily product in the world (2.3B+ DAU), WhatsApp!\n\nLet’s take a look at the business of Cred:\n\nCred’s valuation has flip-flopped from its peak but in 8yrs, they built a $4.5B biz with ~1000 employees doing $333M/yr growing 17%yoy, with Meta buying 20% of it for $900M. Kunal says they’ve hit they’re first quarter of operating profit (exact loss numbers for FY26 here are speculative) but the business is definitely trending up. Cred has ~17M users and 12.6M monthly transacting users at $26 per user per year ARPU (~₹2500). 1% of Indians use Cred, 1 in 3 of the country’s credit card users. Credit card penetration in India is 3-4% vs say 66% in the US, 50%+ in high income and 25%+ for other lower/middle income countries; perhaps if that grew more quickly, the business would have an even better outcome. When I analyzed it in 2022, I was too harsh about its future prospects. The business has grown significantly since with a path to sustainability.\n\nMore importantly, this is the first time I’ve seen a non-silicon valley founder catapulted to lead such a critical product. Think what you may of Cred, it was a big bet that’s come off quite well. And this appointment is just testament to Kunal’s tenacity as a founder and leader.",
+          "createdAt": "2026-06-23T04:15:44.000Z",
+          "url": "https://x.com/deedydas/status/2069273172806091037",
+          "likes": 746,
+          "retweets": 38,
+          "replies": 50,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HLeI_BQaEAATiji.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Agent: @MiniMaxAgent \nToken Plan: https://t.co/BDCycxepZw \nAPI: https://t.co/fHRdSV7BwZ\nCommunity: https://t.co/uhxxfLgkLU",
+      "tweets": [
+        {
+          "id": "2069502153081971131",
+          "text": "@hud_evals @ycombinator Atomz\n\nautonomous Mars construction rovers in simulation — tracked robots navigating terrain, scanning sites, and 3D-printing habitat structures from regolith.\n\nhttps://t.co/31sWMkUe58",
+          "createdAt": "2026-06-23T19:25:37.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2069502153081971131",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 3
+    "xBuilders": 3,
+    "totalTweets": 6
   }
 }
