@@ -1,52 +1,9 @@
 {
-  "generatedAt": "2026-06-25T01:51:41.014Z",
+  "generatedAt": "2026-06-26T01:53:13.027Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Qwen",
-      "handle": "Alibaba_Qwen",
-      "bio": "Open foundation models for AGI.",
-      "tweets": [
-        {
-          "id": "2069720389140570119",
-          "text": "📊 AgentWorldBench: 7-domain benchmark with ground-truth observations from real environments, constructed from 5 frontier model trajectories on 9 established benchmarks.\n\nResults: Qwen-AgentWorld-397B-A17B achieves the highest overall score (58.71), outperforming Claude Opus 4.8 (56.59), GPT-5.4 (58.25), and Gemini 3.1 Pro (54.57).\n\nFor Qwen-AgentWorld-35B-A3B, LWM training lifts Qwen3.5-35B-A3B by +8.66 points (47.73 → 56.39), surpassing Claude Sonnet 4.6 (56.04).",
-          "createdAt": "2026-06-24T09:52:48.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2069720389140570119",
-          "likes": 114,
-          "retweets": 8,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HLkfuDhasAErt3R.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2069720376389632477",
-          "text": "Part I: Building the Foundation Model for Environment Simulation\n\nFaithful environment simulation requires multi-step causal reasoning, stateful tracking, and domain-specific knowledge. Frontier LLMs have some simulation ability from pretraining — but it's incidental, not an objective.\n\nSo we train from scratch: CPT injects environment knowledge → SFT activates next-state prediction as a thinking pattern → RL sharpens simulation fidelity with hybrid rewards.",
-          "createdAt": "2026-06-24T09:52:45.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2069720376389632477",
-          "likes": 117,
-          "retweets": 12,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HLkftb2akAACAUq.jpg"
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 2
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
