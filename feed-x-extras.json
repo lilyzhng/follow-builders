@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T01:49:19.668Z",
+  "generatedAt": "2026-06-28T01:53:37.552Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,76 +9,38 @@
       "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
       "tweets": [
         {
-          "id": "2070574557728264382",
-          "text": "We hosted an intimate event on Agentic Engineering in SF with speakers at the forefront of AI yesterday.\n\nThree big lessons I took away:\n– @steipete: I now force contributors to OpenClaw to use a skill that pushes their prompt history of the code change to find signal in noise, to avoid often bad PRs that are 10,000 lines from a prompt “fix this”\n– @trq212: I used Claude to be a video editor to create a launch video with visuals, while having it interactively teach me about color grading as it did the edits. I didn't even know it could do that! Getting the most out of a model is finding your unknown unknowns.\n– @georgepickett: I spend a lot more human energy on crafting a plan upfront and getting all my clairfications answered upfront before leaving Codex to spin for days, armed with Ousterhout’s coding principles as a skill, on a well-crafted /goal\n\nWe had about ~30 odd people including some recognizable names like Theo (@theo), Gergely (@GergelyOrosz), Andy (@andykonwinski), Jerry (@MillionInt), Dave Morin (@davemorin), Patrick Hsu (@pdhsu), Eric (@ericho), Bucky (@buckymoore), Joff (@mejoff) with a surprise visit from cricketer Robin Uthappa (@robbieuthappa)\n\nWe were graciously hosted by @timshi_ai at his house and cohosted with @GregKamradt.\n\nVideos will be up soon! If you're interesting in coming to these, give me a shout in comments or in DM.\n\n(also incredible to see how huge the ClawFather is in the flesh)",
-          "createdAt": "2026-06-26T18:26:58.000Z",
-          "url": "https://x.com/deedydas/status/2070574557728264382",
-          "likes": 644,
-          "retweets": 25,
-          "replies": 103,
+          "id": "2070869872532500830",
+          "text": "Source: https://t.co/ON0RT4hqEQ",
+          "createdAt": "2026-06-27T14:00:27.000Z",
+          "url": "https://x.com/deedydas/status/2070869872532500830",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2070869860314476977",
+          "text": "Bytedance is dropping the best video gen model in the world in early July: Seedance 2.5!\n\nThe video below (audio on) is the launch video from their Volcano Engine conference this week. It cements China’s absolute dominance in video.\n\n— 2x’d generation length of all previous models to 30s, with audio + 4k video\n— >5x’d reference images / audio / video to 50\n— Allows localized editing (specific characters, closing, detail), will come with copyright filter\n\nSeedance 2 is already the #1 video model and does a whopping $2B in ARR, in a mere 4.5mos! At the current pricing of $2.5/15s, that implies >3.3M hours of video (!) have been generated. That’s 3x every feature film ever made and dozens of Netflixes. Only 3 US AI startups make more revenue.\n\nWe are 2x’ing realistic video gen length every 6mos.\n— May 2025: Veo 3 does audio + video for the first time, 15s\n— Jan 2026: Kling 3 does 15s\n— Feb 2026: Seedance 2 does 15s, big quality bump\n— July 2026: 2.5 will do 30s\nIn 18mos, entire music videos will be oneshotted by AI.\n\nChina continues to extend its lead on video models vs America.",
+          "createdAt": "2026-06-27T14:00:24.000Z",
+          "url": "https://x.com/deedydas/status/2070869860314476977",
+          "likes": 389,
+          "retweets": 32,
+          "replies": 22,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HLwocfiawAAl3bq.jpg"
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2070869794438696960/img/y8eifOLTZAwmgoAP.jpg"
             }
           ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "❤️ 🍵 ☕️",
-      "tweets": [
-        {
-          "id": "2070527924890177743",
-          "text": "i still remember the discussion of the case of us visa application and i thought that must be mission impossible for ai and just said u guys must be crazy... now it seems that i am the dumb hahah!\n\nanyway, time for frontier models to fight again! bon courage! https://t.co/PoBjCMewo6",
-          "createdAt": "2026-06-26T15:21:40.000Z",
-          "url": "https://x.com/JustinLin610/status/2070527924890177743",
-          "likes": 99,
-          "retweets": 6,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2070517498974253269"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "MTS @anthropicai",
-      "tweets": [
-        {
-          "id": "2070571831933931810",
-          "text": "why i think Claude Tag is interesting and behavioral shifts I’ve seen with this new agent UX: sync to async work, reactive to proactive, single to multi-player \nhttps://t.co/6hppCxVCGe",
-          "createdAt": "2026-06-26T18:16:08.000Z",
-          "url": "https://x.com/RLanceMartin/status/2070571831933931810",
-          "likes": 61,
-          "retweets": 7,
-          "replies": 4,
-          "isQuote": true,
-          "quotedTweetId": "2070571422913876182"
-        },
-        {
-          "id": "2070571422913876182",
-          "text": "https://t.co/EMtmeAPLuM",
-          "createdAt": "2026-06-26T18:14:31.000Z",
-          "url": "https://x.com/RLanceMartin/status/2070571422913876182",
-          "likes": 193,
-          "retweets": 20,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 4
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
