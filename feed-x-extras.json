@@ -1,46 +1,29 @@
 {
-  "generatedAt": "2026-06-28T01:53:37.552Z",
+  "generatedAt": "2026-06-29T01:54:30.715Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "❤️ 🍵 ☕️",
       "tweets": [
         {
-          "id": "2070869872532500830",
-          "text": "Source: https://t.co/ON0RT4hqEQ",
-          "createdAt": "2026-06-27T14:00:27.000Z",
-          "url": "https://x.com/deedydas/status/2070869872532500830",
-          "likes": 4,
+          "id": "2071165541377798281",
+          "text": "wen people say sd they mean seeddance instead of stable diffusion. f hard for me to react on this",
+          "createdAt": "2026-06-28T09:35:20.000Z",
+          "url": "https://x.com/JustinLin610/status/2071165541377798281",
+          "likes": 58,
           "retweets": 0,
-          "replies": 0,
+          "replies": 9,
           "isQuote": false,
           "quotedTweetId": null
-        },
-        {
-          "id": "2070869860314476977",
-          "text": "Bytedance is dropping the best video gen model in the world in early July: Seedance 2.5!\n\nThe video below (audio on) is the launch video from their Volcano Engine conference this week. It cements China’s absolute dominance in video.\n\n— 2x’d generation length of all previous models to 30s, with audio + 4k video\n— >5x’d reference images / audio / video to 50\n— Allows localized editing (specific characters, closing, detail), will come with copyright filter\n\nSeedance 2 is already the #1 video model and does a whopping $2B in ARR, in a mere 4.5mos! At the current pricing of $2.5/15s, that implies >3.3M hours of video (!) have been generated. That’s 3x every feature film ever made and dozens of Netflixes. Only 3 US AI startups make more revenue.\n\nWe are 2x’ing realistic video gen length every 6mos.\n— May 2025: Veo 3 does audio + video for the first time, 15s\n— Jan 2026: Kling 3 does 15s\n— Feb 2026: Seedance 2 does 15s, big quality bump\n— July 2026: 2.5 will do 30s\nIn 18mos, entire music videos will be oneshotted by AI.\n\nChina continues to extend its lead on video models vs America.",
-          "createdAt": "2026-06-27T14:00:24.000Z",
-          "url": "https://x.com/deedydas/status/2070869860314476977",
-          "likes": 389,
-          "retweets": 32,
-          "replies": 22,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2070869794438696960/img/y8eifOLTZAwmgoAP.jpg"
-            }
-          ]
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 2
+    "totalTweets": 1
   }
 }
