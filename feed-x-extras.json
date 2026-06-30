@@ -1,29 +1,77 @@
 {
-  "generatedAt": "2026-06-29T01:54:30.715Z",
+  "generatedAt": "2026-06-30T01:52:15.418Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "❤️ 🍵 ☕️",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
       "tweets": [
         {
-          "id": "2071165541377798281",
-          "text": "wen people say sd they mean seeddance instead of stable diffusion. f hard for me to react on this",
-          "createdAt": "2026-06-28T09:35:20.000Z",
-          "url": "https://x.com/JustinLin610/status/2071165541377798281",
-          "likes": 58,
-          "retweets": 0,
-          "replies": 9,
+          "id": "2071435096775930365",
+          "text": "WhatsApp may be the statistically best app we've ever made.\n\nIt's a product manager's dream with its unparalleled addictiveness (DAU / MAU) of 87% and stickiness (M1 retention) of 86%, both #1 in the world while having the #1 most monthly active users for any non preinstalled app of 2.7B users.\n\nHere are the top 25 most used apps in the world by MAU on both these metrics. Some surprising observations:\n— There are now 15 1B+ user apps in the world, 8 by Google, 4 by Meta.\n— The 3 that aren't are TikTok, Telegram (!) and ChatGPT\n— Telegram has more users than Spotify, Pinterest, Netflix, Amazon, Snap!\n— ChatGPT's one month retention is #5 after WA, Instagram, Chrome and Youtube. 2yrs ago, it was been #20 by M1 retention\n— Shopee, a shopping app in southeast Asia, is huge and retains users better than Amazon!\n\nUseful way to break down consumer businesses especially within certain categories (X vs Reddit vs Threads is a good one). It's shocking how few new apps have been able to break through in the past 10yrs.",
+          "createdAt": "2026-06-29T03:26:27.000Z",
+          "url": "https://x.com/deedydas/status/2071435096775930365",
+          "likes": 1965,
+          "retweets": 210,
+          "replies": 138,
           "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HL83PhIaEAARvJk.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
+      "tweets": [
+        {
+          "id": "2071624574270157074",
+          "text": "Devin Fusion uses a hybrid-model harness built around two ideas:\n\nFirst, a “sidekick” agent: a smaller agent runs in parallel with the frontier agent. The frontier agent delegates work, monitors progress, and keeps ownership of planning, ambiguity, and final review.\n\nThis lets Fusion stay intelligent while avoiding unnecessary frontier-model spend.",
+          "createdAt": "2026-06-29T15:59:22.000Z",
+          "url": "https://x.com/cognition/status/2071624574270157074",
+          "likes": 71,
+          "retweets": 4,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HL_jNjjXoAA2fIe.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2071624571086639215",
+          "text": "We developed FrontierCode to try to measure whether you’d actually merge a PR to production.\n\nDevin Fusion builds on this research while avoiding common pitfalls of model routing, like expensive cache misses and lack of generalization. https://t.co/tA8oneTgVf",
+          "createdAt": "2026-06-29T15:59:21.000Z",
+          "url": "https://x.com/cognition/status/2071624571086639215",
+          "likes": 68,
+          "retweets": 3,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HL_jIy7XsAA15ES.jpg"
+            }
+          ]
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 2,
+    "totalTweets": 3
   }
 }
