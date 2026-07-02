@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T01:55:52.648Z",
+  "generatedAt": "2026-07-02T01:51:46.420Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,114 +9,19 @@
       "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
       "tweets": [
         {
-          "id": "2071834196440670278",
-          "text": "Meta's Trust &amp; Safety teams are an unmitigated disaster.\n\nRead this message sent to me by a Meta employee. Search \"Instagram suspension\" on X/Reddit. It's full of complaints, even after the major account suspensions 3wks ago.\n\nTheir core product is falling apart in pursuit of AI. https://t.co/7fSfrTygol",
-          "createdAt": "2026-06-30T05:52:19.000Z",
-          "url": "https://x.com/deedydas/status/2071834196440670278",
-          "likes": 234,
-          "retweets": 10,
-          "replies": 29,
+          "id": "2072340532718887068",
+          "text": "\"Thinking Machines' Tinker does a few hundred million of ARR\" - Dylan Patel, on his latest podcast\n\nTML was valued at $12B and trying to raise at $50B. Tinker is an API that helps you post-train LLMs.\n\nThis is the highest known revenue for any of the now ~75 neolabs. https://t.co/kNj1XTivCh",
+          "createdAt": "2026-07-01T15:24:19.000Z",
+          "url": "https://x.com/deedydas/status/2072340532718887068",
+          "likes": 799,
+          "retweets": 36,
+          "replies": 28,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HMCiOCTWAAAaLIu.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2071782225855807949",
-          "text": "Telegram is the only bootstrapped 1B+ active user product in the world.\n\n– ~30-40 “core” employees\n– $30B valuation\n– 1.3B monthly active users\n– Founder is the 2nd most decorated International Olympiad winner of all time with 7 medals (4G/3S/0B) across math (IMO) and cs (IOI)\n– ~$1.5-2B revenue last year, with a business across advertising (14%), subscriptions (26%), crypto (34%) and more\n– HQd in Dubai and domiciled in the British Virgin Islands\n\nIt’s the only business to be self-funded and needed the fewest users to get to global scale.\n\nWe talk a lot about 1 person $1B companies but Telegram is a 30 person $30B company!",
-          "createdAt": "2026-06-30T02:25:49.000Z",
-          "url": "https://x.com/deedydas/status/2071782225855807949",
-          "likes": 751,
-          "retweets": 58,
-          "replies": 39,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HMBy9H0acAAKElS.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "MTS @anthropicai",
-      "tweets": [
-        {
-          "id": "2072025921314541909",
-          "text": "check out the \"/claude-api\" skill built into Claude Code to help w/ Sonnet 5 migration (e.g., tune your prompts for Sonnet 5 or learn about advisor strategy). \n\nhttps://t.co/wkz7i32PdW",
-          "createdAt": "2026-06-30T18:34:10.000Z",
-          "url": "https://x.com/RLanceMartin/status/2072025921314541909",
-          "likes": 7,
-          "retweets": 1,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2072025919540379890",
-          "text": "Sonnet 5 is great for multi-agent:\n\n1/ a higher-capacity orchestrator can delegate tasks to Sonnet 5 sub-agents\n\n- or -\n\n2/ Sonnet 5 can offload harder tasks to higher-capacity models via the \"advisor\" strategy\n\nthese can save cost + reduce latency\n\nhttps://t.co/AW63tIPmfr https://t.co/TSGMmQGJet",
-          "createdAt": "2026-06-30T18:34:10.000Z",
-          "url": "https://x.com/RLanceMartin/status/2072025919540379890",
-          "likes": 68,
-          "retweets": 3,
-          "replies": 9,
-          "isQuote": true,
-          "quotedTweetId": "2072018504392601762",
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HMFPbkWboAAGfj8.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2072004218588696582",
-          "text": "find me and say hi👋 @aiDotEngineer today! im giving a talk at 2p on long-horizon agents: brain / hands decoupling, loop design, memory + dreaming, and async agent UX patterns. https://t.co/rkSqiYMoIo https://t.co/C4ekVqea5P",
-          "createdAt": "2026-06-30T17:07:56.000Z",
-          "url": "https://x.com/RLanceMartin/status/2072004218588696582",
-          "likes": 79,
-          "retweets": 5,
-          "replies": 7,
-          "isQuote": true,
-          "quotedTweetId": "2071622087115145576",
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HME82x6acAAMoYo.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Felix Rieseberg (Claude Cowork)",
-      "handle": "felixrieseberg",
-      "bio": "Claude Cowork / Code @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
-      "tweets": [
-        {
-          "id": "2072001084080693602",
-          "text": "Maybe 2026 is finally the year of the Linux Desktop!\n\nWe're launching the Claude desktop app for Linux, including Claude Code, Claude Cowork, and chat. \n\nhttps://t.co/AxuwWfzWzA https://t.co/2oOktF4YvQ",
-          "createdAt": "2026-06-30T16:55:29.000Z",
-          "url": "https://x.com/felixrieseberg/status/2072001084080693602",
-          "likes": 257,
-          "retweets": 20,
-          "replies": 24,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HME5ynlbIAAdjWy.jpg"
+              "url": "https://pbs.twimg.com/media/HMJuu21a4AEJk4B.jpg"
             }
           ]
         }
@@ -129,19 +34,30 @@
       "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
       "tweets": [
         {
-          "id": "2071974121177481674",
-          "text": "Watch Devin Fusion work:\n\nThe sidekick model handles fetching information and skimming sources.\n\nThe frontier model makes a plan for implementation, then delegates well-scoped sub-tasks to the sidekick with its own cached context. https://t.co/Ex9pf2Elrm https://t.co/0ZlFlPNfez",
-          "createdAt": "2026-06-30T15:08:20.000Z",
-          "url": "https://x.com/cognition/status/2071974121177481674",
-          "likes": 112,
-          "retweets": 10,
-          "replies": 10,
-          "isQuote": true,
-          "quotedTweetId": "2071624568465490170",
+          "id": "2072368177388937239",
+          "text": "Security Swarm is a new pillar of Devin for Security: a suite of tools to help you find vulnerabilities, validate their exploitability at runtime, and ship remediation PRs.\n\nLearn more and try it today at:\n\nhttps://t.co/ngykEOnxPu",
+          "createdAt": "2026-07-01T17:14:10.000Z",
+          "url": "https://x.com/cognition/status/2072368177388937239",
+          "likes": 32,
+          "retweets": 2,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2072368174968828330",
+          "text": "The result is simultaneously more efficient and more accurate than other tools. We evaluated a variety of security scanning tools on a  dataset of 50 GHSA vulnerabilities across 14 languages including Go, Rust, Python, Ruby, Java, C#, JavaScript, C, Swift, Dart, and Elixir. The dataset spans opens source repos of various sizes and of many software categories.\n\nBeyond excelling on our eval, Devin Security Swarm also found critical vulnerabilities that other tools missed, like a PHP sandbox bypass via template injection, an argument injection through metadata value parsing, and an overly broad deserialization surface.",
+          "createdAt": "2026-07-01T17:14:10.000Z",
+          "url": "https://x.com/cognition/status/2072368174968828330",
+          "likes": 30,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2071973352441253889/img/qZcVkw2p9Fi_Ajg2.jpg"
+              "type": "animated_gif",
+              "url": "https://pbs.twimg.com/tweet_video_thumb/HMKFqsTXAAAIiM9.jpg"
             }
           ]
         }
@@ -149,7 +65,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 7
+    "xBuilders": 2,
+    "totalTweets": 3
   }
 }
