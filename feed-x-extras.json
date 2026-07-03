@@ -1,32 +1,7 @@
 {
-  "generatedAt": "2026-07-02T01:51:46.420Z",
+  "generatedAt": "2026-07-03T04:54:06.184Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
-      "tweets": [
-        {
-          "id": "2072340532718887068",
-          "text": "\"Thinking Machines' Tinker does a few hundred million of ARR\" - Dylan Patel, on his latest podcast\n\nTML was valued at $12B and trying to raise at $50B. Tinker is an API that helps you post-train LLMs.\n\nThis is the highest known revenue for any of the now ~75 neolabs. https://t.co/kNj1XTivCh",
-          "createdAt": "2026-07-01T15:24:19.000Z",
-          "url": "https://x.com/deedydas/status/2072340532718887068",
-          "likes": 799,
-          "retweets": 36,
-          "replies": 28,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HMJuu21a4AEJk4B.jpg"
-            }
-          ]
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Cognition (Devin)",
@@ -34,30 +9,66 @@
       "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
       "tweets": [
         {
-          "id": "2072368177388937239",
-          "text": "Security Swarm is a new pillar of Devin for Security: a suite of tools to help you find vulnerabilities, validate their exploitability at runtime, and ship remediation PRs.\n\nLearn more and try it today at:\n\nhttps://t.co/ngykEOnxPu",
-          "createdAt": "2026-07-01T17:14:10.000Z",
-          "url": "https://x.com/cognition/status/2072368177388937239",
-          "likes": 32,
-          "retweets": 2,
+          "id": "2072704077876576511",
+          "text": "Frontier models are collapsing the time from vulnerability discovery to exploitation.\n\nFindings that were once safe to deprioritize can no longer sit in the backlog.\n\nIt's time to move from a reactive to proactive security posture.",
+          "createdAt": "2026-07-02T15:28:55.000Z",
+          "url": "https://x.com/cognition/status/2072704077876576511",
+          "likes": 9,
+          "retweets": 0,
           "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2072368174968828330",
-          "text": "The result is simultaneously more efficient and more accurate than other tools. We evaluated a variety of security scanning tools on a  dataset of 50 GHSA vulnerabilities across 14 languages including Go, Rust, Python, Ruby, Java, C#, JavaScript, C, Swift, Dart, and Elixir. The dataset spans opens source repos of various sizes and of many software categories.\n\nBeyond excelling on our eval, Devin Security Swarm also found critical vulnerabilities that other tools missed, like a PHP sandbox bypass via template injection, an argument injection through metadata value parsing, and an overly broad deserialization surface.",
-          "createdAt": "2026-07-01T17:14:10.000Z",
-          "url": "https://x.com/cognition/status/2072368174968828330",
-          "likes": 30,
-          "retweets": 1,
-          "replies": 1,
+          "id": "2072704075993412054",
+          "text": "Building on Devin's new capabilities, today we're announcing the Security Vulnerability Remediation Program: a tailored engagement to take your security backlog towards zero in six weeks.\n\nRemediation no longer has to compete with your product roadmap for engineering time.",
+          "createdAt": "2026-07-02T15:28:55.000Z",
+          "url": "https://x.com/cognition/status/2072704075993412054",
+          "likes": 96,
+          "retweets": 14,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2072368168182432109"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at Menlo Ventures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, Wispr Flow, Inception, Prime Intellect",
+      "tweets": [
+        {
+          "id": "2072704361067880768",
+          "text": "Top 20 Startups by Web Traffic founded since 2020\n\n1. DeepSeek\n2. Perplexity\n3. Suno\n4. Polymarket\n5. Gamma\n6. ElevenLabs\n7. Lovable\n8. Arena\n9. xAI\n10. Supabase\n11. Manus\n12. Higgsfield\n13. Cursor\n14. Fanvue\n15. OpenRouter\n16. GPTZero\n17. Genspark\n18. ShopMy\n19. Venice\n20. Whop\n\nSome interesting observations:\n— Only 25% were not AI: Polymarket, Supabase, Fanvue, ShopMy, Whop\n— 20% were acquired\n— Startups that didn't surprisingly didn't make the cut: Kalshi (founded 2018), Mistral (10M), OpenEvidence (11.4M), Cognition\n— All but 2 are unicorns (GPTZero, Fanvue), 7 decacorns, but there's no clear correlation between traffic and valuation",
+          "createdAt": "2026-07-02T15:30:03.000Z",
+          "url": "https://x.com/deedydas/status/2072704361067880768",
+          "likes": 393,
+          "retweets": 42,
+          "replies": 36,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "animated_gif",
-              "url": "https://pbs.twimg.com/tweet_video_thumb/HMKFqsTXAAAIiM9.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HMO5oZYbkAA5qxk.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2072604821874684147",
+          "text": "Had one of the most surreal weeks. We got to host and chat with Ravi Ashwin (@ashwinravi99) about some of his best cricket moments and actually bring Robin Uthappa (@robbieuthappa) to play cricket with us on a baseball field in San Francisco!\n\nAsh walked us through the emotions of leaving that wide in the last ball in that India vs Pakistan 2022 T20 World Cup game “I trained myself to know that if my left eye doesn’t see it, then it’s a wide. But if it had hit my leg, it was over for me.”\n\nRobbie whacked us around the park so bad he had to bat for both sides to make it an even fight but we did get him out caught once!",
+          "createdAt": "2026-07-02T08:54:31.000Z",
+          "url": "https://x.com/deedydas/status/2072604821874684147",
+          "likes": 316,
+          "retweets": 8,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HMNfGXAagAAI7gb.jpg"
             }
           ]
         }
@@ -66,6 +77,6 @@
   ],
   "stats": {
     "xBuilders": 2,
-    "totalTweets": 3
+    "totalTweets": 4
   }
 }
