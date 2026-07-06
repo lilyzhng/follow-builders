@@ -1,71 +1,9 @@
 {
-  "generatedAt": "2026-07-06T04:10:03.303Z",
+  "generatedAt": "2026-07-06T05:21:31.104Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Peter Yang",
-      "handle": "petergyang",
-      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
-      "tweets": [
-        {
-          "id": "2073848191196561861",
-          "text": "\"Codex is the only way I can keep track of everything.\"\n\nFrom Rohan (Codex PM):\n\n\"Whenever I’m in meetings, or literally anytime I don’t understand something, I just have Codex go and gather all the context.\n\nWe're super lucky because we're building a tool for ourselves.\"\n\n📌 Full episode: https://t.co/jPa0m1bmCE",
-          "createdAt": "2026-07-05T19:15:13.000Z",
-          "url": "https://x.com/petergyang/status/2073848191196561861",
-          "likes": 69,
-          "retweets": 5,
-          "replies": 5,
-          "isQuote": true,
-          "quotedTweetId": "2073772723550220478",
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2073848137501007872/img/cFjHQNfRfowf-pTe.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2073811046041800766",
-          "text": "Is there an easy way to give Codex the ability to listen to audio or hear words? Trying to use it to clip stuff and remove filler words. Whisper is not very reliable.",
-          "createdAt": "2026-07-05T16:47:37.000Z",
-          "url": "https://x.com/petergyang/status/2073811046041800766",
-          "likes": 70,
-          "retweets": 1,
-          "replies": 38,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "alphaXiv",
-      "handle": "askalphaxiv",
-      "bio": "High fidelity research",
-      "tweets": [
-        {
-          "id": "2073875055897948505",
-          "text": "\"RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards\"\n\nThis paper trains research agents by making them generate their own rubrics before they start working.\n\nSo the agent uses the rubric to plan, search, review, and answer, while the judge uses stagewise rubrics to reward each part of the trajectory instead of giving one final score.\n\nThe agent then turns judged attempts into new rubric-based lessons, so future tasks can reuse what worked and avoid what failed.",
-          "createdAt": "2026-07-05T21:01:58.000Z",
-          "url": "https://x.com/askalphaxiv/status/2073875055897948505",
-          "likes": 87,
-          "retweets": 12,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HMfiXpnXAAABGjn.jpg"
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 3
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
