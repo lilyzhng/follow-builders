@@ -1,48 +1,9 @@
 {
-  "generatedAt": "2026-07-07T04:59:46.356Z",
+  "generatedAt": "2026-07-07T05:04:11.073Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "MiniMax",
-      "handle": "MiniMax_AI",
-      "bio": "Agent: @MiniMaxAgent \nToken Plan: https://t.co/BDCycxepZw \nAPI: https://t.co/fHRdSV7BwZ\nCommunity: https://t.co/uhxxfLgkLU",
-      "tweets": [
-        {
-          "id": "2074334696624857527",
-          "text": "MiniMax is heading to RAISE Week in Paris 🇫🇷\n\nFind us at Booth 32D in Delorme, in a fireside chat on the Ada Lovelace Stage, and at our private executive gathering: RAISE House with MiniMax.\n\nWe’ll be talking M3, open weights, multimodal AI, and where frontier AI is moving next — including how MiniMax is helping shape it.\n\nDetails below 👇",
-          "createdAt": "2026-07-07T03:28:25.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2074334696624857527",
-          "likes": 26,
-          "retweets": 0,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, WisprFlow, Inception, Goodfire, PrimeIntellect",
-      "tweets": [
-        {
-          "id": "2074261051013775794",
-          "text": "Correction: my data source got Kick's (@kick) founding date wrong and Kick would be #2 with 189M visits.",
-          "createdAt": "2026-07-06T22:35:47.000Z",
-          "url": "https://x.com/deedydas/status/2074261051013775794",
-          "likes": 1,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 2
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
