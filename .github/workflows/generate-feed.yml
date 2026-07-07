@@ -101,8 +101,7 @@ jobs:
           git push
 
       - name: Trigger evening digest (chained off the fresh feed)
-        if: steps.guard.outputs.skip != 'true'
-        if: github.event_name == 'schedule'
+        if: steps.guard.outputs.skip != 'true' && github.event_name == 'schedule'
         env:
           DIGEST_TRIGGER_BOT_TOKEN: ${{ secrets.DIGEST_TRIGGER_BOT_TOKEN }}
         run: |
