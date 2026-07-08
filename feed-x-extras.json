@@ -1,9 +1,104 @@
 {
-  "generatedAt": "2026-07-07T05:04:11.073Z",
+  "generatedAt": "2026-07-08T04:27:30.717Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, WisprFlow, Inception, Goodfire, PrimeIntellect",
+      "tweets": [
+        {
+          "id": "2074668262105948206",
+          "text": "Read the paper here: https://t.co/oJHJfiklgV",
+          "createdAt": "2026-07-08T01:33:53.000Z",
+          "url": "https://x.com/deedydas/status/2074668262105948206",
+          "likes": 5,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2074668258519892232",
+          "text": "Today, researchers made an important breakthrough in interpretability.\n\nThey found \"manifolds\" in the neural net weights for any concepts in image gen models (SDXL), like the pretzel manifold, and could steer them to generate various kinds of pretzels from the weights directly.\n\nThis is well beyond a neat theoretical understanding on how AI models see but gives us a low-compute volume dial to edit the results of a generation.",
+          "createdAt": "2026-07-08T01:33:52.000Z",
+          "url": "https://x.com/deedydas/status/2074668258519892232",
+          "likes": 248,
+          "retweets": 24,
+          "replies": 13,
+          "isQuote": true,
+          "quotedTweetId": "2074634702737281303",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HMqzyVpbkAAw2Vh.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2074371680026394696",
+          "text": "“The dirty secret in AI is that everything is a data and an eval problem.\n\nThe best models have the best data and best internal benchmarks. The mid ones buy a lot of data, not the best, and hillclimb public benchmarks.\n\n(you need a lot of compute too)”\n\n– Stanford CS Professor",
+          "createdAt": "2026-07-07T05:55:23.000Z",
+          "url": "https://x.com/deedydas/status/2074371680026394696",
+          "likes": 997,
+          "retweets": 66,
+          "replies": 71,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Felix Rieseberg (Claude Cowork)",
+      "handle": "felixrieseberg",
+      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
+      "tweets": [
+        {
+          "id": "2074553969893093649",
+          "text": "If you build something cool, send it to me? https://t.co/wDoPHYIOUS",
+          "createdAt": "2026-07-07T17:59:44.000Z",
+          "url": "https://x.com/felixrieseberg/status/2074553969893093649",
+          "likes": 1185,
+          "retweets": 17,
+          "replies": 451,
+          "isQuote": true,
+          "quotedTweetId": "2074548242386178258"
+        },
+        {
+          "id": "2074547574456123503",
+          "text": "Given the size of the change, it's rolling out over the next couple of weeks, starting with our Max users. \n\nFor more details, check out the blog post: https://t.co/rv7jWw0hQc",
+          "createdAt": "2026-07-07T17:34:19.000Z",
+          "url": "https://x.com/felixrieseberg/status/2074547574456123503",
+          "likes": 39,
+          "retweets": 3,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2074547572975567074",
+          "text": "Big day! Claude Cowork is coming to web and mobile, so Claude can keep working while your computer is closed.\n\nThis is a major update to Cowork. It combines the power of giving Claude access to your context, an advanced loop for long-running tasks, and the convenience of not needing your laptop to be open.",
+          "createdAt": "2026-07-07T17:34:19.000Z",
+          "url": "https://x.com/felixrieseberg/status/2074547572975567074",
+          "likes": 845,
+          "retweets": 44,
+          "replies": 52,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2074545891562950656/img/9Mau9hgL8PaJHWn7.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 2,
+    "totalTweets": 6
   }
 }
