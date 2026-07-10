@@ -1,7 +1,32 @@
 {
-  "generatedAt": "2026-07-09T05:03:35.659Z",
+  "generatedAt": "2026-07-10T05:04:33.238Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "tweets": [
+        {
+          "id": "2075224548476440779",
+          "text": "We're releasing a research preview of a new orchestrator model in Perplexity Computer.\n\nThe model is an adapted version of GLM 5.2, post-trained for the Computer harness. It delivers near-frontier performance at 0.344x of the cost of Opus. https://t.co/jcxikoFRfn",
+          "createdAt": "2026-07-09T14:24:22.000Z",
+          "url": "https://x.com/perplexity_ai/status/2075224548476440779",
+          "likes": 841,
+          "retweets": 73,
+          "replies": 65,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HMytupxacAAJxFv.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Cognition (Devin)",
@@ -9,34 +34,36 @@
       "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
       "tweets": [
         {
-          "id": "2074882977515909171",
-          "text": "Our RL training spans four datacenters across three continents, combining our own GPUs across multiple clusters with additional compute from inference providers like @FireworksAI_HQ.\n\nOnly the trainer needs tight collective communication. Rollout inference was distributed, with engines syncing through compressed weight diffs in object storage.",
-          "createdAt": "2026-07-08T15:47:05.000Z",
-          "url": "https://x.com/cognition/status/2074882977515909171",
-          "likes": 159,
-          "retweets": 6,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2074882975490043958",
-          "text": "Our training recipe combines many fixes simultaneously to overcome these challenges, including the Muon optimizer, staleness controls, off-policy correction, importance sampling, top-p sampling replay, MoE routing replay, and quantization-aware training.\n\nWith careful design of our optimizer, algorithm, and off-policy corrections, we find that our final config leads to higher stability and preserved entropy.",
-          "createdAt": "2026-07-08T15:47:05.000Z",
-          "url": "https://x.com/cognition/status/2074882975490043958",
-          "likes": 166,
-          "retweets": 4,
-          "replies": 2,
+          "id": "2075308922508869884",
+          "text": "When conversing in Simplified Chinese, leading open source models generally exhibit higher propaganda rates, alignment with CCP narratives, and refusals on politically sensitive questions. https://t.co/1v723B43eZ",
+          "createdAt": "2026-07-09T19:59:39.000Z",
+          "url": "https://x.com/cognition/status/2075308922508869884",
+          "likes": 28,
+          "retweets": 0,
+          "replies": 5,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HMtzOjrW8AAUbpy.png"
-            },
+              "url": "https://pbs.twimg.com/media/HMz6VX2XUAAAiSG.png"
+            }
+          ]
+        },
+        {
+          "id": "2075308920755618144",
+          "text": "Yesterday we launched SWE-1.7 built on the open-source Kimi K2.7.\n\nConcerns about Chinese base models are real: K2.7 completed 87% of tasks that other models refuse over human-rights concerns.\n\nWe trained SWE-1.7 specifically on trustworthiness, so it matches US models on evals. https://t.co/GKPcFDjnzo",
+          "createdAt": "2026-07-09T19:59:38.000Z",
+          "url": "https://x.com/cognition/status/2075308920755618144",
+          "likes": 326,
+          "retweets": 24,
+          "replies": 20,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HMtzPxPXcAATvJu.png"
+              "url": "https://pbs.twimg.com/media/HMz6TapWkAAkvHi.jpg"
             }
           ]
         }
@@ -49,61 +76,21 @@
       "bio": "Partner at @MenloVentures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, WisprFlow, Inception, Goodfire, PrimeIntellect",
       "tweets": [
         {
-          "id": "2074843876398108976",
-          "text": "For people asking why Belgium’s 86’ 0-2 comeback this WC R32 wasn’t counted was because this methodology only looks at wining without extra time.\n\nCounting extra time didn’t feel like apples to apples to me and would include many more games. https://t.co/IRvCfTsnb6",
-          "createdAt": "2026-07-08T13:11:43.000Z",
-          "url": "https://x.com/deedydas/status/2074843876398108976",
-          "likes": 342,
-          "retweets": 6,
-          "replies": 4,
+          "id": "2075108785643987447",
+          "text": "Today’s been an absolutely stacked day for AI news. In case you missed it:\n\n1. GPT 5.6 Sol and Sol Ultra dropping tomorrow. Early reviews say it’s not as smart as Fable but very positive.\n\n2. Grok 4.5 launches from Cursor / SpaceX that claims Opus 4.7 quality at 80tps and $2/M in $6/M out price.\n\n3. Bytedance Seedream 5 Pro launches as an image ~#2 and nearly as good as GPT Image 2 at 4x cheaper cost: $0.045-$0.09/image, specializing in edits and infographics. Easily beats Meta’s Muse Image.\n\n4. GPT-Live launches a full duplex non-turn based voice model which allows interactions while you’re talking seamlessly, a huge upgrade in audio AI for consumer\n\nComing soon:\n1. Seedance 2.5 Pro expected to launch soon (early July) to further extend Bytedance’s lead in SOTA video gen models. Will use Seedream 5 Pro as the frame generator.\n\n2. Gemini 3.5 Pro launching soon (July 17). Google seems to have fallen quite behind frontier and people eagerly await to see what Google can put out here amidst a string of high profile departures.\n\n3. GPT-6 rumored to launch soon (Polymarket spikes at August 14) with a new larger retrain, taking aim at Fable.",
+          "createdAt": "2026-07-09T06:44:22.000Z",
+          "url": "https://x.com/deedydas/status/2075108785643987447",
+          "likes": 1261,
+          "retweets": 93,
+          "replies": 74,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HMtTgroa0AACDsq.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2074775000419274766",
-          "text": "For those curious, here are the top 5 comebacks ever in this dataset. The #1 is a comeback from Werder Bremen vs Dortmund from 0-2 at 89' to win 3-2 https://t.co/xclBW6ulh7",
-          "createdAt": "2026-07-08T08:38:02.000Z",
-          "url": "https://x.com/deedydas/status/2074775000419274766",
-          "likes": 441,
-          "retweets": 20,
-          "replies": 11,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HMsUlt7agAAacHo.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2074773187037134892",
-          "text": "The Argentina come back against Egypt is one of the best matches in football history.\n\nI analyzed ~50,000 games with Fable to show just how crazy it was.\n\nOf the 10,138 times that a team has been up 2-0 at 79', only SIXTEEN times (0.16%) did they ever make a come back at the end of 90 minutes.\n\nThis is the first time it's happened in a World Cup.",
-          "createdAt": "2026-07-08T08:30:49.000Z",
-          "url": "https://x.com/deedydas/status/2074773187037134892",
-          "likes": 9259,
-          "retweets": 1492,
-          "replies": 258,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HMsTN9XagAAfEMm.jpg"
-            }
-          ]
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 5
+    "xBuilders": 3,
+    "totalTweets": 4
   }
 }
