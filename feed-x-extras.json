@@ -1,69 +1,27 @@
 {
-  "generatedAt": "2026-07-10T05:04:33.238Z",
+  "generatedAt": "2026-07-11T04:24:08.448Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Perplexity",
-      "handle": "perplexity_ai",
-      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress toward open source AI\nhttps://t.co/vrD0aDJeto",
       "tweets": [
         {
-          "id": "2075224548476440779",
-          "text": "We're releasing a research preview of a new orchestrator model in Perplexity Computer.\n\nThe model is an adapted version of GLM 5.2, post-trained for the Computer harness. It delivers near-frontier performance at 0.344x of the cost of Opus. https://t.co/jcxikoFRfn",
-          "createdAt": "2026-07-09T14:24:22.000Z",
-          "url": "https://x.com/perplexity_ai/status/2075224548476440779",
-          "likes": 841,
-          "retweets": 73,
-          "replies": 65,
+          "id": "2075656082886697381",
+          "text": "https://t.co/CUAsD3gs1t",
+          "createdAt": "2026-07-10T18:59:08.000Z",
+          "url": "https://x.com/NousResearch/status/2075656082886697381",
+          "likes": 901,
+          "retweets": 28,
+          "replies": 89,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HMytupxacAAJxFv.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
-      "tweets": [
-        {
-          "id": "2075308922508869884",
-          "text": "When conversing in Simplified Chinese, leading open source models generally exhibit higher propaganda rates, alignment with CCP narratives, and refusals on politically sensitive questions. https://t.co/1v723B43eZ",
-          "createdAt": "2026-07-09T19:59:39.000Z",
-          "url": "https://x.com/cognition/status/2075308922508869884",
-          "likes": 28,
-          "retweets": 0,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HMz6VX2XUAAAiSG.png"
-            }
-          ]
-        },
-        {
-          "id": "2075308920755618144",
-          "text": "Yesterday we launched SWE-1.7 built on the open-source Kimi K2.7.\n\nConcerns about Chinese base models are real: K2.7 completed 87% of tasks that other models refuse over human-rights concerns.\n\nWe trained SWE-1.7 specifically on trustworthiness, so it matches US models on evals. https://t.co/GKPcFDjnzo",
-          "createdAt": "2026-07-09T19:59:38.000Z",
-          "url": "https://x.com/cognition/status/2075308920755618144",
-          "likes": 326,
-          "retweets": 24,
-          "replies": 20,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HMz6TapWkAAkvHi.jpg"
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2075655990117076993/img/UGgYof8QsZaxTxxV.jpg"
             }
           ]
         }
@@ -76,13 +34,60 @@
       "bio": "Partner at @MenloVentures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, WisprFlow, Inception, Goodfire, PrimeIntellect",
       "tweets": [
         {
-          "id": "2075108785643987447",
-          "text": "Today’s been an absolutely stacked day for AI news. In case you missed it:\n\n1. GPT 5.6 Sol and Sol Ultra dropping tomorrow. Early reviews say it’s not as smart as Fable but very positive.\n\n2. Grok 4.5 launches from Cursor / SpaceX that claims Opus 4.7 quality at 80tps and $2/M in $6/M out price.\n\n3. Bytedance Seedream 5 Pro launches as an image ~#2 and nearly as good as GPT Image 2 at 4x cheaper cost: $0.045-$0.09/image, specializing in edits and infographics. Easily beats Meta’s Muse Image.\n\n4. GPT-Live launches a full duplex non-turn based voice model which allows interactions while you’re talking seamlessly, a huge upgrade in audio AI for consumer\n\nComing soon:\n1. Seedance 2.5 Pro expected to launch soon (early July) to further extend Bytedance’s lead in SOTA video gen models. Will use Seedream 5 Pro as the frame generator.\n\n2. Gemini 3.5 Pro launching soon (July 17). Google seems to have fallen quite behind frontier and people eagerly await to see what Google can put out here amidst a string of high profile departures.\n\n3. GPT-6 rumored to launch soon (Polymarket spikes at August 14) with a new larger retrain, taking aim at Fable.",
-          "createdAt": "2026-07-09T06:44:22.000Z",
-          "url": "https://x.com/deedydas/status/2075108785643987447",
-          "likes": 1261,
-          "retweets": 93,
-          "replies": 74,
+          "id": "2075797401047306364",
+          "text": "Overall, my notes:\n— Sol's first try took 8.5mins and only had demo stocks. Then it span for 8mins more but then needed an API key to get real data. Fable somehow figured out how to get real data.\n\n— Fable's filtering and feature set was more rich. It had gainers and losers, log scale, far more categories to filter by, countries, and top X. Sol had sectors, but fewers, and minimum return, a client search and bookmarks. Both had market cap filtering\n\n— UI is a matter of taste. I didn't have any custom instructions, but I personally slightly preferred Fable's UI. Both were pretty top-tier though.\n\n— Fable's stock ticker data and granularity was better. Sol used fewer data points and smoothed curves, which isn't exactly what I wanted.",
+          "createdAt": "2026-07-11T04:20:41.000Z",
+          "url": "https://x.com/deedydas/status/2075797401047306364",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2075797388598689934",
+          "text": "I asked the new GPT 5.6 Sol Ultra vs Fable XHigh to \"create an app to compare the fastest growing stocks in diff time periods\"\n\nHere are the results.\n\nI then asked both to create a comparison video. Sol couldn't do it, so here's what Fable made.\n\n Check out how they compare! https://t.co/RNFuGQlCEp",
+          "createdAt": "2026-07-11T04:20:38.000Z",
+          "url": "https://x.com/deedydas/status/2075797388598689934",
+          "likes": 5,
+          "retweets": 2,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2075797326300577792/img/yzQC8NVJszyIa3Z-.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lance Martin",
+      "handle": "RLanceMartin",
+      "bio": "MTS @anthropicai",
+      "tweets": [
+        {
+          "id": "2075642836805194222",
+          "text": "i measured performance vs cost on a few different evals with Fable 5. here's some of the lessons i learned: \nhttps://t.co/4KsxkMC6uh",
+          "createdAt": "2026-07-10T18:06:30.000Z",
+          "url": "https://x.com/RLanceMartin/status/2075642836805194222",
+          "likes": 54,
+          "retweets": 5,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2075641284635799865"
+        },
+        {
+          "id": "2075641284635799865",
+          "text": "https://t.co/5TDlA7reYa",
+          "createdAt": "2026-07-10T18:00:20.000Z",
+          "url": "https://x.com/RLanceMartin/status/2075641284635799865",
+          "likes": 405,
+          "retweets": 33,
+          "replies": 12,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -91,6 +96,6 @@
   ],
   "stats": {
     "xBuilders": 3,
-    "totalTweets": 4
+    "totalTweets": 5
   }
 }
