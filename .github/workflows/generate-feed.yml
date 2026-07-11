@@ -19,26 +19,49 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # RACE GUARD: the generator has watermark semantics — each run keeps only
+      # tweets NEW since the previous run and OVERWRITES feed-x.json. Two runs
+      # close together = the second clobbers a full feed with a minutes-wide
+      # scrap (happened 7/5 and 7/6: manual kick vs cron, both directions).
+      # If the last feed commit is younger than 15 minutes, skip this run.
+      - name: Skip if a feed run landed <15 min ago
+        id: guard
+        run: |
+          last=$(git log -1 --format=%ct -- feed-x.json || echo 0)
+          now=$(date +%s)
+          age=$(( now - last ))
+          echo "last feed commit ${age}s ago"
+          if [ "$age" -lt 900 ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "::notice::Skipping: previous feed run ${age}s ago (<900s). Watermark clobber guard."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
 
       - name: Install dependencies
+        if: steps.guard.outputs.skip != 'true'
         run: cd scripts && npm install
 
       - name: Fetch all default accounts (tweets only)
+        if: steps.guard.outputs.skip != 'true'
         env:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
         run: |
           cd scripts && node generate-feed.js --tweets-only
 
       - name: Fetch extra accounts (tweets only)
+        if: steps.guard.outputs.skip != 'true'
         env:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
         run: |
           cd scripts && node generate-feed.js --tweets-only --sources ../config/extra-sources.json --output ../feed-x-extras.json
 
       - name: Merge extras into main feed + pull upstream podcasts
+        if: steps.guard.outputs.skip != 'true'
         run: |
           cd scripts && node -e "
           const fs = require('fs');
@@ -69,6 +92,7 @@ jobs:
           "
 
       - name: Commit and push feeds
+        if: steps.guard.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -77,7 +101,7 @@ jobs:
           git push
 
       - name: Trigger evening digest (chained off the fresh feed)
-        if: github.event_name == 'schedule'
+        if: steps.guard.outputs.skip != 'true' && github.event_name == 'schedule'
         env:
           DIGEST_TRIGGER_BOT_TOKEN: ${{ secrets.DIGEST_TRIGGER_BOT_TOKEN }}
         run: |
