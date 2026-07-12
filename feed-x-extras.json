@@ -1,32 +1,7 @@
 {
-  "generatedAt": "2026-07-11T04:24:08.448Z",
+  "generatedAt": "2026-07-12T04:34:30.551Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "A bunch of nerds making progress toward open source AI\nhttps://t.co/vrD0aDJeto",
-      "tweets": [
-        {
-          "id": "2075656082886697381",
-          "text": "https://t.co/CUAsD3gs1t",
-          "createdAt": "2026-07-10T18:59:08.000Z",
-          "url": "https://x.com/NousResearch/status/2075656082886697381",
-          "likes": 901,
-          "retweets": 28,
-          "replies": 89,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2075655990117076993/img/UGgYof8QsZaxTxxV.jpg"
-            }
-          ]
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -34,60 +9,35 @@
       "bio": "Partner at @MenloVentures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, WisprFlow, Inception, Goodfire, PrimeIntellect",
       "tweets": [
         {
-          "id": "2075797401047306364",
-          "text": "Overall, my notes:\n— Sol's first try took 8.5mins and only had demo stocks. Then it span for 8mins more but then needed an API key to get real data. Fable somehow figured out how to get real data.\n\n— Fable's filtering and feature set was more rich. It had gainers and losers, log scale, far more categories to filter by, countries, and top X. Sol had sectors, but fewers, and minimum return, a client search and bookmarks. Both had market cap filtering\n\n— UI is a matter of taste. I didn't have any custom instructions, but I personally slightly preferred Fable's UI. Both were pretty top-tier though.\n\n— Fable's stock ticker data and granularity was better. Sol used fewer data points and smoothed curves, which isn't exactly what I wanted.",
-          "createdAt": "2026-07-11T04:20:41.000Z",
-          "url": "https://x.com/deedydas/status/2075797401047306364",
-          "likes": 0,
-          "retweets": 0,
+          "id": "2076145912813068331",
+          "text": "I know a lot of these are underreported revenue numbers!\n\nSome are genuine mistakes (Arena is at $100M). For others, I try to only use public sources for revenue and valuation, including rumors. If you want to correct any, what’s most helpful is just telling me the correct number and a source so I can fix in the next version.",
+          "createdAt": "2026-07-12T03:25:33.000Z",
+          "url": "https://x.com/deedydas/status/2076145912813068331",
+          "likes": 6,
+          "retweets": 1,
           "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2075797388598689934",
-          "text": "I asked the new GPT 5.6 Sol Ultra vs Fable XHigh to \"create an app to compare the fastest growing stocks in diff time periods\"\n\nHere are the results.\n\nI then asked both to create a comparison video. Sol couldn't do it, so here's what Fable made.\n\n Check out how they compare! https://t.co/RNFuGQlCEp",
-          "createdAt": "2026-07-11T04:20:38.000Z",
-          "url": "https://x.com/deedydas/status/2075797388598689934",
-          "likes": 5,
-          "retweets": 2,
-          "replies": 1,
+          "id": "2076142677272441062",
+          "text": "Listing out some of the others I missed:\n\nData marketplaces: Kled, Luel\n\nComputer / browser use: Chakra Labs, Habitat, Refresh, Cua, Originator, Dojo\n\nCoding / SWE: Proximal, Idler, Calaveras, BenchFlow, Vmax\n\nLong-horizon / reasoning: Andromede, Aviro, AIChamp, General Reasoning, Champ, Haladir, Hillclimb\n\nModel behavior / evals: Gray Swan, Theta, Preference Model, Vals AI, Andon Labs, Verita, Good Start Labs\n\nDomain-specific: Halluminate, Quesma, Phinity, Rise Data Labs, Kairos, TrainLoop, Huzzle Labs",
+          "createdAt": "2026-07-12T03:12:41.000Z",
+          "url": "https://x.com/deedydas/status/2076142677272441062",
+          "likes": 31,
+          "retweets": 0,
+          "replies": 4,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2075797326300577792/img/yzQC8NVJszyIa3Z-.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "MTS @anthropicai",
-      "tweets": [
-        {
-          "id": "2075642836805194222",
-          "text": "i measured performance vs cost on a few different evals with Fable 5. here's some of the lessons i learned: \nhttps://t.co/4KsxkMC6uh",
-          "createdAt": "2026-07-10T18:06:30.000Z",
-          "url": "https://x.com/RLanceMartin/status/2075642836805194222",
-          "likes": 54,
-          "retweets": 5,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2075641284635799865"
+          "quotedTweetId": null
         },
         {
-          "id": "2075641284635799865",
-          "text": "https://t.co/5TDlA7reYa",
-          "createdAt": "2026-07-10T18:00:20.000Z",
-          "url": "https://x.com/RLanceMartin/status/2075641284635799865",
-          "likes": 405,
-          "retweets": 33,
-          "replies": 12,
+          "id": "2076140799830716753",
+          "text": "If there's any startups I missed or any numbers you have issues with, please let me know and I'll fix them in the next iteration. Really hard to get these to be perfect, but I've taken the perfect is the enemy of the good approach to some of these lists because some find them valuable",
+          "createdAt": "2026-07-12T03:05:14.000Z",
+          "url": "https://x.com/deedydas/status/2076140799830716753",
+          "likes": 15,
+          "retweets": 0,
+          "replies": 10,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -95,7 +45,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 5
+    "xBuilders": 1,
+    "totalTweets": 3
   }
 }
