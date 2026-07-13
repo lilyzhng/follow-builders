@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T04:34:30.551Z",
+  "generatedAt": "2026-07-13T04:39:51.374Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,35 +9,38 @@
       "bio": "Partner at @MenloVentures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, WisprFlow, Inception, Goodfire, PrimeIntellect",
       "tweets": [
         {
-          "id": "2076145912813068331",
-          "text": "I know a lot of these are underreported revenue numbers!\n\nSome are genuine mistakes (Arena is at $100M). For others, I try to only use public sources for revenue and valuation, including rumors. If you want to correct any, what’s most helpful is just telling me the correct number and a source so I can fix in the next version.",
-          "createdAt": "2026-07-12T03:25:33.000Z",
-          "url": "https://x.com/deedydas/status/2076145912813068331",
-          "likes": 6,
-          "retweets": 1,
-          "replies": 0,
+          "id": "2076486781558821256",
+          "text": "Most people think Harry Potter is the best selling book series in history at ~615M books.\n\nThat will likely change this year.\n\nIt will be overtaken by One Piece, by Eiichiro Oda, regarded as the greatest Japanese manga / graphic novel of all time, which just crossed 600M in March and is projected to surpass HP this year and hit 725M+ when it ends in ~2030-32 (there’s 10-15% left).\n\nThe story follows Monkey D Luffy, a young boy who has rubber man powers, who assembles a pirate crew and goes on an epic journey to find the legendary “One Piece” treasure.\n\nAs a voracious reader, I struggled to take manga seriously for most of my life. I’m a hardcore Harry Potter fan, and even thinking of manga in the same breath once disgusted me. I relegated manga to a “niche comic book for nerds” and anime to a “kids cartoon”. “These aren’t real books, it’s just for people who can’t read longform”, I thought. But the past few years have completely changed my mind. I’ve been personally reading and watching (YouTube/Crunchyroll) many manga / anime including One Piece. Aside from the appreciation for the artistry of the characters, the stories strike me as immensely powerful with deep lessons about loyalty, sacrifice, friendship, ambition, justice, power, grief and kindness. Once you get in the flow, it’s far more enjoyable than most non-fiction and rivals anything on my shelf. The storytelling is beautiful. It awakens the child inside you without being juvenile. I highly recommend it to anyone who has previously had reservations like I once did, and doubly so if you want to enjoy something with your kids.",
+          "createdAt": "2026-07-13T02:00:02.000Z",
+          "url": "https://x.com/deedydas/status/2076486781558821256",
+          "likes": 324,
+          "retweets": 30,
+          "replies": 26,
           "isQuote": false,
-          "quotedTweetId": null
-        },
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HNEpuSBaUAA9j2o.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "❤️ 🍵 ☕️",
+      "tweets": [
         {
-          "id": "2076142677272441062",
-          "text": "Listing out some of the others I missed:\n\nData marketplaces: Kled, Luel\n\nComputer / browser use: Chakra Labs, Habitat, Refresh, Cua, Originator, Dojo\n\nCoding / SWE: Proximal, Idler, Calaveras, BenchFlow, Vmax\n\nLong-horizon / reasoning: Andromede, Aviro, AIChamp, General Reasoning, Champ, Haladir, Hillclimb\n\nModel behavior / evals: Gray Swan, Theta, Preference Model, Vals AI, Andon Labs, Verita, Good Start Labs\n\nDomain-specific: Halluminate, Quesma, Phinity, Rise Data Labs, Kairos, TrainLoop, Huzzle Labs",
-          "createdAt": "2026-07-12T03:12:41.000Z",
-          "url": "https://x.com/deedydas/status/2076142677272441062",
-          "likes": 31,
+          "id": "2076518226885038570",
+          "text": "anything interesting recently in the opensource community?",
+          "createdAt": "2026-07-13T04:04:59.000Z",
+          "url": "https://x.com/JustinLin610/status/2076518226885038570",
+          "likes": 14,
           "retweets": 0,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2076140799830716753",
-          "text": "If there's any startups I missed or any numbers you have issues with, please let me know and I'll fix them in the next iteration. Really hard to get these to be perfect, but I've taken the perfect is the enemy of the good approach to some of these lists because some find them valuable",
-          "createdAt": "2026-07-12T03:05:14.000Z",
-          "url": "https://x.com/deedydas/status/2076140799830716753",
-          "likes": 15,
-          "retweets": 0,
-          "replies": 10,
+          "replies": 2,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -45,7 +48,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 3
+    "xBuilders": 2,
+    "totalTweets": 2
   }
 }
