@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T04:13:43.436Z",
+  "generatedAt": "2026-07-15T04:15:17.891Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,19 +9,121 @@
       "bio": "Partner at @MenloVentures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, WisprFlow, Inception, Goodfire, PrimeIntellect",
       "tweets": [
         {
-          "id": "2076536559520866777",
-          "text": "India was a tied #1 at the International Physics Olympiad (IPhO) this year with 5/5 Golds.\n\nI analyzed every single medalist upto 2021: 70% of them in the US!\n\nMany of these kids will likely go to MIT or IIT and then leave too. The brain drain is very real. https://t.co/BLbd3sYCQq",
-          "createdAt": "2026-07-13T05:17:50.000Z",
-          "url": "https://x.com/deedydas/status/2076536559520866777",
-          "likes": 3080,
-          "retweets": 394,
-          "replies": 124,
+          "id": "2076900969586287034",
+          "text": "I only use the latest public sources to assemble these, so yes, I’m aware the numbers are off. If you have any corrections, please let me know in the replies.",
+          "createdAt": "2026-07-14T05:25:52.000Z",
+          "url": "https://x.com/deedydas/status/2076900969586287034",
+          "likes": 22,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2076894544596177204",
+          "text": "Every single AI startup with $500M+ revenue run rate (excluding the big 3 labs):\n\nLovable - $500M\nElevenLabs - $500M\nPerplexity - $500M\nManus - $500M*\nCognition - $500M*\nKling AI - $500M\nCrusoe - $500M*\nMidjourney - $500M*\nHiggsfield - $500M\nLightning AI - $500M+\nReplit - $525M*\nBaseten - $600M*\nLambda - $760M*\nFireworks - $800M*\nTogether AI - $1B\nSurge AI - $1.4B*\nScale - $2B*\nMercor - $2B**\nCursor - $4B\n\n22 total companies (including big labs)\n\n*estimated / unconfirmed\n**gross marketplace volume, not net revenue",
+          "createdAt": "2026-07-14T05:00:20.000Z",
+          "url": "https://x.com/deedydas/status/2076894544596177204",
+          "likes": 1326,
+          "retweets": 139,
+          "replies": 102,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HNFW_uIa8AAtzPN.jpg"
+              "url": "https://pbs.twimg.com/media/HNKclLpa0AAoCZf.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "❤️ 🍵 ☕️",
+      "tweets": [
+        {
+          "id": "2076990577950785985",
+          "text": "i recently discussed with some friends about the strike of model effects and costs. while frontier models are smashing a lot of things it is always expensive to use them. me personally always think about using as many tokens as possible with my subscriptions and coding plans, and i think if i turn the usages to tokens that might be a much bigger amount of money (i remember a media previously said if u use codex crazily u can use over 8000 dollars a month with 200 dollar subscription. not sure about the number). \n\nhow about enterprises that really use tokens and count expense on the unit of token? some interviewees told me that they tried their design their system by tasks, like easier or to say more formatted tasks go to seed, qwen, dpsk, harder tasks like agentic tasks go to fable or sol. glm 5.2 is nice for coding but still after claude and gpt, recent grok is a bit similar. \n\nthis just reminds me that if we design the system well on the user side, we can have more productivity based on sufficient usage of ai today without too much worry about expense. maybe there is still much room for this.",
+          "createdAt": "2026-07-14T11:21:57.000Z",
+          "url": "https://x.com/JustinLin610/status/2076990577950785985",
+          "likes": 81,
+          "retweets": 4,
+          "replies": 17,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Felix Rieseberg (Claude Cowork)",
+      "handle": "felixrieseberg",
+      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
+      "tweets": [
+        {
+          "id": "2077176566510244270",
+          "text": "A dedicated offering for schools and districts is coming soon - in the meantime, if you’re a K12 educator, get verified here: https://t.co/HM72bQEPrg",
+          "createdAt": "2026-07-14T23:41:00.000Z",
+          "url": "https://x.com/felixrieseberg/status/2077176566510244270",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2077176563444154700",
+          "text": "Something I’m excited about: Free premium Claude and Cowork for K-12 educators and teachers in the US, together with a library of teaching skills. \n\nTo find out more, check out https://t.co/O20Lnyd3EK",
+          "createdAt": "2026-07-14T23:40:59.000Z",
+          "url": "https://x.com/felixrieseberg/status/2077176563444154700",
+          "likes": 89,
+          "retweets": 3,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "tweets": [
+        {
+          "id": "2077099552247881877",
+          "text": "WANDR tests how well agents discover large sets of entities and verify specific facts about each one. It provides a dense, interpretable eval signal that reveals whether an agent fails, and where.\n\nThe pipeline also doubles as a semi-automated factory for training data. https://t.co/v0wDR3pUXY",
+          "createdAt": "2026-07-14T18:34:58.000Z",
+          "url": "https://x.com/perplexity_ai/status/2077099552247881877",
+          "likes": 14,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HNNXCRzbYAAPQEl.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2077099536804458766",
+          "text": "WANDR represents these requirements as hierarchical, independently verifiable records.\n\nIt consists of 500 research tasks that require 170,495 source-backed records across three tiers of difficulty. https://t.co/OX5e1zuGbe",
+          "createdAt": "2026-07-14T18:34:54.000Z",
+          "url": "https://x.com/perplexity_ai/status/2077099536804458766",
+          "likes": 31,
+          "retweets": 3,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HNNXBX6a8AA5C6y.jpg"
             }
           ]
         }
@@ -34,21 +136,21 @@
       "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
       "tweets": [
         {
-          "id": "2076714965344342382",
-          "text": "As of today, Devin Fusion now incorporates Fable 5.  \n\nSurprisingly, Fable 5 runs at a lower cost per task than Opus 4.8. \n\nEven though it’s a more expensive model, we observed cost efficiency improvements in areas like delegation and reasoning chains.",
-          "createdAt": "2026-07-13T17:06:45.000Z",
-          "url": "https://x.com/cognition/status/2076714965344342382",
-          "likes": 535,
-          "retweets": 40,
-          "replies": 15,
-          "isQuote": true,
-          "quotedTweetId": "2076714221837173097"
+          "id": "2077080430038200605",
+          "text": "One year ago today, Cognition acquired Windsurf.\n\nIn the year since, we've shipped dozens of new features, added hundreds of millions of dollars in ARR, and published frontier AI research.\n\n@ScottWu46 and @jeffwang share what we've accomplished in one year of building together.",
+          "createdAt": "2026-07-14T17:18:59.000Z",
+          "url": "https://x.com/cognition/status/2077080430038200605",
+          "likes": 280,
+          "retweets": 18,
+          "replies": 16,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 2
+    "xBuilders": 5,
+    "totalTweets": 8
   }
 }
