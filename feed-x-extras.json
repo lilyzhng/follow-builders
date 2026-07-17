@@ -1,37 +1,7 @@
 {
-  "generatedAt": "2026-07-16T04:21:13.506Z",
+  "generatedAt": "2026-07-17T04:19:33.563Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Thinking Machines",
-      "handle": "thinkymachines",
-      "bio": "Thinking, beeping, and booping.\n@tinkerapi",
-      "tweets": [
-        {
-          "id": "2077454611925856600",
-          "text": "Inkling natively understands and reasons across text, audio, and images. It’s strong on audio in particular, ranking among the strongest open-weights models on VoiceBench, MMAU, and AudioMC.",
-          "createdAt": "2026-07-15T18:05:51.000Z",
-          "url": "https://x.com/thinkymachines/status/2077454611925856600",
-          "likes": 424,
-          "retweets": 8,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2077454610789281804",
-          "text": "Cost and latency are important in real-world use cases. Inkling's continuous thinking effort lets you pick your point on the cost/performance curve—reaching the same score with a fraction of the tokens.",
-          "createdAt": "2026-07-15T18:05:51.000Z",
-          "url": "https://x.com/thinkymachines/status/2077454610789281804",
-          "likes": 511,
-          "retweets": 5,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -39,140 +9,69 @@
       "bio": "Partner at @MenloVentures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, WisprFlow, Inception, Goodfire, PrimeIntellect",
       "tweets": [
         {
-          "id": "2077573945759572196",
-          "text": "Chinese AI labs are doing serious numbers.\n\nI looked up all the reported and leaked numbers of the 5 big independent labs: Moonshot (Kimi), DeepSeek, Zhipu (GLM), Kuaishou (Kling), Minimax and the 2 hyperscaler labs: Bytedance (Seedance) and Alibaba (Qwen).\n\nThe private labs are doing $2.6B in revenue run rate. Still behind the big 2 labs, but 4 of 5 are in the top 25 of global AI companies by revenue.\n\nWith Kimi K3 dropping and Seedance 2.5 coming soon, China continues to close the gap on LLMs and extend their lead on video. The AI race just does not stop.\n\nDisclaimer: some of the numbers on growth, revenue, gross margin and valuations are either being sought, rumored and purported by third party sources and not straight from the company. For example, DeepSeek numbers come from the Information and Zhipu from a Macquarie analyst. The public ones are listed in the Hong Kong exchange where only half year financials are mandatory, not quarterly.",
-          "createdAt": "2026-07-16T02:00:02.000Z",
-          "url": "https://x.com/deedydas/status/2077573945759572196",
-          "likes": 170,
-          "retweets": 20,
-          "replies": 20,
+          "id": "2077770318014472525",
+          "text": "Argentina beat 1 in 116,000 odds to comeback against Egypt and England to reach the World Cup final.\n\nI analyzed ~100,000 games to see just how miraculous it was.\n\nOf 37,013 one goal deficits at 85', only 282 (0.76%) have been overturned, and only twice in World Cups. This is 8 days after the 0.11% chance of coming back from a two goal deficit at 79' against Egypt.\n\nWe've never seen a run quite like it in World Cup history.",
+          "createdAt": "2026-07-16T15:00:21.000Z",
+          "url": "https://x.com/deedydas/status/2077770318014472525",
+          "likes": 635,
+          "retweets": 74,
+          "replies": 36,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HNUGflLaIAAiua-.jpg"
+              "url": "https://pbs.twimg.com/media/HNW5F6ObcAAz49y.jpg"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Kimi (Moonshot AI)",
+      "handle": "Kimi_Moonshot",
+      "bio": "Built by Moonshot AI to empower everyone to be superhuman. \n@Kimidevs built for developers\n⚡️API: https://t.co/XCrgjXAqMw\nDC: https://t.co/wBsBTn6Ncc",
+      "tweets": [
         {
-          "id": "2077464728507707890",
-          "text": "Thinking Machines just dropped the best open weight AI model outside of China!\n\nInkling beats Nemotron 3 Ultra and benchmarks put it between Kimi 2.5 &amp; 2.6. Many were contending to this throne, but Thinky has come out on top.\n\nReally solid release, and will pair well with Tinker. https://t.co/EepghfSz7Q",
-          "createdAt": "2026-07-15T18:46:03.000Z",
-          "url": "https://x.com/deedydas/status/2077464728507707890",
-          "likes": 1004,
-          "retweets": 90,
-          "replies": 38,
+          "id": "2077830242060923207",
+          "text": "Self-evolving: AttnRes Kernel Optimization\n\nGiven FLA Triton AttnRes at production scale (96 layers, 8192-dim model, 8192 tokens), the goal was to maximize training-side speed without changing numerics. \n\nOver 15 hours of nonstop iteration, K3 designed a novel two-phase kernel algorithm, fused kernels while preserving numerics, and reduced forward+backward time from 283.6 ms to 114.4 ms. \n\nK3 and Fable-5 (with potential fallback) reached similar performance, but K3 improved faster per iteration.",
+          "createdAt": "2026-07-16T18:58:28.000Z",
+          "url": "https://x.com/Kimi_Moonshot/status/2077830242060923207",
+          "likes": 879,
+          "retweets": 57,
+          "replies": 3,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HNSjHWgaEAEZQft.jpg"
+              "url": "https://pbs.twimg.com/media/HNXvE9yagAE86DF.jpg"
             }
           ]
         },
         {
-          "id": "2077275275054969111",
-          "text": "The world is deeply unfair.\n\nSome of the most talented people I know are stuck in dead end desk jobs while some of the snarkiest narcissistic tyrannical workhorses are in positions of great power.\n\nThis has always greatly saddened me. \n\nAfter a lot of analysis, I think there are 5 reasons this happens:\n\n1. Refusal to believe / fear of failure. Loss of belief that where there is a will (to enact change), there is a way e.g. “I am just a cog in the wheel. If I say something, no one will listen.” or “if I do this, I will upset somebody”\n\n2. Lack of purpose. You don’t really understand what you’re fighting for and what you believe in. You fight for inconsequential, often selfish, goals. e.g “Will doing this get me a promotion? Should I completely change everything to do this other project cause it will get me a promotion?” \n\n3. Lack of self awareness. I will stand up to this thing I believe in and they will listen to me. e.g intern saying: “why doesn’t the ceo like my view on company strategy?”\n\n4. Refusal to play. The failure to acknowledge that your worldview is only as powerful as your ability to influence others of your worldview OR a complete repudiation of the will to interact with those who don’t share your worldview e.g. “these guys just do what they want. They won’t listen to me. what will happen if I do this?”\n\n5. Refusal to strategize or concede. The unwillingness to play and win a side quest that will ostensibly further your vote because you find the interim goal pointless. Or the inability to concede a battle to fight the war. e.g. “this direction is wrong. I need to fight it (even though it’s a small issue)”\n\nAlmost everyone who is bitter or feels stuck in their career boils down to one of these 5 failure modes 1, 2 and 3 are the most common. Many suffer consequences of 2-5 and end up in 1. I’ve personally seen some of my sharpest friends land up in 1 because they just don’t believe they can win.\n\nOne privileged part of my job is getting to interact with people who are willing to, against all odds, believe in something heretical, know why it’s important, know what needs to be done to make it real, do it, and make side quests to get it done. I think it applies to everyone doing anything.",
-          "createdAt": "2026-07-15T06:13:14.000Z",
-          "url": "https://x.com/deedydas/status/2077275275054969111",
-          "likes": 2801,
-          "retweets": 230,
-          "replies": 124,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "❤️ 🍵 ☕️",
-      "tweets": [
-        {
-          "id": "2077601106356515071",
-          "text": "one thought about possible misunderstanding: here we are discussing more about strategic use of models instead of technical methods. we did things like imagining moe really playing like experts or setting up a task router to save costs but found them hard to work well. here what I am seeing is more about a rough standard of choosing different models. q and a and very simple agentic tasks like problems solved by using tools once or twice or fixing a small bugs, compared with building a large code projects or doing ml experiments and evals, etc.",
-          "createdAt": "2026-07-16T03:47:58.000Z",
-          "url": "https://x.com/JustinLin610/status/2077601106356515071",
-          "likes": 5,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2077599615969337691",
-          "text": "nice work and great to see new arch working! \n\nbtw the small model is not opensourced? https://t.co/DrSm9KcS20",
-          "createdAt": "2026-07-16T03:42:03.000Z",
-          "url": "https://x.com/JustinLin610/status/2077599615969337691",
-          "likes": 24,
-          "retweets": 0,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2077454609551921208"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "A bunch of nerds making progress toward open source AI\nhttps://t.co/vrD0aDJeto",
-      "tweets": [
-        {
-          "id": "2077517417425543632",
-          "text": "🥇 1st place: Custodian, by Daniel LaForce (@MHArgonaut)\n\nWhen an agent can spend money, something external to the agent has to decide what it is allowed to do. Custodian is a kernel that runs between the agent and real payments. The model proposes an action, the kernel approves or denies it, an operator kill switch can halt everything, and a cryptographic receipt records each decision.\n\nCustodian enforces this from outside the agent's own process, so every action an agent proposes has to clear the kernel before it runs. In the live demo it detected an agent that could rewrite its own policy file to grant itself payment authority, and it escalated that case to a human. It runs on real Stripe payments and Nemotron inference.\n\n🏆 $10,000 cash, an NVIDIA DGX Spark, and $5,000 in Stripe credits\n\nCode: https://t.co/OQx79pDBwo\n\nhttps://t.co/AlPpl7Bc73",
-          "createdAt": "2026-07-15T22:15:25.000Z",
-          "url": "https://x.com/NousResearch/status/2077517417425543632",
-          "likes": 151,
-          "retweets": 5,
-          "replies": 6,
-          "isQuote": true,
-          "quotedTweetId": "2072211648065204242"
-        },
-        {
-          "id": "2077517414464410091",
-          "text": "For our Accelerated Business Hackathon with @NVIDIAAI and @stripe, we asked builders to make agents that can earn, spend, and run real operations at any scale.\n\nWe judged 292 excellent submissions alongside NVIDIA and Stripe, and now have our winners.\n\nhttps://t.co/yt9l4jsGAE",
-          "createdAt": "2026-07-15T22:15:24.000Z",
-          "url": "https://x.com/NousResearch/status/2077517414464410091",
-          "likes": 606,
-          "retweets": 41,
-          "replies": 43,
+          "id": "2077830238256701893",
+          "text": "Internal knowledge work bench\n\nBeyond public benchmarks, Kimi K3 Max also shows consistent gains on our internal benchmarks, which are built from recurring patterns and challenges in real-world user-agent workflows. \n\nIt scores 75.5 on Online Exp Bench, 73.5 on DECK-Bench, and 62.6 on Finance-Bench, outperforming Claude Opus 4.8 (max) and GPT-5.5 (xhigh) across all three. \n\nThese results reflect broad improvements in Kimi K3's agentic knowledge work capabilities, enabling more capable and reliable performance in real-world use cases.",
+          "createdAt": "2026-07-16T18:58:27.000Z",
+          "url": "https://x.com/Kimi_Moonshot/status/2077830238256701893",
+          "likes": 781,
+          "retweets": 32,
+          "replies": 4,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2066918079099973632/img/ZQaY_tLaAyDlRCQ3.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HNXvBPrbgAABDsU.jpg"
             }
           ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Perplexity",
-      "handle": "perplexity_ai",
-      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
-      "tweets": [
-        {
-          "id": "2077432518081744979",
-          "text": "Introducing SPACE, the sandbox platform behind Perplexity Computer.\n\nIt creates isolated environments for code, files, and long-running agent sessions.\n\nSPACE has handled 100% of Computer production traffic since June.\n\nhttps://t.co/m1mbdVlhEw",
-          "createdAt": "2026-07-15T16:38:03.000Z",
-          "url": "https://x.com/perplexity_ai/status/2077432518081744979",
-          "likes": 527,
-          "retweets": 58,
-          "replies": 31,
-          "isQuote": false,
-          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 5,
-    "totalTweets": 10
+    "xBuilders": 2,
+    "totalTweets": 3
   }
 }
