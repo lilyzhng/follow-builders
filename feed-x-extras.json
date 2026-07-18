@@ -1,77 +1,29 @@
 {
-  "generatedAt": "2026-07-17T04:19:33.563Z",
+  "generatedAt": "2026-07-18T04:11:10.391Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. ex-founding Glean, Google Search. Cornell CS. \nInvestor: Anthropic, OpenRouter, Modal, WisprFlow, Inception, Goodfire, PrimeIntellect",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Code: @MiniMaxAgent \nToken Plan: https://t.co/BDCycxepZw \nAPI: https://t.co/fHRdSV7BwZ\nCommunity: https://t.co/uhxxfLgkLU",
       "tweets": [
         {
-          "id": "2077770318014472525",
-          "text": "Argentina beat 1 in 116,000 odds to comeback against Egypt and England to reach the World Cup final.\n\nI analyzed ~100,000 games to see just how miraculous it was.\n\nOf 37,013 one goal deficits at 85', only 282 (0.76%) have been overturned, and only twice in World Cups. This is 8 days after the 0.11% chance of coming back from a two goal deficit at 79' against Egypt.\n\nWe've never seen a run quite like it in World Cup history.",
-          "createdAt": "2026-07-16T15:00:21.000Z",
-          "url": "https://x.com/deedydas/status/2077770318014472525",
-          "likes": 635,
-          "retweets": 74,
-          "replies": 36,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HNW5F6ObcAAz49y.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Kimi (Moonshot AI)",
-      "handle": "Kimi_Moonshot",
-      "bio": "Built by Moonshot AI to empower everyone to be superhuman. \n@Kimidevs built for developers\n⚡️API: https://t.co/XCrgjXAqMw\nDC: https://t.co/wBsBTn6Ncc",
-      "tweets": [
-        {
-          "id": "2077830242060923207",
-          "text": "Self-evolving: AttnRes Kernel Optimization\n\nGiven FLA Triton AttnRes at production scale (96 layers, 8192-dim model, 8192 tokens), the goal was to maximize training-side speed without changing numerics. \n\nOver 15 hours of nonstop iteration, K3 designed a novel two-phase kernel algorithm, fused kernels while preserving numerics, and reduced forward+backward time from 283.6 ms to 114.4 ms. \n\nK3 and Fable-5 (with potential fallback) reached similar performance, but K3 improved faster per iteration.",
-          "createdAt": "2026-07-16T18:58:28.000Z",
-          "url": "https://x.com/Kimi_Moonshot/status/2077830242060923207",
-          "likes": 879,
-          "retweets": 57,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HNXvE9yagAE86DF.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2077830238256701893",
-          "text": "Internal knowledge work bench\n\nBeyond public benchmarks, Kimi K3 Max also shows consistent gains on our internal benchmarks, which are built from recurring patterns and challenges in real-world user-agent workflows. \n\nIt scores 75.5 on Online Exp Bench, 73.5 on DECK-Bench, and 62.6 on Finance-Bench, outperforming Claude Opus 4.8 (max) and GPT-5.5 (xhigh) across all three. \n\nThese results reflect broad improvements in Kimi K3's agentic knowledge work capabilities, enabling more capable and reliable performance in real-world use cases.",
-          "createdAt": "2026-07-16T18:58:27.000Z",
-          "url": "https://x.com/Kimi_Moonshot/status/2077830238256701893",
-          "likes": 781,
-          "retweets": 32,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HNXvBPrbgAABDsU.jpg"
-            }
-          ]
+          "id": "2078165245714186426",
+          "text": "The best part of open source is the people building it ❤️ Great to see friends across @MiniMax_AI, @deepseek_ai, @PrimeIntellect, @vllm_project, @inferact, @huggingface, @linuxfoundation, and @Alibaba_Qwen together in Shanghai. https://t.co/ujNN6nqAIW",
+          "createdAt": "2026-07-17T17:09:39.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2078165245714186426",
+          "likes": 389,
+          "retweets": 27,
+          "replies": 13,
+          "isQuote": true,
+          "quotedTweetId": "2078144481812185186"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 3
+    "xBuilders": 1,
+    "totalTweets": 1
   }
 }
