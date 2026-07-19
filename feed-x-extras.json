@@ -1,29 +1,59 @@
 {
-  "generatedAt": "2026-07-18T04:11:10.391Z",
+  "generatedAt": "2026-07-19T04:30:44.069Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "MiniMax",
-      "handle": "MiniMax_AI",
-      "bio": "Code: @MiniMaxAgent \nToken Plan: https://t.co/BDCycxepZw \nAPI: https://t.co/fHRdSV7BwZ\nCommunity: https://t.co/uhxxfLgkLU",
+      "name": "Kimi (Moonshot AI)",
+      "handle": "Kimi_Moonshot",
+      "bio": "Built by Moonshot AI to empower everyone to be superhuman. \n@Kimidevs built for developers\n⚡️API: https://t.co/XCrgjXAqMw\nDC: https://t.co/wBsBTn6Ncc",
       "tweets": [
         {
-          "id": "2078165245714186426",
-          "text": "The best part of open source is the people building it ❤️ Great to see friends across @MiniMax_AI, @deepseek_ai, @PrimeIntellect, @vllm_project, @inferact, @huggingface, @linuxfoundation, and @Alibaba_Qwen together in Shanghai. https://t.co/ujNN6nqAIW",
-          "createdAt": "2026-07-17T17:09:39.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2078165245714186426",
-          "likes": 389,
-          "retweets": 27,
-          "replies": 13,
+          "id": "2078488382578298922",
+          "text": "Using 3D assets generation tools to create the rider and horse models, producing an expansive open world with forests, a log-cabin village, snowy mountains, and dynamic weather. \nhttps://t.co/FdkMnyUZYD",
+          "createdAt": "2026-07-18T14:33:41.000Z",
+          "url": "https://x.com/Kimi_Moonshot/status/2078488382578298922",
+          "likes": 615,
+          "retweets": 11,
+          "replies": 3,
           "isQuote": true,
-          "quotedTweetId": "2078144481812185186"
+          "quotedTweetId": "2077829183989072281"
+        },
+        {
+          "id": "2078488380170813635",
+          "text": "Animal Crossing with the cozy aesthetic, interactions, and gameplay loop.\nhttps://t.co/7JbH0CvPJs",
+          "createdAt": "2026-07-18T14:33:40.000Z",
+          "url": "https://x.com/Kimi_Moonshot/status/2078488380170813635",
+          "likes": 922,
+          "retweets": 16,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2077838911494336681"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2078473515586478235",
+          "text": "Moonshot (Kimi) is now well over $300M and approaching 400",
+          "createdAt": "2026-07-18T13:34:36.000Z",
+          "url": "https://x.com/deedydas/status/2078473515586478235",
+          "likes": 4,
+          "retweets": 2,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 2,
+    "totalTweets": 3
   }
 }
