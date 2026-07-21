@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T04:47:57.697Z",
+  "generatedAt": "2026-07-21T04:26:44.605Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,43 +9,43 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2079023509880320169",
-          "text": "Source: https://t.co/Dpm5Rh2m4W\nData: https://t.co/apdkpzWp4f",
-          "createdAt": "2026-07-20T02:00:05.000Z",
-          "url": "https://x.com/deedydas/status/2079023509880320169",
-          "likes": 9,
-          "retweets": 2,
+          "id": "2079410593606623724",
+          "text": "Disclaimers:\n- yes, we knew it was past IMO! Fable figured out the Jacobian conjecture, you might say. But LLMs tend to have a jagged edge, so it’s still fascinating to me that 3 frontier models had a perfect score\n\n- “you’re biased!” you might say. All my work is in the repo. Different attempts may lead to different results. Who knows, your Sol xhigh run might perfect score it in less time, or use fewer tokens\n\n- no public web search was used to find the answers, and the cut offs of all these models are well before when the imo 2026 was.",
+          "createdAt": "2026-07-21T03:38:13.000Z",
+          "url": "https://x.com/deedydas/status/2079410593606623724",
+          "likes": 12,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2079409474239086607",
+          "text": "Source:\nLean (from Axiom): https://t.co/YXoYnHnpWq\nFable: https://t.co/c42rgp6Kp4\nSol: https://t.co/GyTyXSHSKz\nKimi K3: https://t.co/3PoOzZOc1N\nRepo: https://t.co/VCtbvozdo0",
+          "createdAt": "2026-07-21T03:33:46.000Z",
+          "url": "https://x.com/deedydas/status/2079409474239086607",
+          "likes": 10,
+          "retweets": 1,
           "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2079023496743768286",
-          "text": "The International Olympiads in math (IMO), chem (IChO), physics (IPhO) and bio (IBO) for 2026 just ended. The 7 usual suspects were at the top.\n\nChina (19/19 golds), India, South Korea, Vietnam, Singapore, Russia and the US. India specifically had one of its best performances of all time: 12 golds, 7 silvers.\n\nI analyzed all the past winners from these top countries since 2001 to figure out where they ended up: is brain drain really a thing?\n\nHere's what I found:\n– India has the most brain drain with only 28% staying in the country from 2001-2015 participants. It does seem the number is creeping up over time.\n\n– China is #2, although it's highly likely this number is inflated because of name collisions. I'm not sure I fully trust it, and some of these are really hard to tell.\n\n– Korea, Singapore, Vietnam are quite high too. For the first two, the number of people staying in their home country seems to rise at a faster rate. Vietnam is flat.\n\n– The fewest people seem to leave Russia of the lot, but the ones that do prefer Europe to the US.\n\nThe crazy thing is really that more winners from these countries live in the US than all 6 home countries combined. While not without faults, that's the insane advantage of US high-skilled immigration.",
-          "createdAt": "2026-07-20T02:00:02.000Z",
-          "url": "https://x.com/deedydas/status/2079023496743768286",
-          "likes": 544,
-          "retweets": 67,
-          "replies": 30,
+          "id": "2079409461874332066",
+          "text": "The International Math Olympiad (IMO) 2026, the hardest math contest for high schoolers, just ended.\n\nI ran Fable (high), Sol (xhigh), K3 (max) and Axiom against it and all got a perfect score of 42/42 (repo below if you want to check their solutions):\n— Claude Fable 5 was the solved it in 1 attempt, and was the fastest.\n— GPT 5.6 Sol took 1 more attempts, and was cheapest.\n— Kimi K3 did it but took 4 more attempts, and took a LOT of tokens.\n— Axiom Math actually proved everything in Lean.\n\nP3 and P6 were the hardest followed by P2, judging by attempts + num tokens.\n\nStudents had 9hrs to solve these 6 problems, and Fable and Sol were under 4hrs.\n\nThe frontier of AI has officially moved well past IMO math.",
+          "createdAt": "2026-07-21T03:33:43.000Z",
+          "url": "https://x.com/deedydas/status/2079409461874332066",
+          "likes": 240,
+          "retweets": 38,
+          "replies": 15,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HNos2iFawAAKQGa.jpg"
+              "url": "https://pbs.twimg.com/media/HNuL4q3aQAIMcXc.jpg"
             }
           ]
-        },
-        {
-          "id": "2078876514503061776",
-          "text": "It’s funny I actually wrote this post before they tweeted it and scheduled send for later! https://t.co/Js86kuSQTH",
-          "createdAt": "2026-07-19T16:15:59.000Z",
-          "url": "https://x.com/deedydas/status/2078876514503061776",
-          "likes": 24,
-          "retweets": 1,
-          "replies": 4,
-          "isQuote": true,
-          "quotedTweetId": "2078855608565207130"
         }
       ]
     }
