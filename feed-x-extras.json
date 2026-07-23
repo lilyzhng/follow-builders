@@ -1,117 +1,7 @@
 {
-  "generatedAt": "2026-07-22T04:29:05.026Z",
+  "generatedAt": "2026-07-23T04:27:57.100Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "A bunch of nerds making progress toward open source AI\nhttps://t.co/vrD0aDJeto",
-      "tweets": [
-        {
-          "id": "2079619295315693804",
-          "text": "The new Laguna S 2.1 model by @poolsideai is now free for 2 weeks on Nous Portal.\n\nAt 118B total parameters with 8B active, it's quick to run and the most capable model they've released so far.\n\nTry Portal today at https://t.co/3Uj27KjSik",
-          "createdAt": "2026-07-21T17:27:32.000Z",
-          "url": "https://x.com/NousResearch/status/2079619295315693804",
-          "likes": 833,
-          "retweets": 48,
-          "replies": 42,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2079613456508997632/img/5uQAxhDIsnuivsA6.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
-      "tweets": [
-        {
-          "id": "2079612235559907724",
-          "text": "Run Devin Outposts on @e2b to give Devin fast, configurable cloud sandboxes, including access to infrastructure inside your private cloud.\n\nDeploy on E2B:\n\nhttps://t.co/R0WI2Xu5ki",
-          "createdAt": "2026-07-21T16:59:28.000Z",
-          "url": "https://x.com/cognition/status/2079612235559907724",
-          "likes": 35,
-          "retweets": 2,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2079612233936707859",
-          "text": "Run Devin Outposts on @daytonaio to start Linux or Windows sandboxes that start from a snapshot in under 90ms, with repositories, dependencies, and toolchains already in place.\n\nDeploy on Daytona:\n\nhttps://t.co/cm5Duks3VI",
-          "createdAt": "2026-07-21T16:59:28.000Z",
-          "url": "https://x.com/cognition/status/2079612233936707859",
-          "likes": 39,
-          "retweets": 6,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
-      "tweets": [
-        {
-          "id": "2079436976567341467",
-          "text": "This is the first time IMO has been conclusively solved.\n\nLast year, the best models was an unreleased Gemini Deep Think and a experimental OpenAI model which both did 35/42.\n\nThis year, 3 models that are open for public use, including a (soon) open weight one, did it for $10-50!",
-          "createdAt": "2026-07-21T05:23:03.000Z",
-          "url": "https://x.com/deedydas/status/2079436976567341467",
-          "likes": 107,
-          "retweets": 6,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "MTS @anthropicai",
-      "tweets": [
-        {
-          "id": "2079635721447760160",
-          "text": "we've repeatedly seen that this is a useful separation of concerns: \n\n1/ the brain is a managed harness, well-tuned for Claude, auto-upgraded w/ each model release. \n\n2/ and hands are dispatched on-demand w/ data residency &amp; network isolation. \n\nvideo:\nhttps://t.co/A7ohKgQaAe",
-          "createdAt": "2026-07-21T18:32:48.000Z",
-          "url": "https://x.com/RLanceMartin/status/2079635721447760160",
-          "likes": 7,
-          "retweets": 1,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2079635719409336477",
-          "text": "this is a nice talk from Vercel Ship 2026. Harrison (a core contributor on Claude Managed Agents) covers some of the benefits of splitting the \"brain\" (agent harness) from the \"hands\" (@vercel sandboxes inside your VPC): https://t.co/Ep7Hxcoieo",
-          "createdAt": "2026-07-21T18:32:47.000Z",
-          "url": "https://x.com/RLanceMartin/status/2079635719409336477",
-          "likes": 49,
-          "retweets": 5,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HNxOVEMbUAAZ_4o.jpg"
-            }
-          ]
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Felix Rieseberg (Claude Cowork)",
@@ -119,30 +9,44 @@
       "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
       "tweets": [
         {
-          "id": "2079624267919130692",
-          "text": "It all takes less time than you might think, too. I kept he introduction as tight as possible. It probably takes about 90 minutes to read.\n\nIn about a day, you can do pre- and post-training on a model that'll write coherent responses.",
-          "createdAt": "2026-07-21T17:47:17.000Z",
-          "url": "https://x.com/felixrieseberg/status/2079624267919130692",
-          "likes": 31,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2079624265528475975",
-          "text": "Have you built a language model? You should. It's so much fun to chat with something you made.\n\nAnyone can do it, too. I made an app that teaches the fundamentals and gives you everything you need to build your own: https://t.co/nLjFfpczbV https://t.co/akIMnTzOEG",
-          "createdAt": "2026-07-21T17:47:17.000Z",
-          "url": "https://x.com/felixrieseberg/status/2079624265528475975",
-          "likes": 675,
-          "retweets": 48,
-          "replies": 27,
+          "id": "2079824286450380911",
+          "text": "New feature in Language Model Builder: You can now import base models.\n\nThe results are a bit of an overfitting fever dream, but I've also added iMessage group chats as a fine-tuning data source. \n\nCome, train a model based on your silly group chats: https://t.co/nLjFfpczbV https://t.co/ZvsIxeStIr",
+          "createdAt": "2026-07-22T07:02:05.000Z",
+          "url": "https://x.com/felixrieseberg/status/2079824286450380911",
+          "likes": 101,
+          "retweets": 4,
+          "replies": 3,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HNxNwLpagAAXi08.jpg"
+              "url": "https://pbs.twimg.com/media/HN0E945aQAAQDcf.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Qwen",
+      "handle": "Alibaba_Qwen",
+      "bio": "Open foundation models for AGI.",
+      "tweets": [
+        {
+          "id": "2079906336381509659",
+          "text": "🎨 Meet Qwen-Image-3.0 — the third generation of our foundational image generation model.\n\nIf 1.0 was about \"Precision,\" and 2.0 added \"Variety, Completeness, Beauty & Authenticity,\" then 3.0 comes down to a single word: Real (实).\n\nThree dimensions of \"Real\":\n📰 Rich Content — prompts up to 4.5k tokens. One-pass generation of complex layouts: newspapers, storyboards, exam papers — even a 3×3 infographic grid or picture-in-picture-in-picture UIs.\n🔬 Authentic Details — text legible down to 10px, full LaTeX paper pages, pores, hair strands & near-photographic skin texture.\n🌏 Deep Knowledge — native rendering in 12 languages, 100+ art styles, realistic UIs (web / games / livestreams), plus world knowledge & live web retrieval.\n\nNot just \"good-looking\" — genuinely useful. Image generation as a real productivity tool for design, content, education & e-commerce.\n\nGo create 🏃🎨\n\n💬Qwen Chat: https://t.co/941HmITJ2W\n📝Blog: https://t.co/5mnS4uI9Ar",
+          "createdAt": "2026-07-22T12:28:08.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
+          "likes": 3874,
+          "retweets": 397,
+          "replies": 160,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HN1LmIqa8AATJuu.jpg"
             }
           ]
         }
@@ -150,7 +54,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 5,
-    "totalTweets": 8
+    "xBuilders": 2,
+    "totalTweets": 2
   }
 }
