@@ -1,27 +1,38 @@
 {
-  "generatedAt": "2026-07-23T04:27:57.100Z",
+  "generatedAt": "2026-07-24T04:27:04.258Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Felix Rieseberg (Claude Cowork)",
-      "handle": "felixrieseberg",
-      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress toward open source AI\nhttps://t.co/vrD0aDJeto",
       "tweets": [
         {
-          "id": "2079824286450380911",
-          "text": "New feature in Language Model Builder: You can now import base models.\n\nThe results are a bit of an overfitting fever dream, but I've also added iMessage group chats as a fine-tuning data source. \n\nCome, train a model based on your silly group chats: https://t.co/nLjFfpczbV https://t.co/ZvsIxeStIr",
-          "createdAt": "2026-07-22T07:02:05.000Z",
-          "url": "https://x.com/felixrieseberg/status/2079824286450380911",
-          "likes": 101,
-          "retweets": 4,
-          "replies": 3,
+          "id": "2080319601607385393",
+          "text": "@tldraw Skill docs:\n\nhttps://t.co/5J9vR66Q92",
+          "createdAt": "2026-07-23T15:50:18.000Z",
+          "url": "https://x.com/NousResearch/status/2080319601607385393",
+          "likes": 28,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2080319476243861569",
+          "text": "Hermes now has an optional skill for tldraw offline, @tldraw's desktop whiteboard.\n\nIt reads your open canvas, edits it live, and can embed a script in the file so the drawing opens with working buttons and state.\n\n&gt; hermes skills install optional-skills/creative/tldraw-offline https://t.co/3JbJ6KDnG5",
+          "createdAt": "2026-07-23T15:49:48.000Z",
+          "url": "https://x.com/NousResearch/status/2080319476243861569",
+          "likes": 1100,
+          "retweets": 81,
+          "replies": 53,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HN0E945aQAAQDcf.jpg"
+              "type": "video",
+              "url": "https://pbs.twimg.com/media/HN7HXsTWoAA-gA8.jpg"
             }
           ]
         }
@@ -29,32 +40,60 @@
     },
     {
       "source": "x",
-      "name": "Qwen",
-      "handle": "Alibaba_Qwen",
-      "bio": "Open foundation models for AGI.",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2079906336381509659",
-          "text": "🎨 Meet Qwen-Image-3.0 — the third generation of our foundational image generation model.\n\nIf 1.0 was about \"Precision,\" and 2.0 added \"Variety, Completeness, Beauty & Authenticity,\" then 3.0 comes down to a single word: Real (实).\n\nThree dimensions of \"Real\":\n📰 Rich Content — prompts up to 4.5k tokens. One-pass generation of complex layouts: newspapers, storyboards, exam papers — even a 3×3 infographic grid or picture-in-picture-in-picture UIs.\n🔬 Authentic Details — text legible down to 10px, full LaTeX paper pages, pores, hair strands & near-photographic skin texture.\n🌏 Deep Knowledge — native rendering in 12 languages, 100+ art styles, realistic UIs (web / games / livestreams), plus world knowledge & live web retrieval.\n\nNot just \"good-looking\" — genuinely useful. Image generation as a real productivity tool for design, content, education & e-commerce.\n\nGo create 🏃🎨\n\n💬Qwen Chat: https://t.co/941HmITJ2W\n📝Blog: https://t.co/5mnS4uI9Ar",
-          "createdAt": "2026-07-22T12:28:08.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
-          "likes": 3874,
-          "retweets": 397,
-          "replies": 160,
+          "id": "2080451457736933860",
+          "text": "OpenRouter when raising Seed (Jan ‘25) were at 2T tok/mo.\n\nAt Series A (Apr ‘25) at 8T tok/mo. 4x in 4mos.\n\nAt Series B (Feb ‘26) at 50T tok/mo. ~6x in 10mos.\n\nNow (July ‘26) at 250T tok/mo. 5x in 5mos.\n\n125x in 18mos. \n\nMany Router products now, but this was ahead of its time. https://t.co/2KXZ1HzPay",
+          "createdAt": "2026-07-24T00:34:15.000Z",
+          "url": "https://x.com/deedydas/status/2080451457736933860",
+          "likes": 166,
+          "retweets": 20,
+          "replies": 19,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HN1LmIqa8AATJuu.jpg"
+              "url": "https://pbs.twimg.com/media/HN8_k07aYAAYavY.jpg"
             }
           ]
+        },
+        {
+          "id": "2080318330913869943",
+          "text": "Flux 3 is a frontier video gen model at Seedance 2 / Gemini Omni caliber. It can do ~20s of video, with audio.\n\nAnd it seems to be the only startup to be at the frontier of video. https://t.co/5OOoeabGlG https://t.co/1no4nKzYT0",
+          "createdAt": "2026-07-23T15:45:15.000Z",
+          "url": "https://x.com/deedydas/status/2080318330913869943",
+          "likes": 117,
+          "retweets": 5,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2080308988961554582",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HN7Gf3tbAAAQ6hf.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2080161230044758128",
+          "text": "70% of the users of most of these apps are, unsurprisingly, women.\n\nEventually they monetize by hooking users and making them pay for new episodes",
+          "createdAt": "2026-07-23T05:20:59.000Z",
+          "url": "https://x.com/deedydas/status/2080161230044758128",
+          "likes": 18,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 2,
-    "totalTweets": 2
+    "totalTweets": 5
   }
 }
