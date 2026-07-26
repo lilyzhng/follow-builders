@@ -1,32 +1,7 @@
 {
-  "generatedAt": "2026-07-25T04:22:40.551Z",
+  "generatedAt": "2026-07-26T04:36:39.016Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "A bunch of nerds making progress toward open source AI\nhttps://t.co/vrD0aDJeto",
-      "tweets": [
-        {
-          "id": "2080728699100406042",
-          "text": "New in Hermes Agent: a credential firewall for Docker sandboxes.\n\nYour real keys never enter the sandbox. It runs on stand-in tokens, and a local proxy swaps in the real keys at the network boundary. Tokens from a compromised sandbox are useless elsewhere.\n\n&gt; hermes egress setup https://t.co/4x3088Jp8v",
-          "createdAt": "2026-07-24T18:55:54.000Z",
-          "url": "https://x.com/NousResearch/status/2080728699100406042",
-          "likes": 904,
-          "retweets": 59,
-          "replies": 40,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2080727307031846912/img/TBIzFiwi2laR8DFf.jpg"
-            }
-          ]
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -34,121 +9,44 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2080752308284219755",
-          "text": "> Only 22% of admitted students submitted SAT scores to Northeastern, significantly inflated its \"average\" SAT, while MIT and Harvard are test mandatory: https://t.co/KYmo6WukVb . Northeastern also doesn't require additional essays vs most other schools, encouraging low effort, low quality applicants.\n\nIf this is true, NE might be artificially boosting their admit rates even more than my footnote in the graphic.  I was sent this WSJ article which mentions UChicago, Vanderbilt, UMich and Tulane: https://t.co/su9nC2p447\n\nwhich seems to suggest a) colleges have been doing interesting new things to improve yield boosting these metrics and b) there are significantly more commonapp submissions for applicants which bring down admit rates. I also see that c) since 2016's SAT rescore there's been a 2x of scores at the 1500+ and 1550+ range which explains a lot of the boost in SAT median range\n\ntldr: there's a lot of complexity happening here under the hood that's driving this behavior",
-          "createdAt": "2026-07-24T20:29:43.000Z",
-          "url": "https://x.com/deedydas/status/2080752308284219755",
-          "likes": 20,
-          "retweets": 0,
-          "replies": 3,
+          "id": "2081078584953950707",
+          "text": "I did NOT include interconnect and alternative substrates in this list, so including more of them here. https://t.co/4H4h8C59O4",
+          "createdAt": "2026-07-25T18:06:13.000Z",
+          "url": "https://x.com/deedydas/status/2081078584953950707",
+          "likes": 26,
+          "retweets": 5,
+          "replies": 2,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HOBQ_2DboAA6mjt.jpg"
+              "url": "https://pbs.twimg.com/media/HOF58dObkAAoGg7.jpg"
             }
           ]
         },
         {
-          "id": "2080669470612430886",
-          "text": "It blows my mind that Northeastern is now a more selective school than Northwestern.\n\nUS college reputations have changed a ton in the last 15yrs.\n— Vanderbilt / UChicago are now squarely elite: no different from MIT / Princeton in terms of SAT scores and selectivity.\n— The SAT has been gamed into oblivion. You used to rest assured that a 1600 meant you were going somewhere awesome. Now, the top 25% of the 20 universities are 1570+, including NYU.\n— Universities in big cities holistically see a huge rise: Boston (NE, BU), NYC (NYU), Chicago (UChicago), LA (USC).\n\nThe whole \"college is dead\" is a luxury belief. At the upper end at least, college is very much alive and it's getting fiercely more competitive.\n\nIf this continues, 15yrs later, most top 15 colleges will be <2% acceptance rate.",
-          "createdAt": "2026-07-24T15:00:33.000Z",
-          "url": "https://x.com/deedydas/status/2080669470612430886",
-          "likes": 1323,
-          "retweets": 86,
-          "replies": 191,
+          "id": "2081031780493312508",
+          "text": "Every single startup working on next-gen AI chips (July 2026)\n\nEvery approach attacks data movement differently to break Nvidia’s dominance:\n– eliminate DRAM (Groq)\n– eliminate the interconnect (Cerebras)\n– eliminate the compute/memory split (d-Matrix)\n– eliminate the server’s compute-centrism (Majestic)\n– eliminate generality (Etched, Taalas, MatX)\n– or eliminate the $400M litho machine (Substrate)",
+          "createdAt": "2026-07-25T15:00:14.000Z",
+          "url": "https://x.com/deedydas/status/2081031780493312508",
+          "likes": 963,
+          "retweets": 113,
+          "replies": 58,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HOAF22UaUAA0PJl.jpg"
+              "url": "https://pbs.twimg.com/media/HOFPYCFaIAAKQK3.jpg"
             }
           ]
-        },
-        {
-          "id": "2080568812035023105",
-          "text": "The Fields Medal is the highest award for Math and it's only granted to 2-4 people every 4 years.\n\nMost winners tend to be IMO medalists. This year, 3/4 were:\n– Jacob Tsimerman: IMO Gold ‘03-‘04\n– Yu Deng: IMO Gold ‘06 \n– John Pardon: IOI Gold ‘05-‘07\n– Hong Wang\n\nOf the 68 in history, 45% of those after 1990 were IMO medalists in high school.\n\n3 of the 4 are not born in America yet work in the US. In fact 13 of 20 living medalists in America are foreign-born.\nThey would not be here without high skilled immigration!",
-          "createdAt": "2026-07-24T08:20:34.000Z",
-          "url": "https://x.com/deedydas/status/2080568812035023105",
-          "likes": 925,
-          "retweets": 73,
-          "replies": 46,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HN-qTxvaAAAr7z1.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "MTS @anthropicai",
-      "tweets": [
-        {
-          "id": "2080706869036040633",
-          "text": "Opus 5 is a great model for async / long-horizon work. \n\nCheck out my talk from @aiDotEngineer on a few useful patterns : 1) split the brain + hands, 2) self-correction loops, 3) memory with dreaming, 4) org-level agent harnesses. \n\nhttps://t.co/aIEkU29y1C",
-          "createdAt": "2026-07-24T17:29:09.000Z",
-          "url": "https://x.com/RLanceMartin/status/2080706869036040633",
-          "likes": 78,
-          "retweets": 10,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Felix Rieseberg (Claude Cowork)",
-      "handle": "felixrieseberg",
-      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
-      "tweets": [
-        {
-          "id": "2080722470865399854",
-          "text": "Lastly, we learned more about models and images. Cropping tools allow the model to be smarter: On @HelloSurgeAI's Chartography benchmark, Opus 5 went from a score of 29.6% to 83.0% simply by using a Python container and cropping.\n\nMultimodal abilities also went up pretty dramatically - Opus 5 beats Fable 5 on SWE-bench multimodal by a whopping 5 points.\n\nIn practice, that means that you can use more photos, images, and illustrations when working with Claude and expect good results.",
-          "createdAt": "2026-07-24T18:31:09.000Z",
-          "url": "https://x.com/felixrieseberg/status/2080722470865399854",
-          "likes": 9,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2080722469250580924",
-          "text": "In AI circles, we've been increasingly talking about researching whether models deserve moral consideration (check out @kevinroose's & @CaseyNewton's excellent interview with @jeffrsebo for a quick intro).\n\nOpus 5 puts its own odds of moral patienthood at 41%, up from 24% for the last model.",
-          "createdAt": "2026-07-24T18:31:09.000Z",
-          "url": "https://x.com/felixrieseberg/status/2080722469250580924",
-          "likes": 9,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2080722467904246244",
-          "text": "One way to see it: AutomationBench from Zapier measures whether an agent can complete a realistic end-to-end business workflow (think Sales, Marketing, Operations, Support, Finance, and HR).\n\nOpus 5, even at medium effort, outperforms both Fable 5 at less than half the cost.",
-          "createdAt": "2026-07-24T18:31:08.000Z",
-          "url": "https://x.com/felixrieseberg/status/2080722467904246244",
-          "likes": 10,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 8
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
