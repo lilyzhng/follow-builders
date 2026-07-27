@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T04:36:39.016Z",
+  "generatedAt": "2026-07-27T04:49:05.618Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,44 +9,68 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2081078584953950707",
-          "text": "I did NOT include interconnect and alternative substrates in this list, so including more of them here. https://t.co/4H4h8C59O4",
-          "createdAt": "2026-07-25T18:06:13.000Z",
-          "url": "https://x.com/deedydas/status/2081078584953950707",
-          "likes": 26,
-          "retweets": 5,
-          "replies": 2,
+          "id": "2081548521677988026",
+          "text": "More recs (both from comments and quotes and books that just missed the list):\n\nCryptonomicon - Neal Stephenson\nThe Diamond Age - Neal Stephenson\nEnder’s Game - Orson Scott Card\nCulture series - Iain Banks\nI, Robot - Isaac Asimov\nA Fire Upon the Deep - Vernor Steffen \nVinge\n\nMore suggestions welcome!",
+          "createdAt": "2026-07-27T01:13:35.000Z",
+          "url": "https://x.com/deedydas/status/2081548521677988026",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 0,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HOF58dObkAAoGg7.jpg"
-            }
-          ]
+          "quotedTweetId": null
         },
         {
-          "id": "2081031780493312508",
-          "text": "Every single startup working on next-gen AI chips (July 2026)\n\nEvery approach attacks data movement differently to break Nvidia’s dominance:\n– eliminate DRAM (Groq)\n– eliminate the interconnect (Cerebras)\n– eliminate the compute/memory split (d-Matrix)\n– eliminate the server’s compute-centrism (Majestic)\n– eliminate generality (Etched, Taalas, MatX)\n– or eliminate the $400M litho machine (Substrate)",
-          "createdAt": "2026-07-25T15:00:14.000Z",
-          "url": "https://x.com/deedydas/status/2081031780493312508",
-          "likes": 963,
-          "retweets": 113,
-          "replies": 58,
+          "id": "2081547354130526346",
+          "text": "(List is in ascending order of publish date)",
+          "createdAt": "2026-07-27T01:08:57.000Z",
+          "url": "https://x.com/deedydas/status/2081547354130526346",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2081444119059349680",
+          "text": "Neuromancer is top 10 sci-fi canon and it coming to AppleTV is a seminal moment for sci-fi lovers.\n\nWay before its time, 1984, it is the primary inventor of the concepts behind The Matrix. It coined the term cyberspace and the idea of a hacker hero “jacking in” with a neural interface to a virtual reality. Neuromancer is the soul of cyberpunk.\n\nMind you, it was written is 1984, well before the internet and when the first Macintosh released. “Life imitates art” is rarely truer of books. \n\nYou can really view the tech industry today through the concepts in Neuromancer. It’s one of my favorite books. I think it’s sad that the tech has been so mainstream that many people haven’t read the sci-fi canon that has shaped many of the founders and veterans of the industry, and are just extremely pertinent to society today.\n\nHere’s my top 10 postwar scifi books I think everyone should read.",
+          "createdAt": "2026-07-26T18:18:44.000Z",
+          "url": "https://x.com/deedydas/status/2081444119059349680",
+          "likes": 1374,
+          "retweets": 134,
+          "replies": 65,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HOFPYCFaIAAKQK3.jpg"
+              "url": "https://pbs.twimg.com/media/HOLGZVDbQAAvcgA.jpg"
             }
           ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lance Martin",
+      "handle": "RLanceMartin",
+      "bio": "MTS @anthropicai",
+      "tweets": [
+        {
+          "id": "2081408482344149047",
+          "text": "lol this talk is from AIE 2024 (before I was at Anthropic). im glad graphs are cool (again)! https://t.co/PVOh4raMph",
+          "createdAt": "2026-07-26T15:57:07.000Z",
+          "url": "https://x.com/RLanceMartin/status/2081408482344149047",
+          "likes": 78,
+          "retweets": 5,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2081017726261199185"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 2
+    "xBuilders": 2,
+    "totalTweets": 4
   }
 }
