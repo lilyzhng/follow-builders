@@ -1,49 +1,38 @@
 {
-  "generatedAt": "2026-07-27T04:49:05.618Z",
+  "generatedAt": "2026-07-28T04:22:28.754Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
       "tweets": [
         {
-          "id": "2081548521677988026",
-          "text": "More recs (both from comments and quotes and books that just missed the list):\n\nCryptonomicon - Neal Stephenson\nThe Diamond Age - Neal Stephenson\nEnder’s Game - Orson Scott Card\nCulture series - Iain Banks\nI, Robot - Isaac Asimov\nA Fire Upon the Deep - Vernor Steffen \nVinge\n\nMore suggestions welcome!",
-          "createdAt": "2026-07-27T01:13:35.000Z",
-          "url": "https://x.com/deedydas/status/2081548521677988026",
-          "likes": 6,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2081547354130526346",
-          "text": "(List is in ascending order of publish date)",
-          "createdAt": "2026-07-27T01:08:57.000Z",
-          "url": "https://x.com/deedydas/status/2081547354130526346",
-          "likes": 2,
-          "retweets": 0,
+          "id": "2081766143090737223",
+          "text": "On FrontierCode 1.1 Extended, our benchmark for real-world engineering tasks that grades mergeability and quality, Kimi K3 scores 58.2% with a 63.6% pass rate. Within Devin, it excels on reproducing bugs and managing its environment effectively.\n\nhttps://t.co/HTXX0uso2M",
+          "createdAt": "2026-07-27T15:38:20.000Z",
+          "url": "https://x.com/cognition/status/2081766143090737223",
+          "likes": 39,
+          "retweets": 4,
           "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2081444119059349680",
-          "text": "Neuromancer is top 10 sci-fi canon and it coming to AppleTV is a seminal moment for sci-fi lovers.\n\nWay before its time, 1984, it is the primary inventor of the concepts behind The Matrix. It coined the term cyberspace and the idea of a hacker hero “jacking in” with a neural interface to a virtual reality. Neuromancer is the soul of cyberpunk.\n\nMind you, it was written is 1984, well before the internet and when the first Macintosh released. “Life imitates art” is rarely truer of books. \n\nYou can really view the tech industry today through the concepts in Neuromancer. It’s one of my favorite books. I think it’s sad that the tech has been so mainstream that many people haven’t read the sci-fi canon that has shaped many of the founders and veterans of the industry, and are just extremely pertinent to society today.\n\nHere’s my top 10 postwar scifi books I think everyone should read.",
-          "createdAt": "2026-07-26T18:18:44.000Z",
-          "url": "https://x.com/deedydas/status/2081444119059349680",
-          "likes": 1374,
-          "retweets": 134,
-          "replies": 65,
+          "id": "2081766141454925992",
+          "text": "Kimi K3 is now available in Devin Desktop and CLI.\n\nOn FrontierCode 1.1, Kimi K3 is the first open source model we tested that approaches frontier-level performance. https://t.co/OJCQdD435I",
+          "createdAt": "2026-07-27T15:38:20.000Z",
+          "url": "https://x.com/cognition/status/2081766141454925992",
+          "likes": 592,
+          "retweets": 41,
+          "replies": 31,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HOLGZVDbQAAvcgA.jpg"
+              "url": "https://pbs.twimg.com/media/HOPqR3AacAAwlQB.jpg"
             }
           ]
         }
@@ -51,26 +40,51 @@
     },
     {
       "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "MTS @anthropicai",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2081408482344149047",
-          "text": "lol this talk is from AIE 2024 (before I was at Anthropic). im glad graphs are cool (again)! https://t.co/PVOh4raMph",
-          "createdAt": "2026-07-26T15:57:07.000Z",
-          "url": "https://x.com/RLanceMartin/status/2081408482344149047",
-          "likes": 78,
+          "id": "2081950585750962302",
+          "text": "China today made its biggest move deep in the AI stack: it began producing its own chip-making machine and homegrown ASML.\n\nYuliangsheng, tied to Huawei and SiCarrier, is now mass-producing immersion DUV lithography machines, the tools that make 7nm chips. their first deliveries are this year, to SMIC, the makers of Huawei’s Ascend chips, Hua Hong and CXMT, memory manufacturers.\n\nThe China AI compute supply chain can be thought of as ASML : Yuliangsheng -> TSMC : SMIC -> Nvidia : Huawei.\n\nSMIC makes 7nm node chips using immersion DUV systems on ASML tools bought before the various sanctions. If the current MATCH Act passes, they can’t even be serviced. China desperately needs Yuliangsheng to ramp capacity to increase the domestic compute production, even on yesteryears nodes.\n\nThe current machines are equivalents of ASML NXT:1980Di, a 28nm tool that reaches 7nm with multi-patterning, which is 10-15yrs behind frontier. For comparison, the new Vera Rubins are on an EUV 3nm node. And China’s still ramping capacity, projecting 20 machines in 2027 vs ~130 DUV/yr and ~45 EUV/yr from ASML.\n\nThis also has tons of caveats. They rely on critical parts from Japan. New scanners need 12-18mos of tuning per fab. Yields take a long long time to get right. But China tends to be quite good at manufacturing at scale.\n\nEven though they’re far behind on frontier tech, this is a significant milestone to China owning its homegrown AI supply chain. Maybe not in 5yrs, but maybe 10, they’re going to mass produce compute that could be quite threatening. With largely better manufacturing abilities and fewer regulatory hurdles to deploy data centers at scale with ample power, this poses a real risk to the balance of global compute.",
+          "createdAt": "2026-07-28T03:51:15.000Z",
+          "url": "https://x.com/deedydas/status/2081950585750962302",
+          "likes": 24,
           "retweets": 5,
-          "replies": 11,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HOSTBm1boAAvbv6.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "❤️ 🍵 ☕️",
+      "tweets": [
+        {
+          "id": "2081755521644982337",
+          "text": "🥸 https://t.co/Vc1ggIUzX0",
+          "createdAt": "2026-07-27T14:56:08.000Z",
+          "url": "https://x.com/JustinLin610/status/2081755521644982337",
+          "likes": 53,
+          "retweets": 1,
+          "replies": 2,
           "isQuote": true,
-          "quotedTweetId": "2081017726261199185"
+          "quotedTweetId": "2080643682408321103"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
+    "xBuilders": 3,
     "totalTweets": 4
   }
 }
