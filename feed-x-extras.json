@@ -1,43 +1,7 @@
 {
-  "generatedAt": "2026-07-28T04:22:28.754Z",
+  "generatedAt": "2026-07-29T04:26:10.444Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
-      "tweets": [
-        {
-          "id": "2081766143090737223",
-          "text": "On FrontierCode 1.1 Extended, our benchmark for real-world engineering tasks that grades mergeability and quality, Kimi K3 scores 58.2% with a 63.6% pass rate. Within Devin, it excels on reproducing bugs and managing its environment effectively.\n\nhttps://t.co/HTXX0uso2M",
-          "createdAt": "2026-07-27T15:38:20.000Z",
-          "url": "https://x.com/cognition/status/2081766143090737223",
-          "likes": 39,
-          "retweets": 4,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2081766141454925992",
-          "text": "Kimi K3 is now available in Devin Desktop and CLI.\n\nOn FrontierCode 1.1, Kimi K3 is the first open source model we tested that approaches frontier-level performance. https://t.co/OJCQdD435I",
-          "createdAt": "2026-07-27T15:38:20.000Z",
-          "url": "https://x.com/cognition/status/2081766141454925992",
-          "likes": 592,
-          "retweets": 41,
-          "replies": 31,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HOPqR3AacAAwlQB.jpg"
-            }
-          ]
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -45,19 +9,53 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2081950585750962302",
-          "text": "China today made its biggest move deep in the AI stack: it began producing its own chip-making machine and homegrown ASML.\n\nYuliangsheng, tied to Huawei and SiCarrier, is now mass-producing immersion DUV lithography machines, the tools that make 7nm chips. their first deliveries are this year, to SMIC, the makers of Huawei’s Ascend chips, Hua Hong and CXMT, memory manufacturers.\n\nThe China AI compute supply chain can be thought of as ASML : Yuliangsheng -> TSMC : SMIC -> Nvidia : Huawei.\n\nSMIC makes 7nm node chips using immersion DUV systems on ASML tools bought before the various sanctions. If the current MATCH Act passes, they can’t even be serviced. China desperately needs Yuliangsheng to ramp capacity to increase the domestic compute production, even on yesteryears nodes.\n\nThe current machines are equivalents of ASML NXT:1980Di, a 28nm tool that reaches 7nm with multi-patterning, which is 10-15yrs behind frontier. For comparison, the new Vera Rubins are on an EUV 3nm node. And China’s still ramping capacity, projecting 20 machines in 2027 vs ~130 DUV/yr and ~45 EUV/yr from ASML.\n\nThis also has tons of caveats. They rely on critical parts from Japan. New scanners need 12-18mos of tuning per fab. Yields take a long long time to get right. But China tends to be quite good at manufacturing at scale.\n\nEven though they’re far behind on frontier tech, this is a significant milestone to China owning its homegrown AI supply chain. Maybe not in 5yrs, but maybe 10, they’re going to mass produce compute that could be quite threatening. With largely better manufacturing abilities and fewer regulatory hurdles to deploy data centers at scale with ample power, this poses a real risk to the balance of global compute.",
-          "createdAt": "2026-07-28T03:51:15.000Z",
-          "url": "https://x.com/deedydas/status/2081950585750962302",
-          "likes": 24,
-          "retweets": 5,
-          "replies": 7,
+          "id": "2082310805119492207",
+          "text": "Top 100 most important cities in history https://t.co/eMPSwU1H8B",
+          "createdAt": "2026-07-29T03:42:38.000Z",
+          "url": "https://x.com/deedydas/status/2082310805119492207",
+          "likes": 4,
+          "retweets": 1,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HOSTBm1boAAvbv6.jpg"
+              "url": "https://pbs.twimg.com/media/HOXapECbIAAX47M.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2082306585368637930",
+          "text": "Doing PageRank for universities was also extremely interesting because it tells you how historically “important” a university is, all things considered: inventions, academics, sports https://t.co/72YLN75Z4A",
+          "createdAt": "2026-07-29T03:25:51.000Z",
+          "url": "https://x.com/deedydas/status/2082306585368637930",
+          "likes": 10,
+          "retweets": 1,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HOXWzeCbsAAUAMj.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2082304194346877390",
+          "text": "I ran PageRank, the original Google search algorithm, on all of Wikipedia to find the most important people to humanity.\n\nHere’s the top 100.\n\nPageRank works by counting the pages that link to a page, and weighing each link by the importance of that page. https://t.co/uGGT9MIuqZ",
+          "createdAt": "2026-07-29T03:16:21.000Z",
+          "url": "https://x.com/deedydas/status/2082304194346877390",
+          "likes": 68,
+          "retweets": 4,
+          "replies": 19,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HOXUoTdaoAAuu7F.jpg"
             }
           ]
         }
@@ -65,26 +63,43 @@
     },
     {
       "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "❤️ 🍵 ☕️",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
       "tweets": [
         {
-          "id": "2081755521644982337",
-          "text": "🥸 https://t.co/Vc1ggIUzX0",
-          "createdAt": "2026-07-27T14:56:08.000Z",
-          "url": "https://x.com/JustinLin610/status/2081755521644982337",
-          "likes": 53,
-          "retweets": 1,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2080643682408321103"
+          "id": "2082103933108117734",
+          "text": "Personal Computer is available now for Pro, Max, and Enterprise subscribers on Windows 10 and 11.\n\nDownload the new Perplexity app on Windows to get Personal Computer:\nhttps://t.co/5SEJhUs59d",
+          "createdAt": "2026-07-28T14:00:35.000Z",
+          "url": "https://x.com/perplexity_ai/status/2082103933108117734",
+          "likes": 39,
+          "retweets": 2,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2082103919896133640",
+          "text": "Personal Computer can pull data from 400+ connected apps into your local files.\n\nIt also works with your existing Microsoft Excel, PowerPoint, Word, and Outlook files.\n\nRead more about connecting Microsoft 365 apps to Computer:\nhttps://t.co/0itt5XcFRX https://t.co/lQV6gr2UXk",
+          "createdAt": "2026-07-28T14:00:32.000Z",
+          "url": "https://x.com/perplexity_ai/status/2082103919896133640",
+          "likes": 72,
+          "retweets": 3,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HOUeerHaEAAn5d-.jpg"
+            }
+          ]
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 4
+    "xBuilders": 2,
+    "totalTweets": 5
   }
 }
