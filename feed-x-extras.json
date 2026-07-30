@@ -1,61 +1,55 @@
 {
-  "generatedAt": "2026-07-29T04:26:10.444Z",
+  "generatedAt": "2026-07-30T04:15:55.831Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
       "name": "Deedy Das",
       "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2082310805119492207",
-          "text": "Top 100 most important cities in history https://t.co/eMPSwU1H8B",
-          "createdAt": "2026-07-29T03:42:38.000Z",
-          "url": "https://x.com/deedydas/status/2082310805119492207",
-          "likes": 4,
-          "retweets": 1,
-          "replies": 1,
+          "id": "2082492396189954229",
+          "text": "My essay on why we invested in Pangram at Menlo: https://t.co/BqJAPFDRos\nPangram 4 Launch: https://t.co/JqWGFDKiQf\nPangram Image Preview: https://t.co/MsT7fIN70G\nNew York Times announcement: https://t.co/sUtCkcvwbw\nTechCrunch announcement: https://t.co/qzzL8n23i7",
+          "createdAt": "2026-07-29T15:44:12.000Z",
+          "url": "https://x.com/deedydas/status/2082492396189954229",
+          "likes": 15,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2082483014466928706"
+        },
+        {
+          "id": "2082492383820951847",
+          "text": "AI-generated content is 35-50% of the internet. As the cost of producing language falls to zero, the cost of *trusting* language goes to infinity.\n\nI’m genuinely so excited to announce that we’re leading a round in Pangram to fix this, and launching two big new models!\n– Pangram 4, a 6x bigger AI detection model that beats “humanized” text and boasts a 1 in 10,000 false positive rate and even scales to the newest model releases like Opus 5, Fable and GPT 5.6 Sol. Try asking an LLM to write like a human on loop, and it still won’t break it.\n\n– Pangram Image Preview, the best attempt we've seen at detecting AI images. Images can be tricky because you can add small AI changes to real photos, but this tackles even that. r/isthisAI is a top 25 AI subreddit dedicated to humans asking this question.\n\nToday, Substack, Quora, Google Classroom, Internet Archive and even NeurIPS rely on Pangram for their AI detection. The myth that all detection systems are unreliable because they misclassify historical docs is promulgated by inferior services that do not take Pangram's bitter lesson-pilled deep learning approach to the problem.\n\nThe business has grown 35x in the last year and >5x since even the last funding round. The founders Max Spero and Bradley Emi met at Stanford and went on do mission critical work at Nuro and be on the early Tesla Autopilot team with Andrej Karpathy. I love that they could’ve raised any amount of money (we all see the monster funding rounds) but despite being way farther ahead, chose to build the company gradually and sustainably, proving that it can still be done.\n\nWhether you like AI or not, we can all agree the user has the right to know and decide for themselves and choose whether they want to read it. This has applications through social networks, research publications, book publishers, pedagogy and even for cleaning data in labs. It's a deeply important problem to humanity. This is why Pangram is so close to my heart.",
+          "createdAt": "2026-07-29T15:44:09.000Z",
+          "url": "https://x.com/deedydas/status/2082492383820951847",
+          "likes": 164,
+          "retweets": 15,
+          "replies": 21,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HOXapECbIAAX47M.jpg"
+              "url": "https://pbs.twimg.com/media/HOZ_yYnbgAAA34C.jpg"
             }
           ]
         },
         {
-          "id": "2082306585368637930",
-          "text": "Doing PageRank for universities was also extremely interesting because it tells you how historically “important” a university is, all things considered: inventions, academics, sports https://t.co/72YLN75Z4A",
-          "createdAt": "2026-07-29T03:25:51.000Z",
-          "url": "https://x.com/deedydas/status/2082306585368637930",
-          "likes": 10,
+          "id": "2082368409418055773",
+          "text": "Top 100 most important sports teams https://t.co/FJ5XThA5xm",
+          "createdAt": "2026-07-29T07:31:31.000Z",
+          "url": "https://x.com/deedydas/status/2082368409418055773",
+          "likes": 19,
           "retweets": 1,
-          "replies": 5,
+          "replies": 4,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HOXWzeCbsAAUAMj.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2082304194346877390",
-          "text": "I ran PageRank, the original Google search algorithm, on all of Wikipedia to find the most important people to humanity.\n\nHere’s the top 100.\n\nPageRank works by counting the pages that link to a page, and weighing each link by the importance of that page. https://t.co/uGGT9MIuqZ",
-          "createdAt": "2026-07-29T03:16:21.000Z",
-          "url": "https://x.com/deedydas/status/2082304194346877390",
-          "likes": 68,
-          "retweets": 4,
-          "replies": 19,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HOXUoTdaoAAuu7F.jpg"
+              "url": "https://pbs.twimg.com/media/HOYPCHzbkAAF8Xl.jpg"
             }
           ]
         }
@@ -68,38 +62,21 @@
       "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
       "tweets": [
         {
-          "id": "2082103933108117734",
-          "text": "Personal Computer is available now for Pro, Max, and Enterprise subscribers on Windows 10 and 11.\n\nDownload the new Perplexity app on Windows to get Personal Computer:\nhttps://t.co/5SEJhUs59d",
-          "createdAt": "2026-07-28T14:00:35.000Z",
-          "url": "https://x.com/perplexity_ai/status/2082103933108117734",
-          "likes": 39,
-          "retweets": 2,
-          "replies": 1,
+          "id": "2082511900580196596",
+          "text": "Today we’re open-sourcing Numbat, an agent-detection and response layer that is designed to work across agent harnesses.\n\nNumbat gives security teams visibility into agent activity, with controls to block selected actions before execution.\n\nRead more: https://t.co/LVhkCJ2sMt",
+          "createdAt": "2026-07-29T17:01:42.000Z",
+          "url": "https://x.com/perplexity_ai/status/2082511900580196596",
+          "likes": 417,
+          "retweets": 47,
+          "replies": 25,
           "isQuote": false,
           "quotedTweetId": null
-        },
-        {
-          "id": "2082103919896133640",
-          "text": "Personal Computer can pull data from 400+ connected apps into your local files.\n\nIt also works with your existing Microsoft Excel, PowerPoint, Word, and Outlook files.\n\nRead more about connecting Microsoft 365 apps to Computer:\nhttps://t.co/0itt5XcFRX https://t.co/lQV6gr2UXk",
-          "createdAt": "2026-07-28T14:00:32.000Z",
-          "url": "https://x.com/perplexity_ai/status/2082103919896133640",
-          "likes": 72,
-          "retweets": 3,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HOUeerHaEAAn5d-.jpg"
-            }
-          ]
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 2,
-    "totalTweets": 5
+    "totalTweets": 4
   }
 }
