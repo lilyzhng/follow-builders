@@ -1,87 +1,9 @@
 {
-  "generatedAt": "2026-08-01T04:31:00.223Z",
+  "generatedAt": "2026-08-02T04:33:46.509Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
-      "tweets": [
-        {
-          "id": "2083209521342845225",
-          "text": "Seedance 2.5 finally dropped, and it’s actually way better than expected.\n\nIt can generate 30s clips but “long video mode” goes up to 3mins. A ~10x jump in sota video gen length is unprecedented (we were ~2x-ing every 6mos)\n\nThis entire trailer, with audio, was oneshotted by it. https://t.co/DvuHQpaJzh",
-          "createdAt": "2026-07-31T15:13:48.000Z",
-          "url": "https://x.com/deedydas/status/2083209521342845225",
-          "likes": 179,
-          "retweets": 8,
-          "replies": 16,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2083209503206760449/img/93mENTnNxhEF36zR.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2083061165299794142",
-          "text": "tang tan would have a field day with this\nhttps://t.co/yy1ikJ7E5m",
-          "createdAt": "2026-07-31T05:24:17.000Z",
-          "url": "https://x.com/deedydas/status/2083061165299794142",
-          "likes": 68,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2083057861052305810"
-        },
-        {
-          "id": "2083058711103472075",
-          "text": "and if you want to get *really* deep with the pros of air-gapped data transfer..\n\nthere's this thing called TrojPix [malware] that creates imperceptible pixel modulations that change the electromagnetic emissions on your video cables up to a range of 200m to exfiltrate files\n\nhttps://t.co/LouLeBbyaD",
-          "createdAt": "2026-07-31T05:14:32.000Z",
-          "url": "https://x.com/deedydas/status/2083058711103472075",
-          "likes": 127,
-          "retweets": 3,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "MiniMax",
-      "handle": "MiniMax_AI",
-      "bio": "Code: @MiniMaxAgent \nAPI: https://t.co/fHRdSV7BwZ\nToken Plan: https://t.co/BDCycxepZw \nVideo: @Hailuo_AI",
-      "tweets": [
-        {
-          "id": "2083286328570265877",
-          "text": "Ring ring ring… your images are calling 🫨\nThey want motion. They want sound. They want H3.\n\nNow live on @openart_ai in 2K, with open weights coming soon https://t.co/vEqQPjpRdg",
-          "createdAt": "2026-07-31T20:19:00.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2083286328570265877",
-          "likes": 240,
-          "retweets": 2,
-          "replies": 6,
-          "isQuote": true,
-          "quotedTweetId": "2083271389751243021"
-        },
-        {
-          "id": "2083229901331874046",
-          "text": "From a single clip to finished content with sound, characters, and creative intent intact.\n\nMiniMax H3 is now live on @LeonardoAi. Open weights coming soon, giving creators even more freedom to adapt H3 to their own brands, characters, and workflows.\n\nHuge thanks for the Day 0 support 💜",
-          "createdAt": "2026-07-31T16:34:47.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2083229901331874046",
-          "likes": 338,
-          "retweets": 4,
-          "replies": 8,
-          "isQuote": true,
-          "quotedTweetId": "2083142947978047937"
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 5
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
