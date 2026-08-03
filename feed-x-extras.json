@@ -1,9 +1,154 @@
 {
-  "generatedAt": "2026-08-02T04:33:46.509Z",
+  "generatedAt": "2026-08-03T04:41:42.244Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Qwen",
+      "handle": "Alibaba_Qwen",
+      "bio": "Open foundation models for AGI.",
+      "tweets": [
+        {
+          "id": "2084111492182659552",
+          "text": "🏆 Alibaba hits #2 on the Text Arena. https://t.co/s3YQ70T7zi",
+          "createdAt": "2026-08-03T02:57:55.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2084111492182659552",
+          "likes": 391,
+          "retweets": 17,
+          "replies": 33,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HOw_JpzasAA9yQm.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2084103753045872789",
+          "text": "Text Arena: https://t.co/FyzZab0cCK https://t.co/0NGPCr5Dkh",
+          "createdAt": "2026-08-03T02:27:10.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2084103753045872789",
+          "likes": 115,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HOw5PY-aYAAoLjO.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Code: @MiniMaxAgent \nAPI: https://t.co/fHRdSV7BwZ\nToken Plan: https://t.co/BDCycxepZw \nVideo: @Hailuo_AI",
+      "tweets": [
+        {
+          "id": "2084110949141848301",
+          "text": "The weights are open, and @fal's got them ready to build with Day 0 🙌\n\nThis is bigger than access to H3. Builders can study it, customize it, deploy it, take it further with production infra behind them. \n\n#MiniMaxH3 #OpenWeights https://t.co/zae8eqUfNj",
+          "createdAt": "2026-08-03T02:55:45.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2084110949141848301",
+          "likes": 123,
+          "retweets": 7,
+          "replies": 10,
+          "isQuote": true,
+          "quotedTweetId": "2084108980402401287"
+        },
+        {
+          "id": "2084106804032872591",
+          "text": "MiniMax-H3 Is Now Publicly Available\nhttps://t.co/x24nyGoKt8 https://t.co/oJXDeOTQvZ",
+          "createdAt": "2026-08-03T02:39:17.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2084106804032872591",
+          "likes": 1069,
+          "retweets": 171,
+          "replies": 77,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2084105994301501440/img/CSEfiQF3Na0AEs9h.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2084003199510565069",
+          "text": "Here’s a link if you want to play with it\n\nhttps://t.co/uHj1Ty0uMp",
+          "createdAt": "2026-08-02T19:47:36.000Z",
+          "url": "https://x.com/deedydas/status/2084003199510565069",
+          "likes": 21,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2083985627524309371",
+          "text": "I love dropping floor plans of houses in the Bay Area and asking LLMs to redesign in a different aesthetic, Kyoto in this case.\n\nModels have gotten phenomenal at 3D. https://t.co/NU3B7ELqgO",
+          "createdAt": "2026-08-02T18:37:46.000Z",
+          "url": "https://x.com/deedydas/status/2083985627524309371",
+          "likes": 407,
+          "retweets": 17,
+          "replies": 37,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2083985456396685312/img/3popEHZ077fUruDT.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2083835877202210999",
+          "text": "Meritocracy in tech is precarious. It’s everywhere and nowhere at the same time.\n\nCynics will tell you there is none. How can it possibly be fair that the Stanford grad seemingly can raise from any VC they want but the VirginiaTech one has to struggle? If you’re from a big lab, you’re the prom queen, but if you’re from a yesteryear SaasCo, no one even picks up your resume. Warm intros through people in the know seem to dictate who is allowed to win. To even get an interview at YC or a VC gig, it feels like an elite education is a prerequisite. It can seem like the system is rigged against you.\n\nYet, that view would be so patently false. The valley is one of the best meritocracies in the world. It’s just not obvious when you’re young. Tim Cook went to Auburn and spent 12yrs at IBM before Compaq. Nikesh Arora, one of the highest paid execs in America, went to a “lower ranked” IIT from India. Jan Koum dropped out of San Jose State to work at Yahoo before founding Whatsapp. The CTO of Anthropic went from a no-name college most couldn’t put on a map. Dylan Patel who sits on the most influential set of data in the world, got there by pure passion. Dwarkesh was a nobody before running the most influential podcast in tech. The team that built GPT-3 isn’t exactly a Harvard reunion. Jensen was from Oregon State and Denny’s. Tobi Lutke, Palmer Luckey, Frank Slootman, John Carmack, Jeff Dean, Linus Torvalds, Satya Nadella, the examples are infinite.\n\nHow can both of these be true? At any given moment, it feels like a stratified society based on your current credentials. What the Valley offers is the fastest path to updating those credentials.\n\nThe unspoken rule of the valley is that you get infinite shots on goal, but you just have to prove yourself to buy the next shot. If you try to jump too high, you might hit a brick wall. For some, it’s easy. You went to Stanford / MIT. Everyone thinks you’re the sharpest of your generation. But opportunity is abundant and you should be risk-on. One amazing product, one viral open source repo, one phenomenal company you helped build, one highly technical blog post, one amazing career stint: all can shape your fortunes overnight.\n\nWe often forget how much of a privilege that is. In most other parts of the world, you cannot in fact work yourself into the elite strata. CEOs of companies in India or China rarely are from a non-elite university. Corporate structures there are far less accommodating to former failures. Even in New York finance, there’s a certain way you need to speak, attire you need to wear and an unspoken private club that needs to welcome you. That doesn’t exist in the Valley. Sure there are private clubs, but anyone can make it to them. But you can always buy your entrance ticket with proof of work.\n\nIn the moment, it can seem not meritocratic. This happens especially when you’re younger. Hell, it’s not perfect and luck may never strike you. But career is a long game, and a wise valley veteran once told me “if you’re ambitious and you spend 25yrs here, there’s next to no chance you’re not making it.” And I’ve seen that too. It might not be fair in the moment, and it may not be fair to everyone, but it converges very quickly to it.",
+          "createdAt": "2026-08-02T08:42:43.000Z",
+          "url": "https://x.com/deedydas/status/2083835877202210999",
+          "likes": 1114,
+          "retweets": 90,
+          "replies": 66,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "❤️ 🍵 ☕️",
+      "tweets": [
+        {
+          "id": "2083787699581022253",
+          "text": "i like this wording: moderate profits",
+          "createdAt": "2026-08-02T05:31:17.000Z",
+          "url": "https://x.com/JustinLin610/status/2083787699581022253",
+          "likes": 52,
+          "retweets": 2,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 4,
+    "totalTweets": 8
   }
 }
