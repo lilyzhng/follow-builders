@@ -1,29 +1,111 @@
 {
-  "generatedAt": "2026-08-03T05:17:05.041Z",
+  "generatedAt": "2026-08-04T04:26:09.279Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "❤️ 🍵 ☕️",
+      "name": "Qwen",
+      "handle": "Alibaba_Qwen",
+      "bio": "Open foundation models for AGI.",
       "tweets": [
         {
-          "id": "2084143079343472962",
-          "text": "sama also said things similar. great respect to them",
-          "createdAt": "2026-08-03T05:03:26.000Z",
-          "url": "https://x.com/JustinLin610/status/2084143079343472962",
-          "likes": 0,
+          "id": "2084210646737100983",
+          "text": "Live in Command Code!🎉 https://t.co/YG4eafU7xS",
+          "createdAt": "2026-08-03T09:31:55.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2084210646737100983",
+          "likes": 559,
+          "retweets": 16,
+          "replies": 38,
+          "isQuote": true,
+          "quotedTweetId": "2084118731240689752"
+        },
+        {
+          "id": "2084210175838470430",
+          "text": "Let's Go!🚀 https://t.co/U5ctTuSrnp",
+          "createdAt": "2026-08-03T09:30:03.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2084210175838470430",
+          "likes": 2000,
+          "retweets": 51,
+          "replies": 48,
+          "isQuote": true,
+          "quotedTweetId": "2084178151731610071"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Code: @MiniMaxAgent \nAPI: https://t.co/fHRdSV7BwZ\nToken Plan: https://t.co/BDCycxepZw \nVideo: @Hailuo_AI",
+      "tweets": [
+        {
+          "id": "2084410437618352386",
+          "text": "MiniMax H3 is now the SOTA open video generation model in both @arena and @ArtificialAnlys benchmarks. https://t.co/ztCbB1UwTw",
+          "createdAt": "2026-08-03T22:45:49.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2084410437618352386",
+          "likes": 244,
+          "retweets": 17,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2084408459991421319"
+        },
+        {
+          "id": "2084387967981011326",
+          "text": "This is how much you can do with a single RTX 5090 NOW with MiniMax H3.\n\nWE HAVE CROSSED A LINE.✊ https://t.co/omUkWx9DHV",
+          "createdAt": "2026-08-03T21:16:32.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2084387967981011326",
+          "likes": 555,
+          "retweets": 27,
+          "replies": 17,
+          "isQuote": true,
+          "quotedTweetId": "2084286103087972631"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2084490614478106749",
+          "text": "Startups regularly underestimate how difficult hiring gets, especially after an expensive Series B/C.\n\n1. Mission matters more.\nThe people who join you at Seed/A might want to build a sales intelligence tool because they like seeing 0 to 1. They know that once this gets big, they’ll take home a good chunk of change. After a B/C, they think “is this really what I want to be working on?”\n\n2. Financial incentives are lower.\nYou easily see a path for a $30M valued startup to 10x. Usually this means going from $0 to $10M in revenue. Seeing a path for a $1B valued startup to 10x is far harder. It can mean going from $10M to $200M+ in revenue. And given the incrementally lower equity employees get, they’re counting on that 10x.\n\n3. You attract a very different persona.\nThey’re usually more risk averse and riding on the coattails of the success and name your company has already built. Culture can easily dilute if you’re not careful. The builders get replaced by the certain kind of BigTech person who wants “startup experience” without taking on the risk. They might still be smart, so it’s tricky to catch in any sort of technical interviews.\n\n4. Culture degrades with size.\nIt’s almost by law. In the beginning, you’re under 50 people. You’re all working on a startup you stood up from nothing. This builds a strong sense of camaraderie. As you go to 200 people, your early builders become managers. You start seeing more and more unfamiliar faces in the offices. At some point, you don’t even know everyone in the company. Everyone is eager to do “new” things and leave their mark, but what needs to be done is quite straightforward. The sales team feels like a different kind of person that takes up half the office. You’re eagerly watching the revenue, and your emotions ride on the back of it now, not the joy of creating. Management is in disarray. Now, projects keep getting killed. People keep getting roped into a new “customer issue” and can’t do their main project. New employees feel like this isn’t the culture they signed up for. Old employees feel like they work as hard as they used to from day 1, but the new employees treat this like a “job”. You get your first set of departures. Morale is low. Lunch banter shifts to “what if we just went to <x> instead?” Keeping the company from tearing apart at the seams seems like an insurmountable task.\n\nGrowing past these rounds can be very challenging and many founders are left blindsided. The awesome company they once had can quickly become a shadow of its former self. And it’s a stage which often separates the elite founders from the great ones.\n\nThe answer here is usually having a mission worth going the distance for or a culture worth fighting for.",
+          "createdAt": "2026-08-04T04:04:25.000Z",
+          "url": "https://x.com/deedydas/status/2084490614478106749",
+          "likes": 32,
+          "retweets": 2,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2084306420191965551",
+          "text": "Colombia*",
+          "createdAt": "2026-08-03T15:52:29.000Z",
+          "url": "https://x.com/deedydas/status/2084306420191965551",
+          "likes": 4,
           "retweets": 0,
           "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
+        },
+        {
+          "id": "2084304623691841820",
+          "text": "This has been my default workflow to reduce email spam especially for cold inbounds. \n\nThankfully, I hear the team’s working on something specifically for the email workflow! https://t.co/X6o2IflJ7r",
+          "createdAt": "2026-08-03T15:45:21.000Z",
+          "url": "https://x.com/deedydas/status/2084304623691841820",
+          "likes": 106,
+          "retweets": 4,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2084282387857543419"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 3,
+    "totalTweets": 7
   }
 }
