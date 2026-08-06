@@ -1,56 +1,7 @@
 {
-  "generatedAt": "2026-08-05T04:23:56.937Z",
+  "generatedAt": "2026-08-06T04:25:55.535Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Qwen",
-      "handle": "Alibaba_Qwen",
-      "bio": "Open foundation models for AGI.",
-      "tweets": [
-        {
-          "id": "2084831888729072121",
-          "text": "Qwen-Image-3.0-Pro is live on Qwen Cloud now! \nTry it out👇\nhttps://t.co/wG5vtLAYVp https://t.co/tDTkOeWcvM",
-          "createdAt": "2026-08-05T02:40:31.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
-          "likes": 156,
-          "retweets": 4,
-          "replies": 11,
-          "isQuote": true,
-          "quotedTweetId": "2084818450556625318"
-        },
-        {
-          "id": "2084683919937634507",
-          "text": "Qwen3.8-Max is available in Hermes Agent now!  Let's build! 🚀🚀 https://t.co/D2FVJGH9hi",
-          "createdAt": "2026-08-04T16:52:32.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2084683919937634507",
-          "likes": 445,
-          "retweets": 13,
-          "replies": 28,
-          "isQuote": true,
-          "quotedTweetId": "2084680562300862514"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "MiniMax",
-      "handle": "MiniMax_AI",
-      "bio": "Code: @MiniMaxAgent \nAPI: https://t.co/fHRdSV7BwZ\nToken Plan: https://t.co/BDCycxepZw \nVideo: @Hailuo_AI",
-      "tweets": [
-        {
-          "id": "2084627648018538653",
-          "text": "Online API\nUse MiniMax-H3 directly via API.\n\nGlobal: https://t.co/fHRdSV7BwZ | CN: https://t.co/Dpvz4jgR3s\nOnline App\nUse MiniMax-H3 directly via App.\nWebApp Global: https://t.co/dCCtYC7PKf | CN: https://t.co/t3pYhWPXNP\n\nDesktop Global: https://t.co/SmAhy5qksS | CN: https://t.co/xZz3daYPgE",
-          "createdAt": "2026-08-04T13:08:56.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2084627648018538653",
-          "likes": 13,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -58,49 +9,38 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2084680920381169974",
-          "text": "You can get access to Silico here: https://t.co/gvZ4PH1A0u",
-          "createdAt": "2026-08-04T16:40:37.000Z",
-          "url": "https://x.com/deedydas/status/2084680920381169974",
-          "likes": 4,
+          "id": "2085037397985919486",
+          "text": "Source:\nhttps://t.co/sBtDSYmoCm\nhttps://t.co/z16M3ulpgJ",
+          "createdAt": "2026-08-05T16:17:08.000Z",
+          "url": "https://x.com/deedydas/status/2085037397985919486",
+          "likes": 12,
           "retweets": 1,
-          "replies": 0,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2084679398553469437",
-          "text": "We finally have a product that helps with frontier AI research.\n\nFrontier LLMs are a) nerfed at AI research b) lack immediate GPU availability and c) lack access to the right skills and research material.\n\n\"Teach me how vision models see\"\n\nGoodfire Silico takes a vision transformer (ViT), loads ImageNet images, and for each head, visualizes the 196x196 matrix by creating animated arcs across patches. \n\nHaven't found another model or product that can do this level of comprehensive AI research, much less oneshot it.",
-          "createdAt": "2026-08-04T16:34:34.000Z",
-          "url": "https://x.com/deedydas/status/2084679398553469437",
-          "likes": 285,
-          "retweets": 16,
-          "replies": 17,
-          "isQuote": true,
-          "quotedTweetId": "2084671608028057737",
+          "id": "2085037385927291067",
+          "text": "Google is in talks to acquire Mechanize, a startup that creates high quality RL coding environments, for $1.5B. This is the biggest AI data business acquisition since Scale!\n\nMechanize was founded ~1yr ago, and has a team 35-50 who are each paid ~$400k/yr to create ~1 good task/week for a cost of ~$8k/task. In their own words, “almost anything that you struggle to get coding agents to do could be a good task, if implemented correctly”.\n\nThey were last valued at $500M 3mos ago. Jeff Dean, Google’s Chief Scientist was on the cap table (but it was reported just 15mins ago that he’s leaving Google after 27yrs to his own AI for science startup)!\n\nMechanize were known to be one of the premium sources of coding training data for models and I suspect Google in-housing this is a way to prevent others from getting a hold of this data, in addition to the process talent on the team who come from Epoch AI, the guys who made the FrontierMath benchmark amongst other things. It’s also validation for the dozens of companies in this space that M&A is still very much on the cards if your data is critical enough.\n\nTremendous outcome if it goes through!",
+          "createdAt": "2026-08-05T16:17:05.000Z",
+          "url": "https://x.com/deedydas/status/2085037385927291067",
+          "likes": 858,
+          "retweets": 53,
+          "replies": 37,
+          "isQuote": false,
+          "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2084675588351250432/img/bg0WCiRuK86qBcCP.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HO-KdBFbEAABOFx.jpg"
             }
           ]
-        },
-        {
-          "id": "2084556888671478237",
-          "text": "Wow. Airtable, founded in 2012 and  once valued at $11.7B, is getting acquired by Bending Spoons, founded 2013, at 2.7x ARR.\n\nA once hot startup; now an unfortunate victim of the SaaS bust. It raised $1.4B only to be sold for $1.285B EV ($2.25B equity value), just clearing its preference stack.\n\nThat implies common and early holders split the remaining ~$850M, a ~10x haircut from peak.",
-          "createdAt": "2026-08-04T08:27:46.000Z",
-          "url": "https://x.com/deedydas/status/2084556888671478237",
-          "likes": 2984,
-          "retweets": 177,
-          "replies": 145,
-          "isQuote": true,
-          "quotedTweetId": "2084539635829465266"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 6
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
