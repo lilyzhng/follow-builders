@@ -1,46 +1,29 @@
 {
-  "generatedAt": "2026-08-06T04:25:55.535Z",
+  "generatedAt": "2026-08-07T04:02:16.991Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Code: @MiniMaxAgent \nAPI: https://t.co/fHRdSV7BwZ\nToken Plan: https://t.co/BDCycxepZw \nVideo: @Hailuo_AI",
       "tweets": [
         {
-          "id": "2085037397985919486",
-          "text": "Source:\nhttps://t.co/sBtDSYmoCm\nhttps://t.co/z16M3ulpgJ",
-          "createdAt": "2026-08-05T16:17:08.000Z",
-          "url": "https://x.com/deedydas/status/2085037397985919486",
-          "likes": 12,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2085037385927291067",
-          "text": "Google is in talks to acquire Mechanize, a startup that creates high quality RL coding environments, for $1.5B. This is the biggest AI data business acquisition since Scale!\n\nMechanize was founded ~1yr ago, and has a team 35-50 who are each paid ~$400k/yr to create ~1 good task/week for a cost of ~$8k/task. In their own words, “almost anything that you struggle to get coding agents to do could be a good task, if implemented correctly”.\n\nThey were last valued at $500M 3mos ago. Jeff Dean, Google’s Chief Scientist was on the cap table (but it was reported just 15mins ago that he’s leaving Google after 27yrs to his own AI for science startup)!\n\nMechanize were known to be one of the premium sources of coding training data for models and I suspect Google in-housing this is a way to prevent others from getting a hold of this data, in addition to the process talent on the team who come from Epoch AI, the guys who made the FrontierMath benchmark amongst other things. It’s also validation for the dozens of companies in this space that M&A is still very much on the cards if your data is critical enough.\n\nTremendous outcome if it goes through!",
-          "createdAt": "2026-08-05T16:17:05.000Z",
-          "url": "https://x.com/deedydas/status/2085037385927291067",
-          "likes": 858,
-          "retweets": 53,
-          "replies": 37,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HO-KdBFbEAABOFx.jpg"
-            }
-          ]
+          "id": "2085406004431532106",
+          "text": "Now available in @LumaLabsAI Agents: H3 generating up to 15s of 2K video with native stereo sound.\n\nMore places to direct, create, and bring ideas to life. 🎬😉 https://t.co/zXbWXZJz0N",
+          "createdAt": "2026-08-06T16:41:51.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2085406004431532106",
+          "likes": 63,
+          "retweets": 2,
+          "replies": 16,
+          "isQuote": true,
+          "quotedTweetId": "2085352484562706784"
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 2
+    "totalTweets": 1
   }
 }
