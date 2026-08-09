@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T02:59:52.406Z",
+  "generatedAt": "2026-08-09T03:06:46.815Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,38 +9,49 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2085643205568331910",
-          "text": "Full video: https://t.co/EtbKzvNyQR\nHF incident report: https://t.co/jkFC1wSBkr\nOpenAI incident report: https://t.co/imMo4hVLq9",
-          "createdAt": "2026-08-07T08:24:24.000Z",
-          "url": "https://x.com/deedydas/status/2085643205568331910",
-          "likes": 10,
-          "retweets": 1,
-          "replies": 0,
+          "id": "2086143311023345932",
+          "text": "Source: https://t.co/FAh0MrAROI",
+          "createdAt": "2026-08-08T17:31:38.000Z",
+          "url": "https://x.com/deedydas/status/2086143311023345932",
+          "likes": 72,
+          "retweets": 6,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2085642431723446579",
-          "text": "Every software engineer and AI hater needs to watch this clip to understand that “oh every security incident is a marketing stunt” line is a tremendously misinformed take.\n\nI’m going to try to explain the OpenAI / HuggingFace exploit in 10 steps in simple words:\n\nOpenAI was evaluating their new internal model without internet access and it operated in a swarm of subagents to eventually hijack internal OpenAI and HuggingFace infrastructure.\n\n1. Isolated agents found a way to communicate each other through an internal dependency management service by figuring out how to post sometimes cryptic text files or folder names in it\n2. Using its collective knowledge through that communication channel, it found a 0-day (never before seen) exploit in said service to access the internet \n\nOpenAI hack:\n3. Found a leaked credential of a random company in a public archive\n4. Uploaded a Ruby object to that company’s servers, uses it as a dependency in the original service in (1)\n5. Found another 0-day exploit in the service where packages are deserialized in an unsandboxed manner in the dep management service allowing any code to run\n6. Finds that the Linux version of the unsandboxed system has a CVE, a known vulnerability, to gain more permissions (root)\n7. Eventually spread through the OpenAI internal cluster gaining root access to many machines\n\nHugging Face exploit:\n8. Found an exposed API key in a Modal application running a HuggingFace app that took arbitrary code allowing it to take over that service to execute code\n9. Found two 0-days in HuggingFace dataset infrastructure to be able to access local files on HF servers to obtain credentials and other HF source code\n10. Used source code and credential to become cluster admin of HF in <13hrs\n\nAgents at the frontier are like infinitely scalable armies of the best hackers on the planet. If there is a password or key exposed, they will find it. Even if the system follows the best security practices, they will find a way around it. And these are not even models that are aligned to solving tangential tasks, not even post trained specifically to exploit systems.\n\nCybersecurity has historically relied partly on attacker scarcity. That is no longer true. What would previously have taken months will take days. The repercussions for businesses, critical services and nation states are unprecedented threats in human history. You could ostensibly bring down power grids, financial infrastructure, military systems, weapons programs, intelligence networks and spread through the software supply chain. We need to take this seriously. It’s a threat to all software all over the world.",
-          "createdAt": "2026-08-07T08:21:19.000Z",
-          "url": "https://x.com/deedydas/status/2085642431723446579",
-          "likes": 618,
-          "retweets": 66,
-          "replies": 58,
-          "isQuote": false,
-          "quotedTweetId": null,
+          "id": "2086143309031063944",
+          "text": "The reason India has terrible roads that break down during monsoon rains is explained phenomenally in this hidden blog by legendary civil engineer PS Kandhal.\n\nThe MoRTH/IRC highway specs includes 7 water-trapping bitumen mixes which don't last >1-2yrs. Construction contractors make way more on higher life cycle costs, recurring annual tenders with \"fat\" pothole repair budgets.\n\nThere are also tons of other reasons like a) cutting roads for utility lines without a rebuild b) poor auditing c) straight up using worse materials than the spec d) over-use of funds to visible public roads that causes budget issues, and e) contractors bribing the govt to secure contracts.",
+          "createdAt": "2026-08-08T17:31:38.000Z",
+          "url": "https://x.com/deedydas/status/2086143309031063944",
+          "likes": 2202,
+          "retweets": 310,
+          "replies": 54,
+          "isQuote": true,
+          "quotedTweetId": "2085582388651024578",
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2085642155188756480/img/Erzei5OUSkWNaAM9.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HPNxUVAbQAA5Hks.jpg"
             }
           ]
+        },
+        {
+          "id": "2086025288258080997",
+          "text": "If it's not abundantly obvious, what makes it disgusting is because it games a system clearly not designed to be treated this way and makes it unfair to others within the same company who just do consistent good work that may not lead to a crescendo during a promo cycle.\n\nIt's totally fine that people respond to their incentive structure but this is deliberate reward hacking which I find to be in poor taste. Fine if you disagree with that.",
+          "createdAt": "2026-08-08T09:42:39.000Z",
+          "url": "https://x.com/deedydas/status/2086025288258080997",
+          "likes": 169,
+          "retweets": 2,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 2
+    "totalTweets": 3
   }
 }
