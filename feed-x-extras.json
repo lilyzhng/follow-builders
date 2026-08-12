@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T03:09:14.309Z",
+  "generatedAt": "2026-08-12T03:28:26.524Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,30 +9,41 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2086877691933020623",
-          "text": "Source: https://t.co/4Ux0x0W8YG",
-          "createdAt": "2026-08-10T18:09:48.000Z",
-          "url": "https://x.com/deedydas/status/2086877691933020623",
-          "likes": 43,
-          "retweets": 2,
-          "replies": 0,
+          "id": "2087341862780801179",
+          "text": "The next few years in SF will be incredible. \n\nMany big lab employees will leave . The idea of sailing into the sunset is temporal and will quickly subside. Inevitably, they will start their own companies and absorb a tremendous amount of venture capital. This will lead to an abundance of innovation.\n\nOn the negative side, a lot of this innovation will be in the largely overlapping homogenous areas where their skillets lie. We see this already:  many companies doing AI for quant trading, drug discovery, material discovery, robotics, new AI architectures, hardware. Competition in such disciplines will be severe.\n\nYet on the positive side, never in history could you raise this quantum ($100M+) of risk capital out of the gate and the space of invention that begets is unprecedented. People will take swings that were once not viewed as VC backable businesses. And yes, beyond just buying loads of compute to train models. Moonshot ideas which usually only worked under the comfort of a big company. Instead of 100, there may be 1000 startups dubbed “neolabs”.\n\nMany will invest capital of their own. They will all pay top dollar to attract talent. They will poach large swathes of academia out of their labs to help. \nMany will not find the hunger to succeed and get lazy from their riches. The more successful ones will acquire them if they are colleagues they liked.\n\nThe amazing ones will succeed immeasurably. And this will beckon a new renaissance we won’t be able to fathom from where we are now.",
+          "createdAt": "2026-08-12T00:54:15.000Z",
+          "url": "https://x.com/deedydas/status/2087341862780801179",
+          "likes": 532,
+          "retweets": 29,
+          "replies": 18,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2086877686996386092",
-          "text": "This insane result from Claude is the biggest in analytic number theory since bounded prime gaps in 2013.\n\nIt boosted the proven fraction of Riemann zeta zeros on the critical line by 25.6pts. In the 37yrs prior, mathematicians moved it 0.8pts. https://t.co/GkQ0auD818",
-          "createdAt": "2026-08-10T18:09:47.000Z",
-          "url": "https://x.com/deedydas/status/2086877686996386092",
-          "likes": 2218,
-          "retweets": 215,
-          "replies": 74,
+          "id": "2087332604253208933",
+          "text": "Source: https://t.co/w7ZPgutO3g",
+          "createdAt": "2026-08-12T00:17:28.000Z",
+          "url": "https://x.com/deedydas/status/2087332604253208933",
+          "likes": 7,
+          "retweets": 2,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2087332601606627525",
+          "text": "Changes in H-1B regulations have crushed Indian IT services companies (WITCH), who are down -70% from peak, while BigTech remain steady but down from peak, except Meta. \n\nThose lost numbers are not made up by L-1 applications, which is mostly flat. https://t.co/i4skisiTOt",
+          "createdAt": "2026-08-12T00:17:27.000Z",
+          "url": "https://x.com/deedydas/status/2087332601606627525",
+          "likes": 408,
+          "retweets": 25,
+          "replies": 35,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HPYUMVxaIAAnCSN.jpg"
+              "url": "https://pbs.twimg.com/media/HPewx8FbsAAmKn4.jpg"
             }
           ]
         }
@@ -40,26 +51,42 @@
     },
     {
       "source": "x",
-      "name": "MiniMax",
-      "handle": "MiniMax_AI",
-      "bio": "Code: @MiniMaxAgent \nAPI: https://t.co/fHRdSV7BwZ\nToken Plan: https://t.co/BDCycxepZw \nVideo: @Hailuo_AI",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "building p7k | ❤️ 🍵 ☕️",
       "tweets": [
         {
-          "id": "2086724681219068006",
-          "text": "A few of the biggest takeaways from our H3 conversation on ThursdAI 🎥\n\nAlso, huge thank you to @altryne for having us and for bringing together such a great discussion.\n\n🔓 Open video is reaching the frontier.\n\nThe discussion didn’t frame H3 as simply “good for an open model.” It was compared directly alongside Seedance, FLUX and WAN, with @altryne calling H3 the “leading open weights open model.”\n\nAnd the distinction was immediate: “Open weights, hostable by yourself, finetunable.”\n\n⚡ Open weights compound incredibly fast.\n\nWithin ~48 hours of launch, the community had already brought LoRA support, Apple Silicon/MLX, ComfyUI quantization and optimizations across new hardware.\n\nThat’s exactly why we open-weighted H3: putting frontier capabilities in developers’ hands means the ecosystem can take the model places we never could alone.\n\n🎭 Omni Reference + character consistency stood out as a major leap.\n\n@blizaine called H3 “so flexible compared to a lot of the previous open-weight models” and said it was “as good as anything I’ve seen” for recreating a character across environments.\n\nImages, voices, audio and video can all become references — making control and consistency increasingly as important as raw generation quality.\n\n🛠️ Local and hosted workflows can complement each other.\n\nWe also discussed Context-IR + Regenerate-2K: generate locally with H3, optimize multimodal context when needed, then regenerate a 768p result at 2K using the original references rather than simply upscaling it.\n\n📈 The broader video capability curve is moving incredibly fast.\n\n@arena perspective summed it up well: “the changes we’ve seen in the fidelity and the quality and the sound is just unbelievable.”\n\nOpen models are no longer sitting on a separate curve — they’re increasingly competing at the frontier itself.\n\nAnd a fitting note to end on from our host @altryne:\n\n“Thank you guys for open weighting the models. We expect more.” 🙌\n\nWe hear you. 🔓",
-          "createdAt": "2026-08-10T08:01:48.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2086724681219068006",
-          "likes": 85,
-          "retweets": 6,
-          "replies": 9,
-          "isQuote": true,
-          "quotedTweetId": "2085414349548782018",
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HPWCyowaUAA46-x.jpg"
-            }
-          ]
+          "id": "2087227435637153901",
+          "text": "btw here i would like to express my gratitude to some old pals and new friends that gave hands to me during the past months 💗",
+          "createdAt": "2026-08-11T17:19:34.000Z",
+          "url": "https://x.com/JustinLin610/status/2087227435637153901",
+          "likes": 54,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2087218797342228799",
+          "text": "i studied linguistics because my friend recommended pragmatics to me. later i moved to computational linguistics and nlp. the name just means being back to where it happens. also, it means pragmaticism which we believe agi should targets on.",
+          "createdAt": "2026-08-11T16:45:14.000Z",
+          "url": "https://x.com/JustinLin610/status/2087218797342228799",
+          "likes": 95,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2087214239643730227",
+          "text": "a life update: i started a new company called Pragmatik (p7k) Labs (语用科技) in shanghai, focusing on the research of next-generation agents across digital and physical worlds. thanks to Gaorong Ventures and HSG (红杉中国 & 高榕创投) for co-leading this round, and to Tencent (腾讯) and Shanghai Engine Fund (上海未来产业基金) for the support. @pragmatik_labs · https://t.co/01J3uSbxmX",
+          "createdAt": "2026-08-11T16:27:07.000Z",
+          "url": "https://x.com/JustinLin610/status/2087214239643730227",
+          "likes": 1619,
+          "retweets": 138,
+          "replies": 209,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -70,32 +97,27 @@
       "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2086988905799176239",
-          "text": "1st, @chrishardman. What if the ghost in the machine means you get to live again? An evocative piece that finds beauty in the small human moments machines give us room for.\n\nA year of FLUX 3 generation, $2,000 in Portal credits, and a hoodie.\n\nhttps://t.co/K2g9teyqCt",
-          "createdAt": "2026-08-11T01:31:44.000Z",
-          "url": "https://x.com/NousResearch/status/2086988905799176239",
-          "likes": 22,
-          "retweets": 3,
-          "replies": 6,
+          "id": "2087197502415974634",
+          "text": "Free for one week, exclusively in Nous Portal: \n\nSolar Pro 4, the new agentic model from @upstageai, built to complete multi-step tasks across long documents and to recognize when it needs more information rather than inventing it.\n\nTry it today at https://t.co/4KFwhsReyA https://t.co/N6DNThZXYQ https://t.co/DepuZiyZlv",
+          "createdAt": "2026-08-11T15:20:37.000Z",
+          "url": "https://x.com/NousResearch/status/2087197502415974634",
+          "likes": 583,
+          "retweets": 42,
+          "replies": 32,
           "isQuote": true,
-          "quotedTweetId": "2083393307158491577"
-        },
-        {
-          "id": "2086988904150798541",
-          "text": "The FLUX 3 short film contest with @bfl_ai is over. Thank you to everyone who entered, we watched all of them.\n\nHere are the three winners: https://t.co/rEtJvtwaB2",
-          "createdAt": "2026-08-11T01:31:43.000Z",
-          "url": "https://x.com/NousResearch/status/2086988904150798541",
-          "likes": 88,
-          "retweets": 11,
-          "replies": 9,
-          "isQuote": true,
-          "quotedTweetId": "2082911477904654741"
+          "quotedTweetId": "2087055984552518053",
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2087197368894496768/img/nCzEZv7JLNHV-bSS.jpg"
+            }
+          ]
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 3,
-    "totalTweets": 5
+    "totalTweets": 7
   }
 }
