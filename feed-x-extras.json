@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T03:31:57.636Z",
+  "generatedAt": "2026-08-14T03:29:17.714Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,49 +9,99 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2087577779613433891",
-          "text": "Problem: https://t.co/mQ79WfGjsu\n\nAll open problems: https://t.co/Bt5M1Uy8bs\n\nInterestingly, 2 of the 4 were first solved by GPT and 2 by Claude. The frontier AI math race is in full swing.",
-          "createdAt": "2026-08-12T16:31:42.000Z",
-          "url": "https://x.com/deedydas/status/2087577779613433891",
+          "id": "2087993128284311965",
+          "text": "Source: https://t.co/WYpbYQVHsv",
+          "createdAt": "2026-08-13T20:02:09.000Z",
+          "url": "https://x.com/deedydas/status/2087993128284311965",
+          "likes": 18,
+          "retweets": 3,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2087993122399613018",
+          "text": "This article goes down as one of the most batshit insane things I've read in AI world.\n\n\"We’re back to the stage of being our most familiar 'KYC manufacturers.' Braving the risk of Ebola in Africa to find locals to help with face-scan verification and selling IDs...\n\n... With a sack of cash and two guys with AK-47s standing behind him on a yacht, a KYC manufacturer is racking his brains to pass identity verification for you.\"\n\nIt describes the Transfer Station (中转站) grey economy in China to smuggle illegal frontier tokens for a fraction of the price, swindles users into using cheaper models, all while selling traces for distillation. \n\nAbsolutely thrilling read.",
+          "createdAt": "2026-08-13T20:02:08.000Z",
+          "url": "https://x.com/deedydas/status/2087993122399613018",
+          "likes": 294,
+          "retweets": 27,
+          "replies": 17,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HPoKqoNXgAED-q6.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "tweets": [
+        {
+          "id": "2087950343841915046",
+          "text": "We released Search as Code (SaC) in June, achieving state-of-the-art performance on wide and deep research.\n\nThis week, we’re rolling out optimizations to SaC that further improve performance while cutting cost per task by nearly 10%. https://t.co/58Caylqbsy",
+          "createdAt": "2026-08-13T17:12:08.000Z",
+          "url": "https://x.com/perplexity_ai/status/2087950343841915046",
+          "likes": 160,
+          "retweets": 7,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HPnjxWQbkAAreBg.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
+      "tweets": [
+        {
+          "id": "2087994794136207695",
+          "text": "Within Devin, Gemini 3.7 Flash performs particularly well on tightly scoped refactors, where it delivers minimal diffs that match repo conventions.\n\nGemini 3.7 Flash is available at a 50% discount for 2 weeks, through 08/27/2026.\n\nRead more: https://t.co/pSNVcEu26j",
+          "createdAt": "2026-08-13T20:08:46.000Z",
+          "url": "https://x.com/cognition/status/2087994794136207695",
           "likes": 14,
-          "retweets": 0,
+          "retweets": 1,
           "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2087577252414509062",
-          "text": "Insane that Levent Alpoge just dropped this cryptic text constructing 12 Hadamard matrices under order 2000.\n\nIronically since Fable refuses to deobfuscate the tweet, I had to use Sol 5.6.\n\nThis is the 4th of 50 open math problems from Epoch AI that have been solved! https://t.co/AHLVuTEM80 https://t.co/DYH9eNG8AI",
-          "createdAt": "2026-08-12T16:29:36.000Z",
-          "url": "https://x.com/deedydas/status/2087577252414509062",
-          "likes": 316,
-          "retweets": 14,
-          "replies": 11,
-          "isQuote": true,
-          "quotedTweetId": "2087504785952182273",
+          "id": "2087994792819237357",
+          "text": "Gemini 3.7 Flash is now available in Devin.\n\nOn FrontierCode 1.1, it reaches Claude Sonnet 5-level performance at less than half the cost, with the low latency the Flash series is known for. https://t.co/ATpmjX2qAJ",
+          "createdAt": "2026-08-13T20:08:46.000Z",
+          "url": "https://x.com/cognition/status/2087994792819237357",
+          "likes": 205,
+          "retweets": 16,
+          "replies": 15,
+          "isQuote": false,
+          "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HPiQb1_boAAbKss.jpg"
+              "url": "https://pbs.twimg.com/media/HPoL9OJbIAA2ylX.jpg"
             }
           ]
-        },
-        {
-          "id": "2087486051967484212",
-          "text": "\"Lovable has no moat\" is the most common take in the valley, yet…\n\n— $500M+ revenue run rate, 7x year over year\n— 900M+ visits / month to Lovable created sites\n— 60M projects created, ~5M/month\n— 2/3rd of Fortune 500 use it\n\nLovable’s user base is largely non-technical entrepreneurs who want to run businesses on it with native Stripe integration, SEO out of the box and security built in. Contrary to popular opinion, it isn’t trying to be the best general purpose vibe coding product. Users don’t churn when real revenue runs through your creations.\n\nAnton and team have built the fastest growing software company in Europe. This is why we’re excited to double down on Lovable and lead their latest round at $13.3B!",
-          "createdAt": "2026-08-12T10:27:13.000Z",
-          "url": "https://x.com/deedydas/status/2087486051967484212",
-          "likes": 835,
-          "retweets": 36,
-          "replies": 71,
-          "isQuote": true,
-          "quotedTweetId": "2087479638939652601"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 3
+    "xBuilders": 3,
+    "totalTweets": 5
   }
 }
