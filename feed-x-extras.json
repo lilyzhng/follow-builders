@@ -1,71 +1,9 @@
 {
-  "generatedAt": "2026-08-18T02:19:53.532Z",
+  "generatedAt": "2026-08-19T02:22:38.066Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
-      "tweets": [
-        {
-          "id": "2089400422377181588",
-          "text": "They're coming. https://t.co/sYe6p8UCOY",
-          "createdAt": "2026-08-17T17:14:14.000Z",
-          "url": "https://x.com/NousResearch/status/2089400422377181588",
-          "likes": 1283,
-          "retweets": 68,
-          "replies": 90,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HP8KTOgWMAAmbLp.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2089186329431265599",
-          "text": "Thank you to all the developers and contributors who make Hermes Agent world class. https://t.co/Y4bMZN7bqq",
-          "createdAt": "2026-08-17T03:03:30.000Z",
-          "url": "https://x.com/NousResearch/status/2089186329431265599",
-          "likes": 961,
-          "retweets": 35,
-          "replies": 42,
-          "isQuote": true,
-          "quotedTweetId": "2089186056973562102"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
-      "tweets": [
-        {
-          "id": "2089398673230938591",
-          "text": "Big day for the Menlo portfolio.\n\n— Wispr Flow raises $280M led by us at $2B. ~40x YoY rev growth and a total of 60B+ words dictated.\n\n— Higgsfield raises $400M led by DST at $5.4B. $20M to $700M annual run rate in 12 months.\n\nWinning on the app layer is difficult: software is easier to replicate than ever before (\"what's the moat? Can’t I just vibecode this?\") so you have to maniacally focus on product quality, growth, retention and monetization while scaling your infrastructure, spinning up enterprise sales and growing a world class team. It is much easier said than done.\n\nProducts that seem simple on the surface like voice dictation or video creation hide a ton of this complexity under the hood. And it’s impossible to do without exceptional entrepreneurs like Tanay / Sahaj and Alex at the helm.",
-          "createdAt": "2026-08-17T17:07:17.000Z",
-          "url": "https://x.com/deedydas/status/2089398673230938591",
-          "likes": 574,
-          "retweets": 17,
-          "replies": 45,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HP8JBIgbQAA7Boa.jpg"
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 3
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
