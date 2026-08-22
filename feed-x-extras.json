@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-08-21T02:35:38.229Z",
+  "generatedAt": "2026-08-22T02:19:42.532Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2090432645528252532",
-          "text": "Some other big differences: \n\n- Connect any provider, sub, or model\n- Use it completely free on your own machine or with one of the several free models on Nous Portal\n- Switch between bots mode and classic sessions mode\n- Self-improving agents that learn to execute tasks cheaper and more effectively\n- Open Source so you can modify anything you want about the agent itself to suit your needs",
-          "createdAt": "2026-08-20T13:35:55.000Z",
-          "url": "https://x.com/NousResearch/status/2090432645528252532",
-          "likes": 398,
-          "retweets": 3,
-          "replies": 12,
+          "id": "2090881606185574630",
+          "text": "I love when people think a company has no moat.\n\nThat means at least one of its moats is that no one wants to compete.",
+          "createdAt": "2026-08-21T19:19:56.000Z",
+          "url": "https://x.com/deedydas/status/2090881606185574630",
+          "likes": 418,
+          "retweets": 12,
+          "replies": 41,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2090432358969196548",
-          "text": "Hermes Agent has its own remote computer too, you just aren’t locked in to using it and it costs a few dollars per month instead of $200.\n\nhttps://t.co/O04Z66K1fa https://t.co/M1jwODVXLv",
-          "createdAt": "2026-08-20T13:34:47.000Z",
-          "url": "https://x.com/NousResearch/status/2090432358969196548",
-          "likes": 3909,
-          "retweets": 201,
-          "replies": 243,
-          "isQuote": true,
-          "quotedTweetId": "2090393510956401073"
+          "id": "2090793605061648551",
+          "text": "Met a kid y'day who has 50+ agents running with a harness tuned for cyber security and a search index of CVEs with a QLoRA'd GLM 5.2 and tries to break production websites 24/7. Didn't go to college. Makes money in bug bounties.\n\nThe kids are definitely alright.",
+          "createdAt": "2026-08-21T13:30:15.000Z",
+          "url": "https://x.com/deedydas/status/2090793605061648551",
+          "likes": 4240,
+          "retweets": 146,
+          "replies": 111,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
