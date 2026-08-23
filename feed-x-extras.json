@@ -1,40 +1,9 @@
 {
-  "generatedAt": "2026-08-22T02:19:42.532Z",
+  "generatedAt": "2026-08-23T02:35:52.637Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
-      "tweets": [
-        {
-          "id": "2090881606185574630",
-          "text": "I love when people think a company has no moat.\n\nThat means at least one of its moats is that no one wants to compete.",
-          "createdAt": "2026-08-21T19:19:56.000Z",
-          "url": "https://x.com/deedydas/status/2090881606185574630",
-          "likes": 418,
-          "retweets": 12,
-          "replies": 41,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2090793605061648551",
-          "text": "Met a kid y'day who has 50+ agents running with a harness tuned for cyber security and a search index of CVEs with a QLoRA'd GLM 5.2 and tries to break production websites 24/7. Didn't go to college. Makes money in bug bounties.\n\nThe kids are definitely alright.",
-          "createdAt": "2026-08-21T13:30:15.000Z",
-          "url": "https://x.com/deedydas/status/2090793605061648551",
-          "likes": 4240,
-          "retweets": 146,
-          "replies": 111,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 2
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
