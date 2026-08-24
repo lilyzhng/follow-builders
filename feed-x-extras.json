@@ -1,9 +1,58 @@
 {
-  "generatedAt": "2026-08-23T02:35:52.637Z",
+  "generatedAt": "2026-08-24T02:36:09.299Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2091496560299593788",
+          "text": "in my mind it beats Dishoom, Bukhara, Indian Accent, Gymkhana,\nSemma, Ambassadors, Gaa, Masque at least on fine dining but what do I know I’m no food critic. I hear Tresind in Dubai is excellent but haven’t been",
+          "createdAt": "2026-08-23T12:03:32.000Z",
+          "url": "https://x.com/deedydas/status/2091496560299593788",
+          "likes": 59,
+          "retweets": 1,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2091494179843322186",
+          "text": "May have had the best Indian fine dining of all time at the early preview for Gaggan’s new restaurant, Raga, in Delhi!\n\nGaggan Anand blew up after the Chef’s Table episode (S2E6) used to run arguably the world’s best Indian restaurant (called Gaggan, in Bangkok), ranked 4th in 2019.\n\nRaga is a 22 course tasting menu with quintessential Indian flavors packed in strange surprises. Nothing is quite what it seems. It’s booked out for 3 months so make your reservations quick, and definitely skip lunch that day.",
+          "createdAt": "2026-08-23T11:54:05.000Z",
+          "url": "https://x.com/deedydas/status/2091494179843322186",
+          "likes": 874,
+          "retweets": 26,
+          "replies": 34,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HQZ63I6bUAAlFCU.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HQZ63j6aYAAc9QM.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HQZ63tia8AAKfeM.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HQZ633vagAAQ45E.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
