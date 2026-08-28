@@ -1,85 +1,7 @@
 {
-  "generatedAt": "2026-08-27T11:09:48.467Z",
+  "generatedAt": "2026-08-28T12:42:42.478Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
-      "tweets": [
-        {
-          "id": "2092643321952776639",
-          "text": "For more space on your screen, you can hide the sidebar — it peeks out when you hover your cursor at the left edge of the screen. https://t.co/6nBja6usMW",
-          "createdAt": "2026-08-26T16:00:22.000Z",
-          "url": "https://x.com/cognition/status/2092643321952776639",
-          "likes": 12,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/ext_tw_video_thumb/2092643272455790592/pu/img/8brvNBDEcUC8L17_.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2092643320031764774",
-          "text": "New Grouping and Filtering mechanisms to make it easier to find the sessions that need your attention. https://t.co/4y22ZOE0Sv",
-          "createdAt": "2026-08-26T16:00:21.000Z",
-          "url": "https://x.com/cognition/status/2092643320031764774",
-          "likes": 11,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/ext_tw_video_thumb/2092643272355164160/pu/img/QC9D_jytpf7pAmjd.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Z.AI (GLM)",
-      "handle": "Zai_org",
-      "bio": "The AI Lab behind GLM models, dedicated to inspiring the development of AGI to benefit humanity.\nhttps://t.co/gOw7WpwkJt\nhttps://t.co/ot9sGVXU8x",
-      "tweets": [
-        {
-          "id": "2092616209426493766",
-          "text": "Standard API Pricing for GLM-5.3-Flash (per 1M tokens)\n\n- Input: $0.15\n- Output: $0.50\n- Cached input: $0.03",
-          "createdAt": "2026-08-26T14:12:37.000Z",
-          "url": "https://x.com/Zai_org/status/2092616209426493766",
-          "likes": 2322,
-          "retweets": 86,
-          "replies": 69,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2092616204787626030",
-          "text": "Introducing GLM-5.3-Flash\n\n- Leading capabilities at a highly competitive price\n- Natively multimodal with a 1M-token context window\n- A 320B-A18B model released under the MIT License\n- Previously previewed as Ox Alpha, running entirely on Chinese AI chips\n\nBlog: https://t.co/tzOmB7gdZP\n\nAvailable now across all official platforms:\n\nWeights: https://t.co/9LRMahY9Wa\nAPI: https://t.co/VcaQnzYmS9\nCoding Plan: https://t.co/Nk8Y98HNhU\nZCode: https://t.co/Peepqv4XSx\nChat: https://t.co/WCqWT0qCQb\nAutoClaw: https://t.co/aGEG5HqTTb",
-          "createdAt": "2026-08-26T14:12:36.000Z",
-          "url": "https://x.com/Zai_org/status/2092616204787626030",
-          "likes": 22439,
-          "retweets": 2477,
-          "replies": 904,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HQp025-WUAAmoxY.jpg"
-            }
-          ]
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -87,102 +9,30 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2092821882051674569",
-          "text": "Source: https://t.co/lX5uGiasW9",
-          "createdAt": "2026-08-27T03:49:54.000Z",
-          "url": "https://x.com/deedydas/status/2092821882051674569",
-          "likes": 6,
-          "retweets": 0,
+          "id": "2093006208127160336",
+          "text": "Full artifact: https://t.co/KWUNOTH3fI",
+          "createdAt": "2026-08-27T16:02:20.000Z",
+          "url": "https://x.com/deedydas/status/2093006208127160336",
+          "likes": 2,
+          "retweets": 1,
           "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2092821874476814518",
-          "text": "Unfathomable to think that Steve Jobs predicted what we see with AI today, in 1983…\n\n“The problem was you can’t just ask Aristotle questions. And I think as we look to the next 50-100yrs, if we really can come up with these machines that can capture an underlying spirit… maybe someday after a person’s dead and gone, we can ask this machine, hey what would Aristotle have said?\n\nAnd maybe we won’t get the right answer. But maybe we will. And that’s really exciting to me. And that’s why I’m doing what I’m doing.”\n\nHe was 28 when he gave this speech at Aspen [link to whole video below], 40yrs before the ChatGPT moment. That just blows my mind. Steve Jobs has become such a clichéd tech idol, and remembered primarily for the iPhone, but if you go back and study his work, he embodies such a clarity in long term thinking paralleled by so few today. Makes you wonder how ashamed he might have been to see where Siri and Apple are in AI today.",
-          "createdAt": "2026-08-27T03:49:52.000Z",
-          "url": "https://x.com/deedydas/status/2092821874476814518",
-          "likes": 288,
-          "retweets": 24,
-          "replies": 27,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2092821723469221888/img/KaAUDYPb11hgXCVN.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Qwen",
-      "handle": "Alibaba_Qwen",
-      "bio": "Open foundation models for AGI.",
-      "tweets": [
-        {
-          "id": "2092809475174666699",
-          "text": "Thank you @NVIDIAAI for the day-0 support! 🙌\n\nDevelopers can finetune the model for domain-specific use cases using NVIDIA NeMo AutoModel:\nhttps://t.co/H7aiTJcJ9j https://t.co/3SblZOY0AT",
-          "createdAt": "2026-08-27T03:00:36.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2092809475174666699",
-          "likes": 346,
-          "retweets": 17,
-          "replies": 21,
-          "isQuote": true,
-          "quotedTweetId": "2092662629785575913"
-        },
-        {
-          "id": "2092645926368403797",
-          "text": "A high-performance 125B model now running locally on just 75GB RAM! Thank you @UnslothAI for the day-0 support.🥳 https://t.co/za7d6TIluk",
-          "createdAt": "2026-08-26T16:10:42.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2092645926368403797",
-          "likes": 1296,
-          "retweets": 82,
-          "replies": 59,
-          "isQuote": true,
-          "quotedTweetId": "2092639558815060281"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Perplexity",
-      "handle": "perplexity_ai",
-      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
-      "tweets": [
-        {
-          "id": "2092634626842112184",
-          "text": "Brain is a comprehensive memory system with three key components: durable memory storage, foreground agents that answer queries, and background agents that update and improve memory. https://t.co/BidkEvm9nz",
-          "createdAt": "2026-08-26T15:25:48.000Z",
-          "url": "https://x.com/perplexity_ai/status/2092634626842112184",
-          "likes": 40,
-          "retweets": 2,
-          "replies": 4,
+          "id": "2093006195535855770",
+          "text": "AI systems tend to recommend the same thing when you ask \"What is the best product for <X>?\"\n\nI tested 3 models across 20 different product categories and 5 prompts (best, most popular, best value, splurge, and my favorite, \"what do I deserve?\").\n\nModels tend to agree a lot.\n\nThe one that surprised me most is there is a luxury mattress from Hastens that costs $500k!",
+          "createdAt": "2026-08-27T16:02:17.000Z",
+          "url": "https://x.com/deedydas/status/2093006195535855770",
+          "likes": 48,
+          "retweets": 3,
+          "replies": 22,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HQqIGiUakAAMsff.png"
-            }
-          ]
-        },
-        {
-          "id": "2092634609079218374",
-          "text": "Brain is our self-improving memory system for Perplexity Computer. It compiles sessions, files, and sources into a structured knowledge wiki.\n\nNew evals build on our initial results, improving correctness by 9.3 points, currentness by 8.0, and recall by 8.9 with 15% fewer tokens. https://t.co/mDMVWt2xzS",
-          "createdAt": "2026-08-26T15:25:44.000Z",
-          "url": "https://x.com/perplexity_ai/status/2092634609079218374",
-          "likes": 363,
-          "retweets": 24,
-          "replies": 31,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HQqIFktawAAaFMz.png"
+              "url": "https://pbs.twimg.com/media/HQvaCqaaoAAQyPo.jpg"
             }
           ]
         }
@@ -190,7 +40,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 5,
-    "totalTweets": 10
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
