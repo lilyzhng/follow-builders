@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T12:42:42.478Z",
+  "generatedAt": "2026-08-29T07:49:52.576Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,30 +9,47 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2093006208127160336",
-          "text": "Full artifact: https://t.co/KWUNOTH3fI",
-          "createdAt": "2026-08-27T16:02:20.000Z",
-          "url": "https://x.com/deedydas/status/2093006208127160336",
-          "likes": 2,
-          "retweets": 1,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2093006195535855770",
-          "text": "AI systems tend to recommend the same thing when you ask \"What is the best product for <X>?\"\n\nI tested 3 models across 20 different product categories and 5 prompts (best, most popular, best value, splurge, and my favorite, \"what do I deserve?\").\n\nModels tend to agree a lot.\n\nThe one that surprised me most is there is a luxury mattress from Hastens that costs $500k!",
-          "createdAt": "2026-08-27T16:02:17.000Z",
-          "url": "https://x.com/deedydas/status/2093006195535855770",
-          "likes": 48,
-          "retweets": 3,
-          "replies": 22,
+          "id": "2093588294340882649",
+          "text": "The H-1B program is no longer a viable way to come to America: higher fees, higher wages, wage ranked lottery, thinner safety nets for spouses and the laid off. https://t.co/7CRvyc3Rah",
+          "createdAt": "2026-08-29T06:35:21.000Z",
+          "url": "https://x.com/deedydas/status/2093588294340882649",
+          "likes": 366,
+          "retweets": 31,
+          "replies": 30,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HQvaCqaaoAAQyPo.jpg"
+              "url": "https://pbs.twimg.com/media/HQ3rdVvaEAAPEIk.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2093515454145028545",
+          "text": "Source: https://t.co/LY26WSu0iL",
+          "createdAt": "2026-08-29T01:45:54.000Z",
+          "url": "https://x.com/deedydas/status/2093515454145028545",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2093515441293742306",
+          "text": "5 human records were beaten at the World Humanoid Robot Games in China that ended a few days ago, fully autonomously!\n\nAcross 51 events, two robot makers had the strongest showing:\n— Agibot, and their wheeled Genie G2 (~$140k) and Agilink OmniHand Ultra (~$61k), which crushed the task based events\n— X-Humanoid, and their Tiangong Ultra (~$41k), which crushed athletics\n\nUnitree ($37B), which stole the show last year and popped in its IPO this year, scaled back the night of the preliminaries with a poor showing. In a big change from last year, most events required full autonomy with only teleop / remote allowed for certain task based events.\n\nThis is incredible progress in just 1 year in humanoid robotics. A year ago the best 100m was 21.5s. China continues to demonstrate its lead. They ship 86-97% of the world's humanoid robots. We are close to superhuman physicality and getting there on autonomy in certain domains. And there's a long way to go: the bots could only lift 16kg in the weightlifting event. And yes, they'd occasionally blow up.\n\nThis is the worst the humanoids will ever get.",
+          "createdAt": "2026-08-29T01:45:51.000Z",
+          "url": "https://x.com/deedydas/status/2093515441293742306",
+          "likes": 48,
+          "retweets": 4,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HQ2pMn8bkAIT5db.jpg"
             }
           ]
         }
@@ -41,6 +58,6 @@
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 2
+    "totalTweets": 3
   }
 }
