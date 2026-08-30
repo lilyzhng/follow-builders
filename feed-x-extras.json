@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T07:49:52.576Z",
+  "generatedAt": "2026-08-30T06:35:08.986Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,47 +9,41 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2093588294340882649",
-          "text": "The H-1B program is no longer a viable way to come to America: higher fees, higher wages, wage ranked lottery, thinner safety nets for spouses and the laid off. https://t.co/7CRvyc3Rah",
-          "createdAt": "2026-08-29T06:35:21.000Z",
-          "url": "https://x.com/deedydas/status/2093588294340882649",
-          "likes": 366,
-          "retweets": 31,
+          "id": "2093744962810863926",
+          "text": "It’s not apples to apples because in coding, we’ve seen the Jevons effect happen as models get cheaper (not just the shift from humans to AI).\n\nThe article also has an anecdote of AI livestreams perform better at selling for certain products over humans, claiming this puts ~700,000 jobs of actors in short dramas / livestreamers at risk",
+          "createdAt": "2026-08-29T16:57:53.000Z",
+          "url": "https://x.com/deedydas/status/2093744962810863926",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2093743876968513554",
+          "text": "Source: https://t.co/gHpMOKrsq5",
+          "createdAt": "2026-08-29T16:53:34.000Z",
+          "url": "https://x.com/deedydas/status/2093743876968513554",
+          "likes": 3,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2093743873935950264",
+          "text": "We’ve seen the Jevons Paradox happen for coding, but now we’re seeing the numbers for video.\n\nMaking animated short dramas is 10x cheaper and 450x faster with AI, and it’s led to &gt;12x more creation and 10x more views on China’s TikTok. https://t.co/8EpU8InnzL",
+          "createdAt": "2026-08-29T16:53:34.000Z",
+          "url": "https://x.com/deedydas/status/2093743873935950264",
+          "likes": 279,
+          "retweets": 20,
           "replies": 30,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HQ3rdVvaEAAPEIk.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2093515454145028545",
-          "text": "Source: https://t.co/LY26WSu0iL",
-          "createdAt": "2026-08-29T01:45:54.000Z",
-          "url": "https://x.com/deedydas/status/2093515454145028545",
-          "likes": 1,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2093515441293742306",
-          "text": "5 human records were beaten at the World Humanoid Robot Games in China that ended a few days ago, fully autonomously!\n\nAcross 51 events, two robot makers had the strongest showing:\n— Agibot, and their wheeled Genie G2 (~$140k) and Agilink OmniHand Ultra (~$61k), which crushed the task based events\n— X-Humanoid, and their Tiangong Ultra (~$41k), which crushed athletics\n\nUnitree ($37B), which stole the show last year and popped in its IPO this year, scaled back the night of the preliminaries with a poor showing. In a big change from last year, most events required full autonomy with only teleop / remote allowed for certain task based events.\n\nThis is incredible progress in just 1 year in humanoid robotics. A year ago the best 100m was 21.5s. China continues to demonstrate its lead. They ship 86-97% of the world's humanoid robots. We are close to superhuman physicality and getting there on autonomy in certain domains. And there's a long way to go: the bots could only lift 16kg in the weightlifting event. And yes, they'd occasionally blow up.\n\nThis is the worst the humanoids will ever get.",
-          "createdAt": "2026-08-29T01:45:51.000Z",
-          "url": "https://x.com/deedydas/status/2093515441293742306",
-          "likes": 48,
-          "retweets": 4,
-          "replies": 10,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HQ2pMn8bkAIT5db.jpg"
+              "url": "https://pbs.twimg.com/media/HQ549RkbcAA8ZSA.jpg"
             }
           ]
         }
