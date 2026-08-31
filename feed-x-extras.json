@@ -1,57 +1,9 @@
 {
-  "generatedAt": "2026-08-30T06:35:08.986Z",
+  "generatedAt": "2026-08-31T06:59:37.084Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
-      "tweets": [
-        {
-          "id": "2093744962810863926",
-          "text": "It’s not apples to apples because in coding, we’ve seen the Jevons effect happen as models get cheaper (not just the shift from humans to AI).\n\nThe article also has an anecdote of AI livestreams perform better at selling for certain products over humans, claiming this puts ~700,000 jobs of actors in short dramas / livestreamers at risk",
-          "createdAt": "2026-08-29T16:57:53.000Z",
-          "url": "https://x.com/deedydas/status/2093744962810863926",
-          "likes": 4,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2093743876968513554",
-          "text": "Source: https://t.co/gHpMOKrsq5",
-          "createdAt": "2026-08-29T16:53:34.000Z",
-          "url": "https://x.com/deedydas/status/2093743876968513554",
-          "likes": 3,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2093743873935950264",
-          "text": "We’ve seen the Jevons Paradox happen for coding, but now we’re seeing the numbers for video.\n\nMaking animated short dramas is 10x cheaper and 450x faster with AI, and it’s led to &gt;12x more creation and 10x more views on China’s TikTok. https://t.co/8EpU8InnzL",
-          "createdAt": "2026-08-29T16:53:34.000Z",
-          "url": "https://x.com/deedydas/status/2093743873935950264",
-          "likes": 279,
-          "retweets": 20,
-          "replies": 30,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HQ549RkbcAA8ZSA.jpg"
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 3
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
