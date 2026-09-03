@@ -1,79 +1,7 @@
 {
-  "generatedAt": "2026-09-02T05:45:08.458Z",
+  "generatedAt": "2026-09-03T05:43:43.858Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "MTS @anthropicai",
-      "tweets": [
-        {
-          "id": "2094854835854295296",
-          "text": "some tips for Claude Fable 5.1 \n\nTry Fable 5.1 at low effort | Fable 5.1 at low effort is often competitive with Opus and Sonnet on $ / task while scoring higher. on CursorBench 3.2.0, Fable 5.1 at low effort is at parity w/ Fable 5 at high effort at a third of the cost.\n\nPrompt cache reads are 4x cheaper for Fable 5.1 | cache hits dropped from $1.00 to $0.25 / MTok. if you are using prompt caching, Claude Console can monitor your prompt cache hit rate. also run “/claude-api cost-optimize” in Claude Code to run diagnostics on your prompt cache configuration. see pricing:\nhttps://t.co/d5sEMwmT9H\n\nSimplify your prompts | remove verification rituals, emphasis boosters, scratchpad scaffolds, stale few-shot examples, or contradictory rules. in Claude Code, run “/claude-api prompt-audit” to inspect prompts or skills for common anti-patterns. see our prompt guide:\nhttps://t.co/QgJLf0r0hE\n\nChange effort mid-conversation w/o breaking the prompt cache | Previously, mid-conversation changes to effort invalidated the cache. see docs:\nhttps://t.co/tAJUJBCNXk\n\nfor migrating to Fable 5.1, see the migration guide and run \"/claude-api migrate\" in Claude Code to help update API configuration to use Fable 5.1.\nhttps://t.co/eDcnAEUStM",
-          "createdAt": "2026-09-01T18:28:08.000Z",
-          "url": "https://x.com/RLanceMartin/status/2094854835854295296",
-          "likes": 1089,
-          "retweets": 63,
-          "replies": 49,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HRJnmDVakAAe5q0.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Felix Rieseberg (Claude Cowork)",
-      "handle": "felixrieseberg",
-      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
-      "tweets": [
-        {
-          "id": "2094849660552970625",
-          "text": "Claude Fable 5.1 is available today in Claude, Claude Code, Cowork, and via the API, plus Bedrock, Vertex AI, and Azure.\n\nMythos 5.1, which is the same model with more permissive safeguards for certain tasks in high-risk, dual-use domains such as biology and cybersecurity, goes to trusted access partners and powers Claude Security for Enterprise customers. Read more: https://t.co/rSjuF0vsjl",
-          "createdAt": "2026-09-01T18:07:34.000Z",
-          "url": "https://x.com/felixrieseberg/status/2094849660552970625",
-          "likes": 80,
-          "retweets": 3,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2094849659059703818",
-          "text": "Let's talk more about writing. Where earlier models overused bullets and bold in chat, Fable 5.1 uses bold less, and is less likely to reach for headers, lists, or quotation marks. \n\nThere's more to be done (and we will) but Fable 5.1 also respects my style instructions better, so style prompting feels more effective.",
-          "createdAt": "2026-09-01T18:07:33.000Z",
-          "url": "https://x.com/felixrieseberg/status/2094849659059703818",
-          "likes": 121,
-          "retweets": 8,
-          "replies": 12,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2094849656966783426",
-          "text": "Science got a big jump. Everyone's been talking about math for the last weeks and I think other disciplines will soon see similar breakthroughs.\n\nOn Terminal-Bench-Science (@Stanford-led, tasks written by working scientists), Fable 5.1 scores 52.6%, more than double Fable 5 (24.7%) and Opus 5 (29.0%). We're not at a country of geniuses in a datacenter yet, but we're sure making a lot of progress.",
-          "createdAt": "2026-09-01T18:07:33.000Z",
-          "url": "https://x.com/felixrieseberg/status/2094849656966783426",
-          "likes": 152,
-          "retweets": 9,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HRJkz3za0AArsTI.jpg"
-            }
-          ]
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Perplexity",
@@ -81,103 +9,55 @@
       "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
       "tweets": [
         {
-          "id": "2094803534927770022",
-          "text": "Hybrid compute uses cloud models for search, planning, and reasoning.\n\nIt orchestrates to a local model on your Mac to handle private files or sensitive information.\n\nComputer combines their work into a single output without ever taking sensitive data up to the server. https://t.co/7jYV9yqU0W",
-          "createdAt": "2026-09-01T15:04:16.000Z",
-          "url": "https://x.com/perplexity_ai/status/2094803534927770022",
-          "likes": 41,
-          "retweets": 0,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HRI8tngaIAIJo-R.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2094803515264978953",
-          "text": "Introducing hybrid compute in Perplexity Computer.\n\nComputer can start a task in the cloud, then move to a local model that runs on your Mac. Use it for steps involving private files or sensitive data.\n\nAvailable today in the Perplexity Mac app. https://t.co/bafirGWgwA",
-          "createdAt": "2026-09-01T15:04:12.000Z",
-          "url": "https://x.com/perplexity_ai/status/2094803515264978953",
-          "likes": 1244,
-          "retweets": 100,
-          "replies": 67,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2094803470000009216/img/GZUKZILDtpd96fBu.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
-      "tweets": [
-        {
-          "id": "2094849476603052060",
-          "text": "In Devin Fusion, we pair frontier models for planning with cost-effective models for execution.\n\nWith Fable 5.1, this orchestration performs even better. We highly recommend Fusion as a cost-effective way to access frontier intelligence. https://t.co/unuQF6WS05",
-          "createdAt": "2026-09-01T18:06:50.000Z",
-          "url": "https://x.com/cognition/status/2094849476603052060",
-          "likes": 60,
-          "retweets": 4,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HRJj53KWMAATy7f.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2094849474623361255",
-          "text": "Over 95% of tokens from a coding task are cached tokens.\n\nFable 5.1 dropped the price of cached tokens by 4x, making it much more efficient for coding as a whole, despite higher uncached prices. https://t.co/NYJSWYdU0o",
-          "createdAt": "2026-09-01T18:06:49.000Z",
-          "url": "https://x.com/cognition/status/2094849474623361255",
-          "likes": 97,
-          "retweets": 7,
+          "id": "2095241561282068780",
+          "text": "Hybrid compute splits work between cloud models and a local model on the Mac. Local inference must keep pace with the rest of the task.\n\nMLX-LM is a general-purpose framework, while Lily is purpose-built for this inference workload. https://t.co/MFsA8LgK0O",
+          "createdAt": "2026-09-02T20:04:50.000Z",
+          "url": "https://x.com/perplexity_ai/status/2095241561282068780",
+          "likes": 74,
+          "retweets": 3,
           "replies": 3,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HRJj3koXEAAhCU6.jpg"
+              "url": "https://pbs.twimg.com/media/HRPLGNnaEAAu0cI.jpg"
             }
           ]
+        },
+        {
+          "id": "2095241544383226274",
+          "text": "Today we’re open-sourcing Lily, the local inference engine we built for hybrid compute in Perplexity Computer.\n\nLily is specialized for Qwen3.6-35B-A3B on Apple silicon, built so on-device compute doesn’t bottleneck Computer tasks.\n\nRead more: https://t.co/OnowTP3ql6",
+          "createdAt": "2026-09-02T20:04:46.000Z",
+          "url": "https://x.com/perplexity_ai/status/2095241544383226274",
+          "likes": 1819,
+          "retweets": 169,
+          "replies": 65,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
     {
       "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
+      "name": "Lance Martin",
+      "handle": "RLanceMartin",
+      "bio": "MTS @anthropicai",
       "tweets": [
         {
-          "id": "2094955556402294832",
-          "text": "Private school education if you’re having kids soon will cost roughly $1.5-2M all in in the Bay Area, $2-2.5M if you include college. https://t.co/FiwyRROsG3",
-          "createdAt": "2026-09-02T01:08:21.000Z",
-          "url": "https://x.com/deedydas/status/2094955556402294832",
-          "likes": 451,
-          "retweets": 17,
-          "replies": 76,
-          "isQuote": false,
-          "quotedTweetId": null,
+          "id": "2095170001175199771",
+          "text": "i recently added this command to the claude-api skill. run it in Claude Code to fix common prompting \"anti-patterns\" that can hobble frontier models:\n\n/claude-api prompt-audit\n \npatterns include: \n\n1/Verification rituals. Instructions like \"double-check your work” or \"verify twice before responding” are often taken literally by frontier models and can waste tokens.\n\n2/ Thoroughness and emphasis boosters. \"Be maximally thorough,\" \"CRITICAL: YOU MUST ALWAYS…\" can lead to verbosity and extra tool calls when working with frontier models.\n\n3/ Mandatory procedures and scratchpad scaffolds. Fixed step processes (e.g., \"think step by step in a scratchpad\") or reasoning templates are rituals that frontier models don't need. This scaffolding can stack on top of native reasoning and use unnecessary tokens.\n\n4/ Stale examples. Few-shot examples tuned to an older model's failure modes can teach a frontier model to imitate long reasoning chains on requests that don't need them.\n\n5/ Contradictory rules. Frontier models are better at instruction following. Contradictory instructions (\"always refund within policy\" vs. \"never issue refunds without escalation\") can be followed more literally by frontier models, resulting in degraded performance.\n\n6/ Dated configuration. Settings written for an older Claude generation (e.g., manual thinking budgets) can be rejected by the Claude Platform with newer models.\n\nthese patterns accumulate in prompts over time, and can quietly degrade performance when upgrading to newer models. a common reason is the frontier models are better at instruction following, so these anti-patterns steer them to spend unnecessary tokens. \n\nexample: i tested a migration from Opus 4.8 to Opus 5 on an internal customer support benchmark. with Opus 5 (and other frontier models like Fable 5.1), verification rituals (\"verify twice\") use unnecessary tokens by duplicating work. emphasis boosters (\"be maximally thorough\") become dozens of unneeded searches.\n\napplying prompt audits can improve performance and reduce cost (as shown in example attached and will be sharing a full write-up soon). \n\nalso, the skill is also open source and some of this guidance likely applies generally across frontier models\nhttps://t.co/4rv1lfiDiz\n\nhttps://t.co/iLbvKfnTH3",
+          "createdAt": "2026-09-02T15:20:29.000Z",
+          "url": "https://x.com/RLanceMartin/status/2095170001175199771",
+          "likes": 507,
+          "retweets": 37,
+          "replies": 48,
+          "isQuote": true,
+          "quotedTweetId": "2094987791566622971",
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HRLG-KGWsAAXuJI.jpg"
+              "url": "https://pbs.twimg.com/media/HROHdWLbgAAE6HA.jpg"
             }
           ]
         }
@@ -185,7 +65,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 5,
-    "totalTweets": 9
+    "xBuilders": 2,
+    "totalTweets": 3
   }
 }
