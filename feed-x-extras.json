@@ -1,63 +1,44 @@
 {
-  "generatedAt": "2026-09-03T05:43:43.858Z",
+  "generatedAt": "2026-09-04T05:51:25.291Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Perplexity",
-      "handle": "perplexity_ai",
-      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2095241561282068780",
-          "text": "Hybrid compute splits work between cloud models and a local model on the Mac. Local inference must keep pace with the rest of the task.\n\nMLX-LM is a general-purpose framework, while Lily is purpose-built for this inference workload. https://t.co/MFsA8LgK0O",
-          "createdAt": "2026-09-02T20:04:50.000Z",
-          "url": "https://x.com/perplexity_ai/status/2095241561282068780",
-          "likes": 74,
-          "retweets": 3,
-          "replies": 3,
+          "id": "2095602995874410664",
+          "text": "Hermes Desktop now sets up local models in one click.\n\nIt automatically reads your hardware, picks the best model for you, then downloads it and configures the runtime. https://t.co/LDw5x9xL5U",
+          "createdAt": "2026-09-03T20:01:03.000Z",
+          "url": "https://x.com/NousResearch/status/2095602995874410664",
+          "likes": 3113,
+          "retweets": 208,
+          "replies": 195,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2095601752061997057/img/NKIGNK6OWdg-szw-.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2095561055682310638",
+          "text": "BREAKING: Nous Portal is still up\n\nSources report that it is still serving hundreds of models at 20% off, 80% off GPT-5.6 Luna and Luna Pro, exclusive free models, bundled tool usage, flexible team features, and powerful cloud agents\n\nhttps://t.co/RU76KTpAv4 https://t.co/XNBfjAG6vn",
+          "createdAt": "2026-09-03T17:14:23.000Z",
+          "url": "https://x.com/NousResearch/status/2095561055682310638",
+          "likes": 861,
+          "retweets": 41,
+          "replies": 56,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HRPLGNnaEAAu0cI.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2095241544383226274",
-          "text": "Today we’re open-sourcing Lily, the local inference engine we built for hybrid compute in Perplexity Computer.\n\nLily is specialized for Qwen3.6-35B-A3B on Apple silicon, built so on-device compute doesn’t bottleneck Computer tasks.\n\nRead more: https://t.co/OnowTP3ql6",
-          "createdAt": "2026-09-02T20:04:46.000Z",
-          "url": "https://x.com/perplexity_ai/status/2095241544383226274",
-          "likes": 1819,
-          "retweets": 169,
-          "replies": 65,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "MTS @anthropicai",
-      "tweets": [
-        {
-          "id": "2095170001175199771",
-          "text": "i recently added this command to the claude-api skill. run it in Claude Code to fix common prompting \"anti-patterns\" that can hobble frontier models:\n\n/claude-api prompt-audit\n \npatterns include: \n\n1/Verification rituals. Instructions like \"double-check your work” or \"verify twice before responding” are often taken literally by frontier models and can waste tokens.\n\n2/ Thoroughness and emphasis boosters. \"Be maximally thorough,\" \"CRITICAL: YOU MUST ALWAYS…\" can lead to verbosity and extra tool calls when working with frontier models.\n\n3/ Mandatory procedures and scratchpad scaffolds. Fixed step processes (e.g., \"think step by step in a scratchpad\") or reasoning templates are rituals that frontier models don't need. This scaffolding can stack on top of native reasoning and use unnecessary tokens.\n\n4/ Stale examples. Few-shot examples tuned to an older model's failure modes can teach a frontier model to imitate long reasoning chains on requests that don't need them.\n\n5/ Contradictory rules. Frontier models are better at instruction following. Contradictory instructions (\"always refund within policy\" vs. \"never issue refunds without escalation\") can be followed more literally by frontier models, resulting in degraded performance.\n\n6/ Dated configuration. Settings written for an older Claude generation (e.g., manual thinking budgets) can be rejected by the Claude Platform with newer models.\n\nthese patterns accumulate in prompts over time, and can quietly degrade performance when upgrading to newer models. a common reason is the frontier models are better at instruction following, so these anti-patterns steer them to spend unnecessary tokens. \n\nexample: i tested a migration from Opus 4.8 to Opus 5 on an internal customer support benchmark. with Opus 5 (and other frontier models like Fable 5.1), verification rituals (\"verify twice\") use unnecessary tokens by duplicating work. emphasis boosters (\"be maximally thorough\") become dozens of unneeded searches.\n\napplying prompt audits can improve performance and reduce cost (as shown in example attached and will be sharing a full write-up soon). \n\nalso, the skill is also open source and some of this guidance likely applies generally across frontier models\nhttps://t.co/4rv1lfiDiz\n\nhttps://t.co/iLbvKfnTH3",
-          "createdAt": "2026-09-02T15:20:29.000Z",
-          "url": "https://x.com/RLanceMartin/status/2095170001175199771",
-          "likes": 507,
-          "retweets": 37,
-          "replies": 48,
-          "isQuote": true,
-          "quotedTweetId": "2094987791566622971",
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HROHdWLbgAAE6HA.jpg"
+              "url": "https://pbs.twimg.com/media/HRTtjq2boAAbArU.jpg"
             }
           ]
         }
@@ -65,7 +46,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 3
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
