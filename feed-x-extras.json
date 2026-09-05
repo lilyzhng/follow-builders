@@ -1,52 +1,93 @@
 {
-  "generatedAt": "2026-09-04T05:51:25.291Z",
+  "generatedAt": "2026-09-05T05:40:12.072Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
       "tweets": [
         {
-          "id": "2095602995874410664",
-          "text": "Hermes Desktop now sets up local models in one click.\n\nIt automatically reads your hardware, picks the best model for you, then downloads it and configures the runtime. https://t.co/LDw5x9xL5U",
-          "createdAt": "2026-09-03T20:01:03.000Z",
-          "url": "https://x.com/NousResearch/status/2095602995874410664",
-          "likes": 3113,
-          "retweets": 208,
-          "replies": 195,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2095601752061997057/img/NKIGNK6OWdg-szw-.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2095561055682310638",
-          "text": "BREAKING: Nous Portal is still up\n\nSources report that it is still serving hundreds of models at 20% off, 80% off GPT-5.6 Luna and Luna Pro, exclusive free models, bundled tool usage, flexible team features, and powerful cloud agents\n\nhttps://t.co/RU76KTpAv4 https://t.co/XNBfjAG6vn",
-          "createdAt": "2026-09-03T17:14:23.000Z",
-          "url": "https://x.com/NousResearch/status/2095561055682310638",
-          "likes": 861,
-          "retweets": 41,
-          "replies": 56,
+          "id": "2095984759700881846",
+          "text": "ROSE is the model engine.\n\nIt reuses the same kernels for LLMs and embeddings. For embeddings, it skips the KV cache and uses ragged attention instead of paged attention.\n\nROSE supports multiple attention backends, so kernel choice depends on model shape and sequence length. https://t.co/cdBEP3m3wG",
+          "createdAt": "2026-09-04T21:18:02.000Z",
+          "url": "https://x.com/perplexity_ai/status/2095984759700881846",
+          "likes": 11,
+          "retweets": 1,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HRTtjq2boAAbArU.jpg"
+              "url": "https://pbs.twimg.com/media/HRZvB7TasAANmRh.png"
             }
           ]
+        },
+        {
+          "id": "2095984741581455854",
+          "text": "Tulip uses two techniques to lower latency and boost throughput.\n\nCUDA graphs pre‑record GPU work so it launches in one call, reducing CPU overhead.\n\nLazyTensors tracks results asynchronously, letting the CPU prep the next batch while the GPU finishes the current one. https://t.co/hnTqjh2qji",
+          "createdAt": "2026-09-04T21:17:58.000Z",
+          "url": "https://x.com/perplexity_ai/status/2095984741581455854",
+          "likes": 11,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HRZvA7rbEAAuwqJ.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2095919289857343784",
+          "text": "there are so many examples of this that go underdiscussed because of power dynamics \n- no employee feels empowered to speak up against their founder for fear of retaliation \n- no investor will ever tattle on a founders bad behavior for fear of reputational damage in the community \n- for M&A specifically: a lot of money is on the line, secured by non disclosures, for the parties in the room and acquirers have no incentive \n- there’s often never a clean headline for journalists to cover these. It all sounds like “founder X did a bunch of complex legal things that prevented rich people who owe them for their success from getting slightly richer, boo hoo”",
+          "createdAt": "2026-09-04T16:57:53.000Z",
+          "url": "https://x.com/deedydas/status/2095919289857343784",
+          "likes": 38,
+          "retweets": 2,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2095906024565731805",
+          "text": "So I also recommend:\na) do thorough founder references\nb) hire a lawyer to push for certain clauses in your employment agreement if you can\nc) trust your gut on the founder’s character",
+          "createdAt": "2026-09-04T16:05:10.000Z",
+          "url": "https://x.com/deedydas/status/2095906024565731805",
+          "likes": 94,
+          "retweets": 2,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2095905550940655749",
+          "text": "Heres a real anecdote [not a portfolio company]:\nA founder friend of mine had an amazing offer to sell the business to a great acquirer. The business wasn’t going anywhere so this offer was a relief and it wasn’t even an acquihire: they wanted that tech. They would have made high 8 figures and could retire. But the offer terms screwed over the cap table, gave peanuts to the employees, would fire most of staff but would pay out the management team healthily (this is common).\n\nThese were all dealbreakers to this founder. But corp dev teams can negotiate hard. This is their job. They employ fear tactics: “your business isn’t going anywhere”, “this could be life changing money for you”, “you actually took the risk here”. And that’s when character is so important. The founder said absolutely not and stood their ground. They wanted all their employees hired unconditionally and paid out with accelerated vesting and proportionate retention pool. Eventually, the acquirer bent to those demands but it was a very stressful few months. All this while, the employees had no idea what was going on (you can’t really tell your team while it’s uncertain) but the outcome of their blood sweat tears for 4yrs rested in the founders hands.\n\nThis is why founder trust and character is so crucial.",
+          "createdAt": "2026-09-04T16:03:18.000Z",
+          "url": "https://x.com/deedydas/status/2095905550940655749",
+          "likes": 239,
+          "retweets": 2,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 2
+    "xBuilders": 2,
+    "totalTweets": 5
   }
 }
