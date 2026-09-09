@@ -1,9 +1,46 @@
 {
-  "generatedAt": "2026-09-08T05:54:45.736Z",
+  "generatedAt": "2026-09-09T05:56:31.151Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
+      "tweets": [
+        {
+          "id": "2097369803212071362",
+          "text": "As Devin becomes essential to how companies build software, customers across the economy are rapidly expanding their use – from chip design at @nvidia and aviation at @GE_Aerospace to financial services at @Citi, automotive at @MercedesBenz, and AI infrastructure at @modal. https://t.co/IP35qKe5RI",
+          "createdAt": "2026-09-08T17:01:42.000Z",
+          "url": "https://x.com/cognition/status/2097369803212071362",
+          "likes": 138,
+          "retweets": 4,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HRtIw09aUAErlM0.png"
+            }
+          ]
+        },
+        {
+          "id": "2097369800838111372",
+          "text": "Other investors in the round include Benchmark, Bessemer, Kleiner Perkins, Greylock, Lightspeed, Altimeter, Bond Capital, Meritech, Atreides, Valor, T. Rowe Price, Lux, 8VC, D1, 137 Ventures, DST, Positive Sum, HOF, Soma, BoxGroup, Ribbit Capital, Swish, Stripes, Definition, Hanabi, Journey, Bain Capital Ventures, Layer Global, A* Capital, Alpha Wave, Alkeon, Diffusion, and NVIDIA.",
+          "createdAt": "2026-09-08T17:01:42.000Z",
+          "url": "https://x.com/cognition/status/2097369800838111372",
+          "likes": 161,
+          "retweets": 3,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
