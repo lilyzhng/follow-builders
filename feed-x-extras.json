@@ -1,38 +1,74 @@
 {
-  "generatedAt": "2026-09-09T05:56:31.151Z",
+  "generatedAt": "2026-09-10T05:54:48.273Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
       "tweets": [
         {
-          "id": "2097369803212071362",
-          "text": "As Devin becomes essential to how companies build software, customers across the economy are rapidly expanding their use – from chip design at @nvidia and aviation at @GE_Aerospace to financial services at @Citi, automotive at @MercedesBenz, and AI infrastructure at @modal. https://t.co/IP35qKe5RI",
-          "createdAt": "2026-09-08T17:01:42.000Z",
-          "url": "https://x.com/cognition/status/2097369803212071362",
-          "likes": 138,
-          "retweets": 4,
-          "replies": 3,
+          "id": "2097782548994936841",
+          "text": "Q2D-Web uses agent citations, production web rankings, and a combined set expanded with LLM judgments.\n\nThese three relevance sets reduce false negatives and reliance on a single labeling pipeline, while testing how relevance definitions affect model performance. https://t.co/g6mLDKp2zM",
+          "createdAt": "2026-09-09T20:21:49.000Z",
+          "url": "https://x.com/perplexity_ai/status/2097782548994936841",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 4,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HRtIw09aUAErlM0.png"
+              "url": "https://pbs.twimg.com/media/HRzSHJMbIAAXANN.jpg"
             }
           ]
         },
         {
-          "id": "2097369800838111372",
-          "text": "Other investors in the round include Benchmark, Bessemer, Kleiner Perkins, Greylock, Lightspeed, Altimeter, Bond Capital, Meritech, Atreides, Valor, T. Rowe Price, Lux, 8VC, D1, 137 Ventures, DST, Positive Sum, HOF, Soma, BoxGroup, Ribbit Capital, Swish, Stripes, Definition, Hanabi, Journey, Bain Capital Ventures, Layer Global, A* Capital, Alpha Wave, Alkeon, Diffusion, and NVIDIA.",
-          "createdAt": "2026-09-08T17:01:42.000Z",
-          "url": "https://x.com/cognition/status/2097369800838111372",
-          "likes": 161,
-          "retweets": 3,
-          "replies": 4,
+          "id": "2097782533736079409",
+          "text": "The corpus combines the top 5,000 production retrieval results per query, deduplicated with MinHash-LSH.\n\nEach document is a plausible match for at least one query, including difficult distractors that match the topic but miss a required date, entity, or version. https://t.co/6XKBd7UnQJ",
+          "createdAt": "2026-09-09T20:21:45.000Z",
+          "url": "https://x.com/perplexity_ai/status/2097782533736079409",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HRzSGNybQAAlLHj.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "building p7k | ❤️ 🍵 ☕️",
+      "tweets": [
+        {
+          "id": "2097618457273717153",
+          "text": "the reason why i post this is due to rumors and false info. we are not aggressively hiring. we do not jds. we are only interested in mts at this moment.",
+          "createdAt": "2026-09-09T09:29:46.000Z",
+          "url": "https://x.com/JustinLin610/status/2097618457273717153",
+          "likes": 12,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2097593576477843553",
+          "text": "plz contact us only through contact@pragmatik.com and check only the x and li of p7k and me (or if u can see my wechat moments)",
+          "createdAt": "2026-09-09T07:50:54.000Z",
+          "url": "https://x.com/JustinLin610/status/2097593576477843553",
+          "likes": 103,
+          "retweets": 2,
+          "replies": 9,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -40,7 +76,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 2
+    "xBuilders": 2,
+    "totalTweets": 4
   }
 }
