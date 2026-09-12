@@ -1,78 +1,7 @@
 {
-  "generatedAt": "2026-09-11T05:54:04.784Z",
+  "generatedAt": "2026-09-12T05:42:20.537Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
-      "tweets": [
-        {
-          "id": "2098109122688250354",
-          "text": "We've used Dioxus extensively to build Devin. When the two teams met, the fit was obvious.\n\nJonathan and the Dioxus team are exceptional engineers and open source builders. At Cognition, we love working with founders.\n\nMore on why we're so excited: https://t.co/uPCTxsXWnl",
-          "createdAt": "2026-09-10T17:59:30.000Z",
-          "url": "https://x.com/cognition/status/2098109122688250354",
-          "likes": 15,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2098109121169883237",
-          "text": "Welcome @jkelleyrtp and the entire Dioxus team to Cognition!\n\nDioxus is one of the most beloved open source Rust frameworks. We're proud to continue supporting Dioxus, Blitz, Taffy, and Subsecond while bringing the team's expertise to Devin's VM, computer use, and testing. https://t.co/aDi9Kj9u97",
-          "createdAt": "2026-09-10T17:59:30.000Z",
-          "url": "https://x.com/cognition/status/2098109121169883237",
-          "likes": 226,
-          "retweets": 22,
-          "replies": 17,
-          "isQuote": true,
-          "quotedTweetId": "2098108818156630450"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
-      "tweets": [
-        {
-          "id": "2098061936491634809",
-          "text": "A perennial reminder that late stage venture backed businesses are primarily valued on insane growth expectations.\n\nIf your growth plummets from &gt;2x to single digits, like Miro, it is a massive sudden destruction in equity value.",
-          "createdAt": "2026-09-10T14:52:00.000Z",
-          "url": "https://x.com/deedydas/status/2098061936491634809",
-          "likes": 115,
-          "retweets": 3,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2098060584134873286",
-          "text": "Another brutal M&A. Miro, founded in 2011 and valued at $17.5B 4yrs ago, is getting acquired by Bending Spoons, founded 2013, at ~2.3x ARR.\n\nAfter Airtable, another unfortunate victim of the SaaS bust at ~10x down from peak. It raised $476M only to be sold for $1.355B EV ($1.79B equity value), clearing its preference stack.\n\nAny employees who joined 2021 onwards are likely underwater on their options in the company.",
-          "createdAt": "2026-09-10T14:46:37.000Z",
-          "url": "https://x.com/deedydas/status/2098060584134873286",
-          "likes": 1743,
-          "retweets": 91,
-          "replies": 78,
-          "isQuote": true,
-          "quotedTweetId": "2098024435815203094"
-        },
-        {
-          "id": "2097949050754805971",
-          "text": "Source: https://t.co/Ro82gguayd",
-          "createdAt": "2026-09-10T07:23:26.000Z",
-          "url": "https://x.com/deedydas/status/2097949050754805971",
-          "likes": 27,
-          "retweets": 4,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Junyang Lin",
@@ -80,62 +9,69 @@
       "bio": "building p7k | ❤️ 🍵 ☕️",
       "tweets": [
         {
-          "id": "2098264048878092457",
-          "text": "being a staff: the weekend is coming!\nbeing a boss: the weekend is coming?",
-          "createdAt": "2026-09-11T04:15:07.000Z",
-          "url": "https://x.com/JustinLin610/status/2098264048878092457",
-          "likes": 54,
+          "id": "2098393027392032857",
+          "text": "v4p back? k3-0.2? https://t.co/JtuQUKOuXs",
+          "createdAt": "2026-09-11T12:47:38.000Z",
+          "url": "https://x.com/JustinLin610/status/2098393027392032857",
+          "likes": 136,
           "retweets": 1,
-          "replies": 7,
+          "replies": 11,
           "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2098262364323975393",
-          "text": "bringing too much complexity into model arch can cause unknown issues that can't be tested by evals even those internal ones. but nvm, sometimes people can take the small unknown costs for big benefits in efficiency as fm are becoming more and more focused on so called agentic tasks",
-          "createdAt": "2026-09-11T04:08:26.000Z",
-          "url": "https://x.com/JustinLin610/status/2098262364323975393",
-          "likes": 118,
-          "retweets": 10,
-          "replies": 6,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2098039045716914648",
-          "text": "yoco",
-          "createdAt": "2026-09-10T13:21:02.000Z",
-          "url": "https://x.com/JustinLin610/status/2098039045716914648",
-          "likes": 191,
-          "retweets": 10,
-          "replies": 14,
-          "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HR79VYcbIAA2tWj.jpg"
+            }
+          ]
         }
       ]
     },
     {
       "source": "x",
-      "name": "Felix Rieseberg (Claude Cowork)",
-      "handle": "felixrieseberg",
-      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
       "tweets": [
         {
-          "id": "2098200320731934955",
-          "text": "I don’t think people have really internalized that models will continue to get dramatically better.\n\nTwo years ago, the models barely did grade school Math. Today, we’re debating which unsolvable Math problems will be tackled. That’s nuts! Of course you sound silly saying that more capability improvements are coming our way at an even faster rate than before. Even if people believe us, it’s hard for many MTS to really wrap their heads around the implications.\n\nIn related news, I recommend reading this threat report we published today. It’s comprehensive and hopefully food for more thought - combine the expected rate and magnitude of improvement with threats for a better insight into how many engineers and researchers at the frontier feel.\n\nhttps://t.co/rU3RFCLGTd",
-          "createdAt": "2026-09-11T00:01:53.000Z",
-          "url": "https://x.com/felixrieseberg/status/2098200320731934955",
-          "likes": 60,
+          "id": "2098445565629509728",
+          "text": "We partnered with @ArtificialAnlys and @ValsAI to evaluate Fusion across several coding agent benchmarks. \n\nThe cost savings hold across the board while maintaining frontier performance. https://t.co/CeffWEUwQ0",
+          "createdAt": "2026-09-11T16:16:24.000Z",
+          "url": "https://x.com/cognition/status/2098445565629509728",
+          "likes": 89,
           "retweets": 3,
-          "replies": 4,
+          "replies": 3,
           "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HR8svxsWsAcPFvo.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2098445562404024343",
+          "text": "Introducing Fusion in Devin CLI\n\nThe most efficient frontier harness for Fable & Astra; 39% cheaper across coding benchmarks.\n\nPick your favorite model for planning and a cost-effective model for execution.",
+          "createdAt": "2026-09-11T16:16:23.000Z",
+          "url": "https://x.com/cognition/status/2098445562404024343",
+          "likes": 1158,
+          "retweets": 88,
+          "replies": 78,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HR8pg4CWEAkvXWm.jpg"
+            }
+          ]
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 9
+    "xBuilders": 2,
+    "totalTweets": 3
   }
 }
