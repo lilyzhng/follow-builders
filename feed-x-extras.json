@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T05:42:20.537Z",
+  "generatedAt": "2026-09-13T06:03:16.507Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,69 +9,49 @@
       "bio": "building p7k | ❤️ 🍵 ☕️",
       "tweets": [
         {
-          "id": "2098393027392032857",
-          "text": "v4p back? k3-0.2? https://t.co/JtuQUKOuXs",
-          "createdAt": "2026-09-11T12:47:38.000Z",
-          "url": "https://x.com/JustinLin610/status/2098393027392032857",
-          "likes": 136,
-          "retweets": 1,
-          "replies": 11,
+          "id": "2099009076843909617",
+          "text": "this is an espresso? https://t.co/C1yhFX41ok",
+          "createdAt": "2026-09-13T05:35:36.000Z",
+          "url": "https://x.com/JustinLin610/status/2099009076843909617",
+          "likes": 13,
+          "retweets": 0,
+          "replies": 2,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HR79VYcbIAA2tWj.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
-      "tweets": [
-        {
-          "id": "2098445565629509728",
-          "text": "We partnered with @ArtificialAnlys and @ValsAI to evaluate Fusion across several coding agent benchmarks. \n\nThe cost savings hold across the board while maintaining frontier performance. https://t.co/CeffWEUwQ0",
-          "createdAt": "2026-09-11T16:16:24.000Z",
-          "url": "https://x.com/cognition/status/2098445565629509728",
-          "likes": 89,
-          "retweets": 3,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HR8svxsWsAcPFvo.jpg"
+              "url": "https://pbs.twimg.com/media/HSEtoL4bMAA9wQE.jpg"
             }
           ]
         },
         {
-          "id": "2098445562404024343",
-          "text": "Introducing Fusion in Devin CLI\n\nThe most efficient frontier harness for Fable & Astra; 39% cheaper across coding benchmarks.\n\nPick your favorite model for planning and a cost-effective model for execution.",
-          "createdAt": "2026-09-11T16:16:23.000Z",
-          "url": "https://x.com/cognition/status/2098445562404024343",
-          "likes": 1158,
-          "retweets": 88,
-          "replies": 78,
+          "id": "2098998279677923653",
+          "text": "u can do whatev u want. stop pretending u need any permissions. funny",
+          "createdAt": "2026-09-13T04:52:42.000Z",
+          "url": "https://x.com/JustinLin610/status/2098998279677923653",
+          "likes": 55,
+          "retweets": 6,
+          "replies": 1,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HR8pg4CWEAkvXWm.jpg"
-            }
-          ]
+          "quotedTweetId": null
+        },
+        {
+          "id": "2098993235968561281",
+          "text": "cuz people can suddenly write rust now (lol... https://t.co/HGofItnx0u",
+          "createdAt": "2026-09-13T04:32:39.000Z",
+          "url": "https://x.com/JustinLin610/status/2098993235968561281",
+          "likes": 92,
+          "retweets": 1,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2098920115681063284"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
+    "xBuilders": 1,
     "totalTweets": 3
   }
 }
