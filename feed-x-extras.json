@@ -1,57 +1,9 @@
 {
-  "generatedAt": "2026-09-13T06:03:16.507Z",
+  "generatedAt": "2026-09-14T06:10:50.105Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "building p7k | ❤️ 🍵 ☕️",
-      "tweets": [
-        {
-          "id": "2099009076843909617",
-          "text": "this is an espresso? https://t.co/C1yhFX41ok",
-          "createdAt": "2026-09-13T05:35:36.000Z",
-          "url": "https://x.com/JustinLin610/status/2099009076843909617",
-          "likes": 13,
-          "retweets": 0,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSEtoL4bMAA9wQE.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2098998279677923653",
-          "text": "u can do whatev u want. stop pretending u need any permissions. funny",
-          "createdAt": "2026-09-13T04:52:42.000Z",
-          "url": "https://x.com/JustinLin610/status/2098998279677923653",
-          "likes": 55,
-          "retweets": 6,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2098993235968561281",
-          "text": "cuz people can suddenly write rust now (lol... https://t.co/HGofItnx0u",
-          "createdAt": "2026-09-13T04:32:39.000Z",
-          "url": "https://x.com/JustinLin610/status/2098993235968561281",
-          "likes": 92,
-          "retweets": 1,
-          "replies": 4,
-          "isQuote": true,
-          "quotedTweetId": "2098920115681063284"
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 3
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
