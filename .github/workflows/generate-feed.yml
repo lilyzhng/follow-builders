@@ -101,15 +101,3 @@ jobs:
           git add feed-x.json feed-podcasts.json feed-x-extras.json state-feed.json archive/
           git diff --cached --quiet || git commit -m "chore: update feeds [skip ci]"
           git push
-
-      - name: Trigger evening digest (chained off the fresh feed)
-        if: steps.guard.outputs.skip != 'true' && github.event_name == 'schedule'
-        env:
-          DIGEST_TRIGGER_BOT_TOKEN: ${{ secrets.DIGEST_TRIGGER_BOT_TOKEN }}
-        run: |
-          DAILY_DIGEST_CHANNEL="1485075381613760603"
-          DIGEST_OWNER_ID="1485446312798457866"  # Andrej / genius-researcher owns the digest
-          curl -sf -H "Content-Type: application/json" \
-            -H "Authorization: Bot ${DIGEST_TRIGGER_BOT_TOKEN}" \
-            -d "{\"content\": \"<@${DIGEST_OWNER_ID}> Run the evening builder digest now. feed-x.json just regenerated (chained off generate-feed, so it is fresh). Follow the builder-digest skill.\"}" \
-            "https://discord.com/api/v10/channels/${DAILY_DIGEST_CHANNEL}/messages"
