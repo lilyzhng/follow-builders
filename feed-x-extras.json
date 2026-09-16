@@ -1,9 +1,121 @@
 {
-  "generatedAt": "2026-09-15T06:07:41.761Z",
+  "generatedAt": "2026-09-16T05:57:32.414Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "building p7k | ❤️ 🍵 ☕️",
+      "tweets": [
+        {
+          "id": "2099785813248938185",
+          "text": "u guys r drinking too much! (this is not an ad for 农夫山泉 https://t.co/2A3LK5R35B",
+          "createdAt": "2026-09-15T09:02:04.000Z",
+          "url": "https://x.com/JustinLin610/status/2099785813248938185",
+          "likes": 94,
+          "retweets": 1,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HSPwEDVaQAABLCD.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "tweets": [
+        {
+          "id": "2099955676210712974",
+          "text": "Optimizing reads also required changing how updates reached the store.\n\nWe separated durable document state, update delivery, and serving across Pillar, Lorry, and CobbleDB. https://t.co/pL7vCBTyC3",
+          "createdAt": "2026-09-15T20:17:03.000Z",
+          "url": "https://x.com/perplexity_ai/status/2099955676210712974",
+          "likes": 19,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HSSKjt-aUAAPtVT.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2099955658909229185",
+          "text": "The architecture prioritizes fast batch reads. CobbleDB groups page keys by partition and reads them in parallel through RocksDB MultiGet.\n\nThe router favors same-zone replicas and queries another copy when a replica is slow, so one delayed response need not hold up the batch. https://t.co/yLp7cj8BV0",
+          "createdAt": "2026-09-15T20:16:59.000Z",
+          "url": "https://x.com/perplexity_ai/status/2099955658909229185",
+          "likes": 37,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HSSKivnawAAfAfJ.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
+      "tweets": [
+        {
+          "id": "2099876411292958994",
+          "text": "Cognition and @awscloud team up to help ambitious teams ship more, faster.\n\nWe're excited to collaborate more closely with AWS to help customers modernize faster on the infrastructure they already trust, so enterprises can focus more time on what moves their business forward.\n\nRead more: https://t.co/qT7WsBGX2m",
+          "createdAt": "2026-09-15T15:02:04.000Z",
+          "url": "https://x.com/cognition/status/2099876411292958994",
+          "likes": 229,
+          "retweets": 18,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HSRCdwZWkAEc7uN.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2099880100770849001",
+          "text": "I’ve heard 100s of startup pitches this year. Here’s the good, the bad and the meh recurring trends from my experience:\n\nThe good:\n- High raise amounts and valuations. More inflated for strong teams pre-revenue in hot areas (robotics, bio, personal agents)\n- Insane topline growth numbers, many growing >10x this year. By the time a round closes, a high valuation seems justified.\n- Tons of M&A\n\nIt is what it is:\n- Revenue run rate = last month revenue x 12\n- Small teams\n- Seat based < Platform fee < Usage based billing seems to be the trend for most products\n- Tranched rounds\n- Best teams have extremely fast product iteration speed\n- SaaS products positioning themselves as AI tools to seem appealing to investors\n\nThe bad:\n- Low or negative gross margin if reselling tokens. Non-standard accounting\n- High “Contracted ARR” that’s not live yet\n- High revenue concentration\n- Expensive compute, limited availability, delays. Excess compute reselling\n- Many wrappers with very thin tech differentiation: “self improving harness”, “multi model / router”, “agent swarms”, “computer use”\n- Overworked employees. AI generated\n- All spaces seem very competitive\n- Areas can seem hot one moment before being not",
+          "createdAt": "2026-09-15T15:16:44.000Z",
+          "url": "https://x.com/deedydas/status/2099880100770849001",
+          "likes": 422,
+          "retweets": 26,
+          "replies": 53,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 4,
+    "totalTweets": 5
   }
 }
