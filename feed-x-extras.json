@@ -1,71 +1,45 @@
 {
-  "generatedAt": "2026-09-16T05:57:32.414Z",
+  "generatedAt": "2026-09-17T06:05:48.926Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "building p7k | ❤️ 🍵 ☕️",
+      "name": "Felix Rieseberg (Claude Cowork)",
+      "handle": "felixrieseberg",
+      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
       "tweets": [
         {
-          "id": "2099785813248938185",
-          "text": "u guys r drinking too much! (this is not an ad for 农夫山泉 https://t.co/2A3LK5R35B",
-          "createdAt": "2026-09-15T09:02:04.000Z",
-          "url": "https://x.com/JustinLin610/status/2099785813248938185",
-          "likes": 94,
-          "retweets": 1,
-          "replies": 13,
+          "id": "2100258700418298158",
+          "text": "This is rolling out to Pro and Max over the next few weeks as we want to make sure that this lands with exceptional reliability. Bear with us!",
+          "createdAt": "2026-09-16T16:21:09.000Z",
+          "url": "https://x.com/felixrieseberg/status/2100258700418298158",
+          "likes": 43,
+          "retweets": 0,
+          "replies": 6,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSPwEDVaQAABLCD.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Perplexity",
-      "handle": "perplexity_ai",
-      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
-      "tweets": [
-        {
-          "id": "2099955676210712974",
-          "text": "Optimizing reads also required changing how updates reached the store.\n\nWe separated durable document state, update delivery, and serving across Pillar, Lorry, and CobbleDB. https://t.co/pL7vCBTyC3",
-          "createdAt": "2026-09-15T20:17:03.000Z",
-          "url": "https://x.com/perplexity_ai/status/2099955676210712974",
-          "likes": 19,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSSKjt-aUAAPtVT.jpg"
-            }
-          ]
+          "quotedTweetId": null
         },
         {
-          "id": "2099955658909229185",
-          "text": "The architecture prioritizes fast batch reads. CobbleDB groups page keys by partition and reads them in parallel through RocksDB MultiGet.\n\nThe router favors same-zone replicas and queries another copy when a replica is slow, so one delayed response need not hold up the batch. https://t.co/yLp7cj8BV0",
-          "createdAt": "2026-09-15T20:16:59.000Z",
-          "url": "https://x.com/perplexity_ai/status/2099955658909229185",
-          "likes": 37,
-          "retweets": 1,
+          "id": "2100258699273253112",
+          "text": "I'm a big believer in making tools simpler while exposing our users to as much magic as possible. I could write a whole post about the philosophy here (and maybe should), but I'm very proud of the team!\n\nIf you've been saving up a big messy project, now's the time: https://t.co/cQWwJwyIGx",
+          "createdAt": "2026-09-16T16:21:09.000Z",
+          "url": "https://x.com/felixrieseberg/status/2100258699273253112",
+          "likes": 60,
+          "retweets": 2,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2100258697851383919",
+          "text": "If you've been working in Cowork: there is nothing to turn on and nothing to move. Your chats, projects, artifacts, connectors and skills are all still there. Open the app, pick up where you left off. That part mattered a LOT to us.",
+          "createdAt": "2026-09-16T16:21:09.000Z",
+          "url": "https://x.com/felixrieseberg/status/2100258697851383919",
+          "likes": 44,
+          "retweets": 0,
           "replies": 2,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSSKivnawAAfAfJ.jpg"
-            }
-          ]
+          "quotedTweetId": null
         }
       ]
     },
@@ -76,19 +50,30 @@
       "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
       "tweets": [
         {
-          "id": "2099876411292958994",
-          "text": "Cognition and @awscloud team up to help ambitious teams ship more, faster.\n\nWe're excited to collaborate more closely with AWS to help customers modernize faster on the infrastructure they already trust, so enterprises can focus more time on what moves their business forward.\n\nRead more: https://t.co/qT7WsBGX2m",
-          "createdAt": "2026-09-15T15:02:04.000Z",
-          "url": "https://x.com/cognition/status/2099876411292958994",
-          "likes": 229,
-          "retweets": 18,
-          "replies": 8,
+          "id": "2100253550378897829",
+          "text": "We asked Devin to speed up compilation in the @dioxuslabs repo. Devin analyzed thousands of files and applied changes to reduce the debug build time from 58.6s to 21.0s – a 64% reduction across 22 workspace crates tested.",
+          "createdAt": "2026-09-16T16:00:41.000Z",
+          "url": "https://x.com/cognition/status/2100253550378897829",
+          "likes": 40,
+          "retweets": 2,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2100253548885803404",
+          "text": "Some engineering tasks require reasoning across the codebase: Which code is safe to delete? What queries are slowing performance? \n\nIntroducing Code Scans: codebase-wide audits for any goal. Devin investigates, reports findings, and opens the PRs. Powered by Agentic MapReduce.",
+          "createdAt": "2026-09-16T16:00:41.000Z",
+          "url": "https://x.com/cognition/status/2100253548885803404",
+          "likes": 550,
+          "retweets": 59,
+          "replies": 45,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSRCdwZWkAEc7uN.jpg"
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2100247643414740992/img/ztyTg16ENWcFNpHk.jpg"
             }
           ]
         }
@@ -101,13 +86,13 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2099880100770849001",
-          "text": "I’ve heard 100s of startup pitches this year. Here’s the good, the bad and the meh recurring trends from my experience:\n\nThe good:\n- High raise amounts and valuations. More inflated for strong teams pre-revenue in hot areas (robotics, bio, personal agents)\n- Insane topline growth numbers, many growing >10x this year. By the time a round closes, a high valuation seems justified.\n- Tons of M&A\n\nIt is what it is:\n- Revenue run rate = last month revenue x 12\n- Small teams\n- Seat based < Platform fee < Usage based billing seems to be the trend for most products\n- Tranched rounds\n- Best teams have extremely fast product iteration speed\n- SaaS products positioning themselves as AI tools to seem appealing to investors\n\nThe bad:\n- Low or negative gross margin if reselling tokens. Non-standard accounting\n- High “Contracted ARR” that’s not live yet\n- High revenue concentration\n- Expensive compute, limited availability, delays. Excess compute reselling\n- Many wrappers with very thin tech differentiation: “self improving harness”, “multi model / router”, “agent swarms”, “computer use”\n- Overworked employees. AI generated\n- All spaces seem very competitive\n- Areas can seem hot one moment before being not",
-          "createdAt": "2026-09-15T15:16:44.000Z",
-          "url": "https://x.com/deedydas/status/2099880100770849001",
-          "likes": 422,
-          "retweets": 26,
-          "replies": 53,
+          "id": "2100287208209146309",
+          "text": "The deep amount of anxiety people in tech are feeling is off the charts. Had a couple conversations with people of various ages and the themes are:\n\n- Every day there are 5 new earth shattering new tech breakthroughs. I can’t keep up. Should I be keeping up? Am I falling behind?\n- What does my career and skill mean in the age of AI? Is software engineering a 30yr long career any more? Is product management?\n- Is my only hope to start a company?\n- At the very least, it feels like I should join a startup but which one? Everything seems either overvalued or has no moat.\n- Okay I joined a startup. Is my company’s equity worth anything or will this be another Airtable or Miro?\n- Startup is doing well. How in the world am I supposed to find a significant other?\n- Will these immigration policy shifts allow me to be here long term?\n- Will I ever be able to afford a house and a life in the Bay Area amidst the biggest wealth creation event of all time?\n- Okay, I figured all of that out. What is my purpose? I’m wealthy but no one really cares. I don’t really know what to do with it. Am I supposed to start a company?\n- Alright I found peace in kids. But I’m worried about them. How does one raise kids in this climate? What are the rules of this new world order?\n\nMany of these concerns are of course not limited to tech or the Bay, although it feels particularly concentrated here (versus what I see in NYC). Maybe some people will read this and feel anxious themselves, and for that I apologize.\n\nFor the rest, just know that it’s not just you who feels this way. It’s a lot of people!",
+          "createdAt": "2026-09-16T18:14:26.000Z",
+          "url": "https://x.com/deedydas/status/2100287208209146309",
+          "likes": 2319,
+          "retweets": 128,
+          "replies": 162,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -115,7 +100,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 5
+    "xBuilders": 3,
+    "totalTweets": 6
   }
 }
