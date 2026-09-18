@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T06:05:48.926Z",
+  "generatedAt": "2026-09-18T05:51:31.816Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,71 +9,30 @@
       "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
       "tweets": [
         {
-          "id": "2100258700418298158",
-          "text": "This is rolling out to Pro and Max over the next few weeks as we want to make sure that this lands with exceptional reliability. Bear with us!",
-          "createdAt": "2026-09-16T16:21:09.000Z",
-          "url": "https://x.com/felixrieseberg/status/2100258700418298158",
-          "likes": 43,
+          "id": "2100786307714961573",
+          "text": "This is obviously just a silly demo, but this makes building apps for your team *so easy*. Whatever tool you need, you can now just build it without worrying about the database or multiplayer, it's just built-in.",
+          "createdAt": "2026-09-18T03:17:41.000Z",
+          "url": "https://x.com/felixrieseberg/status/2100786307714961573",
+          "likes": 1,
           "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2100786305437463017",
+          "text": "Here's a 60s demo of how powerful Claude with built-in Cowork and connected Artifacts is: You can just ask it to build a multiplayer game and it'll... just do it. \n\nAsk Claude to copy https://t.co/XwN8OWHaMd to play with others on your account. https://t.co/J78xZ2SeMk",
+          "createdAt": "2026-09-18T03:17:40.000Z",
+          "url": "https://x.com/felixrieseberg/status/2100786305437463017",
+          "likes": 35,
+          "retweets": 2,
           "replies": 6,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2100258699273253112",
-          "text": "I'm a big believer in making tools simpler while exposing our users to as much magic as possible. I could write a whole post about the philosophy here (and maybe should), but I'm very proud of the team!\n\nIf you've been saving up a big messy project, now's the time: https://t.co/cQWwJwyIGx",
-          "createdAt": "2026-09-16T16:21:09.000Z",
-          "url": "https://x.com/felixrieseberg/status/2100258699273253112",
-          "likes": 60,
-          "retweets": 2,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2100258697851383919",
-          "text": "If you've been working in Cowork: there is nothing to turn on and nothing to move. Your chats, projects, artifacts, connectors and skills are all still there. Open the app, pick up where you left off. That part mattered a LOT to us.",
-          "createdAt": "2026-09-16T16:21:09.000Z",
-          "url": "https://x.com/felixrieseberg/status/2100258697851383919",
-          "likes": 44,
-          "retweets": 0,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
-      "tweets": [
-        {
-          "id": "2100253550378897829",
-          "text": "We asked Devin to speed up compilation in the @dioxuslabs repo. Devin analyzed thousands of files and applied changes to reduce the debug build time from 58.6s to 21.0s – a 64% reduction across 22 workspace crates tested.",
-          "createdAt": "2026-09-16T16:00:41.000Z",
-          "url": "https://x.com/cognition/status/2100253550378897829",
-          "likes": 40,
-          "retweets": 2,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2100253548885803404",
-          "text": "Some engineering tasks require reasoning across the codebase: Which code is safe to delete? What queries are slowing performance? \n\nIntroducing Code Scans: codebase-wide audits for any goal. Devin investigates, reports findings, and opens the PRs. Powered by Agentic MapReduce.",
-          "createdAt": "2026-09-16T16:00:41.000Z",
-          "url": "https://x.com/cognition/status/2100253548885803404",
-          "likes": 550,
-          "retweets": 59,
-          "replies": 45,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2100247643414740992/img/ztyTg16ENWcFNpHk.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HSd9T87bgAAO-Za.jpg"
             }
           ]
         }
@@ -86,21 +45,59 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2100287208209146309",
-          "text": "The deep amount of anxiety people in tech are feeling is off the charts. Had a couple conversations with people of various ages and the themes are:\n\n- Every day there are 5 new earth shattering new tech breakthroughs. I can’t keep up. Should I be keeping up? Am I falling behind?\n- What does my career and skill mean in the age of AI? Is software engineering a 30yr long career any more? Is product management?\n- Is my only hope to start a company?\n- At the very least, it feels like I should join a startup but which one? Everything seems either overvalued or has no moat.\n- Okay I joined a startup. Is my company’s equity worth anything or will this be another Airtable or Miro?\n- Startup is doing well. How in the world am I supposed to find a significant other?\n- Will these immigration policy shifts allow me to be here long term?\n- Will I ever be able to afford a house and a life in the Bay Area amidst the biggest wealth creation event of all time?\n- Okay, I figured all of that out. What is my purpose? I’m wealthy but no one really cares. I don’t really know what to do with it. Am I supposed to start a company?\n- Alright I found peace in kids. But I’m worried about them. How does one raise kids in this climate? What are the rules of this new world order?\n\nMany of these concerns are of course not limited to tech or the Bay, although it feels particularly concentrated here (versus what I see in NYC). Maybe some people will read this and feel anxious themselves, and for that I apologize.\n\nFor the rest, just know that it’s not just you who feels this way. It’s a lot of people!",
-          "createdAt": "2026-09-16T18:14:26.000Z",
-          "url": "https://x.com/deedydas/status/2100287208209146309",
-          "likes": 2319,
-          "retweets": 128,
-          "replies": 162,
+          "id": "2100792364147347925",
+          "text": "“I think about time in model generations.\n\nEach one takes 3-4mos. 3 gen ago, I was writing code by hand. So when people ask me what’s going to happen in 2yrs, that’s 8 gens later. I have no idea.”\n\nSensei @karpathy on the future of AI models. https://t.co/lTLCNap8DR",
+          "createdAt": "2026-09-18T03:41:45.000Z",
+          "url": "https://x.com/deedydas/status/2100792364147347925",
+          "likes": 344,
+          "retweets": 21,
+          "replies": 17,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HSeDhaZagAAKs3Y.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2100782461299097769",
+          "text": "Links:\n\nhttps://t.co/rFTlf7ae6h\n\nhttps://t.co/WuMMimZgqN",
+          "createdAt": "2026-09-18T03:02:24.000Z",
+          "url": "https://x.com/deedydas/status/2100782461299097769",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
+        },
+        {
+          "id": "2100782456769335686",
+          "text": "Most people are wrong here. It IS actually possible to communicate between two airgapped computers with temperature changes, but the data transfer rate is too slow (1-8b/hr) to be effective.\n\nThe underlying point Noam makes is true though: there are a deluge of crazy airgapped comms techniques like EM emanations from DRAM clocks that get a lot faster (300kbps).\n\nThis isn’t sci-fi. We vastly underestimate what AI can do with perfect knowledge of all of this literature.",
+          "createdAt": "2026-09-18T03:02:23.000Z",
+          "url": "https://x.com/deedydas/status/2100782456769335686",
+          "likes": 475,
+          "retweets": 34,
+          "replies": 94,
+          "isQuote": true,
+          "quotedTweetId": "2100641742135701983",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HSd6grCbwAEMHhI.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HSd6grBaIAEvGym.jpg"
+            }
+          ]
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 6
+    "xBuilders": 2,
+    "totalTweets": 5
   }
 }
