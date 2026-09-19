@@ -1,43 +1,7 @@
 {
-  "generatedAt": "2026-09-18T05:51:31.816Z",
+  "generatedAt": "2026-09-19T05:47:06.584Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Felix Rieseberg (Claude Cowork)",
-      "handle": "felixrieseberg",
-      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
-      "tweets": [
-        {
-          "id": "2100786307714961573",
-          "text": "This is obviously just a silly demo, but this makes building apps for your team *so easy*. Whatever tool you need, you can now just build it without worrying about the database or multiplayer, it's just built-in.",
-          "createdAt": "2026-09-18T03:17:41.000Z",
-          "url": "https://x.com/felixrieseberg/status/2100786307714961573",
-          "likes": 1,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2100786305437463017",
-          "text": "Here's a 60s demo of how powerful Claude with built-in Cowork and connected Artifacts is: You can just ask it to build a multiplayer game and it'll... just do it. \n\nAsk Claude to copy https://t.co/XwN8OWHaMd to play with others on your account. https://t.co/J78xZ2SeMk",
-          "createdAt": "2026-09-18T03:17:40.000Z",
-          "url": "https://x.com/felixrieseberg/status/2100786305437463017",
-          "likes": 35,
-          "retweets": 2,
-          "replies": 6,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSd9T87bgAAO-Za.jpg"
-            }
-          ]
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -45,59 +9,49 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2100792364147347925",
-          "text": "“I think about time in model generations.\n\nEach one takes 3-4mos. 3 gen ago, I was writing code by hand. So when people ask me what’s going to happen in 2yrs, that’s 8 gens later. I have no idea.”\n\nSensei @karpathy on the future of AI models. https://t.co/lTLCNap8DR",
-          "createdAt": "2026-09-18T03:41:45.000Z",
-          "url": "https://x.com/deedydas/status/2100792364147347925",
-          "likes": 344,
-          "retweets": 21,
-          "replies": 17,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSeDhaZagAAKs3Y.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2100782461299097769",
-          "text": "Links:\n\nhttps://t.co/rFTlf7ae6h\n\nhttps://t.co/WuMMimZgqN",
-          "createdAt": "2026-09-18T03:02:24.000Z",
-          "url": "https://x.com/deedydas/status/2100782461299097769",
-          "likes": 4,
+          "id": "2100974992427196870",
+          "text": "Source (Iconiq): https://t.co/Y50E7iy9B4",
+          "createdAt": "2026-09-18T15:47:27.000Z",
+          "url": "https://x.com/deedydas/status/2100974992427196870",
+          "likes": 3,
           "retweets": 0,
           "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2100782456769335686",
-          "text": "Most people are wrong here. It IS actually possible to communicate between two airgapped computers with temperature changes, but the data transfer rate is too slow (1-8b/hr) to be effective.\n\nThe underlying point Noam makes is true though: there are a deluge of crazy airgapped comms techniques like EM emanations from DRAM clocks that get a lot faster (300kbps).\n\nThis isn’t sci-fi. We vastly underestimate what AI can do with perfect knowledge of all of this literature.",
-          "createdAt": "2026-09-18T03:02:23.000Z",
-          "url": "https://x.com/deedydas/status/2100782456769335686",
-          "likes": 475,
-          "retweets": 34,
-          "replies": 94,
-          "isQuote": true,
-          "quotedTweetId": "2100641742135701983",
+          "id": "2100974989751312486",
+          "text": "The top AI software companies are growing at intimidatingly fast rates, with the median company &lt;$10M ARR growing revenue 10x YoY.\n\nThe median top quartile company goes from $1M to $100M ARR in 3.5yrs.\n\nWe have never seen such levels of blitzscaling ever before. https://t.co/L4aQkgJrIS",
+          "createdAt": "2026-09-18T15:47:26.000Z",
+          "url": "https://x.com/deedydas/status/2100974989751312486",
+          "likes": 283,
+          "retweets": 21,
+          "replies": 33,
+          "isQuote": false,
+          "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSd6grCbwAEMHhI.jpg"
-            },
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSd6grBaIAEvGym.jpg"
+              "url": "https://pbs.twimg.com/media/HSgpnosbgAANnuS.jpg"
             }
           ]
+        },
+        {
+          "id": "2100863359801528611",
+          "text": "Read more here: https://t.co/hwXCYvXcy0",
+          "createdAt": "2026-09-18T08:23:51.000Z",
+          "url": "https://x.com/deedydas/status/2100863359801528611",
+          "likes": 131,
+          "retweets": 4,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 5
+    "xBuilders": 1,
+    "totalTweets": 3
   }
 }
