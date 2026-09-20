@@ -1,57 +1,85 @@
 {
-  "generatedAt": "2026-09-19T05:47:06.584Z",
+  "generatedAt": "2026-09-20T06:08:59.175Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
+      "name": "Qwen",
+      "handle": "Alibaba_Qwen",
+      "bio": "Open foundation models for AGI.",
       "tweets": [
         {
-          "id": "2100974992427196870",
-          "text": "Source (Iconiq): https://t.co/Y50E7iy9B4",
-          "createdAt": "2026-09-18T15:47:27.000Z",
-          "url": "https://x.com/deedydas/status/2100974992427196870",
-          "likes": 3,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2100974989751312486",
-          "text": "The top AI software companies are growing at intimidatingly fast rates, with the median company &lt;$10M ARR growing revenue 10x YoY.\n\nThe median top quartile company goes from $1M to $100M ARR in 3.5yrs.\n\nWe have never seen such levels of blitzscaling ever before. https://t.co/L4aQkgJrIS",
-          "createdAt": "2026-09-18T15:47:26.000Z",
-          "url": "https://x.com/deedydas/status/2100974989751312486",
-          "likes": 283,
-          "retweets": 21,
-          "replies": 33,
+          "id": "2101206705111757253",
+          "text": "Meet Qwen3.8-LiveTranslate, Qwen's next-generation real-time simultaneous interpretation model! 📢\n\nBuilt on an Interleave architecture, it improves faithfulness, fluency, and conciseness while reducing average lagging (LAAL) from 2.8s to 2.3s across 60 languages.\n\nNew capabilities: 🙌\n- Real-time speaker diarization — distinguishes speakers in multi-party speech and preserves each speaker's voice through more stable voice cloning.\n- Synchronized bilingual display — source and translation on screen together.\n- Long-context disambiguation — leverages conversation history to clarify names and terminology for consistent translations.\n\nLet's try Qwen3.8-LiveTranslate! 🥳\n- Blog: https://t.co/05CsjkegUE\n- QwenCloud: https://t.co/zianSP8IWb",
+          "createdAt": "2026-09-19T07:08:11.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2101206705111757253",
+          "likes": 1980,
+          "retweets": 222,
+          "replies": 92,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSgpnosbgAANnuS.jpg"
+              "url": "https://pbs.twimg.com/media/HSj7AQWaEAAxZrB.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "StepFun",
+      "handle": "StepFun_ai",
+      "bio": "Scale-up possibilities for everyone.\nOpenRouter: https://t.co/1yZfzkC2N0\nHuggingFace: https://t.co/isMgbv7XSm",
+      "tweets": [
+        {
+          "id": "2101510472289992980",
+          "text": "Step 5 Preview works across software environments and sustains execution over long horizons.\n\nIts capabilities extend from software engineering and web applications to 3D workflows and programmable hardware.\n\nOver longer horizons, Step 5 Preview keeps track of prior results, uses execution feedback to decide what to try next, and continues iterating. We test this behavior in runs lasting up to 24 hours, including tasks involving GPU kernel optimization and automated post-training.",
+          "createdAt": "2026-09-20T03:15:15.000Z",
+          "url": "https://x.com/StepFun_ai/status/2101510472289992980",
+          "likes": 67,
+          "retweets": 6,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HSoQoi8bgAAAG3k.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HSoQoi8awAEv_bD.jpg"
             }
           ]
         },
         {
-          "id": "2100863359801528611",
-          "text": "Read more here: https://t.co/hwXCYvXcy0",
-          "createdAt": "2026-09-18T08:23:51.000Z",
-          "url": "https://x.com/deedydas/status/2100863359801528611",
-          "likes": 131,
-          "retweets": 4,
-          "replies": 2,
+          "id": "2101510462685003786",
+          "text": "Introducing Step 5 Preview: Advancing the Pareto Frontier.\n\nStep 5 Preview is our new flagship model for agentic work, delivering frontier-level performance across software engineering and professional knowledge work, with particular strength in finance.\n\n- 600B total / 27B active MoE, with 1M context + Vision\n- Substantially lower task cost at comparable intelligence\n- Broad software engineering capabilities with sustained execution over long horizons\n\nTry Step 5 Preview: https://t.co/fC7HHlWKFn\nModel page: https://t.co/4caJR2YGD3\n\nOpen weights on Oct 15.",
+          "createdAt": "2026-09-20T03:15:13.000Z",
+          "url": "https://x.com/StepFun_ai/status/2101510462685003786",
+          "likes": 717,
+          "retweets": 137,
+          "replies": 65,
           "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HSoQn-1bQAAtzol.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HSoQn-1boAA9r0Z.jpg"
+            }
+          ]
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
+    "xBuilders": 2,
     "totalTweets": 3
   }
 }
