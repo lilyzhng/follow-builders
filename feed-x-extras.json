@@ -1,27 +1,38 @@
 {
-  "generatedAt": "2026-09-20T06:08:59.175Z",
+  "generatedAt": "2026-09-21T06:14:53.942Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Qwen",
-      "handle": "Alibaba_Qwen",
-      "bio": "Open foundation models for AGI.",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2101206705111757253",
-          "text": "Meet Qwen3.8-LiveTranslate, Qwen's next-generation real-time simultaneous interpretation model! 📢\n\nBuilt on an Interleave architecture, it improves faithfulness, fluency, and conciseness while reducing average lagging (LAAL) from 2.8s to 2.3s across 60 languages.\n\nNew capabilities: 🙌\n- Real-time speaker diarization — distinguishes speakers in multi-party speech and preserves each speaker's voice through more stable voice cloning.\n- Synchronized bilingual display — source and translation on screen together.\n- Long-context disambiguation — leverages conversation history to clarify names and terminology for consistent translations.\n\nLet's try Qwen3.8-LiveTranslate! 🥳\n- Blog: https://t.co/05CsjkegUE\n- QwenCloud: https://t.co/zianSP8IWb",
-          "createdAt": "2026-09-19T07:08:11.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2101206705111757253",
-          "likes": 1980,
-          "retweets": 222,
-          "replies": 92,
+          "id": "2101704962426478918",
+          "text": "My favorite use cases for Muse / Instinct so far:\n\n1. Submit FOIA requests to request data from the US government\n2. Creating spend-limited Privacy cards to spend on subscriptions without having them recur \n3. End to end filed an entire visa form for a country\n4. Responded to a coordination mail for a wedding by finding the flight and hotel details\n5. Look for reservations for restaurants or concerts when they open and purchase them immediately\n\nA lot of the web was designed with dark patterns: increase friction to prevent enough humans from doing something, and now those walls are completely broken. \n\nAt this point, I feel like I’m squarely limited by creativity and understanding what is possible.",
+          "createdAt": "2026-09-20T16:08:05.000Z",
+          "url": "https://x.com/deedydas/status/2101704962426478918",
+          "likes": 839,
+          "retweets": 25,
+          "replies": 57,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2101557196433830309",
+          "text": "Only 53 shows on IMDb with 9.0+ and 25k+ reviews.\n\nOnly 10 premiered in the last 5 years. \n\nI watched one of them, a 1 season 16 episode Korean show called When Life Gives You Tangerines, and it’s the most beautiful family drama tear-jerker ever.\n\nOne of the best shows ever. https://t.co/k1IOf66rEG",
+          "createdAt": "2026-09-20T06:20:55.000Z",
+          "url": "https://x.com/deedydas/status/2101557196433830309",
+          "likes": 699,
+          "retweets": 28,
+          "replies": 50,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSj7AQWaEAAxZrB.jpg"
+              "url": "https://pbs.twimg.com/media/HSo7IgfaQAAmBG4.jpg"
             }
           ]
         }
@@ -29,49 +40,39 @@
     },
     {
       "source": "x",
-      "name": "StepFun",
-      "handle": "StepFun_ai",
-      "bio": "Scale-up possibilities for everyone.\nOpenRouter: https://t.co/1yZfzkC2N0\nHuggingFace: https://t.co/isMgbv7XSm",
+      "name": "Qwen",
+      "handle": "Alibaba_Qwen",
+      "bio": "Open foundation models for AGI.",
       "tweets": [
         {
-          "id": "2101510472289992980",
-          "text": "Step 5 Preview works across software environments and sustains execution over long horizons.\n\nIts capabilities extend from software engineering and web applications to 3D workflows and programmable hardware.\n\nOver longer horizons, Step 5 Preview keeps track of prior results, uses execution feedback to decide what to try next, and continues iterating. We test this behavior in runs lasting up to 24 hours, including tasks involving GPU kernel optimization and automated post-training.",
-          "createdAt": "2026-09-20T03:15:15.000Z",
-          "url": "https://x.com/StepFun_ai/status/2101510472289992980",
-          "likes": 67,
-          "retweets": 6,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSoQoi8bgAAAG3k.jpg"
-            },
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSoQoi8awAEv_bD.jpg"
-            }
-          ]
+          "id": "2101670804794884242",
+          "text": "Thanks @vllm_project for the day-0 support! 🙌 Generate, edit, transparent output — one model, ready to serve. Details 👇 https://t.co/L7kT6dbS20",
+          "createdAt": "2026-09-20T13:52:21.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2101670804794884242",
+          "likes": 314,
+          "retweets": 18,
+          "replies": 16,
+          "isQuote": true,
+          "quotedTweetId": "2101665920565629318"
         },
         {
-          "id": "2101510462685003786",
-          "text": "Introducing Step 5 Preview: Advancing the Pareto Frontier.\n\nStep 5 Preview is our new flagship model for agentic work, delivering frontier-level performance across software engineering and professional knowledge work, with particular strength in finance.\n\n- 600B total / 27B active MoE, with 1M context + Vision\n- Substantially lower task cost at comparable intelligence\n- Broad software engineering capabilities with sustained execution over long horizons\n\nTry Step 5 Preview: https://t.co/fC7HHlWKFn\nModel page: https://t.co/4caJR2YGD3\n\nOpen weights on Oct 15.",
-          "createdAt": "2026-09-20T03:15:13.000Z",
-          "url": "https://x.com/StepFun_ai/status/2101510462685003786",
-          "likes": 717,
-          "retweets": 137,
-          "replies": 65,
+          "id": "2101659324980625533",
+          "text": "Qwen-Image-2.1 also improves visual quality over its predecessor, particularly in the aesthetics of text and portraits. Below are several examples of text rendering. https://t.co/wzoZmyBWv9",
+          "createdAt": "2026-09-20T13:06:44.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2101659324980625533",
+          "likes": 171,
+          "retweets": 3,
+          "replies": 3,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSoQn-1bQAAtzol.jpg"
+              "url": "https://pbs.twimg.com/media/HSqXbFhbsAAINal.jpg"
             },
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSoQn-1boAA9r0Z.jpg"
+              "url": "https://pbs.twimg.com/media/HSqXckJb0AADsAH.jpg"
             }
           ]
         }
@@ -80,6 +81,6 @@
   ],
   "stats": {
     "xBuilders": 2,
-    "totalTweets": 3
+    "totalTweets": 4
   }
 }
