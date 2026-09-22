@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-21T06:14:53.942Z",
+  "generatedAt": "2026-09-22T06:07:19.236Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
       "tweets": [
         {
-          "id": "2101704962426478918",
-          "text": "My favorite use cases for Muse / Instinct so far:\n\n1. Submit FOIA requests to request data from the US government\n2. Creating spend-limited Privacy cards to spend on subscriptions without having them recur \n3. End to end filed an entire visa form for a country\n4. Responded to a coordination mail for a wedding by finding the flight and hotel details\n5. Look for reservations for restaurants or concerts when they open and purchase them immediately\n\nA lot of the web was designed with dark patterns: increase friction to prevent enough humans from doing something, and now those walls are completely broken. \n\nAt this point, I feel like I’m squarely limited by creativity and understanding what is possible.",
-          "createdAt": "2026-09-20T16:08:05.000Z",
-          "url": "https://x.com/deedydas/status/2101704962426478918",
-          "likes": 839,
-          "retweets": 25,
-          "replies": 57,
+          "id": "2102104268052304141",
+          "text": "To celebrate, we’re making SWE-2 free in Devin Cloud until October 8.\n\nTry it out today: https://t.co/2E11Z4BEYE",
+          "createdAt": "2026-09-21T18:34:47.000Z",
+          "url": "https://x.com/cognition/status/2102104268052304141",
+          "likes": 33,
+          "retweets": 2,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2101557196433830309",
-          "text": "Only 53 shows on IMDb with 9.0+ and 25k+ reviews.\n\nOnly 10 premiered in the last 5 years. \n\nI watched one of them, a 1 season 16 episode Korean show called When Life Gives You Tangerines, and it’s the most beautiful family drama tear-jerker ever.\n\nOne of the best shows ever. https://t.co/k1IOf66rEG",
-          "createdAt": "2026-09-20T06:20:55.000Z",
-          "url": "https://x.com/deedydas/status/2101557196433830309",
-          "likes": 699,
-          "retweets": 28,
-          "replies": 50,
+          "id": "2102104265292669100",
+          "text": "With devin ssh, you can remote into Devin’s developer environment and use it as your own.\n\nExplore and edit code directly, launch dev servers and forward ports to test Devin’s work, or scp files back from the VM to you. And when you’re done, you can /handoff back to your machine using the CLI.",
+          "createdAt": "2026-09-21T18:34:46.000Z",
+          "url": "https://x.com/cognition/status/2102104265292669100",
+          "likes": 32,
+          "retweets": 1,
+          "replies": 3,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSo7IgfaQAAmBG4.jpg"
+              "url": "https://pbs.twimg.com/media/HSwsPRCXUAAi_Ko.jpg"
             }
           ]
         }
@@ -40,39 +40,24 @@
     },
     {
       "source": "x",
-      "name": "Qwen",
-      "handle": "Alibaba_Qwen",
-      "bio": "Open foundation models for AGI.",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "building p7k | ❤️ 🍵 ☕️",
       "tweets": [
         {
-          "id": "2101670804794884242",
-          "text": "Thanks @vllm_project for the day-0 support! 🙌 Generate, edit, transparent output — one model, ready to serve. Details 👇 https://t.co/L7kT6dbS20",
-          "createdAt": "2026-09-20T13:52:21.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2101670804794884242",
-          "likes": 314,
-          "retweets": 18,
-          "replies": 16,
-          "isQuote": true,
-          "quotedTweetId": "2101665920565629318"
-        },
-        {
-          "id": "2101659324980625533",
-          "text": "Qwen-Image-2.1 also improves visual quality over its predecessor, particularly in the aesthetics of text and portraits. Below are several examples of text rendering. https://t.co/wzoZmyBWv9",
-          "createdAt": "2026-09-20T13:06:44.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2101659324980625533",
-          "likes": 171,
-          "retweets": 3,
-          "replies": 3,
+          "id": "2102267355942568230",
+          "text": "who the hell r u https://t.co/PiKaljnv6M",
+          "createdAt": "2026-09-22T05:22:50.000Z",
+          "url": "https://x.com/JustinLin610/status/2102267355942568230",
+          "likes": 37,
+          "retweets": 0,
+          "replies": 4,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSqXbFhbsAAINal.jpg"
-            },
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSqXckJb0AADsAH.jpg"
+              "url": "https://pbs.twimg.com/media/HSzBAfhbsAAA4vG.jpg"
             }
           ]
         }
@@ -81,6 +66,6 @@
   ],
   "stats": {
     "xBuilders": 2,
-    "totalTweets": 4
+    "totalTweets": 3
   }
 }
