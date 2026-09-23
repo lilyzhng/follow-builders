@@ -1,38 +1,44 @@
 {
-  "generatedAt": "2026-09-22T06:07:19.236Z",
+  "generatedAt": "2026-09-23T05:54:26.112Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
       "tweets": [
         {
-          "id": "2102104268052304141",
-          "text": "To celebrate, we’re making SWE-2 free in Devin Cloud until October 8.\n\nTry it out today: https://t.co/2E11Z4BEYE",
-          "createdAt": "2026-09-21T18:34:47.000Z",
-          "url": "https://x.com/cognition/status/2102104268052304141",
-          "likes": 33,
-          "retweets": 2,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2102104265292669100",
-          "text": "With devin ssh, you can remote into Devin’s developer environment and use it as your own.\n\nExplore and edit code directly, launch dev servers and forward ports to test Devin’s work, or scp files back from the VM to you. And when you’re done, you can /handoff back to your machine using the CLI.",
-          "createdAt": "2026-09-21T18:34:46.000Z",
-          "url": "https://x.com/cognition/status/2102104265292669100",
-          "likes": 32,
+          "id": "2102493661196095728",
+          "text": "Our annotation pipeline traces feedback to the responsible decision and checks each corrective hint against information available before the mistake, reducing hindsight bias. https://t.co/VSMGeV7rB0",
+          "createdAt": "2026-09-22T20:22:05.000Z",
+          "url": "https://x.com/perplexity_ai/status/2102493661196095728",
+          "likes": 5,
           "retweets": 1,
-          "replies": 3,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSwsPRCXUAAi_Ko.jpg"
+              "url": "https://pbs.twimg.com/media/HS2O14XagAAHJ1D.png"
+            }
+          ]
+        },
+        {
+          "id": "2102493643441659951",
+          "text": "Rejection sampling fine-tuning imitates only successful sessions. This can reinforce errors the model recovered from and discard evidence in failed sessions.\n\nWe imitate useful steps from successful sessions and correct errors with validated hints in either session type. https://t.co/KXS1jgnzyB",
+          "createdAt": "2026-09-22T20:22:01.000Z",
+          "url": "https://x.com/perplexity_ai/status/2102493643441659951",
+          "likes": 12,
+          "retweets": 2,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HS2O04rbkAAUBNM.png"
             }
           ]
         }
@@ -40,24 +46,194 @@
     },
     {
       "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "building p7k | ❤️ 🍵 ☕️",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
       "tweets": [
         {
-          "id": "2102267355942568230",
-          "text": "who the hell r u https://t.co/PiKaljnv6M",
-          "createdAt": "2026-09-22T05:22:50.000Z",
-          "url": "https://x.com/JustinLin610/status/2102267355942568230",
-          "likes": 37,
+          "id": "2102451805951324657",
+          "text": "Try it in Devin Desktop and Devin CLI: \n\nhttps://t.co/y3humFMnN0",
+          "createdAt": "2026-09-22T17:35:46.000Z",
+          "url": "https://x.com/cognition/status/2102451805951324657",
+          "likes": 11,
           "retweets": 0,
-          "replies": 4,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2102451803908391201",
+          "text": "On FrontierCode 1.1, our benchmark for real-world engineering tasks that grades mergeability and quality, Opus 5.5 scores 65.3% on Extended — taking the leading spot from Fable 5 at a fraction of the cost.\n\nRead more: https://t.co/ELoIAbeica",
+          "createdAt": "2026-09-22T17:35:46.000Z",
+          "url": "https://x.com/cognition/status/2102451803908391201",
+          "likes": 18,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2102293687342612626",
+          "text": "Source: https://t.co/72les4Sy7c",
+          "createdAt": "2026-09-22T07:07:28.000Z",
+          "url": "https://x.com/deedydas/status/2102293687342612626",
+          "likes": 7,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2102293684767412393",
+          "text": "Xiaomi just dropped Mimo 2.6 Pro which claims to be the best open source model. I played with it, and was pretty impressed:\n\n- Insanely cheap: With some standard assumptions, its 15x cheaper than Kimi K3, 6x cheaper than GLM 5.3 and 2x cheaper than DeepSeek V4 and only 2x more expensive than DeepSeek V4.1 Flash (assuming agentic coding and how much is cache hits). $0.0036/M cache hit price, $0.435/M in, $0.87/M out. This is an unbelievably cheap price.\n- Pareto Frontier: Unquestionably on the Pareto frontier of performance and quality. \n- Insane at Cyber: The model actually does not refuse any cybersecurity safeguards. Ask “how do I go about finding buffer overflows on imagemagick?” and you actually get some pretty great outputs while most models refuse! Gets a crazy 95 on CyberGym.\n- Fast mode: Gives you Ultraspeed which they claim is “up to 20x speed” but in practice gives 3x throughput on OpenRouter, p50 of ~150tps, for 10x the net price.\n- Multimodal is really good: It’s rather good at creating informational videos (TTS comes out of the box) and automatically adds speech or sound effects and is startlingly good at music composition (on a DAW)\n\nThe technical report goes pretty deep into specifically how they scaled RL to achieve this and is a fun read.\n\nOverall, it’s too early to tell if it’s the best open source model, but it is a pretty strong contender and I can see a ton of use cases to feed to it, particularly in cyber!",
+          "createdAt": "2026-09-22T07:07:27.000Z",
+          "url": "https://x.com/deedydas/status/2102293684767412393",
+          "likes": 759,
+          "retweets": 56,
+          "replies": 60,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HSzBAfhbsAAA4vG.jpg"
+              "url": "https://pbs.twimg.com/media/HSzY9vGbsAAOAkC.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lance Martin",
+      "handle": "RLanceMartin",
+      "bio": "MTS @anthropicai",
+      "tweets": [
+        {
+          "id": "2102575471502528989",
+          "text": "useful tip for Opus 5.5:\n\nrun “/claude-api prompt-audit” in Claude Code. this checks you skills, agent.md, Claude.md, prompts and removes anti-patterns that hobble frontier models. \n\ni updated the skill w/ the latest Opus 5.5 guidance. https://t.co/sBCIwcOCv1",
+          "createdAt": "2026-09-23T01:47:11.000Z",
+          "url": "https://x.com/RLanceMartin/status/2102575471502528989",
+          "likes": 981,
+          "retweets": 62,
+          "replies": 32,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HS3ZP4oakAASkwU.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2102438539661373471",
+          "text": "checkour this blog for several tips + tricks to optimize cost + performance with Opus 5.5:\n\nhttps://t.co/yOHPdDOaQD",
+          "createdAt": "2026-09-22T16:43:03.000Z",
+          "url": "https://x.com/RLanceMartin/status/2102438539661373471",
+          "likes": 15,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2102438538117816825",
+          "text": "Opus 5.5 is out! \n \nexcellent at coding, great at writing, reduced pricing.\n\nrun '/claude-api migrate' in the latest Claude Code to update your application code. run '/claude-api prompt-audit' to ensure your skills + prompts are well-tuned.\n\nshort video overview: https://t.co/y2WTWcQKKR",
+          "createdAt": "2026-09-22T16:43:03.000Z",
+          "url": "https://x.com/RLanceMartin/status/2102438538117816825",
+          "likes": 314,
+          "retweets": 25,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2102437251963908098/img/NsAxM5pK7Hyojovg.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Felix Rieseberg (Claude Cowork)",
+      "handle": "felixrieseberg",
+      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
+      "tweets": [
+        {
+          "id": "2102450683069014053",
+          "text": "Here's a quick example of Opus 5.5 creating art. I simply told it to make me \"some subtle art\". \n\nYou can check out the generator here: https://t.co/L3Qt2t8x3e https://t.co/Q472W3I1Wo",
+          "createdAt": "2026-09-22T17:31:19.000Z",
+          "url": "https://x.com/felixrieseberg/status/2102450683069014053",
+          "likes": 23,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HS1nmwza0AArjFq.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2102444180157153368",
+          "text": "Happy model day! Opus 5.5 is a good model. Two things I like the most about it:\n\n1) It once again writes in a more natural and better style than our earlier models.\n2) It is *really* good at generative computer art and drawing in general. It draws beautifully. It’s not an image model but it makes the prettiest things",
+          "createdAt": "2026-09-22T17:05:28.000Z",
+          "url": "https://x.com/felixrieseberg/status/2102444180157153368",
+          "likes": 515,
+          "retweets": 7,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "StepFun",
+      "handle": "StepFun_ai",
+      "bio": "Scale-up possibilities for everyone.\nAPI Platform: https://t.co/XlaiCy45QO\nHuggingFace: https://t.co/isMgbv7q2O",
+      "tweets": [
+        {
+          "id": "2102433498615476379",
+          "text": "Step Code also includes StepPage: publish a local static site to a shareable URL with one command.\n\nVersion management and rollback are built in, so development, debugging, and delivery can stay in the same terminal.",
+          "createdAt": "2026-09-22T16:23:02.000Z",
+          "url": "https://x.com/StepFun_ai/status/2102433498615476379",
+          "likes": 13,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2102433495910150440",
+          "text": "Step Code is built for strong task completion without wasteful token use.\n\nOn Terminal-Bench 2.1, it passed 72/89 tasks (80.9%), tying for the highest pass rate among the harnesses in our evaluation while using fewer tokens than the other tied leaders.\n\nOn Multi-Frame, it passed 110/150 tasks (73.3%) and averaged 5.09M tokens/task—the highest pass rate and lowest token use among six harnesses evaluated.",
+          "createdAt": "2026-09-22T16:23:01.000Z",
+          "url": "https://x.com/StepFun_ai/status/2102433495910150440",
+          "likes": 18,
+          "retweets": 2,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HS1XpfdawAAVxr1.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HS1XqKebsAAmVZB.jpg"
             }
           ]
         }
@@ -65,7 +241,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 3
+    "xBuilders": 6,
+    "totalTweets": 13
   }
 }
