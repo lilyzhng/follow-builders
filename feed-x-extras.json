@@ -1,27 +1,44 @@
 {
-  "generatedAt": "2026-09-24T06:07:03.466Z",
+  "generatedAt": "2026-09-25T06:07:51.414Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
       "tweets": [
         {
-          "id": "2102823962380259443",
-          "text": "Devin loves building apps on its own PC. Now, it works even better on yours.\n\nIntroducing two updates to Devin for Microsoft users: native support for Teams, and a first-party Microsoft 365 integration to connect to your mail, calendar files, chats, and more. https://t.co/lC1Dii9FNK",
-          "createdAt": "2026-09-23T18:14:35.000Z",
-          "url": "https://x.com/cognition/status/2102823962380259443",
-          "likes": 249,
-          "retweets": 18,
-          "replies": 18,
+          "id": "2103184699426480135",
+          "text": "Photon now handles all retrieval and ranking across Perplexity, replacing the open-source engine we used before. https://t.co/7lnutfVhR6",
+          "createdAt": "2026-09-24T18:08:02.000Z",
+          "url": "https://x.com/perplexity_ai/status/2103184699426480135",
+          "likes": 10,
+          "retweets": 0,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2102821909679194112/img/QFk2udooTspifv3m.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HTADVq6awAAzgXx.png"
+            }
+          ]
+        },
+        {
+          "id": "2103184683429486795",
+          "text": "Fast Search spends less compute on ranking than the default preset. It's perfect for most day-to-day agentic tasks.\n\nOn our internal tests of long-tail and broad-coverage queries, it scores 0.24 points lower on relevance and about 3 percentage points lower on answer availability. https://t.co/EP54SjqSsj",
+          "createdAt": "2026-09-24T18:07:58.000Z",
+          "url": "https://x.com/perplexity_ai/status/2103184683429486795",
+          "likes": 18,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HTADUv8bQAIVm-1.png"
             }
           ]
         }
@@ -34,112 +51,41 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2102847595018420406",
-          "text": "Lot of people asking: no video gen model was used here, no additional libraries.\n\nJust jacascript, playwright and ffmpeg. Claude coded this website animation and took a video of it!",
-          "createdAt": "2026-09-23T19:48:30.000Z",
-          "url": "https://x.com/deedydas/status/2102847595018420406",
-          "likes": 61,
-          "retweets": 2,
-          "replies": 10,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2103344411539321334",
+          "text": "Higgsfield just entered the ranks of iconic startups that have reached $1B in revenue run rate.\n\nAlex Mashrabov (@alexmashrabov) is an absolute force of nature and we’re so fortunate at Menlo to have led the seed round. https://t.co/g98HlH5rei",
+          "createdAt": "2026-09-25T04:42:40.000Z",
+          "url": "https://x.com/deedydas/status/2103344411539321334",
+          "likes": 59,
+          "retweets": 4,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2103158589577977939"
         },
         {
-          "id": "2102787937482252537",
-          "text": "Opus 5.5 is incredible at instructional video generation. \n\nI made this launch video for a inference startup in 1min for ~$2. Videos like these used to take weeks if not months and a lot of coordination with agencies and 1000x the costs.\n\nHumans broadly prefer video to text. This changes the substrate of communication. These videos actually help communicate technical ideas in seconds (photorealistic video gen like Seedance is not very useful here).\n- changes how often marketing should be talking about products and launches\n- change how sales people can talk about technical products to their customers\n- allow technical people to easily explain concepts internally without long docs\nAnd thats just scratching the surface within startups.\n\nPrompt: “make a modern slick and punchy video for a modern startup that works on inference”",
-          "createdAt": "2026-09-23T15:51:26.000Z",
-          "url": "https://x.com/deedydas/status/2102787937482252537",
-          "likes": 2390,
-          "retweets": 115,
-          "replies": 153,
+          "id": "2103174923607036384",
+          "text": "Thanks @AnishDAC for the idea! https://t.co/P140UpJKnQ",
+          "createdAt": "2026-09-24T17:29:11.000Z",
+          "url": "https://x.com/deedydas/status/2103174923607036384",
+          "likes": 12,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2103143343492624749"
+        },
+        {
+          "id": "2103174501345493197",
+          "text": "“Translate this IKEA assembly manual into a 3D narrated instructional video” with Opus 5.5.\n\nOvernight, Opus just became the most actually useful video model, via code. https://t.co/Q2kNygBPW5",
+          "createdAt": "2026-09-24T17:27:30.000Z",
+          "url": "https://x.com/deedydas/status/2103174501345493197",
+          "likes": 741,
+          "retweets": 53,
+          "replies": 49,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2102787906494668800/img/agrbxvHg24w3nJQD.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Felix Rieseberg (Claude Cowork)",
-      "handle": "felixrieseberg",
-      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
-      "tweets": [
-        {
-          "id": "2102913273775731159",
-          "text": "You may have heard that my colleagues over in our experimental biology team have discovered their first major breakthrough, which is really exciting - they discovered a new enzyme system, array-associated reverse transcriptases (ART), that have never been reported by human scientists.\n\nI really love reading some of Claude's takes while it was assisting with this research though. Good Claude!",
-          "createdAt": "2026-09-24T00:09:29.000Z",
-          "url": "https://x.com/felixrieseberg/status/2102913273775731159",
-          "likes": 168,
-          "retweets": 7,
-          "replies": 8,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HS8L81cbEAACUuP.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2102814642829725999",
-          "text": "One of the best parts of working on Claude is the joy I feel when I see people using it to create things I didn't even think possible https://t.co/fBVjF1j54j",
-          "createdAt": "2026-09-23T17:37:33.000Z",
-          "url": "https://x.com/felixrieseberg/status/2102814642829725999",
-          "likes": 75,
-          "retweets": 0,
-          "replies": 4,
-          "isQuote": true,
-          "quotedTweetId": "2102440678282412195"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Qwen",
-      "handle": "Alibaba_Qwen",
-      "bio": "Open foundation models for AGI.",
-      "tweets": [
-        {
-          "id": "2102727410093601172",
-          "text": "Performance of Mobile Planner Agent: https://t.co/wOScXsGX26",
-          "createdAt": "2026-09-23T11:50:56.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2102727410093601172",
-          "likes": 80,
-          "retweets": 1,
-          "replies": 6,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HS5gzAZa4AAlJ94.png"
-            },
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HS5gzAXaoAAquDW.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2102727405198876753",
-          "text": "Introducing Qwen Intelligence, bringing personal intelligence within everyone's reach. 📱✨\n\nIt launches with three SOTA agents: 🥳\n- Mobile Planner Agent: plans, decomposes & orchestrates complex tasks. #1 on MobilePA-Bench, MobilePA-Bench Business & Memory.\n- Mobile-Use Agent: gets things done, API-first with GUI fallback. MobileWorld 82.1, MobileWorld-Real 92.2, AndroidDaily 97.2, 90% end-to-end success rate.\n- Mobile Creative Agent: turns one sentence into ready-to-use creations. Image generated in 3s, about 2x faster than leading peers.\n\nWe're also opening up our benchmark suite: MobilePA-Bench, MobileWorld, MobileWorld-Real, and MobileWorld-Safety, covering planning, cross-app execution, real-device performance and safety.\n\n🔗 Learn more about the agents:\n- Qwen Intelligence official website: https://t.co/ZJJYJtmJIL\n- Mobile Planner Agent: https://t.co/M0Wxpoa00x\n- Mobile-Use Agent: https://t.co/vvQtbUAagJ\n- Mobile Creative Agent: https://t.co/gWWOmrSIqV\n\n🔗 Explore our open benchmark suite:\n- MobilePA-Bench: https://t.co/9nXxzG0Ygp\n- MobileWorld (GitHub): https://t.co/POvERSuCSJ\n- Leaderboard: https://t.co/YYOw8bmJ6H",
-          "createdAt": "2026-09-23T11:50:54.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2102727405198876753",
-          "likes": 2591,
-          "retweets": 266,
-          "replies": 112,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HS5gsaTacAAxrKw.jpg"
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2103174428674953216/img/x1yvkkj1kVlEku64.jpg"
             }
           ]
         }
@@ -147,7 +93,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 7
+    "xBuilders": 2,
+    "totalTweets": 5
   }
 }
