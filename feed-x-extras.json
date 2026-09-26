@@ -1,49 +1,7 @@
 {
-  "generatedAt": "2026-09-25T06:07:51.414Z",
+  "generatedAt": "2026-09-26T06:06:47.614Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Perplexity",
-      "handle": "perplexity_ai",
-      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
-      "tweets": [
-        {
-          "id": "2103184699426480135",
-          "text": "Photon now handles all retrieval and ranking across Perplexity, replacing the open-source engine we used before. https://t.co/7lnutfVhR6",
-          "createdAt": "2026-09-24T18:08:02.000Z",
-          "url": "https://x.com/perplexity_ai/status/2103184699426480135",
-          "likes": 10,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HTADVq6awAAzgXx.png"
-            }
-          ]
-        },
-        {
-          "id": "2103184683429486795",
-          "text": "Fast Search spends less compute on ranking than the default preset. It's perfect for most day-to-day agentic tasks.\n\nOn our internal tests of long-tail and broad-coverage queries, it scores 0.24 points lower on relevance and about 3 percentage points lower on answer availability. https://t.co/EP54SjqSsj",
-          "createdAt": "2026-09-24T18:07:58.000Z",
-          "url": "https://x.com/perplexity_ai/status/2103184683429486795",
-          "likes": 18,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HTADUv8bQAIVm-1.png"
-            }
-          ]
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -51,41 +9,19 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2103344411539321334",
-          "text": "Higgsfield just entered the ranks of iconic startups that have reached $1B in revenue run rate.\n\nAlex Mashrabov (@alexmashrabov) is an absolute force of nature and we’re so fortunate at Menlo to have led the seed round. https://t.co/g98HlH5rei",
-          "createdAt": "2026-09-25T04:42:40.000Z",
-          "url": "https://x.com/deedydas/status/2103344411539321334",
-          "likes": 59,
-          "retweets": 4,
-          "replies": 8,
-          "isQuote": true,
-          "quotedTweetId": "2103158589577977939"
-        },
-        {
-          "id": "2103174923607036384",
-          "text": "Thanks @AnishDAC for the idea! https://t.co/P140UpJKnQ",
-          "createdAt": "2026-09-24T17:29:11.000Z",
-          "url": "https://x.com/deedydas/status/2103174923607036384",
-          "likes": 12,
-          "retweets": 0,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2103143343492624749"
-        },
-        {
-          "id": "2103174501345493197",
-          "text": "“Translate this IKEA assembly manual into a 3D narrated instructional video” with Opus 5.5.\n\nOvernight, Opus just became the most actually useful video model, via code. https://t.co/Q2kNygBPW5",
-          "createdAt": "2026-09-24T17:27:30.000Z",
-          "url": "https://x.com/deedydas/status/2103174501345493197",
-          "likes": 741,
-          "retweets": 53,
-          "replies": 49,
+          "id": "2103700364331728936",
+          "text": "It's still hard to fathom that Big 4 capital expenditure buildout for AI is 2x the peak of Telecom a quarter of a century ago at 2.4% of GDP.\n\nReminder that this is the biggest buildout in infrastructure in America, eclipsing even railroads. https://t.co/hRuNrvwpZM",
+          "createdAt": "2026-09-26T04:17:06.000Z",
+          "url": "https://x.com/deedydas/status/2103700364331728936",
+          "likes": 91,
+          "retweets": 6,
+          "replies": 16,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2103174428674953216/img/x1yvkkj1kVlEku64.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HTHXZbJawAAj2ml.jpg"
             }
           ]
         }
@@ -93,7 +29,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 5
+    "xBuilders": 1,
+    "totalTweets": 1
   }
 }
