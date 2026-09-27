@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T06:06:47.614Z",
+  "generatedAt": "2026-09-27T06:33:57.688Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,27 +9,49 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2103700364331728936",
-          "text": "It's still hard to fathom that Big 4 capital expenditure buildout for AI is 2x the peak of Telecom a quarter of a century ago at 2.4% of GDP.\n\nReminder that this is the biggest buildout in infrastructure in America, eclipsing even railroads. https://t.co/hRuNrvwpZM",
-          "createdAt": "2026-09-26T04:17:06.000Z",
-          "url": "https://x.com/deedydas/status/2103700364331728936",
-          "likes": 91,
-          "retweets": 6,
-          "replies": 16,
+          "id": "2103981035986071900",
+          "text": "Prompt: “Make a 2 minute video of increasing speed and intensity about the entire history of impact of Google the company over its history. Use Google color theme, inspirational and relevant music you compose in the background and focus on all the achievements it’s unlocked for the world. Think about it like a film director and make it super techno optimist vibes”",
+          "createdAt": "2026-09-26T22:52:23.000Z",
+          "url": "https://x.com/deedydas/status/2103981035986071900",
+          "likes": 100,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2103965547780345859",
+          "text": "claude just generated this 2 minute video about the history of Google and it goes so goddamn hard https://t.co/tvlMAe0NWM",
+          "createdAt": "2026-09-26T21:50:51.000Z",
+          "url": "https://x.com/deedydas/status/2103965547780345859",
+          "likes": 1277,
+          "retweets": 111,
+          "replies": 71,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HTHXZbJawAAj2ml.jpg"
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2103962803627606016/img/D3e0oh-8E0Cb0vFn.jpg"
             }
           ]
+        },
+        {
+          "id": "2103922651203010821",
+          "text": "Some other thoughts:\n\n- Continuing to raise is also extremely tricky for neolabs. You may have proven a technical milestone from your first raise, but often are in between a rock and a hard place with revenue. Show it, and if it’s not large or fast enough and it’s not exciting. Don’t show it, and you still have to raise on the promise of “once this scales, it’ll work really well!”\n\n- Retaining talent is tricky. If you’ve raised at a high valuation and stall out for a significant period of time, employees begin to wonder: am I in the right place? Does my equity hold value?Should I just go somewhere else growing quicker? Often neolabs have some of the most talented minds in AI, so the opportunity cost is in the 7-8figs or more per year.\n\n- High valuations set a high floor for acquisitions. If you’ve raised $1B on $5B, for an acquirer to buy you they need $1B to clear the pref stack and for anyone in the company to be paid out for their equity. The talent wars seem slightly cooler than they have been in the past, so the number of companies who can afford to pay that amount are low. Great companies often get better ROI acquiring amazing talent in small ~10 person teams in younger companies at <$100M who have raised much less and actually make money on the exit.",
+          "createdAt": "2026-09-26T19:00:23.000Z",
+          "url": "https://x.com/deedydas/status/2103922651203010821",
+          "likes": 52,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 1
+    "totalTweets": 3
   }
 }
