@@ -1,78 +1,7 @@
 {
-  "generatedAt": "2026-09-30T06:38:29.718Z",
+  "generatedAt": "2026-10-01T07:09:28.151Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
-      "tweets": [
-        {
-          "id": "2104959373479154038",
-          "text": "Essay to video https://t.co/2T9Ih5bS3Y",
-          "createdAt": "2026-09-29T15:39:57.000Z",
-          "url": "https://x.com/deedydas/status/2104959373479154038",
-          "likes": 8,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2104151743907160546"
-        },
-        {
-          "id": "2104959209922310542",
-          "text": "GitHub repo explainers with running code walkthrough https://t.co/iFYCboqw0a",
-          "createdAt": "2026-09-29T15:39:18.000Z",
-          "url": "https://x.com/deedydas/status/2104959209922310542",
-          "likes": 9,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2104391577091407965"
-        },
-        {
-          "id": "2104959058239500513",
-          "text": "Thread of things generated with this workflow https://t.co/XJMV3B9pQW",
-          "createdAt": "2026-09-29T15:38:42.000Z",
-          "url": "https://x.com/deedydas/status/2104959058239500513",
-          "likes": 8,
-          "retweets": 2,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2104742027695116471"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "building p7k | ❤️ 🍵 ☕️",
-      "tweets": [
-        {
-          "id": "2105000615072223311",
-          "text": "lol https://t.co/UmlfbJu8TJ",
-          "createdAt": "2026-09-29T18:23:50.000Z",
-          "url": "https://x.com/JustinLin610/status/2105000615072223311",
-          "likes": 96,
-          "retweets": 1,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2104985996517355691"
-        },
-        {
-          "id": "2105000344468226372",
-          "text": "hope smarter than opus 5.5 https://t.co/Y64jQLXQxQ",
-          "createdAt": "2026-09-29T18:22:45.000Z",
-          "url": "https://x.com/JustinLin610/status/2105000344468226372",
-          "likes": 109,
-          "retweets": 1,
-          "replies": 12,
-          "isQuote": true,
-          "quotedTweetId": "2104986129686741046"
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Perplexity",
@@ -80,26 +9,38 @@
       "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
       "tweets": [
         {
-          "id": "2104952567289753621",
-          "text": "Bumblebee checks developer machines for risky packages and extensions.\n\nComputer reviews findings from Bumblebee and Numbat and proposes better detection rules. Humans approve every change before it ships.\n\nAgents help improve the controls but can't approve their own changes. https://t.co/Jl1BATOFeq",
-          "createdAt": "2026-09-29T15:12:54.000Z",
-          "url": "https://x.com/perplexity_ai/status/2104952567289753621",
+          "id": "2105374034901028909",
+          "text": "context-bench is a benchmark for context-aware retrieval, created and privately held by @turbopuffer. Its queries, documents and capabilities are inspired by conversations with turbopuffer customers.\n\nIt has 2,099 queries and 38,894 documents. We submitted for blind evaluation. https://t.co/IsHUVOl4gh",
+          "createdAt": "2026-09-30T19:07:40.000Z",
+          "url": "https://x.com/perplexity_ai/status/2105374034901028909",
           "likes": 11,
-          "retweets": 1,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2057869990536360334"
-        },
-        {
-          "id": "2104952555369558146",
-          "text": "Numbat independently monitors coding agents across thousands of our endpoints.\n\nIt works across Claude Code, Codex, OpenCode, and Pi.\n\nIt can block dangerous actions before they run and detect sequences such as reading a secret, then sending data out. https://t.co/ABwKzJ3H2H",
-          "createdAt": "2026-09-29T15:12:51.000Z",
-          "url": "https://x.com/perplexity_ai/status/2104952555369558146",
-          "likes": 5,
           "retweets": 0,
           "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2082511900580196596"
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HTfKhwSbUAAPgZd.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2105374018463576466",
+          "text": "We overcome gold-chunk supervision limits by distilling relevance from our query-aware context compression model.\n\nIt scores every document token against the query. Aggregated into chunk-level targets, those scores train the embedder to retrieve answer and supporting chunks. https://t.co/PvP2TLX5Y9",
+          "createdAt": "2026-09-30T19:07:36.000Z",
+          "url": "https://x.com/perplexity_ai/status/2105374018463576466",
+          "likes": 15,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HTfKg1ragAAs5H-.png"
+            }
+          ]
         }
       ]
     },
@@ -110,30 +51,60 @@
       "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
       "tweets": [
         {
-          "id": "2104996240190792029",
-          "text": "Starting today, you can now use your ChatGPT subscription directly in Devin.\n\nJust sign in to Devin with your ChatGPT Plus or Pro plan and all OpenAI model usage in Devin will drawn down from your quota.\n\nNow live in Devin Cloud, Devin Desktop, and Devin CLI. https://t.co/t30ZHfUQVz",
-          "createdAt": "2026-09-29T18:06:27.000Z",
-          "url": "https://x.com/cognition/status/2104996240190792029",
-          "likes": 1371,
-          "retweets": 164,
-          "replies": 83,
+          "id": "2105343912239841596",
+          "text": "With 12 engineers supporting 50+ attorneys, @crosbylegal put Devin on first response.\n\nDevin investigates 20–40 bugs and alerts a day, cut Sentry noise by 50%, and kept on-call to one engineer as the legal team grew 5x. https://t.co/Chdx1u2e3A",
+          "createdAt": "2026-09-30T17:07:58.000Z",
+          "url": "https://x.com/cognition/status/2105343912239841596",
+          "likes": 139,
+          "retweets": 13,
+          "replies": 9,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2104996036594872320/img/NvYhZAno-dovnyi6.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HTevIVOW8AADZFN.jpg"
             }
           ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2105426874377642380",
+          "text": "The exact price is less meaningful than +-25% of frontier range. Of course, this is gameable by pricing high arbitrarily. And of course, you can’t avoid playing the benchmark game to avoid counter signaling.\n\nBut if you do price at frontier and do get meaningful usage uptick, I buy that it’s a good model!",
+          "createdAt": "2026-09-30T22:37:38.000Z",
+          "url": "https://x.com/deedydas/status/2105426874377642380",
+          "likes": 16,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2104988944022872155",
-          "text": "Try it: https://t.co/y3humFMnN0",
-          "createdAt": "2026-09-29T17:37:27.000Z",
-          "url": "https://x.com/cognition/status/2104988944022872155",
-          "likes": 6,
+          "id": "2105419073412825159",
+          "text": "Most if not all model companies pay benchmark companies to test their model and multiple versions of their model in advance of launch.\n\nThis is how benchmarking companies make money.",
+          "createdAt": "2026-09-30T22:06:38.000Z",
+          "url": "https://x.com/deedydas/status/2105419073412825159",
+          "likes": 46,
           "retweets": 0,
-          "replies": 1,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2105417575618297975",
+          "text": "We’re at a point in late stage AI model capitalism where you know the frontier has to win in a bunch of benchmarks to launch. These numbers mean nothing.\n\nThe thing to trust is the price.\n\nIf they price it high, it’s a good model. If they don’t, it’s benchmaxxed.",
+          "createdAt": "2026-09-30T22:00:41.000Z",
+          "url": "https://x.com/deedydas/status/2105417575618297975",
+          "likes": 557,
+          "retweets": 18,
+          "replies": 71,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -141,7 +112,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 9
+    "xBuilders": 3,
+    "totalTweets": 6
   }
 }
