@@ -1,118 +1,46 @@
 {
-  "generatedAt": "2026-10-01T07:09:28.151Z",
+  "generatedAt": "2026-10-02T06:57:42.468Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Perplexity",
-      "handle": "perplexity_ai",
-      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "name": "Modal",
+      "handle": "modal",
+      "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
       "tweets": [
         {
-          "id": "2105374034901028909",
-          "text": "context-bench is a benchmark for context-aware retrieval, created and privately held by @turbopuffer. Its queries, documents and capabilities are inspired by conversations with turbopuffer customers.\n\nIt has 2,099 queries and 38,894 documents. We submitted for blind evaluation. https://t.co/IsHUVOl4gh",
-          "createdAt": "2026-09-30T19:07:40.000Z",
-          "url": "https://x.com/perplexity_ai/status/2105374034901028909",
-          "likes": 11,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HTfKhwSbUAAPgZd.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2105374018463576466",
-          "text": "We overcome gold-chunk supervision limits by distilling relevance from our query-aware context compression model.\n\nIt scores every document token against the query. Aggregated into chunk-level targets, those scores train the embedder to retrieve answer and supporting chunks. https://t.co/PvP2TLX5Y9",
-          "createdAt": "2026-09-30T19:07:36.000Z",
-          "url": "https://x.com/perplexity_ai/status/2105374018463576466",
-          "likes": 15,
-          "retweets": 0,
+          "id": "2105764969589673998",
+          "text": "Modal Clusters are now available. \n\nGlobally available, RDMA-connected nodes available instantly behind a single decorator.\n\nhttps://t.co/m5JYRNk2YU",
+          "createdAt": "2026-10-01T21:01:06.000Z",
+          "url": "https://x.com/modal/status/2105764969589673998",
+          "likes": 58,
+          "retweets": 4,
           "replies": 2,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HTfKg1ragAAs5H-.png"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
-      "tweets": [
+          "quotedTweetId": null
+        },
         {
-          "id": "2105343912239841596",
-          "text": "With 12 engineers supporting 50+ attorneys, @crosbylegal put Devin on first response.\n\nDevin investigates 20–40 bugs and alerts a day, cut Sentry noise by 50%, and kept on-call to one engineer as the legal team grew 5x. https://t.co/Chdx1u2e3A",
-          "createdAt": "2026-09-30T17:07:58.000Z",
-          "url": "https://x.com/cognition/status/2105343912239841596",
-          "likes": 139,
-          "retweets": 13,
-          "replies": 9,
+          "id": "2105764967995838777",
+          "text": "Just launched at Modal Runtime:\n\n- Multi-node clusters \n- VM Sandboxes \n- Sandbox Sidecars \n- Sticky Sessions\n\nAnd more: https://t.co/h8tvCdWYm1",
+          "createdAt": "2026-10-01T21:01:06.000Z",
+          "url": "https://x.com/modal/status/2105764967995838777",
+          "likes": 185,
+          "retweets": 15,
+          "replies": 7,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HTevIVOW8AADZFN.jpg"
+              "url": "https://pbs.twimg.com/media/HTkuFEXbAAAz6nu.jpg"
             }
           ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
-      "tweets": [
-        {
-          "id": "2105426874377642380",
-          "text": "The exact price is less meaningful than +-25% of frontier range. Of course, this is gameable by pricing high arbitrarily. And of course, you can’t avoid playing the benchmark game to avoid counter signaling.\n\nBut if you do price at frontier and do get meaningful usage uptick, I buy that it’s a good model!",
-          "createdAt": "2026-09-30T22:37:38.000Z",
-          "url": "https://x.com/deedydas/status/2105426874377642380",
-          "likes": 16,
-          "retweets": 1,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2105419073412825159",
-          "text": "Most if not all model companies pay benchmark companies to test their model and multiple versions of their model in advance of launch.\n\nThis is how benchmarking companies make money.",
-          "createdAt": "2026-09-30T22:06:38.000Z",
-          "url": "https://x.com/deedydas/status/2105419073412825159",
-          "likes": 46,
-          "retweets": 0,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2105417575618297975",
-          "text": "We’re at a point in late stage AI model capitalism where you know the frontier has to win in a bunch of benchmarks to launch. These numbers mean nothing.\n\nThe thing to trust is the price.\n\nIf they price it high, it’s a good model. If they don’t, it’s benchmaxxed.",
-          "createdAt": "2026-09-30T22:00:41.000Z",
-          "url": "https://x.com/deedydas/status/2105417575618297975",
-          "likes": 557,
-          "retweets": 18,
-          "replies": 71,
-          "isQuote": false,
-          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 6
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
