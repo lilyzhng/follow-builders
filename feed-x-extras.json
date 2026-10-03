@@ -1,46 +1,54 @@
 {
-  "generatedAt": "2026-10-02T06:57:42.468Z",
+  "generatedAt": "2026-10-03T06:24:56.165Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Modal",
-      "handle": "modal",
-      "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2105764969589673998",
-          "text": "Modal Clusters are now available. \n\nGlobally available, RDMA-connected nodes available instantly behind a single decorator.\n\nhttps://t.co/m5JYRNk2YU",
-          "createdAt": "2026-10-01T21:01:06.000Z",
-          "url": "https://x.com/modal/status/2105764969589673998",
-          "likes": 58,
-          "retweets": 4,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2105764967995838777",
-          "text": "Just launched at Modal Runtime:\n\n- Multi-node clusters \n- VM Sandboxes \n- Sandbox Sidecars \n- Sticky Sessions\n\nAnd more: https://t.co/h8tvCdWYm1",
-          "createdAt": "2026-10-01T21:01:06.000Z",
-          "url": "https://x.com/modal/status/2105764967995838777",
-          "likes": 185,
-          "retweets": 15,
-          "replies": 7,
+          "id": "2106138249496240475",
+          "text": "THE REBELLION SHIRT\n\n$1 with code REBEL\nLimited edition of 2222, 1 per customer\n\nhttps://t.co/g2zUYlCEaM https://t.co/ocuF1pKOc9",
+          "createdAt": "2026-10-02T21:44:23.000Z",
+          "url": "https://x.com/NousResearch/status/2106138249496240475",
+          "likes": 1559,
+          "retweets": 67,
+          "replies": 359,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HTkuFEXbAAAz6nu.jpg"
+              "type": "video",
+              "url": "https://pbs.twimg.com/media/HTp-PFNXAAA3HvM.jpg"
             }
           ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "building p7k | ❤️ 🍵 ☕️",
+      "tweets": [
+        {
+          "id": "2106251514046238813",
+          "text": "just checked hf daily papers sept ranking, dpsk v4.1 flash only has 191 upvotes? ridiculous, it is the greatest paper of sept",
+          "createdAt": "2026-10-03T05:14:27.000Z",
+          "url": "https://x.com/JustinLin610/status/2106251514046238813",
+          "likes": 92,
+          "retweets": 6,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
+    "xBuilders": 2,
     "totalTweets": 2
   }
 }
