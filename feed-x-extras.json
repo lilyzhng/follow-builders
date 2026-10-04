@@ -1,27 +1,38 @@
 {
-  "generatedAt": "2026-10-03T06:24:56.165Z",
+  "generatedAt": "2026-10-04T06:47:59.742Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "building p7k @pragmatik_labs | ❤️ 🍵 ☕️",
       "tweets": [
         {
-          "id": "2106138249496240475",
-          "text": "THE REBELLION SHIRT\n\n$1 with code REBEL\nLimited edition of 2222, 1 per customer\n\nhttps://t.co/g2zUYlCEaM https://t.co/ocuF1pKOc9",
-          "createdAt": "2026-10-02T21:44:23.000Z",
-          "url": "https://x.com/NousResearch/status/2106138249496240475",
-          "likes": 1559,
-          "retweets": 67,
-          "replies": 359,
+          "id": "2106335146970681378",
+          "text": "it is always super hard to find a good angle to take a satisfactory picture. just step back and blow up like 3x or even 5x, u will find that the picture looks much better",
+          "createdAt": "2026-10-03T10:46:47.000Z",
+          "url": "https://x.com/JustinLin610/status/2106335146970681378",
+          "likes": 11,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2106283746261606563",
+          "text": "nyc style https://t.co/dZwuiZ2Q61",
+          "createdAt": "2026-10-03T07:22:32.000Z",
+          "url": "https://x.com/JustinLin610/status/2106283746261606563",
+          "likes": 78,
+          "retweets": 0,
+          "replies": 4,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/media/HTp-PFNXAAA3HvM.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HTsF5h2bQAAYiks.jpg"
             }
           ]
         }
@@ -29,26 +40,26 @@
     },
     {
       "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "building p7k | ❤️ 🍵 ☕️",
+      "name": "Felix Rieseberg (Claude Cowork)",
+      "handle": "felixrieseberg",
+      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
       "tweets": [
         {
-          "id": "2106251514046238813",
-          "text": "just checked hf daily papers sept ranking, dpsk v4.1 flash only has 191 upvotes? ridiculous, it is the greatest paper of sept",
-          "createdAt": "2026-10-03T05:14:27.000Z",
-          "url": "https://x.com/JustinLin610/status/2106251514046238813",
-          "likes": 92,
-          "retweets": 6,
-          "replies": 6,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2106440492045238469",
+          "text": "As far as Claude music videos go, this is by far my favorite one yet.\n\nI prefer Claude being a tool used by humans to make art rather than making art unattended, but even so, I really enjoyed this one. Probably because it’s a little meta. https://t.co/Nw2nH3Eaho",
+          "createdAt": "2026-10-03T17:45:23.000Z",
+          "url": "https://x.com/felixrieseberg/status/2106440492045238469",
+          "likes": 108,
+          "retweets": 3,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2106157622986748377"
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 2,
-    "totalTweets": 2
+    "totalTweets": 3
   }
 }
