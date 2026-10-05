@@ -1,65 +1,29 @@
 {
-  "generatedAt": "2026-10-04T06:47:59.742Z",
+  "generatedAt": "2026-10-05T06:56:46.234Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "building p7k @pragmatik_labs | ❤️ 🍵 ☕️",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2106335146970681378",
-          "text": "it is always super hard to find a good angle to take a satisfactory picture. just step back and blow up like 3x or even 5x, u will find that the picture looks much better",
-          "createdAt": "2026-10-03T10:46:47.000Z",
-          "url": "https://x.com/JustinLin610/status/2106335146970681378",
-          "likes": 11,
-          "retweets": 0,
-          "replies": 2,
+          "id": "2106745995703058448",
+          "text": "Google is an incredible company that I’ve always rooted for that trips over its own bureaucracy in frenetic times.\n\nThey ironically do a middling job at their first priority, but crush it at their second or third. We’ve seen this with Search, Google+, Assistant, Cloud and now even AI. Why?\n\nThe internet would be unrecognizable without Google. This is a company that has Search, Chrome, Android, Workspace (Docs/Sheets), Drive, Play Store, YouTube, Gmail, Maps, Photos, Translate, Gemini, Calendar, Meet, Chromebooks, Waymo: some of the most widespread and most undermonetized products in the history of the world. It is inconceivable for most of us to live life without software Google has made available for $0.\n\nAnd truly, having worked there, this is a company that continuously prioritizes their users over profits. Even as a casual reader, it might be trivial for you to imagine 100s of ways to monetize all of Google’s products. But they usually don’t. They don’t just launch experiments because it’s high engagement, but only when it’s actually good. \n\nSo how does a company like this falter?\n\nMy observation has been that these frenetic eras either attract or condone the worst behavior out of execs that trickle down to the rest of the company. The most “ambitious” L3-L7 people who feel stuck finally see a company-wide priority and their eyes light up with the gleaming prospect of a promotion. A lot of people in big orgs’ entire sense of self esteem is wrapped around their level. They will do a lot for an N+1. “Did you know Sergey is personally working on this?” “Sundar referred to my project in the all hands” In turn, everything in these orgs become a knife fight for getting the most “high impact” projects, fighting for credit, flagrantly hiding concerns around juiced metrics. More work goes into a promo packet than the actual project. Goodhart’s Law kicks in and the metrics measured for a promotion are abused beyond measure.\n\nOn the other hand, second and third priority things work brilliantly. It attracts people with genuine interest, sincerity who are willing to play longer term games. Many products have grown and thrived when left alone.\n\nWhen there is immense pressure for a number to go up, it eventually does but often at the cost of product quality (the small product polish things don’t get me a promo), core innovation (why take on a high risk bet if I can get promoted for copying oai/ant) and cultural cohesion (a lot of bad blood amongst people in the org, tons of reorgs). There is a certain type of individual that thrives in this environment, and they are typically not very likable nor “Googley”. This is why an incredible number of people leave or allow jesus to take the reigns as they cash in the bag.\n\nI lament that every time this happens, we, the billion users, lose out on yet another beautiful Google product.",
+          "createdAt": "2026-10-04T13:59:21.000Z",
+          "url": "https://x.com/deedydas/status/2106745995703058448",
+          "likes": 1477,
+          "retweets": 66,
+          "replies": 95,
           "isQuote": false,
           "quotedTweetId": null
-        },
-        {
-          "id": "2106283746261606563",
-          "text": "nyc style https://t.co/dZwuiZ2Q61",
-          "createdAt": "2026-10-03T07:22:32.000Z",
-          "url": "https://x.com/JustinLin610/status/2106283746261606563",
-          "likes": 78,
-          "retweets": 0,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HTsF5h2bQAAYiks.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Felix Rieseberg (Claude Cowork)",
-      "handle": "felixrieseberg",
-      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
-      "tweets": [
-        {
-          "id": "2106440492045238469",
-          "text": "As far as Claude music videos go, this is by far my favorite one yet.\n\nI prefer Claude being a tool used by humans to make art rather than making art unattended, but even so, I really enjoyed this one. Probably because it’s a little meta. https://t.co/Nw2nH3Eaho",
-          "createdAt": "2026-10-03T17:45:23.000Z",
-          "url": "https://x.com/felixrieseberg/status/2106440492045238469",
-          "likes": 108,
-          "retweets": 3,
-          "replies": 4,
-          "isQuote": true,
-          "quotedTweetId": "2106157622986748377"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 3
+    "xBuilders": 1,
+    "totalTweets": 1
   }
 }
