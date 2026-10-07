@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T07:29:58.932Z",
+  "generatedAt": "2026-10-07T07:10:40.039Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,110 +9,69 @@
       "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2107138770088714678",
-          "text": "Solar Mini 4 from @upstageai is free on Nous Portal for the next two weeks\n\nIt has 3B active parameters (35B total), 512K context, and an Artificial Analysis Intelligence Index score of 24 - above models with 10x the active parameters https://t.co/I3NYr0v6mz",
-          "createdAt": "2026-10-05T16:00:06.000Z",
-          "url": "https://x.com/NousResearch/status/2107138770088714678",
-          "likes": 656,
-          "retweets": 50,
-          "replies": 44,
+          "id": "2107592258216206497",
+          "text": "We do this using an index of four benchmarks. One is our new benchmark, Hermes Bench. \n\nThe others are Terminal-Bench 4.0, Terminal-Bench-Science, and SkillsBench. https://t.co/BEz7Bp9m7g",
+          "createdAt": "2026-10-06T22:02:06.000Z",
+          "url": "https://x.com/NousResearch/status/2107592258216206497",
+          "likes": 117,
+          "retweets": 4,
+          "replies": 4,
           "isQuote": false,
           "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2107135371863588864/img/4IkD6q5r_ltDEshL.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
-      "tweets": [
-        {
-          "id": "2107165035780768021",
-          "text": "In Agent Memory Repo, memory records live in files and are versioned with Git\n\nIt’s a simple primitive but unlocks surprising use cases like a message board across your agent sessions",
-          "createdAt": "2026-10-05T17:44:28.000Z",
-          "url": "https://x.com/cognition/status/2107165035780768021",
-          "likes": 79,
-          "retweets": 2,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2107165034463867001",
-          "text": "Introducing Dreaming: Across sessions, Devin builds a memory graph of how you like to work\n\nAt night Devin self-improves its memory to remove stale records and discover latent information\n\nWe are creating an OSS standard called Agent Memory Repo: https://t.co/b6qzEJsaeT https://t.co/G3o1WQqQbN",
-          "createdAt": "2026-10-05T17:44:28.000Z",
-          "url": "https://x.com/cognition/status/2107165034463867001",
-          "likes": 1993,
-          "retweets": 156,
-          "replies": 109,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2107159507671367680/img/WRaVdmwpRGmIdM6y.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
-      "tweets": [
-        {
-          "id": "2107342696419586198",
-          "text": "Paper: https://t.co/rVtgOaLZpr",
-          "createdAt": "2026-10-06T05:30:26.000Z",
-          "url": "https://x.com/deedydas/status/2107342696419586198",
-          "likes": 9,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2107342692837654639",
-          "text": "The serious answer to how Shazam worked is it took the peaks of a spectrogram of short clips of every song, find the peaks from the highest amplitude bits, hash it with the value being (time stamp, track id) and then the actual recognition is a hashtable lookup.\n\nWe did this for a college CS project. The original paper is fantastic:",
-          "createdAt": "2026-10-06T05:30:25.000Z",
-          "url": "https://x.com/deedydas/status/2107342692837654639",
-          "likes": 376,
-          "retweets": 18,
-          "replies": 15,
-          "isQuote": true,
-          "quotedTweetId": "2106908632843722785",
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HT7JAulacAAGD61.jpg"
+              "url": "https://pbs.twimg.com/media/HT-M5KzXIAAzHRC.jpg"
             }
           ]
         },
         {
-          "id": "2107334032992460803",
-          "text": "If you’re a VC dunking on this, you better have a grand total of one investment.\n\nOtherwise, you are, definitionally, buying yourself options. https://t.co/ojPjl7geEq",
-          "createdAt": "2026-10-06T04:56:00.000Z",
-          "url": "https://x.com/deedydas/status/2107334032992460803",
-          "likes": 51,
-          "retweets": 0,
-          "replies": 12,
-          "isQuote": true,
-          "quotedTweetId": "2107160639504335164"
+          "id": "2107592255124951360",
+          "text": "Introducing Hermes Index: an average of benchmarks measuring model performance in Hermes Agent.\n\nOur goal with Hermes Index is to better inform users choosing between models and to show labs how they perform in Hermes.\n\nhttps://t.co/GMkIS99lcT https://t.co/cE0Qg8EgTy",
+          "createdAt": "2026-10-06T22:02:05.000Z",
+          "url": "https://x.com/NousResearch/status/2107592255124951360",
+          "likes": 2111,
+          "retweets": 138,
+          "replies": 185,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HT-hfxfXsAA98fd.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Code: @MiniMaxAgent \nMiniMax Design: @Hailuo_AI\nAPI: https://t.co/fHRdSV73Hr\nToken Plan: https://t.co/BDCycxdS9Y",
+      "tweets": [
+        {
+          "id": "2107556511044284575",
+          "text": "MiniMax at SF Tech Week 🌉  \n\n📍 Oct 6 · Frontier Models, High-Speed Inference & Agents at Scale With @friendliai , @anacondainc , and @kilocode.  \n\n📍 Oct 7 · Open Source AI Stack With @novita_labs, @ArtificialAnlys, @NousResearch , @radixark , and @vercel.  \n\n📍 Oct 8 · Intelligence in the Open MiniMax research night with @FireworksAI_HQ , @radixark , @digitalocean , @Modular, and @evermind .  \n\n📍 Oct 8 · Magnific Tech: Growth at the Pace of AI MiniMax joins @magnific to discuss building and growing creative AI products.  \n\nSee you in SF. \n\nDetails + RSVP 👇",
+          "createdAt": "2026-10-06T19:40:03.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2107556511044284575",
+          "likes": 47,
+          "retweets": 4,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HT-LdrbaEAApd7m.png"
+            }
+          ]
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 6
+    "xBuilders": 2,
+    "totalTweets": 3
   }
 }
