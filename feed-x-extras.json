@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T07:10:40.039Z",
+  "generatedAt": "2026-10-08T07:16:52.639Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,36 +9,19 @@
       "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2107592258216206497",
-          "text": "We do this using an index of four benchmarks. One is our new benchmark, Hermes Bench. \n\nThe others are Terminal-Bench 4.0, Terminal-Bench-Science, and SkillsBench. https://t.co/BEz7Bp9m7g",
-          "createdAt": "2026-10-06T22:02:06.000Z",
-          "url": "https://x.com/NousResearch/status/2107592258216206497",
-          "likes": 117,
-          "retweets": 4,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null,
+          "id": "2107874963382538469",
+          "text": "As reported in the @WSJ, we have raised a Series B to bring Hermes Agent to new frontiers (and, yes, build a mobile app)\n\nThank you to our investors including @nvidia @M12vc @SamsungNext @robotventures @usv @ycombinator @MenloVentures, among others\n\nhttps://t.co/1BdQjJD90p https://t.co/gz4nbTPLGl https://t.co/PjQnODR1HH",
+          "createdAt": "2026-10-07T16:45:28.000Z",
+          "url": "https://x.com/NousResearch/status/2107874963382538469",
+          "likes": 3366,
+          "retweets": 252,
+          "replies": 310,
+          "isQuote": true,
+          "quotedTweetId": "2107854520592286021",
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HT-M5KzXIAAzHRC.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2107592255124951360",
-          "text": "Introducing Hermes Index: an average of benchmarks measuring model performance in Hermes Agent.\n\nOur goal with Hermes Index is to better inform users choosing between models and to show labs how they perform in Hermes.\n\nhttps://t.co/GMkIS99lcT https://t.co/cE0Qg8EgTy",
-          "createdAt": "2026-10-06T22:02:05.000Z",
-          "url": "https://x.com/NousResearch/status/2107592255124951360",
-          "likes": 2111,
-          "retweets": 138,
-          "replies": 185,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HT-hfxfXsAA98fd.jpg"
+              "url": "https://pbs.twimg.com/media/HUCde70XQAAtlCg.jpg"
             }
           ]
         }
@@ -46,24 +29,107 @@
     },
     {
       "source": "x",
-      "name": "MiniMax",
-      "handle": "MiniMax_AI",
-      "bio": "Code: @MiniMaxAgent \nMiniMax Design: @Hailuo_AI\nAPI: https://t.co/fHRdSV73Hr\nToken Plan: https://t.co/BDCycxdS9Y",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
       "tweets": [
         {
-          "id": "2107556511044284575",
-          "text": "MiniMax at SF Tech Week 🌉  \n\n📍 Oct 6 · Frontier Models, High-Speed Inference & Agents at Scale With @friendliai , @anacondainc , and @kilocode.  \n\n📍 Oct 7 · Open Source AI Stack With @novita_labs, @ArtificialAnlys, @NousResearch , @radixark , and @vercel.  \n\n📍 Oct 8 · Intelligence in the Open MiniMax research night with @FireworksAI_HQ , @radixark , @digitalocean , @Modular, and @evermind .  \n\n📍 Oct 8 · Magnific Tech: Growth at the Pace of AI MiniMax joins @magnific to discuss building and growing creative AI products.  \n\nSee you in SF. \n\nDetails + RSVP 👇",
-          "createdAt": "2026-10-06T19:40:03.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2107556511044284575",
-          "likes": 47,
-          "retweets": 4,
-          "replies": 10,
+          "id": "2107866125627486358",
+          "text": "On Q2D-Web, about 70,000 production-derived search queries over 190M web documents, the 9B and 0.6B models reach 74.8% and 73.6% Recall@1000, against 69.3% for nemotron-embed-8b. https://t.co/FwltQP6jGN",
+          "createdAt": "2026-10-07T16:10:21.000Z",
+          "url": "https://x.com/perplexity_ai/status/2107866125627486358",
+          "likes": 13,
+          "retweets": 0,
+          "replies": 4,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HT-LdrbaEAApd7m.png"
+              "url": "https://pbs.twimg.com/media/HUClEGjaAAA2dm4.png"
+            }
+          ]
+        },
+        {
+          "id": "2107866100704952530",
+          "text": "Both sizes are distilled token by token from one 18B teacher, so they share one embedding space.\n\nA corpus indexed with the 9B model can be searched with 0.6B queries. That lifts ViDoRe v3 from 62.3% to 63.5% with no added query cost. https://t.co/SglIFldtGQ",
+          "createdAt": "2026-10-07T16:10:15.000Z",
+          "url": "https://x.com/perplexity_ai/status/2107866100704952530",
+          "likes": 11,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HUClCs5bIAA2_dD.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2108088284002070698",
+          "text": "“Cryptography is a subfield that’s extremely conspicuous by its absence from OpenAI’s list of 376 papers!\n\nBut my sources tell me that the AI cos have now started, gingerly and discreetly, investigating whether their latest internal models can break important cryptographic protocols and primitives.”\n\n- Scott Aaronson, CS chair at UT Austin",
+          "createdAt": "2026-10-08T06:53:07.000Z",
+          "url": "https://x.com/deedydas/status/2108088284002070698",
+          "likes": 39,
+          "retweets": 5,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2107868056915783758",
+          "text": "OpenAI’s math release is, in the words of Opus, “the single most consequential mathematical release ever” *\n\nLLMs have how made substantial progress on 4 of 7 Millenium Prize problems: Navier-Stokes (claimed), Riemann, Hodge and Birch-Swinnerton-Dyer. Poincaré was solved in 2003. The two left are P v NP and Yang Mills.\n*conditional on verification\n\nOn average, each OpenAI result used only 3hrs of thinking compute on their new unreleased models.\n\nTwo years ago, models said 9.11 > 9.9. Today, we have results that the smartest human minds have not been able to achieve in their entire lives. It is clear that data, compute and algorithms scale. Every model generation (3mos) has made substantial intelligence progress.\n\nIt also becomes incredibly hard to not believe that all knowledge work will change monumentally over time. The things AI can not do in the foreseeable future are very likely context-bound (don’t have access to the right information) than intelligence bound. Some might argue they are also creativity-bound or judgement-bound (what should I work on), although it can be argued that future generations could solve for this (given, say, the advancement in research taste for models over time).\n\nAGI is defined as surpassing human capabilities on virtually all cognitive tasks. By most interpretations of that definition, we are there. The domains humans are still better than AI, such as, robotics / physical world control (data-bound?), natural science research (data-bound), some creative domains like writing, movies, music (creativity-bound), super long tasks (context-bound), choosing problems to solve (creativity-bound) and maybe human relationships management (meat-proxy bound?).\nIn many ways, we have achieved AGI.",
+          "createdAt": "2026-10-07T16:18:01.000Z",
+          "url": "https://x.com/deedydas/status/2107868056915783758",
+          "likes": 680,
+          "retweets": 44,
+          "replies": 62,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lance Martin",
+      "handle": "RLanceMartin",
+      "bio": "MTS @anthropicai",
+      "tweets": [
+        {
+          "id": "2107919642362773908",
+          "text": "check out pricing here: \nhttps://t.co/wJ9Qot7mWK",
+          "createdAt": "2026-10-07T19:43:00.000Z",
+          "url": "https://x.com/RLanceMartin/status/2107919642362773908",
+          "likes": 3,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2107919640978768046",
+          "text": "Haiku 5.5 is 20x cheaper than Sonnet 5.5 (for &lt;100k input tok), fast, and great for sub-agent parallelization. \n \ni've been building maps w/ many Haiku 5.5 sub-agents that stream drawing commands to a shared canvas: https://t.co/zrMA1MFCt4",
+          "createdAt": "2026-10-07T19:43:00.000Z",
+          "url": "https://x.com/RLanceMartin/status/2107919640978768046",
+          "likes": 142,
+          "retweets": 7,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2107916885299957760/img/omPtLFoFaNnMKe2w.jpg"
             }
           ]
         }
@@ -71,7 +137,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 3
+    "xBuilders": 4,
+    "totalTweets": 7
   }
 }
