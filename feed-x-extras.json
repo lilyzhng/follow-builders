@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T07:16:52.639Z",
+  "generatedAt": "2026-10-09T07:19:59.341Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,61 +9,38 @@
       "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2107874963382538469",
-          "text": "As reported in the @WSJ, we have raised a Series B to bring Hermes Agent to new frontiers (and, yes, build a mobile app)\n\nThank you to our investors including @nvidia @M12vc @SamsungNext @robotventures @usv @ycombinator @MenloVentures, among others\n\nhttps://t.co/1BdQjJD90p https://t.co/gz4nbTPLGl https://t.co/PjQnODR1HH",
-          "createdAt": "2026-10-07T16:45:28.000Z",
-          "url": "https://x.com/NousResearch/status/2107874963382538469",
-          "likes": 3366,
-          "retweets": 252,
-          "replies": 310,
+          "id": "2108201390493544680",
+          "text": "Advancing our mission to deliver ubiquitous powerful agents to everyone, Hermes Agent is on the new ASUS ProArt RTX Spark PCs: MuseTree and ComfyUI integrations plus local model support on up to 128 GB of unified memory.\n\nA complete creative stack that runs on your own machine. https://t.co/1ZfMAXAftm",
+          "createdAt": "2026-10-08T14:22:34.000Z",
+          "url": "https://x.com/NousResearch/status/2108201390493544680",
+          "likes": 746,
+          "retweets": 54,
+          "replies": 54,
           "isQuote": true,
-          "quotedTweetId": "2107854520592286021",
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HUCde70XQAAtlCg.jpg"
-            }
-          ]
+          "quotedTweetId": "2108109095689650334"
         }
       ]
     },
     {
       "source": "x",
-      "name": "Perplexity",
-      "handle": "perplexity_ai",
-      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "name": "Modal",
+      "handle": "modal",
+      "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
       "tweets": [
         {
-          "id": "2107866125627486358",
-          "text": "On Q2D-Web, about 70,000 production-derived search queries over 190M web documents, the 9B and 0.6B models reach 74.8% and 73.6% Recall@1000, against 69.3% for nemotron-embed-8b. https://t.co/FwltQP6jGN",
-          "createdAt": "2026-10-07T16:10:21.000Z",
-          "url": "https://x.com/perplexity_ai/status/2107866125627486358",
-          "likes": 13,
-          "retweets": 0,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HUClEGjaAAA2dm4.png"
-            }
-          ]
-        },
-        {
-          "id": "2107866100704952530",
-          "text": "Both sizes are distilled token by token from one 18B teacher, so they share one embedding space.\n\nA corpus indexed with the 9B model can be searched with 0.6B queries. That lifts ViDoRe v3 from 62.3% to 63.5% with no added query cost. https://t.co/SglIFldtGQ",
-          "createdAt": "2026-10-07T16:10:15.000Z",
-          "url": "https://x.com/perplexity_ai/status/2107866100704952530",
-          "likes": 11,
-          "retweets": 0,
+          "id": "2108238663507378515",
+          "text": "Folding models, protein diffusion, single-cell LLMs, and agent swarms: AI for science runs on a different model every hour and needs a different number of GPUs every day.\n\nListen to leaders in computational biology from @GSK, @AnthropicAI, and @achira_ai on the main stage at Runtime.",
+          "createdAt": "2026-10-08T16:50:41.000Z",
+          "url": "https://x.com/modal/status/2108238663507378515",
+          "likes": 32,
+          "retweets": 10,
           "replies": 2,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HUClCs5bIAA2_dD.png"
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2108236866248196100/img/LmotxOMpibAtbQjP.jpg"
             }
           ]
         }
@@ -76,24 +53,41 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2108088284002070698",
-          "text": "“Cryptography is a subfield that’s extremely conspicuous by its absence from OpenAI’s list of 376 papers!\n\nBut my sources tell me that the AI cos have now started, gingerly and discreetly, investigating whether their latest internal models can break important cryptographic protocols and primitives.”\n\n- Scott Aaronson, CS chair at UT Austin",
-          "createdAt": "2026-10-08T06:53:07.000Z",
-          "url": "https://x.com/deedydas/status/2108088284002070698",
-          "likes": 39,
-          "retweets": 5,
-          "replies": 5,
+          "id": "2108254411160248554",
+          "text": "Source: https://t.co/Hscac1oM0r",
+          "createdAt": "2026-10-08T17:53:15.000Z",
+          "url": "https://x.com/deedydas/status/2108254411160248554",
+          "likes": 6,
+          "retweets": 1,
+          "replies": 4,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2107868056915783758",
-          "text": "OpenAI’s math release is, in the words of Opus, “the single most consequential mathematical release ever” *\n\nLLMs have how made substantial progress on 4 of 7 Millenium Prize problems: Navier-Stokes (claimed), Riemann, Hodge and Birch-Swinnerton-Dyer. Poincaré was solved in 2003. The two left are P v NP and Yang Mills.\n*conditional on verification\n\nOn average, each OpenAI result used only 3hrs of thinking compute on their new unreleased models.\n\nTwo years ago, models said 9.11 > 9.9. Today, we have results that the smartest human minds have not been able to achieve in their entire lives. It is clear that data, compute and algorithms scale. Every model generation (3mos) has made substantial intelligence progress.\n\nIt also becomes incredibly hard to not believe that all knowledge work will change monumentally over time. The things AI can not do in the foreseeable future are very likely context-bound (don’t have access to the right information) than intelligence bound. Some might argue they are also creativity-bound or judgement-bound (what should I work on), although it can be argued that future generations could solve for this (given, say, the advancement in research taste for models over time).\n\nAGI is defined as surpassing human capabilities on virtually all cognitive tasks. By most interpretations of that definition, we are there. The domains humans are still better than AI, such as, robotics / physical world control (data-bound?), natural science research (data-bound), some creative domains like writing, movies, music (creativity-bound), super long tasks (context-bound), choosing problems to solve (creativity-bound) and maybe human relationships management (meat-proxy bound?).\nIn many ways, we have achieved AGI.",
-          "createdAt": "2026-10-07T16:18:01.000Z",
-          "url": "https://x.com/deedydas/status/2107868056915783758",
-          "likes": 680,
-          "retweets": 44,
-          "replies": 62,
+          "id": "2108254403019108516",
+          "text": "OpenAI tells investors their annualized revenue is $50B for end of September, up from $30B in July, short of the $70B previously reported.\n\nAnthropic was at $65B annualized end of July. https://t.co/EbFANrMl95",
+          "createdAt": "2026-10-08T17:53:13.000Z",
+          "url": "https://x.com/deedydas/status/2108254403019108516",
+          "likes": 242,
+          "retweets": 16,
+          "replies": 45,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HUIGL6ebEAAjhGR.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2108234133654946193",
+          "text": "This is justifiable for IT companies, although the list of offenders is far larger than the top 6 companies listed here.\n\nIt’s far more surprising that Microsoft and Adobe were affected. Wasn’t clear why they were particularly singled out.",
+          "createdAt": "2026-10-08T16:32:41.000Z",
+          "url": "https://x.com/deedydas/status/2108234133654946193",
+          "likes": 400,
+          "retweets": 7,
+          "replies": 28,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -106,30 +100,49 @@
       "bio": "MTS @anthropicai",
       "tweets": [
         {
-          "id": "2107919642362773908",
-          "text": "check out pricing here: \nhttps://t.co/wJ9Qot7mWK",
-          "createdAt": "2026-10-07T19:43:00.000Z",
-          "url": "https://x.com/RLanceMartin/status/2107919642362773908",
-          "likes": 3,
+          "id": "2108327973078315274",
+          "text": "i wrote a short guide on building automations with Claude Managed Agents. \n\nit covers a few topics for agent deployments like credential vaults, guardrails, &amp; memory. \n\n@cjav_dev + i  share a quickstart repo &amp; a simple Claude Code command to set it up. \n\nhttps://t.co/PZdqKFpWWf",
+          "createdAt": "2026-10-08T22:45:34.000Z",
+          "url": "https://x.com/RLanceMartin/status/2108327973078315274",
+          "likes": 178,
+          "retweets": 14,
+          "replies": 16,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "StepFun",
+      "handle": "StepFun_ai",
+      "bio": "Scale-up possibilities for everyone.\nAPI Platform: https://t.co/XlaiCy4DGm\nHuggingFace: https://t.co/isMgbv7XSm",
+      "tweets": [
+        {
+          "id": "2108182766877843714",
+          "text": "Want to learn more about Step 5 Preview?\n\nModel overview, benchmarks &amp; demos ↓\nhttps://t.co/nwwVHmXqaY\n\nTechnical specs &amp; API docs ↓\nhttps://t.co/1msrcJGEju",
+          "createdAt": "2026-10-08T13:08:34.000Z",
+          "url": "https://x.com/StepFun_ai/status/2108182766877843714",
+          "likes": 27,
           "retweets": 1,
-          "replies": 0,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2107919640978768046",
-          "text": "Haiku 5.5 is 20x cheaper than Sonnet 5.5 (for &lt;100k input tok), fast, and great for sub-agent parallelization. \n \ni've been building maps w/ many Haiku 5.5 sub-agents that stream drawing commands to a shared canvas: https://t.co/zrMA1MFCt4",
-          "createdAt": "2026-10-07T19:43:00.000Z",
-          "url": "https://x.com/RLanceMartin/status/2107919640978768046",
-          "likes": 142,
-          "retweets": 7,
-          "replies": 9,
+          "id": "2108182763002278158",
+          "text": "Step 5 Preview now exists where you build.  \n\nNow live on @OpenRouter. A week of free access is rolling out today across @opencode, @cline , @NousResearch, @kilocode, and more.  \n\nFlagship-tier intelligence for agentic and professional work, at substantially lower task cost. \n\nKeep your workflow. Switch your model.  \n\nTry Step 5 Preview on OpenRouter: https://t.co/Z1nOT0rDj8",
+          "createdAt": "2026-10-08T13:08:33.000Z",
+          "url": "https://x.com/StepFun_ai/status/2108182763002278158",
+          "likes": 693,
+          "retweets": 59,
+          "replies": 60,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2107916885299957760/img/omPtLFoFaNnMKe2w.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HUHFC7FbMAAMAnP.jpg"
             }
           ]
         }
@@ -137,7 +150,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 7
+    "xBuilders": 5,
+    "totalTweets": 8
   }
 }
