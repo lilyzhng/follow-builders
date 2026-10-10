@@ -1,117 +1,7 @@
 {
-  "generatedAt": "2026-10-09T07:19:59.341Z",
+  "generatedAt": "2026-10-10T06:59:31.404Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
-      "tweets": [
-        {
-          "id": "2108201390493544680",
-          "text": "Advancing our mission to deliver ubiquitous powerful agents to everyone, Hermes Agent is on the new ASUS ProArt RTX Spark PCs: MuseTree and ComfyUI integrations plus local model support on up to 128 GB of unified memory.\n\nA complete creative stack that runs on your own machine. https://t.co/1ZfMAXAftm",
-          "createdAt": "2026-10-08T14:22:34.000Z",
-          "url": "https://x.com/NousResearch/status/2108201390493544680",
-          "likes": 746,
-          "retweets": 54,
-          "replies": 54,
-          "isQuote": true,
-          "quotedTweetId": "2108109095689650334"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Modal",
-      "handle": "modal",
-      "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
-      "tweets": [
-        {
-          "id": "2108238663507378515",
-          "text": "Folding models, protein diffusion, single-cell LLMs, and agent swarms: AI for science runs on a different model every hour and needs a different number of GPUs every day.\n\nListen to leaders in computational biology from @GSK, @AnthropicAI, and @achira_ai on the main stage at Runtime.",
-          "createdAt": "2026-10-08T16:50:41.000Z",
-          "url": "https://x.com/modal/status/2108238663507378515",
-          "likes": 32,
-          "retweets": 10,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2108236866248196100/img/LmotxOMpibAtbQjP.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
-      "tweets": [
-        {
-          "id": "2108254411160248554",
-          "text": "Source: https://t.co/Hscac1oM0r",
-          "createdAt": "2026-10-08T17:53:15.000Z",
-          "url": "https://x.com/deedydas/status/2108254411160248554",
-          "likes": 6,
-          "retweets": 1,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2108254403019108516",
-          "text": "OpenAI tells investors their annualized revenue is $50B for end of September, up from $30B in July, short of the $70B previously reported.\n\nAnthropic was at $65B annualized end of July. https://t.co/EbFANrMl95",
-          "createdAt": "2026-10-08T17:53:13.000Z",
-          "url": "https://x.com/deedydas/status/2108254403019108516",
-          "likes": 242,
-          "retweets": 16,
-          "replies": 45,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HUIGL6ebEAAjhGR.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2108234133654946193",
-          "text": "This is justifiable for IT companies, although the list of offenders is far larger than the top 6 companies listed here.\n\nIt’s far more surprising that Microsoft and Adobe were affected. Wasn’t clear why they were particularly singled out.",
-          "createdAt": "2026-10-08T16:32:41.000Z",
-          "url": "https://x.com/deedydas/status/2108234133654946193",
-          "likes": 400,
-          "retweets": 7,
-          "replies": 28,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "MTS @anthropicai",
-      "tweets": [
-        {
-          "id": "2108327973078315274",
-          "text": "i wrote a short guide on building automations with Claude Managed Agents. \n\nit covers a few topics for agent deployments like credential vaults, guardrails, &amp; memory. \n\n@cjav_dev + i  share a quickstart repo &amp; a simple Claude Code command to set it up. \n\nhttps://t.co/PZdqKFpWWf",
-          "createdAt": "2026-10-08T22:45:34.000Z",
-          "url": "https://x.com/RLanceMartin/status/2108327973078315274",
-          "likes": 178,
-          "retweets": 14,
-          "replies": 16,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "StepFun",
@@ -119,30 +9,19 @@
       "bio": "Scale-up possibilities for everyone.\nAPI Platform: https://t.co/XlaiCy4DGm\nHuggingFace: https://t.co/isMgbv7XSm",
       "tweets": [
         {
-          "id": "2108182766877843714",
-          "text": "Want to learn more about Step 5 Preview?\n\nModel overview, benchmarks &amp; demos ↓\nhttps://t.co/nwwVHmXqaY\n\nTechnical specs &amp; API docs ↓\nhttps://t.co/1msrcJGEju",
-          "createdAt": "2026-10-08T13:08:34.000Z",
-          "url": "https://x.com/StepFun_ai/status/2108182766877843714",
-          "likes": 27,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2108182763002278158",
-          "text": "Step 5 Preview now exists where you build.  \n\nNow live on @OpenRouter. A week of free access is rolling out today across @opencode, @cline , @NousResearch, @kilocode, and more.  \n\nFlagship-tier intelligence for agentic and professional work, at substantially lower task cost. \n\nKeep your workflow. Switch your model.  \n\nTry Step 5 Preview on OpenRouter: https://t.co/Z1nOT0rDj8",
-          "createdAt": "2026-10-08T13:08:33.000Z",
-          "url": "https://x.com/StepFun_ai/status/2108182763002278158",
-          "likes": 693,
-          "retweets": 59,
-          "replies": 60,
+          "id": "2108543010367512641",
+          "text": "Step 5 Preview is now on @OpenRouter's New &amp; Trending leaderboard.\n\nThanks to everyone giving it a try, and to our partners bringing it into your workflow. https://t.co/QyFhkdud5f",
+          "createdAt": "2026-10-09T13:00:03.000Z",
+          "url": "https://x.com/StepFun_ai/status/2108543010367512641",
+          "likes": 270,
+          "retweets": 14,
+          "replies": 45,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HUHFC7FbMAAMAnP.jpg"
+              "url": "https://pbs.twimg.com/media/HUKFJrvaoAA1QV8.jpg"
             }
           ]
         }
@@ -150,7 +29,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 5,
-    "totalTweets": 8
+    "xBuilders": 1,
+    "totalTweets": 1
   }
 }
