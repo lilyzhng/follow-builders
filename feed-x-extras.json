@@ -1,27 +1,38 @@
 {
-  "generatedAt": "2026-10-10T06:59:31.404Z",
+  "generatedAt": "2026-10-11T07:06:17.476Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "StepFun",
-      "handle": "StepFun_ai",
-      "bio": "Scale-up possibilities for everyone.\nAPI Platform: https://t.co/XlaiCy4DGm\nHuggingFace: https://t.co/isMgbv7XSm",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2108543010367512641",
-          "text": "Step 5 Preview is now on @OpenRouter's New &amp; Trending leaderboard.\n\nThanks to everyone giving it a try, and to our partners bringing it into your workflow. https://t.co/QyFhkdud5f",
-          "createdAt": "2026-10-09T13:00:03.000Z",
-          "url": "https://x.com/StepFun_ai/status/2108543010367512641",
-          "likes": 270,
-          "retweets": 14,
-          "replies": 45,
+          "id": "2109118091284381758",
+          "text": "Claude Artifact: https://t.co/mkpRyykXLo",
+          "createdAt": "2026-10-11T03:05:13.000Z",
+          "url": "https://x.com/deedydas/status/2109118091284381758",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2109118089438896576",
+          "text": "I used Opus to convert OR's public token stats into $$ stats.\n\nA whopping ~$1.5B annualized run rate (week x 52) gets processed on OpenRouter, putting it at ~1% by dollars of total inference.\n\nThis week, Anthropic took 36% of spend, OpenAI 18% and open-weight models took 26%! https://t.co/o8jtBReDxC",
+          "createdAt": "2026-10-11T03:05:12.000Z",
+          "url": "https://x.com/deedydas/status/2109118089438896576",
+          "likes": 77,
+          "retweets": 9,
+          "replies": 37,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HUKFJrvaoAA1QV8.jpg"
+              "url": "https://pbs.twimg.com/media/HUUXO5LaUAAHwvR.jpg"
             }
           ]
         }
@@ -30,6 +41,6 @@
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 1
+    "totalTweets": 2
   }
 }
