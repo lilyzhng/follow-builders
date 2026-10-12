@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T07:06:17.476Z",
+  "generatedAt": "2026-10-12T07:17:33.127Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,38 +9,49 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2109118091284381758",
-          "text": "Claude Artifact: https://t.co/mkpRyykXLo",
-          "createdAt": "2026-10-11T03:05:13.000Z",
-          "url": "https://x.com/deedydas/status/2109118091284381758",
-          "likes": 4,
+          "id": "2109500343373766900",
+          "text": "made with clopus 5.5, music on eleven, narrated with gemini, bfl flux for upscaling and colorizing",
+          "createdAt": "2026-10-12T04:24:09.000Z",
+          "url": "https://x.com/deedydas/status/2109500343373766900",
+          "likes": 41,
           "retweets": 0,
-          "replies": 2,
+          "replies": 3,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2109118089438896576",
-          "text": "I used Opus to convert OR's public token stats into $$ stats.\n\nA whopping ~$1.5B annualized run rate (week x 52) gets processed on OpenRouter, putting it at ~1% by dollars of total inference.\n\nThis week, Anthropic took 36% of spend, OpenAI 18% and open-weight models took 26%! https://t.co/o8jtBReDxC",
-          "createdAt": "2026-10-11T03:05:12.000Z",
-          "url": "https://x.com/deedydas/status/2109118089438896576",
-          "likes": 77,
-          "retweets": 9,
-          "replies": 37,
+          "id": "2109500341918355695",
+          "text": "I made a short 5 min documentary on the greatest moments of Indian history from 1947 to today https://t.co/YO0qgheWaW",
+          "createdAt": "2026-10-12T04:24:08.000Z",
+          "url": "https://x.com/deedydas/status/2109500341918355695",
+          "likes": 1207,
+          "retweets": 157,
+          "replies": 50,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HUUXO5LaUAAHwvR.jpg"
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2109499439673171968/img/DDT3SARea5m16XL9.jpg"
             }
           ]
+        },
+        {
+          "id": "2109486690884825476",
+          "text": "source: sensortower",
+          "createdAt": "2026-10-12T03:29:54.000Z",
+          "url": "https://x.com/deedydas/status/2109486690884825476",
+          "likes": 15,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 2
+    "totalTweets": 3
   }
 }
