@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T07:17:33.127Z",
+  "generatedAt": "2026-10-13T07:39:34.132Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,41 +9,54 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2109500343373766900",
-          "text": "made with clopus 5.5, music on eleven, narrated with gemini, bfl flux for upscaling and colorizing",
-          "createdAt": "2026-10-12T04:24:09.000Z",
-          "url": "https://x.com/deedydas/status/2109500343373766900",
-          "likes": 41,
-          "retweets": 0,
-          "replies": 3,
+          "id": "2109873801890836640",
+          "text": "There is no faster city for flying than San Francisco.\n\n9:10pm: Leave house\n9:32pm: Arrive at SFO\n9:40pm: Get to gate\n9:43pm: Boarding starts\n9:48pm: At seat\n\nI’ve never done a 38min house-seat time before.",
+          "createdAt": "2026-10-13T05:08:08.000Z",
+          "url": "https://x.com/deedydas/status/2109873801890836640",
+          "likes": 1082,
+          "retweets": 16,
+          "replies": 156,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2109500341918355695",
-          "text": "I made a short 5 min documentary on the greatest moments of Indian history from 1947 to today https://t.co/YO0qgheWaW",
-          "createdAt": "2026-10-12T04:24:08.000Z",
-          "url": "https://x.com/deedydas/status/2109500341918355695",
-          "likes": 1207,
-          "retweets": 157,
-          "replies": 50,
+          "id": "2109810520660582689",
+          "text": "Zuck learning the bitter lesson: https://t.co/95MN5RSFhP",
+          "createdAt": "2026-10-13T00:56:41.000Z",
+          "url": "https://x.com/deedydas/status/2109810520660582689",
+          "likes": 1378,
+          "retweets": 20,
+          "replies": 33,
+          "isQuote": true,
+          "quotedTweetId": "2109749349928554884"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "tweets": [
+        {
+          "id": "2109706997583265830",
+          "text": "Git provides atomic multi-file commits, authorship, and queryable history.\n\nA forge hosts the repository, controls who can update it, and adds PR review. Projects keep the first two and replace review with a check of each submit against a repository contract.",
+          "createdAt": "2026-10-12T18:05:19.000Z",
+          "url": "https://x.com/perplexity_ai/status/2109706997583265830",
+          "likes": 6,
+          "retweets": 1,
+          "replies": 1,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2109499439673171968/img/DDT3SARea5m16XL9.jpg"
-            }
-          ]
+          "quotedTweetId": null
         },
         {
-          "id": "2109486690884825476",
-          "text": "source: sensortower",
-          "createdAt": "2026-10-12T03:29:54.000Z",
-          "url": "https://x.com/deedydas/status/2109486690884825476",
-          "likes": 15,
-          "retweets": 0,
-          "replies": 0,
+          "id": "2109706985801429343",
+          "text": "Agents collaborating on a long-running project face the same problem as engineers sharing a codebase.\n\nWork must outlive ephemeral sandboxes, concurrent writes must not overwrite each other, and history must show who changed what.",
+          "createdAt": "2026-10-12T18:05:16.000Z",
+          "url": "https://x.com/perplexity_ai/status/2109706985801429343",
+          "likes": 10,
+          "retweets": 1,
+          "replies": 4,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -51,7 +64,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 3
+    "xBuilders": 2,
+    "totalTweets": 4
   }
 }
