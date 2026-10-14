@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T07:39:34.132Z",
+  "generatedAt": "2026-10-14T06:05:01.310Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,62 +9,143 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2109873801890836640",
-          "text": "There is no faster city for flying than San Francisco.\n\n9:10pm: Leave house\n9:32pm: Arrive at SFO\n9:40pm: Get to gate\n9:43pm: Boarding starts\n9:48pm: At seat\n\nI’ve never done a 38min house-seat time before.",
-          "createdAt": "2026-10-13T05:08:08.000Z",
-          "url": "https://x.com/deedydas/status/2109873801890836640",
-          "likes": 1082,
-          "retweets": 16,
-          "replies": 156,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2109810520660582689",
-          "text": "Zuck learning the bitter lesson: https://t.co/95MN5RSFhP",
-          "createdAt": "2026-10-13T00:56:41.000Z",
-          "url": "https://x.com/deedydas/status/2109810520660582689",
-          "likes": 1378,
-          "retweets": 20,
-          "replies": 33,
-          "isQuote": true,
-          "quotedTweetId": "2109749349928554884"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Perplexity",
-      "handle": "perplexity_ai",
-      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
-      "tweets": [
-        {
-          "id": "2109706997583265830",
-          "text": "Git provides atomic multi-file commits, authorship, and queryable history.\n\nA forge hosts the repository, controls who can update it, and adds PR review. Projects keep the first two and replace review with a check of each submit against a repository contract.",
-          "createdAt": "2026-10-12T18:05:19.000Z",
-          "url": "https://x.com/perplexity_ai/status/2109706997583265830",
-          "likes": 6,
+          "id": "2110233630517735571",
+          "text": "This does not include the $250B SpaceX-XAI merger and several non AI acquisitions (Armis, Chronosphere, Semrush)\n\nI wonder, if such large returns happen through M&A, much of which is strategic and not tied to fundamentals, how should that change how VCs think about investing and valuations?",
+          "createdAt": "2026-10-14T04:57:58.000Z",
+          "url": "https://x.com/deedydas/status/2110233630517735571",
+          "likes": 2,
           "retweets": 1,
           "replies": 1,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2109706985801429343",
-          "text": "Agents collaborating on a long-running project face the same problem as engineers sharing a codebase.\n\nWork must outlive ephemeral sandboxes, concurrent writes must not overwrite each other, and history must show who changed what.",
-          "createdAt": "2026-10-12T18:05:16.000Z",
-          "url": "https://x.com/perplexity_ai/status/2109706985801429343",
-          "likes": 10,
-          "retweets": 1,
+          "id": "2110233627346780424",
+          "text": "The last 18mos has seen an insane nearly ~$200B of AI startup exits via M&amp;A.\n\nThe median age is 4yrs old.\n\nIt is absolutely possible to return a multibillion dollar venture fund with phenomenal IRR, even if you aren’t in big AI! This is one of the hottest liquidity markets ever. https://t.co/fUxXnYrZSo",
+          "createdAt": "2026-10-14T04:57:57.000Z",
+          "url": "https://x.com/deedydas/status/2110233627346780424",
+          "likes": 194,
+          "retweets": 18,
+          "replies": 24,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HUkOTRRW4AASWCr.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "building p7k @pragmatik_labs | ❤️ 🍵 ☕️",
+      "tweets": [
+        {
+          "id": "2110229485891305848",
+          "text": "most cases i saw for argon are about visualization. how does it perform on other tasks?",
+          "createdAt": "2026-10-14T04:41:30.000Z",
+          "url": "https://x.com/JustinLin610/status/2110229485891305848",
+          "likes": 33,
+          "retweets": 0,
           "replies": 4,
           "isQuote": false,
           "quotedTweetId": null
         }
       ]
+    },
+    {
+      "source": "x",
+      "name": "Felix Rieseberg (Claude Cowork)",
+      "handle": "felixrieseberg",
+      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
+      "tweets": [
+        {
+          "id": "2110023283169247623",
+          "text": "Hi, I'm Felix. I'm an eng lead working on Claude. I love watching people take flight and do things they never thought possible.\n\nWe often describe that as \"being more ambitious\" when using AI, which is tricky advice to follow. I wrote a tutorial:\n\nhttps://t.co/vNPPs5FWm8",
+          "createdAt": "2026-10-13T15:02:07.000Z",
+          "url": "https://x.com/felixrieseberg/status/2110023283169247623",
+          "likes": 2720,
+          "retweets": 190,
+          "replies": 61,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
+      "tweets": [
+        {
+          "id": "2110068305864356198",
+          "text": "Customers are no longer happy with fast responses. They want things fixed fast. Humans copy pasting context between tools slows you down. https://t.co/2QZ3BBqrPG",
+          "createdAt": "2026-10-13T18:01:01.000Z",
+          "url": "https://x.com/cognition/status/2110068305864356198",
+          "likes": 19,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2110055161775452161/img/TsCbSR2Y3Jtz1-iy.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2110068304383725720",
+          "text": "Introducing Devin in Pylon: Accelerate your Median Time to Fix (MTTF), with $15,000 in credits for new Devin customers. https://t.co/yKzJG3wufL",
+          "createdAt": "2026-10-13T18:01:01.000Z",
+          "url": "https://x.com/cognition/status/2110068304383725720",
+          "likes": 213,
+          "retweets": 24,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2110068166823182336/img/UdYN30rwygsRzkfw.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Modal",
+      "handle": "modal",
+      "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
+      "tweets": [
+        {
+          "id": "2110074636998168581",
+          "text": "Why not true on-policy RL? Full alignment of the sampler with the trainer is expensive. So why not align only certain aspects? Although the magnitude of the mismatch is lowered, it still continues to grow. Off-policy correction fixes this growth, which we argue matters more. https://t.co/VejbWFvqPz",
+          "createdAt": "2026-10-13T18:26:11.000Z",
+          "url": "https://x.com/modal/status/2110074636998168581",
+          "likes": 31,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HUh7fRSWwAAZ5F2.jpg"
+            }
+          ]
+        }
+      ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 4
+    "xBuilders": 5,
+    "totalTweets": 7
   }
 }
