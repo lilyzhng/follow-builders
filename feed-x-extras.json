@@ -1,150 +1,46 @@
 {
-  "generatedAt": "2026-10-16T05:47:20.527Z",
+  "generatedAt": "2026-10-17T05:32:32.262Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "StepFun",
-      "handle": "StepFun_ai",
-      "bio": "Scale-up possibilities for everyone.\nAPI Platform: https://t.co/XlaiCy4DGm\nHuggingFace: https://t.co/isMgbv7XSm",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2110732706518835353",
-          "text": "Great to see Step 5 Preview delivering strong inference performance on NVIDIA GB300.\n\nLooking forward to seeing what developers build with it. https://t.co/L4JETDn4vO",
-          "createdAt": "2026-10-15T14:01:07.000Z",
-          "url": "https://x.com/StepFun_ai/status/2110732706518835353",
-          "likes": 87,
-          "retweets": 3,
-          "replies": 5,
-          "isQuote": true,
-          "quotedTweetId": "2110730497907216588"
-        },
-        {
-          "id": "2110717332301779186",
-          "text": "We've also updated Step Code to v0.1.4, our open-source agent harness built around Step 5 Preview.\n\nIt helps agents keep track of the goal on long, complex tasks, keep making progress, and check against verifiable results whether the job is actually done.\n\nFour releases since open-sourcing, about one every 3 working days, mostly driven by community feedback. Thank you to everyone who tried it and shared feedback.\n\nhttps://t.co/LaQCizPq6U",
-          "createdAt": "2026-10-15T13:00:01.000Z",
-          "url": "https://x.com/StepFun_ai/status/2110717332301779186",
-          "likes": 19,
-          "retweets": 1,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Perplexity",
-      "handle": "perplexity_ai",
-      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
-      "tweets": [
-        {
-          "id": "2110778502249435490",
-          "text": "Agent work in Computer is long-running, stateful, and branching, and has to survive restarts.\n\nA SPACE sandbox outlives the request that created it and the connection carrying its output. It can pause, fork, or suspend to a memory and disk snapshot, then wake where it left off.",
-          "createdAt": "2026-10-15T17:03:05.000Z",
-          "url": "https://x.com/perplexity_ai/status/2110778502249435490",
-          "likes": 27,
-          "retweets": 1,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2110778490652180644",
-          "text": "Agents in Computer run commands, install packages, and call external services with root access inside the sandbox.\n\nThe host stays outside the guest's control, and a per-sandbox gateway enforces egress policy on every outbound connection.",
-          "createdAt": "2026-10-15T17:03:03.000Z",
-          "url": "https://x.com/perplexity_ai/status/2110778490652180644",
-          "likes": 30,
+          "id": "2111130300638273550",
+          "text": "Watch the full video for more coverage on the hardware, security, and demos.\n\nhttps://t.co/Fw5qRm3PMK",
+          "createdAt": "2026-10-16T16:21:01.000Z",
+          "url": "https://x.com/NousResearch/status/2111130300638273550",
+          "likes": 55,
           "retweets": 1,
           "replies": 2,
           "isQuote": false,
           "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
-      "tweets": [
+        },
         {
-          "id": "2110790097369010292",
-          "text": "Introducing Devin Oncall: Devin automatically investigates alerts and bugs, helping your team diagnose and resolve production incidents.\n\nDevin Oncall already handles thousands of alerts every day for some of the world’s largest companies. Let it become your SRE today. https://t.co/Nza88HwIKd",
-          "createdAt": "2026-10-15T17:49:10.000Z",
-          "url": "https://x.com/cognition/status/2110790097369010292",
-          "likes": 698,
-          "retweets": 65,
-          "replies": 48,
+          "id": "2111130297907470840",
+          "text": "Hermes Agent is a launch partner for @nvidia's RTX Spark across the new generation of laptops. \n\nPick it in the built-in @Windows agent setup flow, run the new generative onboarding, and get straight to work locally or in the cloud.\n\nLinus is impressed! https://t.co/DDL8JODmiS",
+          "createdAt": "2026-10-16T16:21:00.000Z",
+          "url": "https://x.com/NousResearch/status/2111130297907470840",
+          "likes": 964,
+          "retweets": 77,
+          "replies": 59,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2110779438744940544/img/MZ6a-YBIFezHQYXB.jpg"
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2111130156672638976/img/7REpk3laES-Fuxh0.jpg"
             }
           ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Modal",
-      "handle": "modal",
-      "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
-      "tweets": [
-        {
-          "id": "2110802540002672819",
-          "text": "Deploy Muse Spark Open as a Shared Endpoint with per-token billing on Modal.\n\nRead the blog for more details: https://t.co/RTKEsPCPhL",
-          "createdAt": "2026-10-15T18:38:37.000Z",
-          "url": "https://x.com/modal/status/2110802540002672819",
-          "likes": 1,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2110800362550776102",
-          "text": "Muse Spark Open, a coding-optimized open weight model from @Meta, is now available on Modal. \n\nMuse Spark Open is the most capable US open weight model to date and is trained specifically for agentic coding and long-horizon tasks; it supports native multimodal understanding and supports a 1M token context window.",
-          "createdAt": "2026-10-15T18:29:57.000Z",
-          "url": "https://x.com/modal/status/2110800362550776102",
-          "likes": 59,
-          "retweets": 6,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2110800349259079680/img/JNwrAKVMnCn9lZGB.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
-      "tweets": [
-        {
-          "id": "2110785912074277221",
-          "text": "This is one of the most important results in AI, period.\n\nTLDR: neural networks are not tangled knots (polysemanticity is wrong). You can study their own neurons directly, without first \"unfolding\" them with a second model. 90% of neurons in Qwen-32B have one job.\n\nNick Cammarata started OpenAI’s interpretability team and is at Goodfire now. He’s been studying how LLMs work for a decade.\n\nThe stakes for understanding and aligning model behavior are the highest it’s ever been. Models have achieved superhuman results in math, can break production software systems, and changes the nature of white collar work. This work may finally allow us to intentionally design LLMs and shape how they behave.\n\nIts a long, phenomenal read.",
-          "createdAt": "2026-10-15T17:32:32.000Z",
-          "url": "https://x.com/deedydas/status/2110785912074277221",
-          "likes": 1597,
-          "retweets": 78,
-          "replies": 47,
-          "isQuote": true,
-          "quotedTweetId": "2110757819427574056"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 5,
-    "totalTweets": 8
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
