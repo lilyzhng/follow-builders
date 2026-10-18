@@ -1,38 +1,49 @@
 {
-  "generatedAt": "2026-10-17T05:32:32.262Z",
+  "generatedAt": "2026-10-18T05:48:52.770Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2111130300638273550",
-          "text": "Watch the full video for more coverage on the hardware, security, and demos.\n\nhttps://t.co/Fw5qRm3PMK",
-          "createdAt": "2026-10-16T16:21:01.000Z",
-          "url": "https://x.com/NousResearch/status/2111130300638273550",
-          "likes": 55,
-          "retweets": 1,
+          "id": "2111343548746633492",
+          "text": "Fortunate to have led the seed round to partner with the company alongside @strikervp and @AltimeterCap.",
+          "createdAt": "2026-10-17T06:28:23.000Z",
+          "url": "https://x.com/deedydas/status/2111343548746633492",
+          "likes": 26,
+          "retweets": 0,
           "replies": 2,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2111130297907470840",
-          "text": "Hermes Agent is a launch partner for @nvidia's RTX Spark across the new generation of laptops. \n\nPick it in the built-in @Windows agent setup flow, run the new generative onboarding, and get straight to work locally or in the cloud.\n\nLinus is impressed! https://t.co/DDL8JODmiS",
-          "createdAt": "2026-10-16T16:21:00.000Z",
-          "url": "https://x.com/NousResearch/status/2111130297907470840",
-          "likes": 964,
-          "retweets": 77,
-          "replies": 59,
+          "id": "2111342878480019515",
+          "text": "Available on OpenRouter: https://t.co/01U1qOAZTt",
+          "createdAt": "2026-10-17T06:25:43.000Z",
+          "url": "https://x.com/deedydas/status/2111342878480019515",
+          "likes": 43,
+          "retweets": 7,
+          "replies": 3,
           "isQuote": false,
-          "quotedTweetId": null,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2111342727044665427",
+          "text": "LLMs are either not capable or not affordable for visual reasoning tasks at scale.\n\nThe Elorian team - one of Jeff Dean’s best reports who led Gemini, an Apple LLM lead, xAI lead, and a Harvard professor - just launched an Astra-level visual reasoning model, Glimpse, for 17x cheaper.\n\nWatch it break down the flying Tesla video physics here.\n\nExtremely critical for video inputs in manufacturing, robotics, gaming, content moderation and more.",
+          "createdAt": "2026-10-17T06:25:07.000Z",
+          "url": "https://x.com/deedydas/status/2111342727044665427",
+          "likes": 2185,
+          "retweets": 139,
+          "replies": 124,
+          "isQuote": true,
+          "quotedTweetId": "2111142161584628060",
           "media": [
             {
               "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2111130156672638976/img/7REpk3laES-Fuxh0.jpg"
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2111342668118986752/img/InU8a-4X8s0UeU64.jpg"
             }
           ]
         }
@@ -41,6 +52,6 @@
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 2
+    "totalTweets": 3
   }
 }
