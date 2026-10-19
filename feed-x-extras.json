@@ -1,57 +1,9 @@
 {
-  "generatedAt": "2026-10-18T05:48:52.770Z",
+  "generatedAt": "2026-10-19T06:05:41.883Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
-      "tweets": [
-        {
-          "id": "2111343548746633492",
-          "text": "Fortunate to have led the seed round to partner with the company alongside @strikervp and @AltimeterCap.",
-          "createdAt": "2026-10-17T06:28:23.000Z",
-          "url": "https://x.com/deedydas/status/2111343548746633492",
-          "likes": 26,
-          "retweets": 0,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2111342878480019515",
-          "text": "Available on OpenRouter: https://t.co/01U1qOAZTt",
-          "createdAt": "2026-10-17T06:25:43.000Z",
-          "url": "https://x.com/deedydas/status/2111342878480019515",
-          "likes": 43,
-          "retweets": 7,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2111342727044665427",
-          "text": "LLMs are either not capable or not affordable for visual reasoning tasks at scale.\n\nThe Elorian team - one of Jeff Dean’s best reports who led Gemini, an Apple LLM lead, xAI lead, and a Harvard professor - just launched an Astra-level visual reasoning model, Glimpse, for 17x cheaper.\n\nWatch it break down the flying Tesla video physics here.\n\nExtremely critical for video inputs in manufacturing, robotics, gaming, content moderation and more.",
-          "createdAt": "2026-10-17T06:25:07.000Z",
-          "url": "https://x.com/deedydas/status/2111342727044665427",
-          "likes": 2185,
-          "retweets": 139,
-          "replies": 124,
-          "isQuote": true,
-          "quotedTweetId": "2111142161584628060",
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2111342668118986752/img/InU8a-4X8s0UeU64.jpg"
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 3
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
