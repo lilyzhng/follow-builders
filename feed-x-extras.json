@@ -1,73 +1,7 @@
 {
-  "generatedAt": "2026-10-20T05:57:44.258Z",
+  "generatedAt": "2026-10-21T05:58:44.507Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "MiniMax",
-      "handle": "MiniMax_AI",
-      "bio": "Code: @MiniMaxAgent \nMiniMax Design: @Hailuo_AI\nAPI: https://t.co/fHRdSV73Hr\nM Plan: https://t.co/XfJWSyauda",
-      "tweets": [
-        {
-          "id": "2112287025361801272",
-          "text": "Thanks for keeping the secret, @OpenRouter 🤫🐰\n\nAnd thank you to every dev who kept Space Bunny at #1 for 10 straight days 🏆\n\nYou were using the early build. Wait till you try this one: The final M3.1 Flash is live and free on OpenRouter for 72h! https://t.co/2gzgBd5aSf",
-          "createdAt": "2026-10-19T20:57:25.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2112287025361801272",
-          "likes": 393,
-          "retweets": 7,
-          "replies": 12,
-          "isQuote": true,
-          "quotedTweetId": "2112152045461680591"
-        },
-        {
-          "id": "2112282114150547819",
-          "text": "12 days at #1 on @opencode, and it was only the early build 🐰🏆\n\nThank you to every dev who picked an anonymous model and stuck with it. The finished M3.1 Flash is live now, and it's free on OpenCode for 3 days. Go see what changed! https://t.co/gOT2pYee7g",
-          "createdAt": "2026-10-19T20:37:54.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2112282114150547819",
-          "likes": 477,
-          "retweets": 5,
-          "replies": 18,
-          "isQuote": true,
-          "quotedTweetId": "2112156205938626954"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
-      "tweets": [
-        {
-          "id": "2112223938709258558",
-          "text": "Why would a company that charges by usage help customers rein it in? @rocketalignment at @theinformation has the story:\n\nhttps://t.co/fslt5WkfXh",
-          "createdAt": "2026-10-19T16:46:44.000Z",
-          "url": "https://x.com/cognition/status/2112223938709258558",
-          "likes": 13,
-          "retweets": 0,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2112223936108699820",
-          "text": "Top engineering teams like @Bilt are using efficiency-based auto-approvals to keep agent spend in check without slowing down their power users. https://t.co/37Kdl6tkfq",
-          "createdAt": "2026-10-19T16:46:44.000Z",
-          "url": "https://x.com/cognition/status/2112223936108699820",
-          "likes": 12,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HVAd6BpXYAEVrTm.png"
-            }
-          ]
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -75,19 +9,30 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2112204513138651513",
-          "text": "The velocity of code changes for engineers this year has 10x’d, quickly moving the bottleneck to code review and testing.\n\nGreptile solves this for the most technically challenging codebases like Nvidia (core CUDA code is reviewed on Greptile), Coinbase, Datadog, OpenClaw and 22,000 more customers.\n\nMany people think the model layer will eat code validation, but I don’t think it will. Code review within organizations is a more context-bound task than an intelligence-bound. The most intelligent AI can be wrong because it breaks an assumption in one API endpoint another service relies on. Large codebases can quickly accumulate a lot of technical debt your coding harness won’t reliably remember every time. Greptile does.\n\nInstead of having a frontier model harness review your code which can quickly cost $20+/review, Greptile does a much better job for much cheaper, leveraging the smartest models when needed but the GLM/Kimi/DeepSeeks when needed to. And it also runs, tests and takes a video of what your change did. \n\nOver time, organizations treat a 5/5 rated change by Greptile as a guarantee this won’t break anything in prod. And it shows. Their growth has been off the charts.\n\nIncredibly fortunate to partner with this a company. \n\nFun fact: Elon once posted Greptile's growth graph with \"it's so over\" pointing to 2024 to show AI's acceleration.",
-          "createdAt": "2026-10-19T15:29:33.000Z",
-          "url": "https://x.com/deedydas/status/2112204513138651513",
-          "likes": 209,
-          "retweets": 16,
-          "replies": 39,
+          "id": "2112447466243309589",
+          "text": "Source: https://t.co/n0dzEQMQGb",
+          "createdAt": "2026-10-20T07:34:57.000Z",
+          "url": "https://x.com/deedydas/status/2112447466243309589",
+          "likes": 12,
+          "retweets": 2,
+          "replies": 1,
           "isQuote": true,
-          "quotedTweetId": "2112193902555898208",
+          "quotedTweetId": "2112236719068369299"
+        },
+        {
+          "id": "2112447082883899709",
+          "text": "Inception just dropped Mercury 3, a model 4-8x faster than Luna / Haiku for the same price and benchmark performance.\n\nIn real world use, OpenRouter shows that it’s effectively 2-4x faster and 2-4x cheaper effective price.\n\nThe time for diffusion language models is finally here! https://t.co/Cwt73DDG2t",
+          "createdAt": "2026-10-20T07:33:26.000Z",
+          "url": "https://x.com/deedydas/status/2112447082883899709",
+          "likes": 331,
+          "retweets": 24,
+          "replies": 66,
+          "isQuote": false,
+          "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HVAOz5OagAAYuB2.jpg"
+              "url": "https://pbs.twimg.com/media/HVDrbUybAAA3BWY.jpg"
             }
           ]
         }
@@ -95,7 +40,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 5
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
