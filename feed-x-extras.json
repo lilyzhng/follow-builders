@@ -1,32 +1,7 @@
 {
-  "generatedAt": "2026-10-22T06:04:17.834Z",
+  "generatedAt": "2026-10-23T05:59:27.221Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Perplexity",
-      "handle": "perplexity_ai",
-      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
-      "tweets": [
-        {
-          "id": "2112978260808376411",
-          "text": "New research: We developed JOLT, a post-training method where one model acts as both teacher and student, with the teacher trained to give feedback the student can use.\n\nOn MATH, it matched GRPO's accuracy with 6.5x fewer training tokens.\n\nhttps://t.co/KFHdZ0tuFn https://t.co/Y4Svd9QK4G",
-          "createdAt": "2026-10-21T18:44:09.000Z",
-          "url": "https://x.com/perplexity_ai/status/2112978260808376411",
-          "likes": 307,
-          "retweets": 22,
-          "replies": 50,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HVLOh-UacAASrju.jpg"
-            }
-          ]
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Modal",
@@ -34,19 +9,36 @@
       "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
       "tweets": [
         {
-          "id": "2113019312474878265",
-          "text": "Performant reinforcement learning is a hard infrastructure and research problem. We’ve recently made on-demand multi-node clusters available and showed how to take advantageous of heterogeneous sampling compute. But there still exists the need for high-fidelity environments, clear and robust reward functions, and tuned training recipes that actually work.\n\nMost teams are actually nearly there! With an agent harness deployed in production and evals/agent traces collected from that deployment, you just need an easy way to start training your data. So we built a training library that gives you the building blocks, tuned defaults, and observability you need for easy, production-grade LLM training.\n\nIt’s available now. All it takes is a prompt.",
-          "createdAt": "2026-10-21T21:27:16.000Z",
-          "url": "https://x.com/modal/status/2113019312474878265",
-          "likes": 94,
-          "retweets": 16,
-          "replies": 4,
+          "id": "2113383879901941877",
+          "text": "We demonstrate stable and correct training by reproducing Training Search Agents with GRPO by @lu__jasper, which trains gpt-oss-20b to perform multi-turn agentic search over a corpus of SEC filings with keyword-matching, grep, and read tools. https://t.co/W1v3ayyWNx",
+          "createdAt": "2026-10-22T21:35:56.000Z",
+          "url": "https://x.com/modal/status/2113383879901941877",
+          "likes": 16,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HVQ-QBtWUAApq5-.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2113383878215827664",
+          "text": "Tinker changed how people do post-training. We're big fans, and so are many of the teams we work with. But as those teams scale up, they keep raising the same two problems: per-token pricing gets expensive quickly, and you’re limited to the models and features the provider decides to support.\n\nWe think a good API deserves more than one implementation.\n\nToday we're releasing Spindle, an open-source, Tinker-compatible training server that runs in your Modal workspace. Your existing Tinker scripts run unchanged, and because you own the server, you pay for GPU time instead of tokens.",
+          "createdAt": "2026-10-22T21:35:55.000Z",
+          "url": "https://x.com/modal/status/2113383878215827664",
+          "likes": 347,
+          "retweets": 17,
+          "replies": 11,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2113016106298257408/img/p0pnYYxOD29QP7us.jpg"
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2113382478618501120/img/sZ0E1y3a6t3Da4gT.jpg"
             }
           ]
         }
@@ -56,85 +48,46 @@
       "source": "x",
       "name": "Deedy Das",
       "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Inception, Goodfire, PrimeIntellect\n\nprior: Glean, Google Search. Cornell CS.",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2112862535485681930",
-          "text": "Gross incompetency from Indian certificate authority eMudhra.\n\nYou had one job: generate a 384 bit private keys and instead you used: 4, 56, 66, 115, 155, 156, 230, and 237.\n\nThis allows attackers to issue certificates for any websites.\n\nEmbarrassing that it’s a family business run by largely computer illiterate people. Only 1 of the 3 have a remotely computer-related background and even they never actually worked a technical job in their life. If you look at the LinkedIn, their tech team is young, from tier 3 education and paid sort of bottom barrel.\n\nImagine how many attacks you can design with AI given the existence of this genre of gross negligence.",
-          "createdAt": "2026-10-21T11:04:18.000Z",
-          "url": "https://x.com/deedydas/status/2112862535485681930",
-          "likes": 8131,
-          "retweets": 971,
-          "replies": 288,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HVJlR3ObkAEBQFG.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2112831369344901369",
-          "text": "Some other neat charts from the study https://t.co/tYeeC1MSUy",
-          "createdAt": "2026-10-21T09:00:27.000Z",
-          "url": "https://x.com/deedydas/status/2112831369344901369",
-          "likes": 7,
-          "retweets": 2,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HVJI7uHbEAEmP75.jpg"
-            },
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HVJI7vcaUAAZu5J.jpg"
-            },
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HVJI7veaEAAPqxW.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2112829500732117430",
-          "text": "Source: https://t.co/7gTXwbJ4VM",
-          "createdAt": "2026-10-21T08:53:02.000Z",
-          "url": "https://x.com/deedydas/status/2112829500732117430",
-          "likes": 4,
-          "retweets": 0,
-          "replies": 1,
+          "id": "2113494624023310680",
+          "text": "The era of vibe hacking is here.\n\n@morphllm’s DeepSeek V4.1 abliterated is pretty phenomenal too, but you do have to sign up and get approval before you can use it!",
+          "createdAt": "2026-10-23T04:55:59.000Z",
+          "url": "https://x.com/deedydas/status/2113494624023310680",
+          "likes": 12,
+          "retweets": 1,
+          "replies": 2,
           "isQuote": false,
           "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Felix Rieseberg (Claude Cowork)",
-      "handle": "felixrieseberg",
-      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
-      "tweets": [
+        },
         {
-          "id": "2112993956611178996",
-          "text": "If you're into research previews, we're opening up a waitlist for Claude Duet, our take on a lightweight proactive agent.\n\nThe form factor will seem pretty familiar, lots of agents out there - but Duet is made for work, excellent judgement, and making sure it doesn't do things you didn't want. \n\nhttps://t.co/kWxQGBduOj",
-          "createdAt": "2026-10-21T19:46:31.000Z",
-          "url": "https://x.com/felixrieseberg/status/2112993956611178996",
-          "likes": 415,
-          "retweets": 14,
-          "replies": 55,
+          "id": "2113475841338581149",
+          "text": "I strongly believe a part of why so many critical vulnerabilities are happening all over the proliferation of \"abliterated\" models, or models with safeguards removed.\n\nYou can access an abliterated GLM 5.3, a near frontier AI model, on @abliteration_ai today. And it's a world class penetration tester for like $10.",
+          "createdAt": "2026-10-23T03:41:21.000Z",
+          "url": "https://x.com/deedydas/status/2113475841338581149",
+          "likes": 377,
+          "retweets": 21,
+          "replies": 60,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2112993433606615040/img/MtgXzWyHbxNDjema.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HVSJU_gakAAv0rY.jpg"
             }
           ]
+        },
+        {
+          "id": "2113300976115524007",
+          "text": "Some people are misreading this to mean that it is specific to finding a known CVE exploit like a script kiddie and being dismissive.\n\nNo, I literally mean you can point certain models to any website and say “figure out the vulnerabilities”. I don’t have evidence that it can find be zero days with this approach, but it can definitely do some serious damage, replicate CVEs, and find way more security flaws in 5 mins than a world class security researcher",
+          "createdAt": "2026-10-22T16:06:30.000Z",
+          "url": "https://x.com/deedydas/status/2113300976115524007",
+          "likes": 99,
+          "retweets": 5,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -145,38 +98,21 @@
       "bio": "Code: @MiniMaxAgent \nMiniMax Design: @Hailuo_AI\nAPI: https://t.co/fHRdSV73Hr\nM Plan: https://t.co/XfJWSyauda",
       "tweets": [
         {
-          "id": "2112987176053215566",
-          "text": "MiniMax M3.1 Flash + SGLang Omni: building toward a more interactive generation of voice agents. The shift ahead is from “ask, wait, listen” to conversations people can interrupt, correct, and redirect as a task unfolds.\n\nMiniMax M3.1 Flash brings intelligence and fast, concise responses. SGLang Omni adds streaming, conversation state, and interruption handling so users can redirect conversations in real time.\n\nTogether, they give developers a foundation to explore proactive tutors, support agents, and hands-free copilots - pairing Flash’s capabilities with infrastructure for continuous interaction.\n\nThanks to the SGLang Omni team for exploring this direction with M3.1 Flash! ✨",
-          "createdAt": "2026-10-21T19:19:34.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2112987176053215566",
-          "likes": 142,
-          "retweets": 13,
-          "replies": 17,
+          "id": "2113441235100942680",
+          "text": "From inference to RL, ready from day one. 🐰\n\nThanks to the teams behind SGLang, and Miles @sgl_project alongside @NVIDIAAI and @AMD, for supporting MiniMax M3.1 Flash. Great building together! https://t.co/F5Rs6JEzmy",
+          "createdAt": "2026-10-23T01:23:50.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2113441235100942680",
+          "likes": 39,
+          "retweets": 3,
+          "replies": 4,
           "isQuote": true,
-          "quotedTweetId": "2112938798262919675",
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HVLWXC_bAAAUqjx.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2112965838450176130",
-          "text": "One model string away:\n\n\"minimax:m3.1@flash\"\n\nThanks @runware for shipping M3.1 Flash so fast 🚀 https://t.co/B2c10SBRD8",
-          "createdAt": "2026-10-21T17:54:47.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2112965838450176130",
-          "likes": 95,
-          "retweets": 2,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2112858222855852372"
+          "quotedTweetId": "2113437513692127424"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 5,
-    "totalTweets": 8
+    "xBuilders": 3,
+    "totalTweets": 6
   }
 }
