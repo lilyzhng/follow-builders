@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T05:59:27.221Z",
+  "generatedAt": "2026-10-24T05:44:35.070Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,36 +9,19 @@
       "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
       "tweets": [
         {
-          "id": "2113383879901941877",
-          "text": "We demonstrate stable and correct training by reproducing Training Search Agents with GRPO by @lu__jasper, which trains gpt-oss-20b to perform multi-turn agentic search over a corpus of SEC filings with keyword-matching, grep, and read tools. https://t.co/W1v3ayyWNx",
-          "createdAt": "2026-10-22T21:35:56.000Z",
-          "url": "https://x.com/modal/status/2113383879901941877",
-          "likes": 16,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HVQ-QBtWUAApq5-.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2113383878215827664",
-          "text": "Tinker changed how people do post-training. We're big fans, and so are many of the teams we work with. But as those teams scale up, they keep raising the same two problems: per-token pricing gets expensive quickly, and you’re limited to the models and features the provider decides to support.\n\nWe think a good API deserves more than one implementation.\n\nToday we're releasing Spindle, an open-source, Tinker-compatible training server that runs in your Modal workspace. Your existing Tinker scripts run unchanged, and because you own the server, you pay for GPU time instead of tokens.",
-          "createdAt": "2026-10-22T21:35:55.000Z",
-          "url": "https://x.com/modal/status/2113383878215827664",
-          "likes": 347,
-          "retweets": 17,
-          "replies": 11,
+          "id": "2113692079260119043",
+          "text": "You can give your @livekit agent a video avatar with open-weight models running on Modal. \n\nWe used ours to clone @charles_irl, our GPU Enjoyer in Residence. https://t.co/Z6vD8Qj0Bo",
+          "createdAt": "2026-10-23T18:00:36.000Z",
+          "url": "https://x.com/modal/status/2113692079260119043",
+          "likes": 25,
+          "retweets": 4,
+          "replies": 3,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2113382478618501120/img/sZ0E1y3a6t3Da4gT.jpg"
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2113691771846709249/img/SDX4ZYCaTyUidIH9.jpg"
             }
           ]
         }
@@ -51,68 +34,67 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2113494624023310680",
-          "text": "The era of vibe hacking is here.\n\n@morphllm’s DeepSeek V4.1 abliterated is pretty phenomenal too, but you do have to sign up and get approval before you can use it!",
-          "createdAt": "2026-10-23T04:55:59.000Z",
-          "url": "https://x.com/deedydas/status/2113494624023310680",
-          "likes": 12,
-          "retweets": 1,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2113475841338581149",
-          "text": "I strongly believe a part of why so many critical vulnerabilities are happening all over the proliferation of \"abliterated\" models, or models with safeguards removed.\n\nYou can access an abliterated GLM 5.3, a near frontier AI model, on @abliteration_ai today. And it's a world class penetration tester for like $10.",
-          "createdAt": "2026-10-23T03:41:21.000Z",
-          "url": "https://x.com/deedydas/status/2113475841338581149",
-          "likes": 377,
-          "retweets": 21,
-          "replies": 60,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HVSJU_gakAAv0rY.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2113300976115524007",
-          "text": "Some people are misreading this to mean that it is specific to finding a known CVE exploit like a script kiddie and being dismissive.\n\nNo, I literally mean you can point certain models to any website and say “figure out the vulnerabilities”. I don’t have evidence that it can find be zero days with this approach, but it can definitely do some serious damage, replicate CVEs, and find way more security flaws in 5 mins than a world class security researcher",
-          "createdAt": "2026-10-22T16:06:30.000Z",
-          "url": "https://x.com/deedydas/status/2113300976115524007",
-          "likes": 99,
-          "retweets": 5,
-          "replies": 11,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2113679457458487761",
+          "text": "I’m genuinely in two minds about the abliterated model debate. It boils down to a liberty v paternalism debate that plagues many political issues.\n\nOn one hand, I dislike overly broad safeguards and the idea that a few companies ought to control what you can and can’t do with models. In the set of things banned from most modeled, there are clearly positive beneficial ways to use them: white hat applications of cyber, research in defense tech, research in model development, biotech. Freedom to the user is a worthy maxim.\n\nOn the other, we know there are tons of malicious actors in these domains. Maybe the actual 0-days aren’t being found by abliterated models yet, but if you look at the Cloudflare CEOs post on the millions of exploits attempted within 24hrs, it’s clear malicious behavior exists. It exists in all the areas typically safeguarded: bio, cyber, defense. \n\nThe key deciding factor on liberty (let the people decide) vs paternalism (prevent people from use) is: does it harm others? This is at the center of the debate on guns, drugs, gambling and more. These are hard debates. Different countries often land on different sides of the same issue. When benefits broadly outweigh even broader harm, we allow it. We allow cars on the road despite them being heavy killing machines. In those cases, we both heavily regulate its use and rely on empirical data to measure how severe the harm. For cars vs guns, many more people do intentional harm with one vs other.\n\nAI safeguards fall very squarely in this debate. Focusing just on one issue: models can both defend against cyber vulnerabilities yet multiply 100s of times and say, use known CVEs to immediately exploit software (and cause harm to others). \n\nAre AI models cars or guns? It’s difficult to say. For one, every new generation of them poses a wholly different risk / reward profile. And secondly, we don’t as know the empirically how people are using models without safeguards. Downsides themselves are difficult to reason about because it’s not as simple as “99% of people use it for good”. We have to consider tail risk too.\n\nSo overall, I’m in two minds.",
+          "createdAt": "2026-10-23T17:10:27.000Z",
+          "url": "https://x.com/deedydas/status/2113679457458487761",
+          "likes": 64,
+          "retweets": 2,
+          "replies": 30,
+          "isQuote": true,
+          "quotedTweetId": "2113533548200075455"
         }
       ]
     },
     {
       "source": "x",
-      "name": "MiniMax",
-      "handle": "MiniMax_AI",
-      "bio": "Code: @MiniMaxAgent \nMiniMax Design: @Hailuo_AI\nAPI: https://t.co/fHRdSV73Hr\nM Plan: https://t.co/XfJWSyauda",
+      "name": "Kimi (Moonshot AI)",
+      "handle": "Kimi_Moonshot",
+      "bio": "Built by Moonshot AI to empower everyone to be superhuman. \nPR: globalpr@moonshot.ai\nDC: https://t.co/wBsBTn6fmE",
       "tweets": [
         {
-          "id": "2113441235100942680",
-          "text": "From inference to RL, ready from day one. 🐰\n\nThanks to the teams behind SGLang, and Miles @sgl_project alongside @NVIDIAAI and @AMD, for supporting MiniMax M3.1 Flash. Great building together! https://t.co/F5Rs6JEzmy",
-          "createdAt": "2026-10-23T01:23:50.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2113441235100942680",
-          "likes": 39,
-          "retweets": 3,
-          "replies": 4,
-          "isQuote": true,
-          "quotedTweetId": "2113437513692127424"
+          "id": "2113680714311094458",
+          "text": "K3.1 Pro is SOTA on OfficeQA Pro v2 (64.4). On internal benchmarks, it improves over K3 by 7.2 points on financial modeling and 11.6 points on financial research, and scores ~4.2× K3 on simulated business operation.  \n\nExample outputs: an NVDA DCF/LBO model with fully linked statements and traceable formulas, a CATL investment-committee deck, and a quantum-computing sector report with source-level citations.",
+          "createdAt": "2026-10-23T17:15:27.000Z",
+          "url": "https://x.com/Kimi_Moonshot/status/2113680714311094458",
+          "likes": 673,
+          "retweets": 23,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HVVNIoeacAAFWc_.jpg"
+            },
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2113680502699991040/img/NQygTV8t4L1r90t2.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2113680710150357279",
+          "text": "K3.1 Pro works directly in the tools used by the 3D modeling and game industries - Blender, Unreal Engine, Godot, and CAD. \nOn BenchCAD, which tests 3D reconstruction from multi-view renderings through CAD code generation, it scores 92.7% with tools, approaching Claude Opus 5.5 (96.2%) and GPT-6 Astra (95.9%).  \nK3.1 Pro can deliver a fairly complete project, from asset construction to scene assembly, animation, and rendering.",
+          "createdAt": "2026-10-23T17:15:26.000Z",
+          "url": "https://x.com/Kimi_Moonshot/status/2113680710150357279",
+          "likes": 1644,
+          "retweets": 60,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2113680302237421568/img/cKzjXmotEYjJ6upu.jpg"
+            }
+          ]
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 3,
-    "totalTweets": 6
+    "totalTweets": 4
   }
 }
