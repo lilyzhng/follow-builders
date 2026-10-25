@@ -1,32 +1,7 @@
 {
-  "generatedAt": "2026-10-24T05:44:35.070Z",
+  "generatedAt": "2026-10-25T06:00:29.379Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Modal",
-      "handle": "modal",
-      "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
-      "tweets": [
-        {
-          "id": "2113692079260119043",
-          "text": "You can give your @livekit agent a video avatar with open-weight models running on Modal. \n\nWe used ours to clone @charles_irl, our GPU Enjoyer in Residence. https://t.co/Z6vD8Qj0Bo",
-          "createdAt": "2026-10-23T18:00:36.000Z",
-          "url": "https://x.com/modal/status/2113692079260119043",
-          "likes": 25,
-          "retweets": 4,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2113691771846709249/img/SDX4ZYCaTyUidIH9.jpg"
-            }
-          ]
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -34,59 +9,19 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2113679457458487761",
-          "text": "I’m genuinely in two minds about the abliterated model debate. It boils down to a liberty v paternalism debate that plagues many political issues.\n\nOn one hand, I dislike overly broad safeguards and the idea that a few companies ought to control what you can and can’t do with models. In the set of things banned from most modeled, there are clearly positive beneficial ways to use them: white hat applications of cyber, research in defense tech, research in model development, biotech. Freedom to the user is a worthy maxim.\n\nOn the other, we know there are tons of malicious actors in these domains. Maybe the actual 0-days aren’t being found by abliterated models yet, but if you look at the Cloudflare CEOs post on the millions of exploits attempted within 24hrs, it’s clear malicious behavior exists. It exists in all the areas typically safeguarded: bio, cyber, defense. \n\nThe key deciding factor on liberty (let the people decide) vs paternalism (prevent people from use) is: does it harm others? This is at the center of the debate on guns, drugs, gambling and more. These are hard debates. Different countries often land on different sides of the same issue. When benefits broadly outweigh even broader harm, we allow it. We allow cars on the road despite them being heavy killing machines. In those cases, we both heavily regulate its use and rely on empirical data to measure how severe the harm. For cars vs guns, many more people do intentional harm with one vs other.\n\nAI safeguards fall very squarely in this debate. Focusing just on one issue: models can both defend against cyber vulnerabilities yet multiply 100s of times and say, use known CVEs to immediately exploit software (and cause harm to others). \n\nAre AI models cars or guns? It’s difficult to say. For one, every new generation of them poses a wholly different risk / reward profile. And secondly, we don’t as know the empirically how people are using models without safeguards. Downsides themselves are difficult to reason about because it’s not as simple as “99% of people use it for good”. We have to consider tail risk too.\n\nSo overall, I’m in two minds.",
-          "createdAt": "2026-10-23T17:10:27.000Z",
-          "url": "https://x.com/deedydas/status/2113679457458487761",
-          "likes": 64,
-          "retweets": 2,
-          "replies": 30,
-          "isQuote": true,
-          "quotedTweetId": "2113533548200075455"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Kimi (Moonshot AI)",
-      "handle": "Kimi_Moonshot",
-      "bio": "Built by Moonshot AI to empower everyone to be superhuman. \nPR: globalpr@moonshot.ai\nDC: https://t.co/wBsBTn6fmE",
-      "tweets": [
-        {
-          "id": "2113680714311094458",
-          "text": "K3.1 Pro is SOTA on OfficeQA Pro v2 (64.4). On internal benchmarks, it improves over K3 by 7.2 points on financial modeling and 11.6 points on financial research, and scores ~4.2× K3 on simulated business operation.  \n\nExample outputs: an NVDA DCF/LBO model with fully linked statements and traceable formulas, a CATL investment-committee deck, and a quantum-computing sector report with source-level citations.",
-          "createdAt": "2026-10-23T17:15:27.000Z",
-          "url": "https://x.com/Kimi_Moonshot/status/2113680714311094458",
-          "likes": 673,
-          "retweets": 23,
-          "replies": 7,
+          "id": "2114195317860266432",
+          "text": "There is an absolute barrage of inference providers popping up that get to $1M/mo extremely quickly.\n\nThis is the rough economics of inference providers:\n\nEven if you rent on-demand B300s at $8/GPU-hr, many open source models (GLM 5.3, Kimi K3, DeepSeek 4.1 Flash / Pro) can get you >$10-20/GPU-hr at reasonable throughputs (100tok/s). DeepInfer from DeepSeek directly shows they can get $38/GPU-hr on off-peak hours. Every chip / model has a different throughput / interactivity curve, but there is a lot of arbitrage between even high rental spot prices and token prices. New chips (Vera Rubins) also change this meaningfully. Your ability to be making gross margin relies on your utilization and how good your stack is.\n\nGateways like OpenRouter, Vercel and more help solve that problem by aggregating demand to you. May inference providers discount their tokens to get longer term commits too. I've even heard stories of selling back Chinese model tokens to Chinese labs!\n\nOne thorn in the economics of these players is that many Chinese open source model labs are now asking for rev share if you're at a certain scale, espp for pre-release access to their models for day 1 support. That further pushes the threshold to be in the money.\n\nThe barrier to entry seems low and falling. There are even stories of smaller ones who can \"vibe code\" a way to stand up OSS models on a cluster they rent. And as a result, we're seeing 10s of such companies pop up almost every week and immediately skyrocketing revenue at low-ish gross margin and raising rounds on the back of that.\n\nUnsurprisingly, because the actual service provided seems commodity, this eventually drives up compute prices and drives down token prices. In theory, it would seem like neoclouds who have the lowest cost of compute and themselves have started inference businesses would win the race to the bottom (Crusoe Coreweave Nebius and GMI all have inference businesses), with larger players (Modal Fireworks Baseten) being second because they are well capitalized to make bigger compute commits cheaply and have demand (high utilization), but the reality is the pie is growing so quickly that even upstarts are absolutely crushing it and growing aggressively (inference dot net, DeepInfra, Wafer, Relace, Morph).\n\nStrategies vary across the board: neoclouds want to serve inference, inference players want to be neoclouds and do higher margin reserved instances / post training, and some want to go heterogeneous hardware or creatively flexible compute constructs.\n\nThe risks are: do open source models continue to be competitive? Will their creators rent seek more? Will their shape change compute needs? How do different chips change economics? Who gets compute in a supply crunch?\n\nBelow is a aggressive sketch of how gross margin scales with utilization for various models / chip sets.\n\nFor now, there are many inference providers and they’re all ripping!",
+          "createdAt": "2026-10-25T03:20:18.000Z",
+          "url": "https://x.com/deedydas/status/2114195317860266432",
+          "likes": 432,
+          "retweets": 29,
+          "replies": 72,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HVVNIoeacAAFWc_.jpg"
-            },
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2113680502699991040/img/NQygTV8t4L1r90t2.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2113680710150357279",
-          "text": "K3.1 Pro works directly in the tools used by the 3D modeling and game industries - Blender, Unreal Engine, Godot, and CAD. \nOn BenchCAD, which tests 3D reconstruction from multi-view renderings through CAD code generation, it scores 92.7% with tools, approaching Claude Opus 5.5 (96.2%) and GPT-6 Astra (95.9%).  \nK3.1 Pro can deliver a fairly complete project, from asset construction to scene assembly, animation, and rendering.",
-          "createdAt": "2026-10-23T17:15:26.000Z",
-          "url": "https://x.com/Kimi_Moonshot/status/2113680710150357279",
-          "likes": 1644,
-          "retweets": 60,
-          "replies": 12,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2113680302237421568/img/cKzjXmotEYjJ6upu.jpg"
+              "url": "https://pbs.twimg.com/media/HVchb8EagAAxih6.jpg"
             }
           ]
         }
@@ -94,7 +29,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 4
+    "xBuilders": 1,
+    "totalTweets": 1
   }
 }
