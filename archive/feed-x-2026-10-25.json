@@ -1,0 +1,372 @@
+{
+  "generatedAt": "2026-10-26T06:04:34.721Z",
+  "lookbackHours": 24,
+  "x": [
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2114391265655816315",
+          "text": "Good assessment of the on the ground reality for security in most large enterprises right now. The fragmented landscape of the risk surface is only going to get more gnarly, making it even more complex for enterprises to solve.\n\nThere’s a never ending set of libraries to keep up with, tools to leverage, and sprawling infrastructure, data, and code to secure. Most large enterprises can barely keep up with this, let alone smaller startups or most companies outside of tech. \n\nIn many cases enterprises need to work to modernize their tech stacks. Data, in most organizations, is highly fragmented which means you don’t really know the state of risk at any given time. Some systems are open up privileges too broadly, and others are operating primarily via security through obscurity. Lots of upgrading here to do.\n\nOnce you can get your data and infra into a better spot, at least you have a chance for agents to help you secure the environment. Agent swarms can fan out, leverage any security tool, test various perpetuations of attacks, read through logs, process enterprise data for risk level, and more. This capability only emerged in the past few months, and none of it would be possible before we had long running agents and computer use good enough.\n\nThis is a huge area of opportunity right now for every layer of the security stack across identity, firewall, network, code scanning, data protection, and more. And it’s at least one reason to be optimistic about the balance of offensive and defensive capability. \n\nBut everyone does need to do the hard work of getting the basics right at the start.",
+          "createdAt": "2026-10-25T16:18:55.000Z",
+          "url": "https://x.com/levie/status/2114391265655816315",
+          "likes": 240,
+          "retweets": 23,
+          "replies": 68,
+          "isQuote": true,
+          "quotedTweetId": "2114372350707986492"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2114507945585328606",
+          "text": "Rare footage of how VCs turned their 2021 bets in metaverse, gaming and crypto mining into 'mission-critical AI infrastructure’ https://t.co/ULSKrUwg1f",
+          "createdAt": "2026-10-26T00:02:34.000Z",
+          "url": "https://x.com/mattturck/status/2114507945585328606",
+          "likes": 52,
+          "retweets": 5,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2093418628175585280/img/LM9oND7IDGJQ-mVw.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2114411547594457483",
+          "text": "Good neighborhood https://t.co/ZRTxHmsoZv https://t.co/OCMZ85Yk8G",
+          "createdAt": "2026-10-25T17:39:31.000Z",
+          "url": "https://x.com/mattturck/status/2114411547594457483",
+          "likes": 100,
+          "retweets": 6,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2114306073846751404",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HVfmGD9WkAA8jU_.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "tweets": [
+        {
+          "id": "2114255477907570865",
+          "text": "Great interview. Most people overestimate the importance of one huge launch and underestimate the power of just showing up every day on the timeline\n\nDevelop a system where you make a video every day &gt; spending tens of thousands of dollars on a single launch video https://t.co/ujN4fPyN1y",
+          "createdAt": "2026-10-25T07:19:21.000Z",
+          "url": "https://x.com/zarazhangrui/status/2114255477907570865",
+          "likes": 251,
+          "retweets": 16,
+          "replies": 27,
+          "isQuote": true,
+          "quotedTweetId": "2113654566776709147"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2114380495140405394",
+          "text": "Golden hour 🌅 https://t.co/VPmAgnMkGH",
+          "createdAt": "2026-10-25T15:36:07.000Z",
+          "url": "https://x.com/nikunj/status/2114380495140405394",
+          "likes": 39,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HVfJ2vHawAARpqM.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2114509827057561603",
+          "text": "https://t.co/F3WWInD6LH https://t.co/PKNm0MT3So",
+          "createdAt": "2026-10-26T00:10:03.000Z",
+          "url": "https://x.com/danshipper/status/2114509827057561603",
+          "likes": 32,
+          "retweets": 0,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2114388808628379695",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HVg_exEWIAAv5F0.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Kimi (Moonshot AI)",
+      "handle": "Kimi_Moonshot",
+      "bio": "Built by Moonshot AI to empower everyone to be superhuman. \nPR: globalpr@moonshot.ai\nDC: https://t.co/wBsBTn6fmE",
+      "tweets": [
+        {
+          "id": "2114450610724708492",
+          "text": "We're sorry for the rate limits and unnecessary quota consumption on the K3.1 Pro subscription plan. These were our issues, and we should have fixed them sooner.\n\nToday, every subscriber on every plan gets a one-time usage reset, restoring 25% of their monthly quota (usage below 25% resets to zero), equal to one week of usage. Your usage bar will reflect this adjustment by end of day PST.\n\nWe've also adjusted the plan's parameters and are reducing unnecessary subagent calls and output length, so your quota goes further.\n\nThank you for your patience while we put this right.",
+          "createdAt": "2026-10-25T20:14:44.000Z",
+          "url": "https://x.com/Kimi_Moonshot/status/2114450610724708492",
+          "likes": 4117,
+          "retweets": 142,
+          "replies": 308,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Code: @MiniMaxAgent \nMiniMax Design: @Hailuo_AI\nAPI: https://t.co/fHRdSV73Hr\nM Plan: https://t.co/XfJWSyauda",
+      "tweets": [
+        {
+          "id": "2114504329499660419",
+          "text": "More reference control. Fewer denoising steps. More places to run H3.\n\nThe latest community contributions span 8-step reference-conditioned video + audio, 4-step distillation, sparse attention, and reference-token compression - alongside serving and workflow integrations across GPU servers, TPUs, and Apple Silicon.\n\nWhat matters is what this enables: more affordable experimentation, finer creative control, and more choices about where and how video generation runs. Open models become more useful when the community can improve the methods, adapt the runtime, and build workflows around them.\n\nCredit to @haoailab @yisun0618 @lanfeng491270 @guocheng_qian @Alissonerdx @ddalcu @tazmannner @HaochengXiUCB @huggingface @Jhuaplin, and the PTD, DMAD, SparkH3, TorchTPU and FlashML teams - including Zhengming Yu and zechengtang on GitHub.\n\n11 additions to the H3 ecosystem index. Thank you to everyone building, testing, and sharing.\n\nhttps://t.co/F1S5IjUNi1",
+          "createdAt": "2026-10-25T23:48:12.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2114504329499660419",
+          "likes": 293,
+          "retweets": 22,
+          "replies": 30,
+          "isQuote": true,
+          "quotedTweetId": "2099381310733328784",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HVg6ectaMAAYqox.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
+      "tweets": [
+        {
+          "id": "2114530795868373035",
+          "text": "Great time to use the Unbroker skill! https://t.co/28nI0dK2v7",
+          "createdAt": "2026-10-26T01:33:22.000Z",
+          "url": "https://x.com/NousResearch/status/2114530795868373035",
+          "likes": 955,
+          "retweets": 44,
+          "replies": 23,
+          "isQuote": true,
+          "quotedTweetId": "2073128911429668877"
+        },
+        {
+          "id": "2114340383044063552",
+          "text": "Please be careful about downloading third-party apps. The official mobile apps are not in app stores yet, and apps that closely mirror Hermes branding are typically fraudulent and not legitimate community projects.",
+          "createdAt": "2026-10-25T12:56:44.000Z",
+          "url": "https://x.com/NousResearch/status/2114340383044063552",
+          "likes": 338,
+          "retweets": 15,
+          "replies": 16,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cheng Lou",
+      "handle": "_chenglou",
+      "bio": "Worked on: @reactjs, @messenger, @reasonml, @rescriptlang\nCurrently: @midjourney, Pretext, Freerange, Handwired",
+      "tweets": [
+        {
+          "id": "2114504420893524468",
+          "text": "Some thoughts on iPhone Duo: it’s highly likely that instead of a foldable that retains its shape at any folding angle, Apple should have designed a hinge that gently springs open by itself. This’d mean you’d be able to use a single hand to go from folded screen to unfolded instead of prying it open with two hands. We’re already seeing folks violently flip it open one-handed like a wallet. The need’s there\n\nBut instead, Apple traded off supporting that, to cater to a resistant hinge for the rare form factors like book, tiny laptop, and night stand, which incur rather harsh software complexities too",
+          "createdAt": "2026-10-25T23:48:34.000Z",
+          "url": "https://x.com/_chenglou/status/2114504420893524468",
+          "likes": 75,
+          "retweets": 0,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2114478862449185093",
+          "text": "One day in a thousand years we’ll discover that the rich complex reality we’re in is just two high-dimensional kiki and bouba tickling each other https://t.co/froyes5Ybz",
+          "createdAt": "2026-10-25T22:07:00.000Z",
+          "url": "https://x.com/_chenglou/status/2114478862449185093",
+          "likes": 101,
+          "retweets": 2,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2114248585814667342"
+        },
+        {
+          "id": "2114477518581621235",
+          "text": "We did the meme https://t.co/9tMdOVPOzl https://t.co/CSiCcvUx0k",
+          "createdAt": "2026-10-25T22:01:40.000Z",
+          "url": "https://x.com/_chenglou/status/2114477518581621235",
+          "likes": 46,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2114125079655354794",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HVgiGN_aUAAHZqP.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "alphaXiv",
+      "handle": "askalphaxiv",
+      "bio": "High fidelity research",
+      "tweets": [
+        {
+          "id": "2114414368104603773",
+          "text": "\"Agentic World Action Models\"\n\nWhat if robots could write their own code to plan actions, while also predicting how the physical world will respond?\n\nNVIDIA's new AW-0 combines three capabilities in one model: generating reusable skill programs, predicting future video frames, and producing robot actions. All three are generated together, which enables code-based planning to guide physical execution.\n\nOn RoboTwin 2.0, AW-0 achieves 50.7% average success, compared to 41.3% for π0.5. Across eight real-world manipulation tasks, it scores 71.1% vs 46.0% for the strongest baseline, including tasks like folding towels and solving a Rubik's Cube.\n\nhttps://t.co/Ly71CUYskG",
+          "createdAt": "2026-10-25T17:50:43.000Z",
+          "url": "https://x.com/askalphaxiv/status/2114414368104603773",
+          "likes": 160,
+          "retweets": 14,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HVfoqJDa8AALQ3Q.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2114414229344370910",
+          "text": "\"BeNice! Closing Looping’s Inference-Memory Gap via KV-Sharing\"\n\nLooped Transformers reuse the same layers multiple times to improve performance without adding parameters, but their KV-cache memory still grows with every loop.\n\nThis paper proposes a training method that lets different loops reuse the same KV-cache without losing accuracy, by combining stochastic-depth pretraining with a fine-tuning objective that makes earlier loops compatible with the final loop's cache.\n\nOn a 1.3B model, KV-sharing reduces total GPU memory usage by 66.2% in a tested configuration. In simulated long-context workloads, it also improves throughput by up to 23.6% and reduces 90pt time-to-first-token by 83.6%, while preserving model quality.\n\nhttps://t.co/mYChopzFez",
+          "createdAt": "2026-10-25T17:50:10.000Z",
+          "url": "https://x.com/askalphaxiv/status/2114414229344370910",
+          "likes": 104,
+          "retweets": 14,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HVfohT-bsAEoz4A.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2114263159355904426",
+          "text": "i need 12 more likes to ratio @ArfurRock whos got it",
+          "createdAt": "2026-10-25T07:49:52.000Z",
+          "url": "https://x.com/swyx/status/2114263159355904426",
+          "likes": 10,
+          "retweets": 0,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2114560930646487116",
+          "text": "This is beautiful. Who said AI doesn't have taste https://t.co/gaPLhncKM2",
+          "createdAt": "2026-10-26T03:33:07.000Z",
+          "url": "https://x.com/petergyang/status/2114560930646487116",
+          "likes": 33,
+          "retweets": 0,
+          "replies": 12,
+          "isQuote": true,
+          "quotedTweetId": "2114422260346110358"
+        },
+        {
+          "id": "2114557067700916723",
+          "text": "lol this is me except my wife still buys snacks https://t.co/OvTm1jMXGD",
+          "createdAt": "2026-10-26T03:17:46.000Z",
+          "url": "https://x.com/petergyang/status/2114557067700916723",
+          "likes": 10,
+          "retweets": 0,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2114313044541235554"
+        },
+        {
+          "id": "2114507378532229214",
+          "text": "Here’s how to use Claude to copy any video shorts style in a few minutes.\n\nFrom @jake11moran:\n\n“We added this as a native capability in @HyperFrames_ studio. You just upload or pick a reference clip and then describe in the prompt what you want to change.\n\nYou can see where we’re drawing inspiration from and apply a different font or different colors. It’s still structurally the same idea.”\n\n📌 Watch our full AI video editing tutorial here: https://t.co/1seCb77tGJ",
+          "createdAt": "2026-10-26T00:00:19.000Z",
+          "url": "https://x.com/petergyang/status/2114507378532229214",
+          "likes": 211,
+          "retweets": 14,
+          "replies": 24,
+          "isQuote": true,
+          "quotedTweetId": "2114360145505595842",
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2114507327491747840/img/9uzAmoIvOfta7Bt0.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "xBuilders": 12,
+    "totalTweets": 19
+  },
+  "errors": [
+    "X API: User not found: jenny_wen"
+  ]
+}
