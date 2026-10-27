@@ -1,9 +1,113 @@
 {
-  "generatedAt": "2026-10-26T06:04:36.138Z",
+  "generatedAt": "2026-10-27T06:12:32.680Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Modal",
+      "handle": "modal",
+      "bio": "AI infrastructure that developers love 💚\n\nRun inference, sandboxes, batch processing, training, and many other things on Modal",
+      "tweets": [
+        {
+          "id": "2114806429387575643",
+          "text": ".@markovrobotics is teaching robots to tackle complex manipulation tasks with fewer than ten hours of robot data. Their bet: video already contains most of the physical reality a robot needs to act. \n\nThey use Modal for video processing, world model training, and remote inference.",
+          "createdAt": "2026-10-26T19:48:38.000Z",
+          "url": "https://x.com/modal/status/2114806429387575643",
+          "likes": 29,
+          "retweets": 8,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2114777773361270784/img/0V-tY9g_KdsNtENU.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2114738310736216197",
+          "text": "Legora chose Modal for scalability, low startup latency, and the flexibility to run its large, complex app. With Modal providing reproducible environments at scale, Legora’s agents can now create cases, launch experiments, and analyze results autonomously. \n\nWith engineers managing the process, Legora used this approach to cut agent cost by 30% through smarter compaction and custom tool search.\n\nRead the full post: https://t.co/e4keucL6GH",
+          "createdAt": "2026-10-26T15:17:57.000Z",
+          "url": "https://x.com/modal/status/2114738310736216197",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2114774432577356067",
+          "text": "The Ultimate List of Artificial Intelligence Neolabs now has 100+ companies!\n\nA Neolab is a usually pre-revenue startup with elite researchers buying a lot of compute, often with a $1B+ valuation.\n\nThe list is now public and open for everyone to explore: \nhttps://t.co/ldCq8uP3Vl https://t.co/jXElzGLu7F",
+          "createdAt": "2026-10-26T17:41:29.000Z",
+          "url": "https://x.com/deedydas/status/2114774432577356067",
+          "likes": 541,
+          "retweets": 37,
+          "replies": 52,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HVks_lAbEAEbAIR.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
+      "tweets": [
+        {
+          "id": "2114741370795782511",
+          "text": "Devin Security works in four steps:\n\n1. Build a threat model with your team\n2. Deep scan with frontier cyber models\n3. Prioritize by exploitability in your environment\n4. Reproduce, patch, and test fixes in parallel https://t.co/1an8TGVuAj",
+          "createdAt": "2026-10-26T15:30:07.000Z",
+          "url": "https://x.com/cognition/status/2114741370795782511",
+          "likes": 55,
+          "retweets": 2,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "animated_gif",
+              "url": "https://pbs.twimg.com/tweet_video_thumb/HVkN_UcbUAAIXJU.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2114741368627335379",
+          "text": "We are entering a new dark age of cybersecurity. Devin is here to help.\n\nIntroducing the new Devin Security: powered by Claude Mythos and frontier cyber models, plus hundreds of millions of dollars of credits to help teams find, prioritize, and fix urgent vulnerabilities. https://t.co/YHvsZUxA8e",
+          "createdAt": "2026-10-26T15:30:06.000Z",
+          "url": "https://x.com/cognition/status/2114741368627335379",
+          "likes": 754,
+          "retweets": 96,
+          "replies": 59,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2114736412264480768/img/80zWFMVQJhZpVo1V.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 3,
+    "totalTweets": 5
   }
 }
