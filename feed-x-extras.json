@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-10-29T06:59:19.258Z",
+  "generatedAt": "2026-10-30T07:02:18.501Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Felix Rieseberg (Claude Cowork)",
+      "handle": "felixrieseberg",
+      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
+      "tweets": [
+        {
+          "id": "2115750321733476801",
+          "text": "It's so hard to internalize that models get better at an increasing pace.\n\nI talk to plenty of people at Anthropic, OpenAI, etc who have a hard time wrapping their heads around it. Even Claude struggles.\n\nI asked Opus 3 when it thinks I'll have PRs written entirely by LLMs. It guessed no sooner than 2028. Opus 5.5 expected ETH after 2045.\n\nLittle baby Claude has no idea how quickly it's growing up and I think it's even harder for humans.",
+          "createdAt": "2026-10-29T10:19:20.000Z",
+          "url": "https://x.com/felixrieseberg/status/2115750321733476801",
+          "likes": 570,
+          "retweets": 14,
+          "replies": 66,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HVylktmXgAIp77X.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HVynglnXoAEVMVL.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 1,
+    "totalTweets": 1
   }
 }
