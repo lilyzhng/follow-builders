@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T07:02:18.501Z",
+  "generatedAt": "2026-10-31T06:56:03.645Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,23 +9,60 @@
       "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
       "tweets": [
         {
-          "id": "2115750321733476801",
-          "text": "It's so hard to internalize that models get better at an increasing pace.\n\nI talk to plenty of people at Anthropic, OpenAI, etc who have a hard time wrapping their heads around it. Even Claude struggles.\n\nI asked Opus 3 when it thinks I'll have PRs written entirely by LLMs. It guessed no sooner than 2028. Opus 5.5 expected ETH after 2045.\n\nLittle baby Claude has no idea how quickly it's growing up and I think it's even harder for humans.",
-          "createdAt": "2026-10-29T10:19:20.000Z",
-          "url": "https://x.com/felixrieseberg/status/2115750321733476801",
-          "likes": 570,
-          "retweets": 14,
-          "replies": 66,
+          "id": "2116170451466543578",
+          "text": "We’re working with Cursor on this incident, but it wasn’t a compromise of Anthropic’s systems or employee laptops. A malicious actor used access to Cursor’s marketplace to publish a tampered copy of the Claude Code extension, which we didn’t build or publish. The versions on our official channels are not affected and this only impacts Cursor users.",
+          "createdAt": "2026-10-30T14:08:46.000Z",
+          "url": "https://x.com/felixrieseberg/status/2116170451466543578",
+          "likes": 759,
+          "retweets": 44,
+          "replies": 48,
+          "isQuote": true,
+          "quotedTweetId": "2116074289053175808"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2116296610892448059",
+          "text": "Another major flaw here is that it doesn’t take into account exited or IPOd companies from alumni of these institutions.\n\nMy colleague @timt who led engg at Yahoo tells me Slack and WhatsApp should also be there for Yahoo, so take that with a grain of salt",
+          "createdAt": "2026-10-30T22:30:05.000Z",
+          "url": "https://x.com/deedydas/status/2116296610892448059",
+          "likes": 8,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2116199350502351297",
+          "text": "Only institutions with 25 founders and at least 1000 staff were considered. Some that just missed the cut and approx rank: Scale (~18), Citadel (19), Waymo (21), Jane Street, Robinhood, Caltech, Cruise\n\nOnly founders who have raised from top tier firms are seed or Series A and beyond are counted.\n\nThere’s some clear bias in the data\n- the labs like OpenAI deflated because fewer people have left\n- Yahoo inflated where the current business hasn’t done well which keeps staff low\n- schools are very inflated because there’s a ~100% 4-yr attrition rate keeping current staff quite low",
+          "createdAt": "2026-10-30T16:03:36.000Z",
+          "url": "https://x.com/deedydas/status/2116199350502351297",
+          "likes": 65,
+          "retweets": 3,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2116199347285377046",
+          "text": "Top 50 most talent-dense breeding grounds for founders.\n\nPalantir at #1, Stanford at #2 and surprisingly Yahoo at #3. https://t.co/2S0V7raxAr",
+          "createdAt": "2026-10-30T16:03:36.000Z",
+          "url": "https://x.com/deedydas/status/2116199347285377046",
+          "likes": 2808,
+          "retweets": 231,
+          "replies": 136,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HVylktmXgAIp77X.jpg"
-            },
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HVynglnXoAEVMVL.jpg"
+              "url": "https://pbs.twimg.com/media/HV5AF0paYAAGg1T.jpg"
             }
           ]
         }
@@ -33,7 +70,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 2,
+    "totalTweets": 4
   }
 }
