@@ -1,26 +1,7 @@
 {
-  "generatedAt": "2026-10-31T06:56:03.645Z",
+  "generatedAt": "2026-11-01T07:27:16.397Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Felix Rieseberg (Claude Cowork)",
-      "handle": "felixrieseberg",
-      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
-      "tweets": [
-        {
-          "id": "2116170451466543578",
-          "text": "We’re working with Cursor on this incident, but it wasn’t a compromise of Anthropic’s systems or employee laptops. A malicious actor used access to Cursor’s marketplace to publish a tampered copy of the Claude Code extension, which we didn’t build or publish. The versions on our official channels are not affected and this only impacts Cursor users.",
-          "createdAt": "2026-10-30T14:08:46.000Z",
-          "url": "https://x.com/felixrieseberg/status/2116170451466543578",
-          "likes": 759,
-          "retweets": 44,
-          "replies": 48,
-          "isQuote": true,
-          "quotedTweetId": "2116074289053175808"
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -28,41 +9,47 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2116296610892448059",
-          "text": "Another major flaw here is that it doesn’t take into account exited or IPOd companies from alumni of these institutions.\n\nMy colleague @timt who led engg at Yahoo tells me Slack and WhatsApp should also be there for Yahoo, so take that with a grain of salt",
-          "createdAt": "2026-10-30T22:30:05.000Z",
-          "url": "https://x.com/deedydas/status/2116296610892448059",
-          "likes": 8,
+          "id": "2116676544047509630",
+          "text": "Here's an improved version: https://t.co/oCTNI6QgiU",
+          "createdAt": "2026-10-31T23:39:48.000Z",
+          "url": "https://x.com/deedydas/status/2116676544047509630",
+          "likes": 5,
           "retweets": 0,
           "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
+          "isQuote": true,
+          "quotedTweetId": "2116669429866275148"
         },
         {
-          "id": "2116199350502351297",
-          "text": "Only institutions with 25 founders and at least 1000 staff were considered. Some that just missed the cut and approx rank: Scale (~18), Citadel (19), Waymo (21), Jane Street, Robinhood, Caltech, Cruise\n\nOnly founders who have raised from top tier firms are seed or Series A and beyond are counted.\n\nThere’s some clear bias in the data\n- the labs like OpenAI deflated because fewer people have left\n- Yahoo inflated where the current business hasn’t done well which keeps staff low\n- schools are very inflated because there’s a ~100% 4-yr attrition rate keeping current staff quite low",
-          "createdAt": "2026-10-30T16:03:36.000Z",
-          "url": "https://x.com/deedydas/status/2116199350502351297",
-          "likes": 65,
-          "retweets": 3,
-          "replies": 10,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2116669429866275148",
+          "text": "I redid the startup founder signals that lead to top tier VCs investing in the seed / A, after incorporating some feedback.\n\nThis added ex-frontier lab and cyber security near the top, IIT as a positive, and educated in China as a negative.\n\nThe main changes were;\n- extended founding year to 2019-2026, ~2x'd the number of startups\n- unified and added some signals\n\nHere are the new signals:",
+          "createdAt": "2026-10-31T23:11:32.000Z",
+          "url": "https://x.com/deedydas/status/2116669429866275148",
+          "likes": 154,
+          "retweets": 14,
+          "replies": 41,
+          "isQuote": true,
+          "quotedTweetId": "2116577618816577767",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HV_roSbb0AAFTUK.jpg"
+            }
+          ]
         },
         {
-          "id": "2116199347285377046",
-          "text": "Top 50 most talent-dense breeding grounds for founders.\n\nPalantir at #1, Stanford at #2 and surprisingly Yahoo at #3. https://t.co/2S0V7raxAr",
-          "createdAt": "2026-10-30T16:03:36.000Z",
-          "url": "https://x.com/deedydas/status/2116199347285377046",
-          "likes": 2808,
-          "retweets": 231,
-          "replies": 136,
+          "id": "2116577630212558924",
+          "text": "The strongest signal is being a part of a top tier fund before, which seemed odd.\n\nWhen you look at the examples, this is a combination of GPs, venture partners, EIRs, investors, scouts, scholars / fellowship programs and even interns. \n\nSeems unambiguous that being close to seeing how the process works and knowing the people empirically is a huge benefit.",
+          "createdAt": "2026-10-31T17:06:45.000Z",
+          "url": "https://x.com/deedydas/status/2116577630212558924",
+          "likes": 41,
+          "retweets": 0,
+          "replies": 7,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HV5AF0paYAAGg1T.jpg"
+              "url": "https://pbs.twimg.com/media/HV-YIzKbUAAAogi.jpg"
             }
           ]
         }
@@ -70,7 +57,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 4
+    "xBuilders": 1,
+    "totalTweets": 3
   }
 }

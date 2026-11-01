@@ -1,0 +1,408 @@
+{
+  "generatedAt": "2026-11-01T07:27:14.595Z",
+  "lookbackHours": 24,
+  "x": [
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2116652002830963114",
+          "text": "This is one of the better litmus tests for whether you’re pushing your use of AI enough or not. \n\nUp until maybe six months ago probably the best you could do with AI was pull off something you already would produce, but just doing it a little faster. But now we’re entering a point where the output of working with AI can and should dramatically exceed what you would been able to do before, in a fraction of the time.\n\nThe product prototype should not only be fully functional and interactive, but it should probably have meaningfully better features than it would have had before. The engineering architecture should be able to deliver performance gains that you wouldn’t have been able to go after otherwise. \n\nThe research for a project should consume every single fact on the subject across every dimension of analysis possible. The business process you implement with AI should operate entirely differently and learn from all its past failures in a way no human could. \n\nWe’re unquestionably entering a period where AI will be smarter than us on most axes. Perhaps not on every dimension that matters (intelligence is still very jagged), but at least on enough dimensions that when we combine it with what we’re good at, you get qualitatively different outcomes.\n\nSo the simple test is: if you could have done what you’re doing before AI, you’re likely not pushing it enough.",
+          "createdAt": "2026-10-31T22:02:17.000Z",
+          "url": "https://x.com/levie/status/2116652002830963114",
+          "likes": 654,
+          "retweets": 55,
+          "replies": 111,
+          "isQuote": true,
+          "quotedTweetId": "2116567219199234317"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Harrison Chase",
+      "handle": "hwchase17",
+      "bio": "@LangChain\n\nAlways hiring: https://t.co/D5Ut3loFO7",
+      "tweets": [
+        {
+          "id": "2116556551993413744",
+          "text": "want to learn how to use decision models with langgraph/deepagents?\n\nwe're doing a meetup with Typesafe (Jev creators) next week\n\ncome join! https://t.co/1rF7aQN0gk https://t.co/DvkUCzInvD",
+          "createdAt": "2026-10-31T15:43:00.000Z",
+          "url": "https://x.com/hwchase17/status/2116556551993413744",
+          "likes": 31,
+          "retweets": 3,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HV6Nw5-akAABF8g.png"
+            }
+          ]
+        },
+        {
+          "id": "2116553654857867330",
+          "text": "A lot of content engineering challenges have pretty standard solutions, which has lead to some engineers saying agent engineering is solved/boring\n\nTrue to some extent, but there are a bunch of (fun) new ones emerging as agents evolve! https://t.co/N82RZTcFSD",
+          "createdAt": "2026-10-31T15:31:29.000Z",
+          "url": "https://x.com/hwchase17/status/2116553654857867330",
+          "likes": 387,
+          "retweets": 39,
+          "replies": 162,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2116653171741470990",
+          "text": "A classic that never goes out of style 🎃👻 https://t.co/4AiSR3Qg4L",
+          "createdAt": "2026-10-31T22:06:56.000Z",
+          "url": "https://x.com/mattturck/status/2116653171741470990",
+          "likes": 18,
+          "retweets": 1,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HV_c14uXoAAgsqD.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2116624458198982668",
+          "text": "First snow is always special ❄️ https://t.co/FzWYVB4HUl",
+          "createdAt": "2026-10-31T20:12:50.000Z",
+          "url": "https://x.com/nikunj/status/2116624458198982668",
+          "likes": 74,
+          "retweets": 0,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2116624419401646080/img/8sZXW7BKDHIeYU2S.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2116554844207198501",
+          "text": "what do you mean you dressed up as cybersecurity awareness month for halloween\n\ni hate sf https://t.co/TLitKBVgUu",
+          "createdAt": "2026-10-31T15:36:13.000Z",
+          "url": "https://x.com/nikunj/status/2116554844207198501",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HV-DaT_a0AApk6W.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lulu Cheng Meservey",
+      "handle": "lulumeservey",
+      "bio": "Rostra founder, Shopify board, ex Activision & Substack, writing https://t.co/4xKo7wQTQo",
+      "tweets": [
+        {
+          "id": "2116586570283114902",
+          "text": "Ed’s favorite compliment is “patriot,” because to him, that’s the best thing you can be\n\nHe could’ve worked anywhere and decided to work for America. In return he’s been underpaid, underslept, and attacked verbally and physically\n\nThank you, patriot, for giving the government better tech and bigger balls",
+          "createdAt": "2026-10-31T17:42:17.000Z",
+          "url": "https://x.com/lulumeservey/status/2116586570283114902",
+          "likes": 442,
+          "retweets": 32,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2116583941150810607"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Bret Taylor",
+      "handle": "btaylor",
+      "bio": "Co-Founder @SierraPlatform. Board @OpenAI.",
+      "tweets": [
+        {
+          "id": "2116717534313627717",
+          "text": "Go Valkyries! #Ballhalla",
+          "createdAt": "2026-11-01T02:22:41.000Z",
+          "url": "https://x.com/btaylor/status/2116717534313627717",
+          "likes": 42,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "alphaXiv",
+      "handle": "askalphaxiv",
+      "bio": "High fidelity research",
+      "tweets": [
+        {
+          "id": "2116779287390896418",
+          "text": "Yann LeCun and Randall Balestriero just Proved the Platonic Representation Hypothesis, and found a better way to achieve it.\n\nThe Platonic Representation Hypothesis suggests that AI models trained on different modalities, like images and text, eventually learn similar representations of the world. But this paper shows that how models are trained matters more than simply scaling them up.\n\nSo they mathematically show that, under certain conditions, two JEPAs trained completely separately can learn essentially the same underlying representation of the world. One learns from different images of the same scene, while the other learns from different descriptions of that scene, without ever being trained on image-text pairs.\n\nTheir approach achieves the same image-text alignment with 42x fewer training samples than next-token prediction. A 109M-parameter text JEPA even outperforms LLMs up to 72B parameters on cross-modal alignment benchmarks.\n\nhttps://t.co/3j1enq9qF7",
+          "createdAt": "2026-11-01T06:28:04.000Z",
+          "url": "https://x.com/askalphaxiv/status/2116779287390896418",
+          "likes": 33,
+          "retweets": 8,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWBC7EiboAAgHka.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2116469477852508204",
+          "text": "\"Competing Learning in Hybrid Architectures\"\n\nHybrid models combine recurrent layers with full attention, but this paper finds that recurrent layers learn retrieval faster, preventing attention layers from learning the same capability effectively.\n\nSo they proposed Better Layer Division (BLD) which temporarily freezes recurrent layers early in training, forcing attention layers to learn retrieval first before allowing both components to train together.\n\nAcross 180M-1B models, BLD consistently improves retrieval performance. At 750M, RULER accuracy increases from 26.53% to 32.82%, while long-context perplexity drops from 12.68 to 8.08.\n\nhttps://t.co/AuyDXPZk9I",
+          "createdAt": "2026-10-31T09:57:00.000Z",
+          "url": "https://x.com/askalphaxiv/status/2116469477852508204",
+          "likes": 134,
+          "retweets": 15,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HV8aWpPaAAAQ93t.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2116438362257326432",
+          "text": "\"Training Language Models in Simulation for Psychiatric Intake\"\n\nLLMs can answer medical questions, but conducting psychiatric interviews requires asking the right follow-up questions, recognizing safety risks, and communicating effectively with patients.\n\nThis Google paper trains an LLM using multi-turn reinforcement learning with simulated psychiatric patients, rewarding accurate diagnosis, effective communication, and clinical safety.\n\nIn blinded evaluations involving psychiatrists role-playing patients, the trained model outperforms its baseline in 76.7% of scenarios. Appropriate differential diagnoses improve from 33.3% to 68.3%, while patient-centered communication scores rise from 65.2% to 82.0%.\n\nhttps://t.co/q4TzUK9OUk",
+          "createdAt": "2026-10-31T07:53:21.000Z",
+          "url": "https://x.com/askalphaxiv/status/2116438362257326432",
+          "likes": 87,
+          "retweets": 9,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HV8ZcM-acAAYsDI.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2116782055665402157",
+          "text": "@karpathy https://t.co/ff9Go6a7Zd url",
+          "createdAt": "2026-11-01T06:39:04.000Z",
+          "url": "https://x.com/swyx/status/2116782055665402157",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2116773135668404286",
+          "text": "btw @karpathy uses medium on opus 5.5 on his latest project (Hackertube launched today).\n\noverall i think having strong opinions on effort levels is like the tabs vs spaces of our time. just tweak to taste. altho mine is definitely superior to yours. https://t.co/oSCPvlogKc https://t.co/3OIWb03BtY",
+          "createdAt": "2026-11-01T06:03:37.000Z",
+          "url": "https://x.com/swyx/status/2116773135668404286",
+          "likes": 92,
+          "retweets": 2,
+          "replies": 72,
+          "isQuote": true,
+          "quotedTweetId": "2116642586387730593",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWBJ6PNbEAAHuO6.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWBJ8i0bQAA2-A5.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2116642586387730593",
+          "text": "join me all the way on the light side guys\n\nlow effort + critique loop &gt; superultramaxhighwhatever\n\n(for the throughput-constrained; see swyxio/skills/babysit-runs) https://t.co/TuAWCwUPR1",
+          "createdAt": "2026-10-31T21:24:52.000Z",
+          "url": "https://x.com/swyx/status/2116642586387730593",
+          "likes": 150,
+          "retweets": 0,
+          "replies": 161,
+          "isQuote": true,
+          "quotedTweetId": "2116420089411145913"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2116754343315841471",
+          "text": "Is it weird if I prefer listening to this over Spotify https://t.co/lH3wixKArx",
+          "createdAt": "2026-11-01T04:48:57.000Z",
+          "url": "https://x.com/petergyang/status/2116754343315841471",
+          "likes": 16,
+          "retweets": 0,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWA41RPaEAAqlTu.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2116733034926100841",
+          "text": "Don't particularly care about the trick or treat part, just being able to dress up as whatever you want is the best",
+          "createdAt": "2026-11-01T03:24:17.000Z",
+          "url": "https://x.com/petergyang/status/2116733034926100841",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2116732887265656978",
+          "text": "Halloween is honestly the best holiday and should be held every quarter",
+          "createdAt": "2026-11-01T03:23:41.000Z",
+          "url": "https://x.com/petergyang/status/2116732887265656978",
+          "likes": 25,
+          "retweets": 0,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2116710688550994042",
+          "text": "This would go so hard in SF https://t.co/RgE7UIADws",
+          "createdAt": "2026-11-01T01:55:29.000Z",
+          "url": "https://x.com/rauchg/status/2116710688550994042",
+          "likes": 828,
+          "retweets": 23,
+          "replies": 54,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWAPws1bMAIS7HK.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2116676544047509630",
+          "text": "Here's an improved version: https://t.co/oCTNI6QgiU",
+          "createdAt": "2026-10-31T23:39:48.000Z",
+          "url": "https://x.com/deedydas/status/2116676544047509630",
+          "likes": 5,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2116669429866275148"
+        },
+        {
+          "id": "2116669429866275148",
+          "text": "I redid the startup founder signals that lead to top tier VCs investing in the seed / A, after incorporating some feedback.\n\nThis added ex-frontier lab and cyber security near the top, IIT as a positive, and educated in China as a negative.\n\nThe main changes were;\n- extended founding year to 2019-2026, ~2x'd the number of startups\n- unified and added some signals\n\nHere are the new signals:",
+          "createdAt": "2026-10-31T23:11:32.000Z",
+          "url": "https://x.com/deedydas/status/2116669429866275148",
+          "likes": 154,
+          "retweets": 14,
+          "replies": 41,
+          "isQuote": true,
+          "quotedTweetId": "2116577618816577767",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HV_roSbb0AAFTUK.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2116577630212558924",
+          "text": "The strongest signal is being a part of a top tier fund before, which seemed odd.\n\nWhen you look at the examples, this is a combination of GPs, venture partners, EIRs, investors, scouts, scholars / fellowship programs and even interns. \n\nSeems unambiguous that being close to seeing how the process works and knowing the people empirically is a huge benefit.",
+          "createdAt": "2026-10-31T17:06:45.000Z",
+          "url": "https://x.com/deedydas/status/2116577630212558924",
+          "likes": 41,
+          "retweets": 0,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HV-YIzKbUAAAogi.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "xBuilders": 11,
+    "totalTweets": 21
+  },
+  "errors": [
+    "X API: User not found: jenny_wen"
+  ]
+}
