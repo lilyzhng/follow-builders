@@ -1,9 +1,52 @@
 {
-  "generatedAt": "2026-11-02T07:36:54.129Z",
+  "generatedAt": "2026-11-03T07:51:12.716Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2117198564619366620",
+          "text": "The dollar volume chart on OpenRouter is far more interesting, with Opus driving annual GMV run rate, even on a monthly basis, cleanly above $5B https://t.co/0glnT7PsZT",
+          "createdAt": "2026-11-02T10:14:08.000Z",
+          "url": "https://x.com/deedydas/status/2117198564619366620",
+          "likes": 57,
+          "retweets": 3,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWHM3iKaAAAC86Z.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2117185584330645931",
+          "text": "Congratulations to OpenRouter for crossing 10 QUADRILLION annual token run rate today! \n\nToken volumes continue to 2x every 10.5 weeks.\n\nIn the last 9 weeks, OpenRouter processed more tokens than all of time before that. https://t.co/9re1juJFlv",
+          "createdAt": "2026-11-02T09:22:33.000Z",
+          "url": "https://x.com/deedydas/status/2117185584330645931",
+          "likes": 749,
+          "retweets": 45,
+          "replies": 105,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWHAikua0AA3lOp.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }

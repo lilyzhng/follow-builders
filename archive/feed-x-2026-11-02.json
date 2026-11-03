@@ -1,0 +1,636 @@
+{
+  "generatedAt": "2026-11-03T07:51:10.963Z",
+  "lookbackHours": 24,
+  "x": [
+    {
+      "source": "x",
+      "name": "Harrison Chase",
+      "handle": "hwchase17",
+      "bio": "@LangChain\n\nAlways hiring: https://t.co/D5Ut3loFO7",
+      "tweets": [
+        {
+          "id": "2117465596342509793",
+          "text": "is org/agent level memory just \"skills\"? assuming there is process for updating skills from agent traces/history\n\nwhy or why not?",
+          "createdAt": "2026-11-03T03:55:13.000Z",
+          "url": "https://x.com/hwchase17/status/2117465596342509793",
+          "likes": 42,
+          "retweets": 1,
+          "replies": 84,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2117345786715607062",
+          "text": "We're bringing back Interrupt for the THIRD year\n\n- This will be the biggest one yet (new venue that can hold ~2k people!)\n- Most talks &amp; workshops we've ever had\n- New Executive Track\n\nRegister today for the early bird special: https://t.co/xP2NVTnag0 https://t.co/JBiw9WkKEj",
+          "createdAt": "2026-11-02T19:59:08.000Z",
+          "url": "https://x.com/hwchase17/status/2117345786715607062",
+          "likes": 74,
+          "retweets": 13,
+          "replies": 22,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWJShgYaIAEfTsO.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2117413490256433207",
+          "text": "A bit last minute, but really excited about this new event series that I'm hosting called Slice for Thought 🍕💭\n\nFirst guest up is @PeterJ_Walker, head of insights at @OpenRouter (previously @cartainc) this Wednesday, Nov 4th at noon. \n\n> 60 minute sessions (IRL only) in SF\n> For the first 45 mins, I get to ask the guest spicy questions about their expertise\n> For the last 15 mins, they get to ask me anything they want to learn about venture\n> All off the record, chatham house rules\n> Every Wednesday with some pizza slices for lunch\n> Open to 10-12 guests who listen in and can ask some of their own questions\n\nRegister here if you want to join us for the first edition, and subscribe to the Luma for future guests: https://t.co/37gFCJNKKr",
+          "createdAt": "2026-11-03T00:28:10.000Z",
+          "url": "https://x.com/nikunj/status/2117413490256433207",
+          "likes": 53,
+          "retweets": 1,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWKJn5PbwAA89Aa.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWKJoAHbYAAqzG1.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2117397103618252826",
+          "text": "Proof 😂 https://t.co/lGxqTo6oPF",
+          "createdAt": "2026-11-02T23:23:03.000Z",
+          "url": "https://x.com/nikunj/status/2117397103618252826",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWKBcN0bEAAJyEt.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWKBcN6bEAEX8Zf.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2117362283223687621",
+          "text": "If anyone is guessing, the pipeline of a startup (or ceo) vague posting revenue numbers \n\nto their fundraise kickoff \n\nthat they-were-totally-not-going-to-do till early next year, \n\nis ~11 days\n\n😅\n\n(n=17, grok bot tokens were harmed for this analysis)",
+          "createdAt": "2026-11-02T21:04:41.000Z",
+          "url": "https://x.com/nikunj/status/2117362283223687621",
+          "likes": 72,
+          "retweets": 0,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2117428596688171450",
+          "text": "if you're wondering why, read the @every vibe check of argon: https://t.co/ME8BIWHAbR",
+          "createdAt": "2026-11-03T01:28:12.000Z",
+          "url": "https://x.com/danshipper/status/2117428596688171450",
+          "likes": 12,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2117386273984012535",
+          "text": "Lfg https://t.co/UE6oLshHWD",
+          "createdAt": "2026-11-02T22:40:01.000Z",
+          "url": "https://x.com/danshipper/status/2117386273984012535",
+          "likes": 91,
+          "retweets": 4,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2117368683605422309"
+        },
+        {
+          "id": "2117363007340609556",
+          "text": "partly argon is so good\n\npartly antigravity is stuck in 2025 so it doesnt have all of the crazy features and complexity",
+          "createdAt": "2026-11-02T21:07:34.000Z",
+          "url": "https://x.com/danshipper/status/2117363007340609556",
+          "likes": 43,
+          "retweets": 0,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2117313677833765256",
+          "text": "Spots limited, request here: https://t.co/RN7iT7LE86",
+          "createdAt": "2026-11-02T17:51:33.000Z",
+          "url": "https://x.com/adityaag/status/2117313677833765256",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2117313674981355761",
+          "text": "It's always exciting to welcome @spc alumni back.\n\n@tankots is a four-time founder and an IOI medalist. \n\nHe's now the co-founder and CEO of @WisprFlow. \n\nThey recently raised a $280M Series B at a $2B valuation. \n\nHe's joining us Nov 12th. https://t.co/QNxL9a9nD3",
+          "createdAt": "2026-11-02T17:51:32.000Z",
+          "url": "https://x.com/adityaag/status/2117313674981355761",
+          "likes": 24,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWI0MS1XEAEhW5E.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Unsloth",
+      "handle": "UnslothAI",
+      "bio": "Run and train models locally with the Unsloth Desktop app. 🦥 https://t.co/2kXqhhvdCD",
+      "tweets": [
+        {
+          "id": "2117266365929365525",
+          "text": "We benchmarked DeepSeek-V4.1-Flash-1017 GGUFs on Terminal Bench, DeepSWE &amp; more on 512K context. Unsloth ranks highest overall.\n\n1-bit Unsloth GGUF scores 68.1 on DeepSWE, 72.2 on Terminal-Bench, 52.7 on AutomationBench. &gt;10% ahead of other quants.\n\nGGUF: https://t.co/1kD14VTAYP https://t.co/dEK5xmmibe https://t.co/gmt416bDip",
+          "createdAt": "2026-11-02T14:43:33.000Z",
+          "url": "https://x.com/UnslothAI/status/2117266365929365525",
+          "likes": 585,
+          "retweets": 47,
+          "replies": 51,
+          "isQuote": true,
+          "quotedTweetId": "2116156587404562491",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWIKBOyawAA2sPl.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
+      "tweets": [
+        {
+          "id": "2117326554934251541",
+          "text": "https://t.co/hJu5NvaiuP",
+          "createdAt": "2026-11-02T18:42:43.000Z",
+          "url": "https://x.com/NousResearch/status/2117326554934251541",
+          "likes": 189,
+          "retweets": 9,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2117326444669857941",
+          "text": "&gt; hermes migrate grok-bot https://t.co/rPy7xl280D",
+          "createdAt": "2026-11-02T18:42:17.000Z",
+          "url": "https://x.com/NousResearch/status/2117326444669857941",
+          "likes": 2032,
+          "retweets": 117,
+          "replies": 126,
+          "isQuote": true,
+          "quotedTweetId": "2116992258520064397"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Modal",
+      "handle": "modal",
+      "bio": "Building blocks for production AI",
+      "tweets": [
+        {
+          "id": "2117292096486838418",
+          "text": "Day 0 support for Kimi K3.1 Pro from @Kimi_Moonshot coming this week on Modal. https://t.co/X0sTkdxhLy",
+          "createdAt": "2026-11-02T16:25:47.000Z",
+          "url": "https://x.com/modal/status/2117292096486838418",
+          "likes": 51,
+          "retweets": 7,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2113680701770068067"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lulu Cheng Meservey",
+      "handle": "lulumeservey",
+      "bio": "Rostra founder, Shopify board, ex Activision & Substack, writing https://t.co/4xKo7wQTQo",
+      "tweets": [
+        {
+          "id": "2117381018395042216",
+          "text": "Paid engagement campaigns suffer from adverse selection because the most influential “influencers” can’t be bought\n\nA tweet from someone like @levelsio or @GergelyOrosz would be worth paying any amount for,  and it’s because you can’t",
+          "createdAt": "2026-11-02T22:19:08.000Z",
+          "url": "https://x.com/lulumeservey/status/2117381018395042216",
+          "likes": 217,
+          "retweets": 5,
+          "replies": 24,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2117375887603884329",
+          "text": "These agencies are doing a disservice to founders\n\nPaid engagement is worse aura than an earnest launch executed cleanly \n\nMaybe there’s a way to do this tastefully. Maybe there’s a “tasteful nudes” version of bulk purchasing engagement that does the job but isn’t so inartful",
+          "createdAt": "2026-11-02T21:58:45.000Z",
+          "url": "https://x.com/lulumeservey/status/2117375887603884329",
+          "likes": 95,
+          "retweets": 2,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2117373671811768546",
+          "text": "Caveat emptor: if you buy engagement, you might end up with the kind of “paid partnership” you’d normally pay to avoid https://t.co/JXCxzBdlva",
+          "createdAt": "2026-11-02T21:49:56.000Z",
+          "url": "https://x.com/lulumeservey/status/2117373671811768546",
+          "likes": 248,
+          "retweets": 1,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWJsIZBXsAAnwiQ.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "alphaXiv",
+      "handle": "askalphaxiv",
+      "bio": "High fidelity research",
+      "tweets": [
+        {
+          "id": "2117523112594198766",
+          "text": "\"Mistral Large 4\" \n\npaper published exclusively on alphaXiv\n\nTheir latest technical report shares that aggressively reducing KV-cache memory can hurt an LLM's agentic capabilities, even when its language modeling performance looks unchanged.\n\nMistral initially reduced KV-cache memory by 16x, but they found that this hurts long-context agentic tasks, where models need to retrieve information from much earlier context.\n\nTo fix this, Mistral restored full-context attention to more layers, then adopted DeepSeek Sparse Attention to select the 2,048 most relevant tokens across the context instead of attending to everything.\n\nTheir resulting 1T-parameter MoE model (w 52B active) scores 41% on Terminal-Bench 4.0 and 19.7% on FrontierCode 2.0, and its NVFP4-quantized checkpoint fits on four GB300 GPUs.\n\nhttps://t.co/L3pESAejPt",
+          "createdAt": "2026-11-03T07:43:46.000Z",
+          "url": "https://x.com/askalphaxiv/status/2117523112594198766",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWLzzpxb0AE99ap.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2117522225691873623",
+          "text": "\"Multi-Token Prediction Done Right\"\n\nMulti-token prediction (MTP) helps LLMs predict a few future tokens, but this paper finds that around 80% of its training gradient comes from a noisy component that interferes with learning.\n\nThey introduce Soft-MTP, which removes this noisy gradient and instead trains MTP heads to match the model's own next-token predictions. This change requires just one line of code, with no additional parameters or measurable training overhead.\n\nAcross 167M-1.2B models, Soft-MTP improves perplexity, downstream accuracy, and speculative decoding speed. \n\nAt 1.2B, HumanEval Pass@64 improves from 40.85% to 43.90%, while speculative decoding becomes roughly 1.5% faster than standard MTP\n\nhttps://t.co/QM4rawWYGP",
+          "createdAt": "2026-11-03T07:40:14.000Z",
+          "url": "https://x.com/askalphaxiv/status/2117522225691873623",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWLzPJdbMAAdKZx.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2117406633718661522",
+          "text": "Check out this work from @rikiyatakehi @jayden_teoh_ @a1zhang @lateinteraction on alphaXiv! https://t.co/XAozMNrVdL",
+          "createdAt": "2026-11-03T00:00:55.000Z",
+          "url": "https://x.com/askalphaxiv/status/2117406633718661522",
+          "likes": 12,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2117492548780589510",
+          "text": "with weight-space programming, we are now at paragraph 2 of exhalation https://t.co/lfNwVnT2Uh https://t.co/TTvsxLKoNd",
+          "createdAt": "2026-11-03T05:42:19.000Z",
+          "url": "https://x.com/swyx/status/2117492548780589510",
+          "likes": 46,
+          "retweets": 1,
+          "replies": 36,
+          "isQuote": true,
+          "quotedTweetId": "2117492027587985695",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWLYMJLbwAAvr8q.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2117341332645826945",
+          "text": "lmaoooo https://t.co/6VGcWsjefZ https://t.co/Cg7gAB9nfK",
+          "createdAt": "2026-11-02T19:41:26.000Z",
+          "url": "https://x.com/swyx/status/2117341332645826945",
+          "likes": 344,
+          "retweets": 16,
+          "replies": 12,
+          "isQuote": true,
+          "quotedTweetId": "2105818177674654099",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWJOtDaaIAAZGfJ.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2117331535007531009",
+          "text": "i think the @CompleteSkeptic and @typesafeai  followup is going to melt on twitter https://t.co/qAPtSbizCb\n\nlooking frward to attend.",
+          "createdAt": "2026-11-02T19:02:30.000Z",
+          "url": "https://x.com/swyx/status/2117331535007531009",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2117262979955912732",
+          "text": "HBD SRK! https://t.co/Q5YWFrL8x0",
+          "createdAt": "2026-11-02T14:30:05.000Z",
+          "url": "https://x.com/joshwoodward/status/2117262979955912732",
+          "likes": 3513,
+          "retweets": 771,
+          "replies": 27,
+          "isQuote": true,
+          "quotedTweetId": "2116813235827683604"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2117487282236321835",
+          "text": "Did you know that if you have an Amazon Prime account you can play triple AAA games here for free. \n\nThere goes my night\n\nhttps://t.co/9xp0iHkSZR",
+          "createdAt": "2026-11-03T05:21:23.000Z",
+          "url": "https://x.com/petergyang/status/2117487282236321835",
+          "likes": 14,
+          "retweets": 3,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2117473529797214279",
+          "text": "Insane growth this is what an AI native product looks like! https://t.co/8lSVFViyke",
+          "createdAt": "2026-11-03T04:26:44.000Z",
+          "url": "https://x.com/petergyang/status/2117473529797214279",
+          "likes": 30,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2117431078009127383"
+        },
+        {
+          "id": "2117333424403042330",
+          "text": "The best model for writing & editing is held back by its harness.\n\nI just had both ChatGPT and @GeminiApp suggest copy edits for a post that I'm working on.\n\nChatGPT's suggestions were almost entirely bad but Gemini's suggestions were actually great.\n\nUnfortunately, Antigravity doesn't seem to have working browser use so I basically have to paste all of Gemini's edits back into ChatGPT to make the edits in my browser.\n\nTweeting this in the hope that Antigravity will get much better much faster.",
+          "createdAt": "2026-11-02T19:10:01.000Z",
+          "url": "https://x.com/petergyang/status/2117333424403042330",
+          "likes": 206,
+          "retweets": 4,
+          "replies": 62,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "tweets": [
+        {
+          "id": "2117305792923889731",
+          "text": "one week in my takeaway is that you don't need unlimited tokens to do great work, the $200 plans are amazing \n\nand this is the most expensive intelligence will ever be",
+          "createdAt": "2026-11-02T17:20:13.000Z",
+          "url": "https://x.com/trq212/status/2117305792923889731",
+          "likes": 6927,
+          "retweets": 136,
+          "replies": 418,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2117504072416890937",
+          "text": "AI agents running on employee endpoints are becoming a systemic security risk for enterprises & governments. \n\nSome are responding by restricting tools like Claude Code, as Goldman Sachs reportedly has.\n\nIn this security advisory, we outline the risks and recommend a path forward.",
+          "createdAt": "2026-11-03T06:28:06.000Z",
+          "url": "https://x.com/amasad/status/2117504072416890937",
+          "likes": 127,
+          "retweets": 10,
+          "replies": 73,
+          "isQuote": true,
+          "quotedTweetId": "2117496522656841766"
+        },
+        {
+          "id": "2117499074496872882",
+          "text": "AI agents should operate in dedicated, organization-controlled environments with limited access to the resources each task requires. https://t.co/TfaytfjqOT",
+          "createdAt": "2026-11-03T06:08:15.000Z",
+          "url": "https://x.com/amasad/status/2117499074496872882",
+          "likes": 31,
+          "retweets": 1,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2117496522656841766"
+        },
+        {
+          "id": "2117481616943820843",
+          "text": "This is widespread in finance. The ban hammer is coming down. https://t.co/ivdSKYiK4a",
+          "createdAt": "2026-11-03T04:58:53.000Z",
+          "url": "https://x.com/amasad/status/2117481616943820843",
+          "likes": 1310,
+          "retweets": 77,
+          "replies": 81,
+          "isQuote": true,
+          "quotedTweetId": "2117284426128179638"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2117419661654720671",
+          "text": "So bullish on WebMCP https://t.co/5FjPcItSW4",
+          "createdAt": "2026-11-03T00:52:41.000Z",
+          "url": "https://x.com/rauchg/status/2117419661654720671",
+          "likes": 401,
+          "retweets": 14,
+          "replies": 77,
+          "isQuote": true,
+          "quotedTweetId": "2117419200528671059"
+        },
+        {
+          "id": "2117394353304052210",
+          "text": "So cool! https://t.co/GIJDqq2O9u",
+          "createdAt": "2026-11-02T23:12:07.000Z",
+          "url": "https://x.com/rauchg/status/2117394353304052210",
+          "likes": 171,
+          "retweets": 4,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2117385775109325045"
+        },
+        {
+          "id": "2117338179535810957",
+          "text": "Stateless sandboxes are the wrong benchmark. Agents are only useful if they have their workspace with them (identity, skills, repos, memories…)\n\nVercel Sandbox team has been beautifully delivering on their latency & throughput SLOs, while prioritizing reliability and security.\n\nDoing this while shipping clusters in 19 (‼️) global regions, new features every week, and under immense amount of customer demand in the double digit growth percentage per week.",
+          "createdAt": "2026-11-02T19:28:54.000Z",
+          "url": "https://x.com/rauchg/status/2117338179535810957",
+          "likes": 239,
+          "retweets": 6,
+          "replies": 128,
+          "isQuote": true,
+          "quotedTweetId": "2117335120885805104"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2117505799937577263",
+          "text": "The divergence in AI output weirdly may be the highest it’s ever been, even though adoption is the broadest it’s ever been. \n\nA few years ago the best productivity gains you could get, even in the most capability-aligned field (like coding), was maybe 30-50% better productivity if you were very good at it. You’d spend a decent chunk of time cleaning up the mistakes of models, the context windows were too limited to do any long running work, and the interfaces required highly synchronous interactions. \n\nNow, the models can do far longer tasks at a time with limited human interaction. The harnesses support agentic work that can take on these larger tasks. The models are trained on vastly better datasets for a growing array of domains so you have to intervene far less. And we have systems that better support working with many agents at once. \n\nIn just a two year timespan, the upper limits on productivity gains have gone from 30-50% to now likely 5-10X depending on the field. So we’ve gone from an environment where living at the frontier vs. not paying attention at all could be an order of magnitude difference in your output.\n\nThis distance is only getting wider from here given the rate of progress we’re likely to see with RSI. Crazy times.",
+          "createdAt": "2026-11-03T06:34:58.000Z",
+          "url": "https://x.com/levie/status/2117505799937577263",
+          "likes": 96,
+          "retweets": 6,
+          "replies": 46,
+          "isQuote": true,
+          "quotedTweetId": "2117223823611175204"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2117198564619366620",
+          "text": "The dollar volume chart on OpenRouter is far more interesting, with Opus driving annual GMV run rate, even on a monthly basis, cleanly above $5B https://t.co/0glnT7PsZT",
+          "createdAt": "2026-11-02T10:14:08.000Z",
+          "url": "https://x.com/deedydas/status/2117198564619366620",
+          "likes": 57,
+          "retweets": 3,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWHM3iKaAAAC86Z.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2117185584330645931",
+          "text": "Congratulations to OpenRouter for crossing 10 QUADRILLION annual token run rate today! \n\nToken volumes continue to 2x every 10.5 weeks.\n\nIn the last 9 weeks, OpenRouter processed more tokens than all of time before that. https://t.co/9re1juJFlv",
+          "createdAt": "2026-11-02T09:22:33.000Z",
+          "url": "https://x.com/deedydas/status/2117185584330645931",
+          "likes": 749,
+          "retweets": 45,
+          "replies": 105,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWHAikua0AA3lOp.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "xBuilders": 17,
+    "totalTweets": 37
+  },
+  "errors": [
+    "X API: User not found: jenny_wen"
+  ]
+}
