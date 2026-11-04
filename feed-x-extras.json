@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:51:12.716Z",
+  "generatedAt": "2026-11-04T07:27:30.483Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,36 +9,47 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2117198564619366620",
-          "text": "The dollar volume chart on OpenRouter is far more interesting, with Opus driving annual GMV run rate, even on a monthly basis, cleanly above $5B https://t.co/0glnT7PsZT",
-          "createdAt": "2026-11-02T10:14:08.000Z",
-          "url": "https://x.com/deedydas/status/2117198564619366620",
-          "likes": 57,
-          "retweets": 3,
-          "replies": 7,
+          "id": "2117803511262122277",
+          "text": "Source: https://t.co/p67jspMclZ",
+          "createdAt": "2026-11-04T02:17:58.000Z",
+          "url": "https://x.com/deedydas/status/2117803511262122277",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2117803499102822424",
+          "text": "We just dropped a 15-part comprehensive report on AI spend in the enterprise.\n\nHere are my top 3 takeaways:\n- Spend grew 5.4x last year to $177B, with most spend coming from existing buyers\n- Most dollars go to the frontier with 69% going to top 3 labs (Anthropic, OpenAI, Google) vs 50% last year\n- 86% of LLM API spend goes to Anthropic (55%) and OpenAI (31%)\n\nCrazy to think AI spend in our first report 3yrs ago was only $2.5B.\n\nRead the entire report here:",
+          "createdAt": "2026-11-04T02:17:55.000Z",
+          "url": "https://x.com/deedydas/status/2117803499102822424",
+          "likes": 188,
+          "retweets": 17,
+          "replies": 63,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HWHM3iKaAAAC86Z.jpg"
+              "url": "https://pbs.twimg.com/media/HWPzD07awAADb7u.jpg"
             }
           ]
         },
         {
-          "id": "2117185584330645931",
-          "text": "Congratulations to OpenRouter for crossing 10 QUADRILLION annual token run rate today! \n\nToken volumes continue to 2x every 10.5 weeks.\n\nIn the last 9 weeks, OpenRouter processed more tokens than all of time before that. https://t.co/9re1juJFlv",
-          "createdAt": "2026-11-02T09:22:33.000Z",
-          "url": "https://x.com/deedydas/status/2117185584330645931",
-          "likes": 749,
-          "retweets": 45,
-          "replies": 105,
-          "isQuote": false,
-          "quotedTweetId": null,
+          "id": "2117564114650509652",
+          "text": "Atoms in a barrel of oil is remarkably proportional to useful energy it produces https://t.co/83aHv4TnfF https://t.co/oqYa6HhehN",
+          "createdAt": "2026-11-03T10:26:42.000Z",
+          "url": "https://x.com/deedydas/status/2117564114650509652",
+          "likes": 1166,
+          "retweets": 14,
+          "replies": 41,
+          "isQuote": true,
+          "quotedTweetId": "2117349011913068715",
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HWHAikua0AA3lOp.jpg"
+              "url": "https://pbs.twimg.com/media/HWMZQFnasAEiYe-.jpg"
             }
           ]
         }
@@ -47,6 +58,6 @@
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 2
+    "totalTweets": 3
   }
 }

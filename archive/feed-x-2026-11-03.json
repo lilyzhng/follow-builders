@@ -1,0 +1,694 @@
+{
+  "generatedAt": "2026-11-04T07:27:28.641Z",
+  "lookbackHours": 24,
+  "x": [
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2117741948609949932",
+          "text": "Major moment for @SurrealDB \n\nBuilding a database is an incredible grind - if you get that initial open-source pop, you then face years of unglamorous hard work to build a truly world class product\n\nSurrealDB 4 is now that product. Multi-model (vector, graph, document), ACID compliant, w/ a rebuilt engine, native Postgres/MySQL support + massive scalability via @Cloudflare handling 10B+ peak rows/sec\n\nThe modern database for the agentic era.",
+          "createdAt": "2026-11-03T22:13:20.000Z",
+          "url": "https://x.com/mattturck/status/2117741948609949932",
+          "likes": 45,
+          "retweets": 7,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2117662416091648196"
+        },
+        {
+          "id": "2117675063637905497",
+          "text": "Hang it in the Louvre https://t.co/8ghT9Yge3x https://t.co/SPjXVEsyBJ",
+          "createdAt": "2026-11-03T17:47:34.000Z",
+          "url": "https://x.com/mattturck/status/2117675063637905497",
+          "likes": 453,
+          "retweets": 17,
+          "replies": 21,
+          "isQuote": true,
+          "quotedTweetId": "2117664468603670928",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWN-P1fWgAA-VwW.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "tweets": [
+        {
+          "id": "2117869262505427072",
+          "text": "One thing I noticed: the vast majority of people who shared their personal websites in this thread are developers or designers.\n\nIs it because only developers and designers need personal websites, or because only they know how to make one? https://t.co/mEG5Z28kyU",
+          "createdAt": "2026-11-04T06:39:14.000Z",
+          "url": "https://x.com/zarazhangrui/status/2117869262505427072",
+          "likes": 12,
+          "retweets": 0,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2113148949842534482"
+        },
+        {
+          "id": "2117776720606716157",
+          "text": "A presentation can feel like embroidery 🪡 https://t.co/ytBdA9PNUU",
+          "createdAt": "2026-11-04T00:31:31.000Z",
+          "url": "https://x.com/zarazhangrui/status/2117776720606716157",
+          "likes": 42,
+          "retweets": 3,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2117776603287851009/img/f0zTcvR_Y-GfYPxw.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2117786890070024506",
+          "text": "Love X but man the dead internet theory feels so real seeing all these bots https://t.co/AXZfDtlQij",
+          "createdAt": "2026-11-04T01:11:55.000Z",
+          "url": "https://x.com/nikunj/status/2117786890070024506",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2117786859187363840/img/vhrRNlhHUnaY0H4Z.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2117773647868018897",
+          "text": "My two favorite default skills on Claude Code, still, that seem relatively less used are a) /insights and b) /playground..\n\nFor insights, I have a regular cron job that runs this now every two weeks. It tells me all the best ways to upgrade my setup. I pair it with X bookmarks that show all the new ways to build a software factory. It's a self improving loop on how I use Claude Code + what the industry thinks I should move to. \n\nFor playground, it's the best way to visualize what's happening in the workflow. I ask it to show me architecture of esoteric Github's to simulating a full learning loop on my side project. My new favorite thing is to pair Codex + Claude Code on this skill and ask it to find dead code, hot pathways, latency improvements.\n\nGive it a shot and tell me what you think!",
+          "createdAt": "2026-11-04T00:19:18.000Z",
+          "url": "https://x.com/nikunj/status/2117773647868018897",
+          "likes": 93,
+          "retweets": 0,
+          "replies": 45,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2117650163066183769",
+          "text": "We live in special times..\n\nI love using @ChatGPT Codex app AND @claudeai desktop app AND the @bot app AND the @Muse app.\n\nAll have their quirks, but each of them is delightfully designed. I never thought I'd be reaching for all of them as often as I do. \n\nEach pushing the frontier on models + customer experience.\n\nTruly a singularity we'll look back on!",
+          "createdAt": "2026-11-03T16:08:37.000Z",
+          "url": "https://x.com/nikunj/status/2117650163066183769",
+          "likes": 44,
+          "retweets": 1,
+          "replies": 21,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2117755295552221683",
+          "text": "very neat! https://t.co/03s4V22Dm3",
+          "createdAt": "2026-11-03T23:06:23.000Z",
+          "url": "https://x.com/steipete/status/2117755295552221683",
+          "likes": 148,
+          "retweets": 4,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2117696508732875021"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2117656806444945911",
+          "text": "go get it https://t.co/GPrrix13rj",
+          "createdAt": "2026-11-03T16:35:01.000Z",
+          "url": "https://x.com/danshipper/status/2117656806444945911",
+          "likes": 14,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2117611517545775320"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "tweets": [
+        {
+          "id": "2117794005165748448",
+          "text": "People should always be in control of the future.\n\nOpenAI is against the notion that it would be acceptable for people to be relegated to a role of doing things that “AI systems think makes sense to reward in humans”.\n\nPeople should not cede control of the future to superintelligence, and that requirement should ultimately constrain AI progress.",
+          "createdAt": "2026-11-04T01:40:12.000Z",
+          "url": "https://x.com/sama/status/2117794005165748448",
+          "likes": 11364,
+          "retweets": 578,
+          "replies": 2498,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
+      "tweets": [
+        {
+          "id": "2117848456404545779",
+          "text": "Would you rock this https://t.co/9UbiQBmwXW",
+          "createdAt": "2026-11-04T05:16:34.000Z",
+          "url": "https://x.com/NousResearch/status/2117848456404545779",
+          "likes": 468,
+          "retweets": 9,
+          "replies": 103,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWQb3fXW4AAtXDc.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2117696344756252822",
+          "text": "Thank you to everyone who traveled from across the world to NousCon 2026. We loved spending time with the people who make the Hermes community great.\n\nAs you all know, we released the Hermes Mobile beta at the event, and as anticipated it filled up quickly. We are working tirelessly to free up more room in the beta, and to get the app production ready for wider release. The feedback has been incredible so far, and we are excited to share it with the world soon.\n\nIn the meantime, please join the waitlist at https://t.co/Oszcqj0vfO",
+          "createdAt": "2026-11-03T19:12:08.000Z",
+          "url": "https://x.com/NousResearch/status/2117696344756252822",
+          "likes": 914,
+          "retweets": 62,
+          "replies": 74,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2117695263309467649/img/XiApZQxAJGpIrK0A.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "tweets": [
+        {
+          "id": "2117659447518740960",
+          "text": "Perplexity Computer can automate every part of an e-commerce business.\n\nRun @Meta ads, email marketing in @klaviyo, and @Shopify stores directly inside Computer.\n\nGet started: https://t.co/GmTemathVX https://t.co/XofsQUx7so",
+          "createdAt": "2026-11-03T16:45:31.000Z",
+          "url": "https://x.com/perplexity_ai/status/2117659447518740960",
+          "likes": 432,
+          "retweets": 45,
+          "replies": 67,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2117659358691774464/img/eCzmFgWkvnefjz7S.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
+      "tweets": [
+        {
+          "id": "2117744785410728437",
+          "text": "@jackhcable We're giving enterprises $100M+ in credits to fix critical vulnerabilities with Claude Mythos. \n\nTerms apply. Apply now →\n\nhttps://t.co/uyl2VDyweV",
+          "createdAt": "2026-11-03T22:24:37.000Z",
+          "url": "https://x.com/cognition/status/2117744785410728437",
+          "likes": 15,
+          "retweets": 2,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2117744604808101888",
+          "text": "How should you secure your stack?\n\nOur Head of Security Products @jackhcable shares a practical guide for startups and tech teams of every size. https://t.co/Ltd4xPCJkE",
+          "createdAt": "2026-11-03T22:23:54.000Z",
+          "url": "https://x.com/cognition/status/2117744604808101888",
+          "likes": 72,
+          "retweets": 7,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2117731409246978489"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lulu Cheng Meservey",
+      "handle": "lulumeservey",
+      "bio": "Rostra founder, Shopify board, ex Activision & Substack, writing https://t.co/4xKo7wQTQo",
+      "tweets": [
+        {
+          "id": "2117638201649066482",
+          "text": "If you’re going to have a bit, you must commit fully and see it through. There’s nothing sadder than a half-hearted bit",
+          "createdAt": "2026-11-03T15:21:05.000Z",
+          "url": "https://x.com/lulumeservey/status/2117638201649066482",
+          "likes": 405,
+          "retweets": 18,
+          "replies": 17,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Graham Neubig",
+      "handle": "gneubig",
+      "bio": "Associate professor @LTIatCMU.\nCo-founder/chief scientist @OpenHandsDev.\nI mostly work on modeling language.",
+      "tweets": [
+        {
+          "id": "2117706177081725147",
+          "text": "I've been following the work of the Arctic RL team at snowflake for a while where they've done great research on efficient inference and training methods. Happy to see it finally launched, and it's definitely worth checking out! https://t.co/hK8RY6iNqA",
+          "createdAt": "2026-11-03T19:51:12.000Z",
+          "url": "https://x.com/gneubig/status/2117706177081725147",
+          "likes": 23,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2117700761521967523"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "alphaXiv",
+      "handle": "askalphaxiv",
+      "bio": "High fidelity research",
+      "tweets": [
+        {
+          "id": "2117876352758292849",
+          "text": "If you're interested in how well LLMs can write multi-GPU kernels, check out ParallelKernelBench at NeurIPS 2026!\n\nPublished exclusively on alphaXiv\n\nhttps://t.co/VG50vRtrUU",
+          "createdAt": "2026-11-04T07:07:25.000Z",
+          "url": "https://x.com/askalphaxiv/status/2117876352758292849",
+          "likes": 18,
+          "retweets": 5,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2117806721741803663",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWQ1OMAa0AAjZ-l.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2117868752603881736",
+          "text": "\"Training Foundation Models with a Single Algorithm\"\n\nLLMs are typically trained in separate stages, from pretraining and supervised fine-tuning to reinforcement learning. But this paper shows that these stages can be unified under a single training algorithm.\n\nThis paper proposes Unified Training, which treats RL as learning from reward-weighted model generations. This allows the model to continuously learn from a changing mixture of pretraining data, demonstrations, and successful RL solutions using the same likelihood-based objective.\n\nIn experiments with 124M-parameter models, unified training outperforms conventional staged training on reasoning accuracy and generalization to harder unseen problems in its best configurations, while better preserving previously learned capabilities.\n\nhttps://t.co/6bBkjJfyud",
+          "createdAt": "2026-11-04T06:37:13.000Z",
+          "url": "https://x.com/askalphaxiv/status/2117868752603881736",
+          "likes": 26,
+          "retweets": 4,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWQuZXPa8AAibhS.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2117868635377332232",
+          "text": "\"Evolving Agent Teams\"\n\nAI coding agents would get stuck optimizing solutions that are fundamentally limited, and simply adding more agents with fixed roles doesn't necessarily solve the problem.\n\nSo this paper introduces a supervisor that continuously reorganizes its agent team based on what is blocking progress. It can create specialized agents for debugging, profiling, or exploring alternative solutions, while preserving lessons from previous attempts in shared memory.\n\nWith an extended token budget, the system develops a GPU kernel that runs 1.2x faster than the production FlashInfer baseline, outperforming it on 36 out of 47 workloads. It also achieves 3.44x speedup over FlashKDA on another kernel optimization task using NVIDIA B200 GPUs.\n\nhttps://t.co/7LxPIgkxQY",
+          "createdAt": "2026-11-04T06:36:45.000Z",
+          "url": "https://x.com/askalphaxiv/status/2117868635377332232",
+          "likes": 38,
+          "retweets": 3,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWQuSwmbgAAkLdg.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2117679157035602065",
+          "text": "As part of the most insane AIE lineup to end 2026, we're also excited to announce our final track theme:\n\n*Raising your Ambition*\n\nfeaturing @jxnlco, @trq212, @jarredsumner, @sqs, @mitsuhiko, @dexhorthy, @BuiltByJustin (StrongDM Dark Factory) \n\nand a special keynote from @echelon in his first big appearance since cloning the entire Adobe suite last month... and talking about how and what's next!\n\ngathering 1000 of the top agentic engineers in person in SF and livestreamed to 2M MAU online on youtube. join here: https://t.co/bx6aYCqlW8 <- see you in SF!",
+          "createdAt": "2026-11-03T18:03:50.000Z",
+          "url": "https://x.com/swyx/status/2117679157035602065",
+          "likes": 83,
+          "retweets": 7,
+          "replies": 41,
+          "isQuote": true,
+          "quotedTweetId": "2117617798729887960",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWN_-l6asAAOu9l.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWOAODxbgAAh8-M.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWOAfhna8AAtapE.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2117558305891746212",
+          "text": "btw here's @addyosmani  how anthropic yolos 30k code changes a day in a dark factory approach, with @kapmani of @SonarSource giving more research on why every loop needs independent verification\n\nhttps://t.co/pnhY2aGyGw\n\nalready one of the top talks of AIE NYC!\n\n(Sonar is both a sponsor and super relevant for the aie nyc focus on finance)",
+          "createdAt": "2026-11-03T10:03:37.000Z",
+          "url": "https://x.com/swyx/status/2117558305891746212",
+          "likes": 17,
+          "retweets": 0,
+          "replies": 31,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Kevin Weil",
+      "handle": "kevinweil",
+      "bio": "CEO @warpsciences\nBoD @Cisco @Stoke_Space\nLTC @USArmyReserve\nEx CPO+Science @OpenAI, @Planet @Instagram @Twitter\n❤️ @elizabeth ultramarathons kids cats math",
+      "tweets": [
+        {
+          "id": "2117627190938595667",
+          "text": "Could not agree more with this take, which is true well beyond mathematics. \n\nExpertise still matters, and [scientific field] + AI can understand faster/accomplish more than ever before. https://t.co/wGPVqE5IGI",
+          "createdAt": "2026-11-03T14:37:20.000Z",
+          "url": "https://x.com/kevinweil/status/2117627190938595667",
+          "likes": 56,
+          "retweets": 1,
+          "replies": 13,
+          "isQuote": true,
+          "quotedTweetId": "2117333304470814971"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2117825980115067035",
+          "text": "Remember when leaving a company before 2-3 years made you look like a job hopper?\n\nIt feels increasingly normal to see very talented people leave AI-native companies after 1-2 years or less.\n\nPeople leave for all kinds of reasons. But I do wonder how sustainable these jobs are, especially for parents.",
+          "createdAt": "2026-11-04T03:47:15.000Z",
+          "url": "https://x.com/petergyang/status/2117825980115067035",
+          "likes": 97,
+          "retweets": 1,
+          "replies": 33,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2117783921748558185",
+          "text": "Think about how much time we all waste waiting on hold or trying to navigate legacy phone systems (\"say 1 to proceed\" 🤮).\n\nThat's why I love Grok @Bot's new phone call feature. Try it with these 5 use cases:\n\n1. Negotiate any bill\n\n\"Call Comcast about my internet bill. I pay $84 a month and a competitor offers $49. Ask for a lower price.\"\n\n2. Cancel subscriptions\n\n\"Call my gym and cancel my membership. Here's my account info. Turn down any retention offers and get a confirmation number.\"\n\n3. Wait on hold\n\n\"Call the airline about my canceled flight. Here's my confirmation code. Stay on hold until you reach a person, then ask for a full refund.\"\n\n4. Make reservations\n\n\"Call this restaurant and book a table for 4 on Friday at 7pm. If that's taken, anything between 6 and 8 works.\"\n\n5. Get contractor quotes\n\n\"Call these 3 contractors about replacing my water heater. Ask each one for price and earliest start date. Then put the answers in a table.\"\n\nNote that this only works with US numbers for now but it's nevertheless a game changer.\n\n📌 Watch my new video to see how it works with a real call: https://t.co/UWt3SanRSN",
+          "createdAt": "2026-11-04T01:00:08.000Z",
+          "url": "https://x.com/petergyang/status/2117783921748558185",
+          "likes": 30,
+          "retweets": 0,
+          "replies": 21,
+          "isQuote": true,
+          "quotedTweetId": "2117638801296380159",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWPhQG5a8AA9uFQ.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2117738099627450657",
+          "text": "Can't believe how many people are leaving Anthropic to play World of Warcraft Forever smh\n\nj/k what a generational run from cat https://t.co/Uy1hGnnrvW",
+          "createdAt": "2026-11-03T21:58:03.000Z",
+          "url": "https://x.com/petergyang/status/2117738099627450657",
+          "likes": 215,
+          "retweets": 1,
+          "replies": 15,
+          "isQuote": true,
+          "quotedTweetId": "2117731934340337676"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cat Wu",
+      "handle": "_catwu",
+      "bio": "claude code + cowork @anthropicai, prev: @dagster, @scale_ai",
+      "tweets": [
+        {
+          "id": "2117731934340337676",
+          "text": "Friday was my last day at Anthropic.\n\nTwo years ago, when Claude Code was a small internal tool, I asked it to build an RL env. I steered it for tens of hours but never manually wrote a line of code. It worked, I was hooked, and I joined the team.\n\nWhen we first launched, most people approved every permission prompt by hand and mostly used Claude to answer questions and write tests. \n\nToday, the default is trusting Claude's judgment to auto-approve. Claude does large migrations and builds new products. \n\nHelping build Claude Code into an industry-defining product has been the journey of a lifetime. \n\nThank you to the incredible team behind Claude Code, Cowork, and Tag. These products are the sum of thousands of great ideas from you. I'll miss working with you all.\n\nThank you to our users for embracing a new way of working. Your constant feedback shaped so much of what we shipped and your stories made the work so meaningful.\n\nExcited to see what you all make next!",
+          "createdAt": "2026-11-03T21:33:33.000Z",
+          "url": "https://x.com/_catwu/status/2117731934340337676",
+          "likes": 10034,
+          "retweets": 287,
+          "replies": 869,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "tweets": [
+        {
+          "id": "2117670540148347273",
+          "text": "this is basically the bitter lesson at work\n\nthe smartest models will need fewer and fewer tokens, they won't need to verify their work or check it for bugs, they will just be right https://t.co/vKuo5Jdjah",
+          "createdAt": "2026-11-03T17:29:35.000Z",
+          "url": "https://x.com/trq212/status/2117670540148347273",
+          "likes": 6283,
+          "retweets": 208,
+          "replies": 242,
+          "isQuote": true,
+          "quotedTweetId": "2117437607940681849"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "tweets": [
+        {
+          "id": "2117689420744991161",
+          "text": "We've been dreaming about this for a long time... So excited to hear what our new Indian users think!\n\nWhere should we roll out Dreambeans next? 😴🫘 https://t.co/9QcERvZnoV",
+          "createdAt": "2026-11-03T18:44:37.000Z",
+          "url": "https://x.com/GoogleLabs/status/2117689420744991161",
+          "likes": 203,
+          "retweets": 10,
+          "replies": 13,
+          "isQuote": true,
+          "quotedTweetId": "2117537262883995726"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2117761721750475146",
+          "text": "We’re deep in the chaotic phase of enterprise adoption of agents and vibe coding. https://t.co/361D7QAayL https://t.co/Ty6FyvydwW",
+          "createdAt": "2026-11-03T23:31:55.000Z",
+          "url": "https://x.com/amasad/status/2117761721750475146",
+          "likes": 496,
+          "retweets": 41,
+          "replies": 104,
+          "isQuote": true,
+          "quotedTweetId": "2114751107293749731",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWPND6laQAAVLK3.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2117802827519250568",
+          "text": "`𝚟𝚎𝚛𝚌𝚎𝚕 𝚍𝚘𝚌𝚝𝚘𝚛` - recommend you ship doctor subcommands in your CLIs! https://t.co/FNMGWNOZpC https://t.co/CrTZIJnvgb",
+          "createdAt": "2026-11-04T02:15:15.000Z",
+          "url": "https://x.com/rauchg/status/2117802827519250568",
+          "likes": 137,
+          "retweets": 4,
+          "replies": 71,
+          "isQuote": true,
+          "quotedTweetId": "2117725049713308146",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWPyPg2a0AAT6Fa.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2117765475010822497",
+          "text": "Vercel CI accelerates any repo\nVercel Security Review protects them https://t.co/8NobrGC9VK",
+          "createdAt": "2026-11-03T23:46:50.000Z",
+          "url": "https://x.com/rauchg/status/2117765475010822497",
+          "likes": 90,
+          "retweets": 3,
+          "replies": 25,
+          "isQuote": true,
+          "quotedTweetId": "2117763993939140959"
+        },
+        {
+          "id": "2117734833824948373",
+          "text": "I've been looking forward to this day, because Vercel has an internal security agent that is **astonishingly effective** (lovingly called @𝚑𝚊𝚌𝚔𝚎𝚛). Every single line of code gets audited, automatically.\n\nYou can now get the same power. Just enable it on all your repos (this product works whether you host on Vercel or not) and your peace of mind will increase tremendously. You'll see it catch things that every other agent misses.\n\nWhy: you cannot just bank on your engineers having a skill installed, prompting \"please make secure\", or rolling the weights' dice that the code is good out of the gate.\n\nThe other cool thing about this is that this was entirely developed by our security team. A lot of companies out there are probably in a mad rush right now trying to staff up. If you wanted to 'download a security team' as software, this is the closest you get today.",
+          "createdAt": "2026-11-03T21:45:04.000Z",
+          "url": "https://x.com/rauchg/status/2117734833824948373",
+          "likes": 728,
+          "retweets": 27,
+          "replies": 109,
+          "isQuote": true,
+          "quotedTweetId": "2117726156992753721"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Harrison Chase",
+      "handle": "hwchase17",
+      "bio": "@LangChain\n\nAlways hiring: https://t.co/D5Ut3loFO7",
+      "tweets": [
+        {
+          "id": "2117681681658437728",
+          "text": "earlier this ~spring, models got good enough to drive browsers\n\nin some ways, browsers are the new terminal! a general purpose tool \n\none difference is there is a few different ways to design tools to drive the browser. @sydneyrunkle deep dives into how we did this for MDA https://t.co/q3Xq1AyF22",
+          "createdAt": "2026-11-03T18:13:52.000Z",
+          "url": "https://x.com/hwchase17/status/2117681681658437728",
+          "likes": 72,
+          "retweets": 2,
+          "replies": 67,
+          "isQuote": true,
+          "quotedTweetId": "2117675460884934784"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2117803511262122277",
+          "text": "Source: https://t.co/p67jspMclZ",
+          "createdAt": "2026-11-04T02:17:58.000Z",
+          "url": "https://x.com/deedydas/status/2117803511262122277",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2117803499102822424",
+          "text": "We just dropped a 15-part comprehensive report on AI spend in the enterprise.\n\nHere are my top 3 takeaways:\n- Spend grew 5.4x last year to $177B, with most spend coming from existing buyers\n- Most dollars go to the frontier with 69% going to top 3 labs (Anthropic, OpenAI, Google) vs 50% last year\n- 86% of LLM API spend goes to Anthropic (55%) and OpenAI (31%)\n\nCrazy to think AI spend in our first report 3yrs ago was only $2.5B.\n\nRead the entire report here:",
+          "createdAt": "2026-11-04T02:17:55.000Z",
+          "url": "https://x.com/deedydas/status/2117803499102822424",
+          "likes": 188,
+          "retweets": 17,
+          "replies": 63,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWPzD07awAADb7u.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2117564114650509652",
+          "text": "Atoms in a barrel of oil is remarkably proportional to useful energy it produces https://t.co/83aHv4TnfF https://t.co/oqYa6HhehN",
+          "createdAt": "2026-11-03T10:26:42.000Z",
+          "url": "https://x.com/deedydas/status/2117564114650509652",
+          "likes": 1166,
+          "retweets": 14,
+          "replies": 41,
+          "isQuote": true,
+          "quotedTweetId": "2117349011913068715",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWMZQFnasAEiYe-.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "xBuilders": 22,
+    "totalTweets": 37
+  },
+  "errors": [
+    "X API: User not found: jenny_wen"
+  ]
+}
