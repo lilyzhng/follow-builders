@@ -1,7 +1,116 @@
 {
-  "generatedAt": "2026-11-04T07:27:30.483Z",
+  "generatedAt": "2026-11-05T07:52:14.493Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
+      "tweets": [
+        {
+          "id": "2118094256438936062",
+          "text": "The Hermes Agent Plugin Hackathon starts now! \n\nIt runs for 7 days, with $20,000 in cash prizes and more.\n\nPlugins are the most powerful way to extend Hermes Agent, and we want this hackathon to show what they can do. A plugin can change anything from the model Hermes runs on, where it stores its memory, where it runs commands, which messaging apps it works in and what Hermes Desktop shows. Plugins in the marketplace already let Hermes do things like control a phone or turn a photo into a printable 3D model.\n\nEvery kind of plugin is eligible, so build whatever functionality you want Hermes to have. We'll list accepted entries in the new Hermes Marketplace, where every Hermes user can install them.\n\nPrizes\n1st: $10,000 + neon sign + merch + $1,000 creds\n2nd: $5,000 + neon sign + merch + $1,000 creds\n3rd: $2,500 + neon sign + merch + $1,000 creds\n4th: $1,500 + merch + $500 creds\n5th: $1,000 + merch + $500 creds\nRunners up (x5): merch + $250 creds\n\nSubmissions are due 5PM EST on Nov 11th. To enter:\n\n1. Open a pull request that adds your plugin to the Hermes plugin catalog: https://t.co/mXvYukJ0mZ\n2. Post a demo video on X and tag @NousResearch\n3. Submit both links through the form: https://t.co/jlduHHW3dr\n\nYour entry is the plugin itself. Judges score it on usefulness, reliability, polish and creativity, and they favor plugins that do more than a prompt or a skill could. Keep the demo under 90 seconds and show the plugin working.\n\nThe developer guide shows how to build and test a plugin: https://t.co/FVGjSgjNoV\n\nWhen submissions close, we'll open a thread for every entry in the Nous Research Discord, so you can browse all the plugins and talk to the people who built them.\n\nYou can submit the form as soon as your pull request is open. The catalog checks run once a maintainer starts them, and we review entries every few days.\n\nIf you have any questions stop by the Nous Research Discord: https://t.co/qxek9haYeb\n\nGLHF!",
+          "createdAt": "2026-11-04T21:33:17.000Z",
+          "url": "https://x.com/NousResearch/status/2118094256438936062",
+          "likes": 1490,
+          "retweets": 167,
+          "replies": 93,
+          "isQuote": true,
+          "quotedTweetId": "2118058453415371119",
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2118093752044552192/img/TefRcJ92h909qVMn.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2118058453415371119",
+          "text": "Plugins, connectors, and skills for Hermes Agent are now unified in a single marketplace so you can easily browse and extend your Hermes experience in a few clicks.\n\nThe new Hermes Marketplace has everything your agent needs:\n\nhttps://t.co/zhZMKbTsLP https://t.co/nfMQ8nlxdg",
+          "createdAt": "2026-11-04T19:11:01.000Z",
+          "url": "https://x.com/NousResearch/status/2118058453415371119",
+          "likes": 2158,
+          "retweets": 116,
+          "replies": 78,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2118055737100259328/img/qhQqucR8JtMBTEjs.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
+      "tweets": [
+        {
+          "id": "2118069623170187602",
+          "text": "For the first time, we also added a mid-training stage before RL. We trained on several trillion tokens of code, scientific articles, blogs, and more, saving the scarcest, highest-quality data for last. https://t.co/zi2nkasAaz",
+          "createdAt": "2026-11-04T19:55:24.000Z",
+          "url": "https://x.com/cognition/status/2118069623170187602",
+          "likes": 132,
+          "retweets": 3,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWTZsS5WIAAL6va.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2118069618749415821",
+          "text": "SWE-2 Flash is based on @thinkymachines Inkling-Small, an American model with 276B total and 12B active parameters. The small size, combined with our highly optimized inference stack allows us to offer it at a 5x lower cost and 3x higher speed than SWE-2. https://t.co/Se49qXj9sd",
+          "createdAt": "2026-11-04T19:55:23.000Z",
+          "url": "https://x.com/cognition/status/2118069618749415821",
+          "likes": 185,
+          "retweets": 6,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "animated_gif",
+              "url": "https://pbs.twimg.com/tweet_video_thumb/HWTio9DXwAAa6yA.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Modal",
+      "handle": "modal",
+      "bio": "Building blocks for production AI",
+      "tweets": [
+        {
+          "id": "2118041830390645042",
+          "text": "Kimi K3.1 Pro from @Kimi_Moonshot is now available on Modal.\n\nA major post-training update to Kimi K3, with expanded reinforcement learning for stronger coding, financial research, and long-horizon agentic work. \n\nKimi K3.1 Pro supports text and images with 1M context. https://t.co/ylNIXcEQgl",
+          "createdAt": "2026-11-04T18:04:58.000Z",
+          "url": "https://x.com/modal/status/2118041830390645042",
+          "likes": 87,
+          "retweets": 16,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2118041482686849025/img/2Gyqp2Jvo4IQDX86.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -9,55 +118,21 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2117803511262122277",
-          "text": "Source: https://t.co/p67jspMclZ",
-          "createdAt": "2026-11-04T02:17:58.000Z",
-          "url": "https://x.com/deedydas/status/2117803511262122277",
-          "likes": 9,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2117803499102822424",
-          "text": "We just dropped a 15-part comprehensive report on AI spend in the enterprise.\n\nHere are my top 3 takeaways:\n- Spend grew 5.4x last year to $177B, with most spend coming from existing buyers\n- Most dollars go to the frontier with 69% going to top 3 labs (Anthropic, OpenAI, Google) vs 50% last year\n- 86% of LLM API spend goes to Anthropic (55%) and OpenAI (31%)\n\nCrazy to think AI spend in our first report 3yrs ago was only $2.5B.\n\nRead the entire report here:",
-          "createdAt": "2026-11-04T02:17:55.000Z",
-          "url": "https://x.com/deedydas/status/2117803499102822424",
-          "likes": 188,
-          "retweets": 17,
-          "replies": 63,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HWPzD07awAADb7u.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2117564114650509652",
-          "text": "Atoms in a barrel of oil is remarkably proportional to useful energy it produces https://t.co/83aHv4TnfF https://t.co/oqYa6HhehN",
-          "createdAt": "2026-11-03T10:26:42.000Z",
-          "url": "https://x.com/deedydas/status/2117564114650509652",
-          "likes": 1166,
-          "retweets": 14,
-          "replies": 41,
+          "id": "2118061109072814429",
+          "text": "This startup just dropped the state-of-the-art AI image and video detection model with 99.9%+ accuracy on both.\n\nAI-generated photos and videos are used to scam people online all the time: for shopping, apartments, dating apps, blackmail and wire fraud. Preventing this is one of the biggest emergent problems of AI.\n\nAnd it's technically very challenging. Malicious actors blur, noise and add artifacts to circumvent detection. Social apps downscale images. Phones do AI-based post processing too. Catching pointed AI edits in a larger real image is tricky, and you need heatmaps to do it.\n\nAI safety on a frontier model level is important, but what's often neglected is the safety problems AI already poses to the world and Im happy someone's working on it. \n\nPlus, this is not a \"talk to our sales team\" or blog post launch. You can go use the API and Chrome extension today!",
+          "createdAt": "2026-11-04T19:21:34.000Z",
+          "url": "https://x.com/deedydas/status/2118061109072814429",
+          "likes": 161,
+          "retweets": 9,
+          "replies": 36,
           "isQuote": true,
-          "quotedTweetId": "2117349011913068715",
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HWMZQFnasAEiYe-.jpg"
-            }
-          ]
+          "quotedTweetId": "2118012434040447414"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 3
+    "xBuilders": 4,
+    "totalTweets": 6
   }
 }
