@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T07:52:46.862Z",
+  "generatedAt": "2026-11-07T07:01:52.462Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,15 +9,38 @@
       "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2118445476320260559",
-          "text": "Unfuck your hardware with Hermes https://t.co/Xhnnnf4Ukc",
-          "createdAt": "2026-11-05T20:48:55.000Z",
-          "url": "https://x.com/NousResearch/status/2118445476320260559",
-          "likes": 1102,
-          "retweets": 60,
-          "replies": 48,
+          "id": "2118774793872769342",
+          "text": "Get more out of your Hermes Bots with free and discounted models exclusive to https://t.co/KCXV2EtbOa https://t.co/IY7DUJZKqE",
+          "createdAt": "2026-11-06T18:37:30.000Z",
+          "url": "https://x.com/NousResearch/status/2118774793872769342",
+          "likes": 441,
+          "retweets": 29,
+          "replies": 37,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWdmZ0fXQAAEMqi.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2118734093105946792",
+          "text": "LongCat-2.5, the new multimodal model from @Meituan_LongCat, is free in Nous Portal for one week.\n\nTry it free today at https://t.co/KCXV2EtbOa https://t.co/r6EKvd9XNd https://t.co/vlabWCdOvt",
+          "createdAt": "2026-11-06T15:55:46.000Z",
+          "url": "https://x.com/NousResearch/status/2118734093105946792",
+          "likes": 324,
+          "retweets": 14,
+          "replies": 39,
           "isQuote": true,
-          "quotedTweetId": "2118355830882132184"
+          "quotedTweetId": "2117264311714537633",
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2118733916576100352/img/4njYY8afGxP9K9Wp.jpg"
+            }
+          ]
         }
       ]
     },
@@ -28,30 +51,66 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2118373801268543852",
-          "text": "To qualify, a company needs to have a $1B valuation and at least 10 engineer moves since Jan 2023",
-          "createdAt": "2026-11-05T16:04:06.000Z",
-          "url": "https://x.com/deedydas/status/2118373801268543852",
-          "likes": 16,
+          "id": "2118901839940956636",
+          "text": "Not sponsored.\n\nLink: https://t.co/KPHF582WQ4",
+          "createdAt": "2026-11-07T03:02:20.000Z",
+          "url": "https://x.com/deedydas/status/2118901839940956636",
+          "likes": 23,
           "retweets": 0,
           "replies": 2,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2118373102694674768",
-          "text": "Top 30 Startups and BigTech companies based purely on ~50,000 engineer job changes in the last 3 years.\n\nIf engineers leave a company to join another, it ranks higher especially if the company they come from ranks highly.\n\nHere are the final results: https://t.co/5i2Pj9Q08h",
-          "createdAt": "2026-11-05T16:01:19.000Z",
-          "url": "https://x.com/deedydas/status/2118373102694674768",
-          "likes": 465,
-          "retweets": 29,
-          "replies": 46,
+          "id": "2118901837013373101",
+          "text": "This is hands down the best tech purchase I’ve made in the last year.\n\nCharges phones and laptops very fast and many times over\nFits in a jacket \nNo extra cables to remember\n\n$120. https://t.co/mLT7DgyVhU",
+          "createdAt": "2026-11-07T03:02:19.000Z",
+          "url": "https://x.com/deedydas/status/2118901837013373101",
+          "likes": 449,
+          "retweets": 13,
+          "replies": 47,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HWX5G78aEAAxWbP.jpg"
+              "url": "https://pbs.twimg.com/media/HWfZ_fYa8AEIU_S.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lance Martin",
+      "handle": "RLanceMartin",
+      "bio": "MTS @anthropicai",
+      "tweets": [
+        {
+          "id": "2118815965521817850",
+          "text": "i cite + discuss some work i enjoy from @Letta_AI (@sarahwooders / @charlespacker). they have done a lot of interesting + important work on memory! \n\nhttps://t.co/htDL2lF1XU",
+          "createdAt": "2026-11-06T21:21:06.000Z",
+          "url": "https://x.com/RLanceMartin/status/2118815965521817850",
+          "likes": 16,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2118815962573291545",
+          "text": "check out my new article in the Anthropic eng blog. \n\ni talk about \"dreaming\" (offline compute) as a way to organize Claude's memory. it can correct mistakes, create memories, or build new representations.\n\nhttps://t.co/FeMk4PqyDX https://t.co/sXvilJqHRd",
+          "createdAt": "2026-11-06T21:21:05.000Z",
+          "url": "https://x.com/RLanceMartin/status/2118815962573291545",
+          "likes": 358,
+          "retweets": 34,
+          "replies": 33,
+          "isQuote": true,
+          "quotedTweetId": "2118814753154064501",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWeJQgWaoAEjVAu.png"
             }
           ]
         }
@@ -59,7 +118,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 3
+    "xBuilders": 3,
+    "totalTweets": 6
   }
 }
