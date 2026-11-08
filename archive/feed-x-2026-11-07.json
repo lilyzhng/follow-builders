@@ -1,0 +1,404 @@
+{
+  "generatedAt": "2026-11-08T07:13:59.942Z",
+  "lookbackHours": 24,
+  "x": [
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2119157297167372646",
+          "text": "If building datacenters becomes harder, it is obvious that you should be super long anyone who has existing capacity (aka hyperscalers).\n\nIt's not like the demand for the spice is going way -- it is only continuing to go up.\n\nThus the spice holders will win big.\n\nWhat will suffer is the rate of new model training. \n\nI guess we will pace the frontier after all. The body politic speaketh.",
+          "createdAt": "2026-11-07T19:57:26.000Z",
+          "url": "https://x.com/adityaag/status/2119157297167372646",
+          "likes": 42,
+          "retweets": 3,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lulu Cheng Meservey",
+      "handle": "lulumeservey",
+      "bio": "Rostra founder, Shopify board, ex Activision & Substack, writing https://t.co/4xKo7wQTQo",
+      "tweets": [
+        {
+          "id": "2119274525204586584",
+          "text": "Chewy what is happening, you simply didn’t need to tweet https://t.co/XdHh8A4OAZ",
+          "createdAt": "2026-11-08T03:43:15.000Z",
+          "url": "https://x.com/lulumeservey/status/2119274525204586584",
+          "likes": 73,
+          "retweets": 1,
+          "replies": 12,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWks8s8XkAALIqK.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Graham Neubig",
+      "handle": "gneubig",
+      "bio": "Associate professor @LTIatCMU.\nCo-founder/chief scientist @OpenHandsDev.\nI mostly work on modeling language.",
+      "tweets": [
+        {
+          "id": "2119237074641453537",
+          "text": "The replies on this thread saying \"what happened to the bitter lesson\" 😂\n\nApparently many bitter-lesson-pilled people have never actually read the original post https://t.co/X2jC4AWl3E\n\nIf anything, it's an argument for RSI, not an argument for brute-force scaling. https://t.co/bEYPYttlJj",
+          "createdAt": "2026-11-08T01:14:26.000Z",
+          "url": "https://x.com/gneubig/status/2119237074641453537",
+          "likes": 60,
+          "retweets": 3,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2119142310894334262"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "alphaXiv",
+      "handle": "askalphaxiv",
+      "bio": "High fidelity research",
+      "tweets": [
+        {
+          "id": "2119276222496874845",
+          "text": "Special thanks to @calvingenuity for leading, as well as presenting the following paper for the group https://t.co/p0yKOptG9M",
+          "createdAt": "2026-11-08T03:50:00.000Z",
+          "url": "https://x.com/askalphaxiv/status/2119276222496874845",
+          "likes": 5,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2119276222119334317",
+          "text": "Fantastic evening for our first Paper Club meeting in Mumbai!\n\nLovely meeting everyone and diving into the latest research on continual learning\n\nThank you Dr. Shweta for hosting us at the Homi Bhabha Centre for Science Education\n\nHappy Diwali to all who celebrate 🪔 https://t.co/SdflPXBgRF",
+          "createdAt": "2026-11-08T03:50:00.000Z",
+          "url": "https://x.com/askalphaxiv/status/2119276222119334317",
+          "likes": 48,
+          "retweets": 3,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWkuNx-bIAE-zwU.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWkuNx6aoAAbjiG.jpg"
+            },
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWkuNyQboAAzlwz.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2119073135446167689",
+          "text": "Artifact, click on each org to see the underlying alphaXiv source page: https://t.co/oJtJN2WlXB",
+          "createdAt": "2026-11-07T14:23:00.000Z",
+          "url": "https://x.com/askalphaxiv/status/2119073135446167689",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Andrej Karpathy",
+      "handle": "karpathy",
+      "bio": "",
+      "tweets": [
+        {
+          "id": "2119114537442189652",
+          "text": "Earlier this week Tristan published his top YouTube channels:\nhttps://t.co/NZ3UCNo6cT\nWhich looked excellent so clearly I had to turn it into TristanTube:\nhttps://t.co/l0KyW1WdNH\n47K super nerdy videos +TV mode for laid back watching. (One-shotted with Claude Code in 3 minutes) https://t.co/FZU0ltwVxL",
+          "createdAt": "2026-11-07T17:07:31.000Z",
+          "url": "https://x.com/karpathy/status/2119114537442189652",
+          "likes": 6593,
+          "retweets": 532,
+          "replies": 480,
+          "isQuote": true,
+          "quotedTweetId": "2116957135661945283"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2119242830707311005",
+          "text": "sticker game inspired by @dexhorthy @CompleteSkeptic et al https://t.co/NWvVRZ71uW https://t.co/QHmHu3ZSFG",
+          "createdAt": "2026-11-08T01:37:19.000Z",
+          "url": "https://x.com/swyx/status/2119242830707311005",
+          "likes": 77,
+          "retweets": 0,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2119210582654210255",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWkQH55bsAArkQc.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2119210618976944259",
+          "text": "https://t.co/ydo8JgYDXr",
+          "createdAt": "2026-11-07T23:29:19.000Z",
+          "url": "https://x.com/swyx/status/2119210618976944259",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2119210582654210255",
+          "text": "just arrived… best swag game in the business. u guys are in for a treat next week https://t.co/4tppCNnBWf https://t.co/uBruvPBba5",
+          "createdAt": "2026-11-07T23:29:10.000Z",
+          "url": "https://x.com/swyx/status/2119210582654210255",
+          "likes": 93,
+          "retweets": 2,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2112276851355693315",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWjyy0oa4AAcza2.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2119217304953053419",
+          "text": "The Better Lesson: https://t.co/662AivSigr",
+          "createdAt": "2026-11-07T23:55:53.000Z",
+          "url": "https://x.com/amasad/status/2119217304953053419",
+          "likes": 263,
+          "retweets": 12,
+          "replies": 39,
+          "isQuote": true,
+          "quotedTweetId": "2119142310894334262"
+        },
+        {
+          "id": "2119126064815608270",
+          "text": "Really enjoyed Kazakhstan — super AI pilled government. And a great place for the Network School. https://t.co/Mt9rIomS6q",
+          "createdAt": "2026-11-07T17:53:19.000Z",
+          "url": "https://x.com/amasad/status/2119126064815608270",
+          "likes": 474,
+          "retweets": 22,
+          "replies": 38,
+          "isQuote": true,
+          "quotedTweetId": "2119120067371913453"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2119111328099168409",
+          "text": "This sounds extreme and I wouldn’t have believed it even a year ago, but we’re starting to see plenty of examples of productivity gains that are an order of magnitude or two above output levels pre-AI. \n\nWith the right harness, a deep understanding of your domain of what you want to build, likely a relatively new codebase (with some exceptions), a fluency of how to work with multiple agents at once, and a setup that makes it so you can test and deploy with limited friction, outputs on this level feel realistic in coding.  \n\nWhat’s crazy is this gap doesn’t appear to be diminishing over time. You’d think that we’d see a convergence in the lines because of AI, but it turns out the more depth you had before -and willingness now to take a different approach- gives you crazy leverage. And that is only compounding as the models can take on larger work and harder problems.\n\nRight now this is most pronounced in software engineering for the obvious reasons. But there’s no reason we don’t start to see this in a number of other computer-use-sensitive domains like other scientific fields, AEC, finance, cyber, and more. Going to get quite wild.",
+          "createdAt": "2026-11-07T16:54:46.000Z",
+          "url": "https://x.com/levie/status/2119111328099168409",
+          "likes": 596,
+          "retweets": 51,
+          "replies": 99,
+          "isQuote": true,
+          "quotedTweetId": "2118842996414415220"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Harrison Chase",
+      "handle": "hwchase17",
+      "bio": "@LangChain\n\nAlways hiring: https://t.co/D5Ut3loFO7",
+      "tweets": [
+        {
+          "id": "2119190885871312911",
+          "text": "Long tasks shouldn't block the chat\n\nhttps://t.co/THwigSXEm6\n\nhttps://t.co/54M4yIs0Oo",
+          "createdAt": "2026-11-07T22:10:54.000Z",
+          "url": "https://x.com/hwchase17/status/2119190885871312911",
+          "likes": 61,
+          "retweets": 5,
+          "replies": 52,
+          "isQuote": true,
+          "quotedTweetId": "2119173281018171741"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "tweets": [
+        {
+          "id": "2118968862557475298",
+          "text": "So many people speak of startup as if their fates are predestined: X idea will never work out; the market for Y is too niche...\n\nBut startups' fates are MADE, not predetermined. Given one idea, there are 1000 ways to execute it, 100 people will have 100 different approaches. Brilliant people with brilliant execution often create something when there was nothing, or make the impossible seem obvious in hindsight.",
+          "createdAt": "2026-11-07T07:28:40.000Z",
+          "url": "https://x.com/zarazhangrui/status/2118968862557475298",
+          "likes": 148,
+          "retweets": 5,
+          "replies": 29,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2119229917019971879",
+          "text": "Next guest up is @danielrupawalla, cofounder of @ArcanumLabs_ next Wednesday, Nov 11th at noon. \n\nFor this session, we'll be chatting about all things data (what the labs are buying, who is selling, how do i get into this business, will this market even last..)\n\nFormat:\n> 60 minute sessions (IRL only) in SF\n> For the first 45 mins, I get to ask the guest spicy questions about their expertise\n> For the last 15 mins, they get to ask me anything they want to learn about venture\n> All off the record, chatham house rules\n> Open to 10-12 guests who listen in and can ask some of their own questions\n\nRegister here if you want to join, and subscribe to the Luma for future guests: https://t.co/esETUKhcm7",
+          "createdAt": "2026-11-08T00:46:00.000Z",
+          "url": "https://x.com/nikunj/status/2119229917019971879",
+          "likes": 17,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWjbJ74asAAo1FY.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2119162212044742938",
+          "text": "ok here’s how we get investors to fomo our series A and get seven term sheets..\n\nfirst, we have to vague post revenue. or customers. this is absolutely critical. no y axis, just keep showing numbers and to the right. graphs work and of course get your investors to quote tweet it and take credit. they love doing that anyway. make it vague like “slowly but surely” or “i see an exponential when I see one”\n\nok, once you do that, you know you can do another launch video for features or even better multiple for features so you get maximum airtime. after that case studies are critical - get a trendsetter company to talk about you or even better have the labs mention you in articles. this will guarantee cold emails to grab coffee from partners. \n\nalso you know you can buy “articles” in “premier” publications. you can even run ads against it targeted to just investors too. you’re joking? no dead serious bro. \n\nok now that you have interest and top of mindshare - the most important thing is to use the magic mantras of “large ambition” and combinations of “long horizon agent swarms abilterared world models physical ai”. \n\nand finally and most importantly you don’t have a deck because of course we’re not raising, we were thinking early next year. and of course we still got pre empted so we don’t have a data room even. you get on or not it’s your call. \n\nand then you use the magic words of optimizing for the best partner but let’s be honest we both know i just want the best valuation. \n\n(again the whole thing is satire, but individually each line is true)",
+          "createdAt": "2026-11-07T20:16:58.000Z",
+          "url": "https://x.com/nikunj/status/2119162212044742938",
+          "likes": 84,
+          "retweets": 3,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2118758688567792008"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Steinberger",
+      "handle": "steipete",
+      "bio": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world.\n@OpenClaw🦞 + @OpenAI",
+      "tweets": [
+        {
+          "id": "2119264334627090514",
+          "text": "The Asahi project was all about taking something closed and restricted and opening it up.\n\nAdding new restrictions that make it harder for other projects to build on that is not the way. And that AI rejection is just silly. https://t.co/fT4O4wieQm",
+          "createdAt": "2026-11-08T03:02:46.000Z",
+          "url": "https://x.com/steipete/status/2119264334627090514",
+          "likes": 1230,
+          "retweets": 51,
+          "replies": 95,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWkjrigbUAAkXGa.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2119216691775447312",
+          "text": "And here's the top 100 for Masters https://t.co/Gx9FgmDarm",
+          "createdAt": "2026-11-07T23:53:27.000Z",
+          "url": "https://x.com/deedydas/status/2119216691775447312",
+          "likes": 13,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWj4WXcaoAApE1o.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2119215777358504034",
+          "text": "Here's the top 100, globally https://t.co/xghbFrpW2P",
+          "createdAt": "2026-11-07T23:49:49.000Z",
+          "url": "https://x.com/deedydas/status/2119215777358504034",
+          "likes": 26,
+          "retweets": 1,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWj3hK8bgAAKHm_.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2119123857806352792",
+          "text": "Traditional university rankings are a linearly weighted sum of attributes that shouldn’t matter (teacher to student ratio, graduation rate), or subjective metrics (reputation). Most incoming high school students care about one thing: will the best employers preferentially want to hire me? And this is what this list captures\n\nTo get an idea of how we capture what the “best employers” look like, PageRank style, here’s a sample. If a lot of people from Google leave to OpenAI, and people from OAI leave to Thinking Machines, they get ranked accordingly!",
+          "createdAt": "2026-11-07T17:44:33.000Z",
+          "url": "https://x.com/deedydas/status/2119123857806352792",
+          "likes": 45,
+          "retweets": 1,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2118373102694674768"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "xBuilders": 13,
+    "totalTweets": 21
+  },
+  "errors": [
+    "X API: User not found: jenny_wen"
+  ]
+}
