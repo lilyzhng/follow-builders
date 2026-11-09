@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T07:14:01.658Z",
+  "generatedAt": "2026-11-09T07:53:29.357Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,55 +9,46 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2119216691775447312",
-          "text": "And here's the top 100 for Masters https://t.co/Gx9FgmDarm",
-          "createdAt": "2026-11-07T23:53:27.000Z",
-          "url": "https://x.com/deedydas/status/2119216691775447312",
-          "likes": 13,
-          "retweets": 1,
+          "id": "2119362293523964343",
+          "text": "A company you’ve never heard of was started 10yrs ago is the 32nd largest in the world.\n\nThey are the #4 largest maker of DRAM, behind Samsung, SK Hynix and Micron with ~10% of the global market. They’re worth $430B and were briefly the biggest company in China.\n\nIt’s ChanXin Memory Technologies (CXMT).\n\nThey’re growing >6x YoY, and made $40B in the first 9mos of this year at 50% gross margin. Surprisingly, 2/3rd of its business is phone memory, and AI compute is a small part of their business.\n\nThe founder, Yiming Zhu did his PhD at Stony Brook after Tsinghua and worked in semis in the valley before going back to China in 2005. He started CXMT in 2016 in the lesser known city of Hefei.\n\nThe funding story of the company is unusually fascinating too. The city government of Hefei owns ~37% of the business after providing physical city resides and eating losses on it for 10yrs! We think about VCs backing companies in the US, but in China, governments can too.",
+          "createdAt": "2026-11-08T09:32:01.000Z",
+          "url": "https://x.com/deedydas/status/2119362293523964343",
+          "likes": 279,
+          "retweets": 14,
+          "replies": 35,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWl8xnQaQAAPnqf.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "building p7k @pragmatik_labs | ❤️ 🍵 ☕️",
+      "tweets": [
+        {
+          "id": "2119695680595988739",
+          "text": "u r right https://t.co/sDrT6JXIoG",
+          "createdAt": "2026-11-09T07:36:46.000Z",
+          "url": "https://x.com/JustinLin610/status/2119695680595988739",
+          "likes": 12,
+          "retweets": 0,
           "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HWj4WXcaoAApE1o.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2119215777358504034",
-          "text": "Here's the top 100, globally https://t.co/xghbFrpW2P",
-          "createdAt": "2026-11-07T23:49:49.000Z",
-          "url": "https://x.com/deedydas/status/2119215777358504034",
-          "likes": 26,
-          "retweets": 1,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HWj3hK8bgAAKHm_.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2119123857806352792",
-          "text": "Traditional university rankings are a linearly weighted sum of attributes that shouldn’t matter (teacher to student ratio, graduation rate), or subjective metrics (reputation). Most incoming high school students care about one thing: will the best employers preferentially want to hire me? And this is what this list captures\n\nTo get an idea of how we capture what the “best employers” look like, PageRank style, here’s a sample. If a lot of people from Google leave to OpenAI, and people from OAI leave to Thinking Machines, they get ranked accordingly!",
-          "createdAt": "2026-11-07T17:44:33.000Z",
-          "url": "https://x.com/deedydas/status/2119123857806352792",
-          "likes": 45,
-          "retweets": 1,
-          "replies": 6,
           "isQuote": true,
-          "quotedTweetId": "2118373102694674768"
+          "quotedTweetId": "2119629310969467053"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 3
+    "xBuilders": 2,
+    "totalTweets": 2
   }
 }

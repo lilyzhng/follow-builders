@@ -1,0 +1,491 @@
+{
+  "generatedAt": "2026-11-09T07:53:27.718Z",
+  "lookbackHours": 24,
+  "x": [
+    {
+      "source": "x",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
+      "tweets": [
+        {
+          "id": "2119573404990771238",
+          "text": "Using an agent that can change its models or code at any time without telling you is like building on quicksand https://t.co/39yhkFaw2t",
+          "createdAt": "2026-11-08T23:30:54.000Z",
+          "url": "https://x.com/NousResearch/status/2119573404990771238",
+          "likes": 562,
+          "retweets": 34,
+          "replies": 62,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWo8tBCWYAAEeWC.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2119501961984917611",
+          "text": "https://t.co/FNMGreJo6X",
+          "createdAt": "2026-11-08T18:47:00.000Z",
+          "url": "https://x.com/NousResearch/status/2119501961984917611",
+          "likes": 60,
+          "retweets": 3,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2119501958981857543",
+          "text": "Hermes Agent can now review your codebase for security bugs with the new official Security plugin by @mark_s.\n\nHermes first maps what an attacker could reach and which inputs it trusts. It splits the code across parallel subagents, checks every candidate finding against the code, and traces whether an attacker can actually exploit it.\n\nTurn on test confirmation and Hermes writes a small reproduction for each finding and runs it in a temporary copy of the repo. Each report records the evidence and the findings Hermes ruled out, and exports to SARIF for your existing tools.\n\nRun it from chat, the CLI, or the Security page in Hermes Desktop.",
+          "createdAt": "2026-11-08T18:47:00.000Z",
+          "url": "https://x.com/NousResearch/status/2119501958981857543",
+          "likes": 1161,
+          "retweets": 88,
+          "replies": 76,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2119501177792376832/img/kd1t8r7sAPh7U_Wd.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cheng Lou",
+      "handle": "_chenglou",
+      "bio": "Worked on: @reactjs, @messenger, @reasonml, @rescriptlang, @midjourney\nCurrently: @coreauto, Pretext, Freerange, Handwired",
+      "tweets": [
+        {
+          "id": "2119581246649200884",
+          "text": "Once in a while people tell Anthropic they're falling behind publicly and they go \"ooh are we?\" then release a diluted version of their internal OmniClaude then go back to being silent for another month",
+          "createdAt": "2026-11-09T00:02:03.000Z",
+          "url": "https://x.com/_chenglou/status/2119581246649200884",
+          "likes": 825,
+          "retweets": 11,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lulu Cheng Meservey",
+      "handle": "lulumeservey",
+      "bio": "Rostra founder, Shopify board, ex Activision & Substack, writing https://t.co/4xKo7wQTQo",
+      "tweets": [
+        {
+          "id": "2119584775845650896",
+          "text": "He should have to get a different jacket\n\nThe parka of shame https://t.co/OJDfnRPWPh",
+          "createdAt": "2026-11-09T00:16:05.000Z",
+          "url": "https://x.com/lulumeservey/status/2119584775845650896",
+          "likes": 468,
+          "retweets": 16,
+          "replies": 19,
+          "isQuote": true,
+          "quotedTweetId": "1769760769158033845"
+        },
+        {
+          "id": "2119574294002868566",
+          "text": "The Nvidia board statement is predictably weaker than Jensen’s statement. Their job was to build credibility and trust, and they undermine that by making it seem like their minds are made up already\n\nGood:\n- focused on the national security angle (as opposed to the personal misconduct)\n- short\n\nBad:\n- expressing “full confidence” before the investigation is done makes it sound like they’ve already decided the result. Never do this; it wrecks the perceived neutrality of the investigation and makes the findings seem biased \n- if the investigation is truly “independent” then you need to name who’s doing it, because their credibility determines how credible the investigation is\n- saying “we have no reason to believe” any secrets were compromised when that is the very thing being questioned",
+          "createdAt": "2026-11-08T23:34:26.000Z",
+          "url": "https://x.com/lulumeservey/status/2119574294002868566",
+          "likes": 319,
+          "retweets": 13,
+          "replies": 25,
+          "isQuote": true,
+          "quotedTweetId": "2119538027341164639",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWo9lQ1WAAAvUee.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Graham Neubig",
+      "handle": "gneubig",
+      "bio": "Associate professor @LTIatCMU.\nCo-founder/chief scientist @OpenHandsDev.\nI mostly work on modeling language.",
+      "tweets": [
+        {
+          "id": "2119487533667221650",
+          "text": "2026 was definitely the year of \"maxxing\"-maxxing\nhttps://t.co/YWzJRAQ7Oa",
+          "createdAt": "2026-11-08T17:49:40.000Z",
+          "url": "https://x.com/gneubig/status/2119487533667221650",
+          "likes": 33,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "alphaXiv",
+      "handle": "askalphaxiv",
+      "bio": "High fidelity research",
+      "tweets": [
+        {
+          "id": "2119349075619598711",
+          "text": "\"Hinted Scaling Laws\"\n\nScaling laws can predict how LLMs improve with scale, how do you predict a larger model's performance on difficult benchmarks when all the smaller models score nearly zero?\n\nThis paper introduces Hinted Scaling Laws, which gives smaller models varying amounts of help, such as partial solutions, to reveal how their accuracy improves. Researchers then use these patterns to predict larger models' performance without hints.\n\nAcross GSM8K, AIME, and HLE, this reduces median forecasting error from 21 to 4.3%, making predictions of future model capabilities much more accurate.\n\nhttps://t.co/xVCvMka7Kd",
+          "createdAt": "2026-11-08T08:39:29.000Z",
+          "url": "https://x.com/askalphaxiv/status/2119349075619598711",
+          "likes": 111,
+          "retweets": 9,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWlweLaaUAATqz_.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2119348608122449939",
+          "text": "\"VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding\"\n\nGenerating visual plans for robotics and autonomous driving models is done one coordinate at a time, making detailed trajectories slow to produce.\n\nNVIDIA's new paper VFlash proposes a lightweight diffusion model to predict entire trajectories, bounding boxes, and 3D motion in parallel, rather than generating each coordinate sequentially.\n\nThis reduces robot planning latency by around 80% while improving spatial accuracy. \n\nOn MolmoSpaces, robot task success improves from 62.6% to 70.2% when an action model uses VFlash's plans.\n\nhttps://t.co/vv9cpGlo9k",
+          "createdAt": "2026-11-08T08:37:38.000Z",
+          "url": "https://x.com/askalphaxiv/status/2119348608122449939",
+          "likes": 67,
+          "retweets": 5,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWlwNSCakAAmNkP.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2119611058881192187",
+          "text": "are you listening anon? https://t.co/52rrkgKNg5 https://t.co/CFJg15NMCt",
+          "createdAt": "2026-11-09T02:00:31.000Z",
+          "url": "https://x.com/swyx/status/2119611058881192187",
+          "likes": 152,
+          "retweets": 3,
+          "replies": 21,
+          "isQuote": true,
+          "quotedTweetId": "2119250590337470728",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWpfBoeaoAESRwa.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2119550477629379009",
+          "text": "and a special pod! https://t.co/LGOjNlcyAR",
+          "createdAt": "2026-11-08T21:59:47.000Z",
+          "url": "https://x.com/swyx/status/2119550477629379009",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2119550367222653193"
+        },
+        {
+          "id": "2119543788192600450",
+          "text": "if youre wondering how, ask their VP of FDE Pauline Brunet (thanks @realbasilchatha for curating this)\n\nhttps://t.co/KMjK2emil8",
+          "createdAt": "2026-11-08T21:33:12.000Z",
+          "url": "https://x.com/swyx/status/2119543788192600450",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2082159947236655311"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2119657833516171384",
+          "text": "This affair is going to destroy billions in shareholder value isn’t it",
+          "createdAt": "2026-11-09T05:06:23.000Z",
+          "url": "https://x.com/petergyang/status/2119657833516171384",
+          "likes": 78,
+          "retweets": 1,
+          "replies": 16,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2119595860057288967",
+          "text": "“Both of my parents got diagnosed with two cancers each within a week of each other.”\n\nFrom @AshleyYuki, VP of Product at @OpenAI:\n\n“I just decided to take a month [off work]. It was one of the best things I could have done in that moment to care for my parents.\n\nYou also have to care for yourself as a caregiver. We don’t talk about that enough. It’s still a really big cognitive load, emotional load, just pure time load to be a caregiver. You have to make sure you’re budgeting time for your own mental health.”\n\n📌 Watch our full episode here: https://t.co/Z3HibgPP8S",
+          "createdAt": "2026-11-09T01:00:07.000Z",
+          "url": "https://x.com/petergyang/status/2119595860057288967",
+          "likes": 46,
+          "retweets": 8,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2119448683918049412",
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2119595836174983168/img/_pXSfRkW0F0DuNUk.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2119556651636441416",
+          "text": "Anecdotally, I think cheating is far more common in Asia. \n\nPlenty of guys who have their wife and kids living in the US/Canada, while they do business in Asia and have another girlfriend or even family in a 二奶村.\n\nMost of the time their wife knows about this too. Not saying any of this is right but just what I've seen and heard 🤷\n\nJust randomly came across this article",
+          "createdAt": "2026-11-08T22:24:19.000Z",
+          "url": "https://x.com/petergyang/status/2119556651636441416",
+          "likes": 297,
+          "retweets": 15,
+          "replies": 43,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWotZAGbIAAVJcF.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2119536313712230802",
+          "text": "Built a physical simulation of a record player with WebGL2 and Web Audio. It's *shockingly* accurate: https://t.co/MBNaTfKoai.\n\nInstead of playing a song, it works by converting it into the physical shape of a groove. Then a simulated stylus rides those walls 384,000 times a second, and you hear the voltage that motion would induce in a cartridge.\n\nSo the crackle, the pops, the wow/flutter, the dull inner grooves are natural byproducts of the simulation. You can also \"DJ\" the record.\n\n(The converted songs are in the public domain or CC-licensed. Code is linked for you to remix and re-deploy.)",
+          "createdAt": "2026-11-08T21:03:30.000Z",
+          "url": "https://x.com/rauchg/status/2119536313712230802",
+          "likes": 2384,
+          "retweets": 152,
+          "replies": 192,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2119533964537069568/img/AArwNxfpxwYq9kHn.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2119592025440092192",
+          "text": "We’re moving from an era of AI where the output comes roughly at the rate that you can chat back and forth with the AI to work with you, to a period where you can set a problem for a set of agents to go off and do an arbitrarily large amount of work for you. This means productivity gains that are maybe 20-50% to gains that don’t really have an upper limit.\n\nAgent swarms and the ability to fan out complex work across many agents doing tasks in parallel provide a massive unlock in a lot of spaces. This will lead to qualitatively different outcomes in my fields. \n\nThis has already been seen across the coding domain. Next, cyber is almost entirely a problem space where more agents reviewing more things will lead to far better outcomes. We’re seeing the same now in many scientific fields, and this almost certainly will change life sciences. \n\nBut this will increasingly be true in any field where you can parallelize computer-based work to complete something faster or do something at a totally different quality level. Which is actually are some of the most valuable domains of knowledge work today. \n\nOur brains aren’t really wired for the new scenario we’re heading into where compute becomes the variable that we can flex to solve any problem that we want. We’re used to thinking that the amount of time that goes into a task is correlated to the output that we get from it. And most domains of knowledge work or science have generally always been correlated with this. That’s changing forever.",
+          "createdAt": "2026-11-09T00:44:53.000Z",
+          "url": "https://x.com/levie/status/2119592025440092192",
+          "likes": 288,
+          "retweets": 21,
+          "replies": 88,
+          "isQuote": true,
+          "quotedTweetId": "2119561347805687848"
+        },
+        {
+          "id": "2119502716770902234",
+          "text": "A good lesson in AI is that you need to check back in on the latest with every 3 to 6 months to try something that wasn’t possible before and see if it works again.\n\nAt no point in AI’s history is that more true than today. Just the past six months of model progress around computer and tool use, less context rot, better reasoning, multimodality, and deeper domain expertise in a number of key fields, these models are vastly more capable on what they can execute.\n\nThis is opening up a new vector of what AI systems will be able to autonomously work on. Essentially, anything with an API (and even many things without), we can anticipate that an agent will be able to control and utilize as an underlying capability to complete a process.\n\nThis means that we are no longer dependent on *just* the models generating everything from whole cloth, but instead they can fully utilize existing systems (or new ones purpose built for them) very effectively. This creates immense leverage for agents.\n\nSecurity agents can leverage existing data feeds and cyber tooling, IT agents that can execute workflows reliably across software stacks, data agents that can migrate data or processes between systems, architect and design agents can leverage CAD and design tools, and on and on. And any of today’s tools that don’t work will likely be replaced by agent-friendly or OSS tooling that does the same. \n\nWhen you combine this with the domain understanding being trained into agents, you started to get autonomous collaborators for every job function and industry. This will open up a ton of new opportunities in AI if you build with this understanding in mind.",
+          "createdAt": "2026-11-08T18:50:00.000Z",
+          "url": "https://x.com/levie/status/2119502716770902234",
+          "likes": 281,
+          "retweets": 19,
+          "replies": 106,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Ryo Lu",
+      "handle": "ryolu_",
+      "bio": "Designed @Cursor_ai, @NotionHQ, @Stripe, built startups. I make a world where anyone can make software. Aspiring k-pop idol.",
+      "tweets": [
+        {
+          "id": "2119586846657454152",
+          "text": "when we can do anything,\ndo we still know what we want?\n\nthe full talk from @aiDotEngineer shanghai. every slide handmade in keynote, subs in 中文 and english https://t.co/EeyHu7l3Fc",
+          "createdAt": "2026-11-09T00:24:18.000Z",
+          "url": "https://x.com/ryolu_/status/2119586846657454152",
+          "likes": 761,
+          "retweets": 80,
+          "replies": 31,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2119584955290595328/img/eb5xqZCfcuAPgNL7.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Matt Turck",
+      "handle": "mattturck",
+      "bio": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+      "tweets": [
+        {
+          "id": "2119525416780361766",
+          "text": "ok lol trolls coming out in full force - Elon is a business genius, a visionary and and the richest man in the world, it’s ok for comedians to attempt to poke some fun, relax!",
+          "createdAt": "2026-11-08T20:20:12.000Z",
+          "url": "https://x.com/mattturck/status/2119525416780361766",
+          "likes": 21,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2119457959625498698",
+          "text": "Lol not Elon now, after nailing the Tucker Carlson impersonation 😂Absolutely epic run from Jeremy Culhane https://t.co/m26EQ0PBC0",
+          "createdAt": "2026-11-08T15:52:09.000Z",
+          "url": "https://x.com/mattturck/status/2119457959625498698",
+          "likes": 2072,
+          "retweets": 143,
+          "replies": 53,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2119305308019249152/img/drB59YpG0KUH6iwd.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Zara Zhang",
+      "handle": "zarazhangrui",
+      "bio": "Builder.  Harvard’17. Instagram: https://t.co/aJqTEMrL2L GitHub: https://t.co/KCuEajezlL",
+      "tweets": [
+        {
+          "id": "2119592080318341128",
+          "text": "I’ve almost stopped using the term “vibe coding” because there’s a negative connotation to it \n\nIt implies that you didn’t put a lot of effort or soul into the output and it’s just AI slop\n\nBut oftentimes people ARE putting their heart and soul into the work even when using AI coding tools. The 2 are not contradictory\n\nWe need a better word for describing this",
+          "createdAt": "2026-11-09T00:45:06.000Z",
+          "url": "https://x.com/zarazhangrui/status/2119592080318341128",
+          "likes": 492,
+          "retweets": 18,
+          "replies": 212,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2119342420412510686",
+          "text": "The joy of building a product comes from the collision between the predictability of how technology behaves &amp; the unpredictability of how humans behave",
+          "createdAt": "2026-11-08T08:13:03.000Z",
+          "url": "https://x.com/zarazhangrui/status/2119342420412510686",
+          "likes": 170,
+          "retweets": 7,
+          "replies": 32,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2119670529254981756",
+          "text": "If you are visiting SF, and trying to meet more people, here are a random list of things you should remove from your vocabulary..\n\n> swap notes\n> \"synergies\"\n> pick your brain\n> networking\n> \"san fran\" (tourist tell)\n> grab coffee if you're free\n\nIf you want to meet interesting people here, show your work. The most interesting people I know in the city are not attending that fancy large conference - they are probably at their office. \n\nSo what's the work? It can be as simple as a thoughtful cold email, a five line pointed DM, or complex as some side projects that you have shipped, or a meetup that you are organizing.\n\nIf you put in the effort, it shows, yes, even in this AI era. I still get so much slop across the board, that if I see anyone put in the effort, I try to go out of my way to meet them. \n\nEven the busiest people have 15 mins to give you, if you give them a reason to!",
+          "createdAt": "2026-11-09T05:56:50.000Z",
+          "url": "https://x.com/nikunj/status/2119670529254981756",
+          "likes": 64,
+          "retweets": 1,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2119362293523964343",
+          "text": "A company you’ve never heard of was started 10yrs ago is the 32nd largest in the world.\n\nThey are the #4 largest maker of DRAM, behind Samsung, SK Hynix and Micron with ~10% of the global market. They’re worth $430B and were briefly the biggest company in China.\n\nIt’s ChanXin Memory Technologies (CXMT).\n\nThey’re growing >6x YoY, and made $40B in the first 9mos of this year at 50% gross margin. Surprisingly, 2/3rd of its business is phone memory, and AI compute is a small part of their business.\n\nThe founder, Yiming Zhu did his PhD at Stony Brook after Tsinghua and worked in semis in the valley before going back to China in 2005. He started CXMT in 2016 in the lesser known city of Hefei.\n\nThe funding story of the company is unusually fascinating too. The city government of Hefei owns ~37% of the business after providing physical city resides and eating losses on it for 10yrs! We think about VCs backing companies in the US, but in China, governments can too.",
+          "createdAt": "2026-11-08T09:32:01.000Z",
+          "url": "https://x.com/deedydas/status/2119362293523964343",
+          "likes": 279,
+          "retweets": 14,
+          "replies": 35,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWl8xnQaQAAPnqf.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "building p7k @pragmatik_labs | ❤️ 🍵 ☕️",
+      "tweets": [
+        {
+          "id": "2119695680595988739",
+          "text": "u r right https://t.co/sDrT6JXIoG",
+          "createdAt": "2026-11-09T07:36:46.000Z",
+          "url": "https://x.com/JustinLin610/status/2119695680595988739",
+          "likes": 12,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2119629310969467053"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "xBuilders": 15,
+    "totalTweets": 26
+  },
+  "errors": [
+    "X API: User not found: jenny_wen"
+  ]
+}
