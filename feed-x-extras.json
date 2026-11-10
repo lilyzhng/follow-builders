@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T07:53:29.357Z",
+  "generatedAt": "2026-11-10T08:21:16.870Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,19 +9,89 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2119362293523964343",
-          "text": "A company you’ve never heard of was started 10yrs ago is the 32nd largest in the world.\n\nThey are the #4 largest maker of DRAM, behind Samsung, SK Hynix and Micron with ~10% of the global market. They’re worth $430B and were briefly the biggest company in China.\n\nIt’s ChanXin Memory Technologies (CXMT).\n\nThey’re growing >6x YoY, and made $40B in the first 9mos of this year at 50% gross margin. Surprisingly, 2/3rd of its business is phone memory, and AI compute is a small part of their business.\n\nThe founder, Yiming Zhu did his PhD at Stony Brook after Tsinghua and worked in semis in the valley before going back to China in 2005. He started CXMT in 2016 in the lesser known city of Hefei.\n\nThe funding story of the company is unusually fascinating too. The city government of Hefei owns ~37% of the business after providing physical city resides and eating losses on it for 10yrs! We think about VCs backing companies in the US, but in China, governments can too.",
-          "createdAt": "2026-11-08T09:32:01.000Z",
-          "url": "https://x.com/deedydas/status/2119362293523964343",
-          "likes": 279,
-          "retweets": 14,
-          "replies": 35,
+          "id": "2119930300990177509",
+          "text": "Wow, Fable 5.2 is unbelievable at generating photorealistic scenes. \n\n\"Can you write the most intricate photorealistic simulation of honey in WebGL in the browser\"\n\nThis video is completely physics-based realtime render. https://t.co/83kTkHp6vs",
+          "createdAt": "2026-11-09T23:09:04.000Z",
+          "url": "https://x.com/deedydas/status/2119930300990177509",
+          "likes": 299,
+          "retweets": 10,
+          "replies": 22,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HWl8xnQaQAAPnqf.jpg"
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2119930095406288896/img/CYsJw4SdJYX8i7lk.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2119861802662277247",
+          "text": "Had my first crazy dangerously-skip-permissions moment.\n\nIt ran `pkill -f \"cat\" -n` to kill a previous stray `cat` process, but it matched to everything in `Appli[cat]ions` and killed every single running app on my Mac.",
+          "createdAt": "2026-11-09T18:36:53.000Z",
+          "url": "https://x.com/deedydas/status/2119861802662277247",
+          "likes": 1222,
+          "retweets": 18,
+          "replies": 86,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lance Martin",
+      "handle": "RLanceMartin",
+      "bio": "MTS @anthropicai",
+      "tweets": [
+        {
+          "id": "2119875055018713529",
+          "text": "we share this as a case study in scaling multi-agent teams safely, and as evidence that models like Fable 5.2 can solve challenging, long-horizon problems. https://t.co/TmIvH3oRZ3",
+          "createdAt": "2026-11-09T19:29:33.000Z",
+          "url": "https://x.com/RLanceMartin/status/2119875055018713529",
+          "likes": 21,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "animated_gif",
+              "url": "https://pbs.twimg.com/tweet_video_thumb/HWtOznfbMAADJKu.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2119875053198385371",
+          "text": "for the largest statement in the proof, the team set up a task tree to coordinate across ~750 agents: tree grew whenever a piece proved too hard for a single agent, ultimately reaching 2,418 tasks up to 10 levels deep. https://t.co/4gdveqlbTu",
+          "createdAt": "2026-11-09T19:29:32.000Z",
+          "url": "https://x.com/RLanceMartin/status/2119875053198385371",
+          "likes": 17,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "animated_gif",
+              "url": "https://pbs.twimg.com/tweet_video_thumb/HWtOsmGboAAgiAY.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2119875050648346805",
+          "text": "the agents set up their own database tables for coordination and organized themselves into subteams so they could work in parallel. https://t.co/KHm9hITvK0",
+          "createdAt": "2026-11-09T19:29:32.000Z",
+          "url": "https://x.com/RLanceMartin/status/2119875050648346805",
+          "likes": 18,
+          "retweets": 2,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "animated_gif",
+              "url": "https://pbs.twimg.com/tweet_video_thumb/HWtOSeyakAAGJMZ.jpg"
             }
           ]
         }
@@ -29,26 +99,60 @@
     },
     {
       "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "building p7k @pragmatik_labs | ❤️ 🍵 ☕️",
+      "name": "Felix Rieseberg (Claude Cowork)",
+      "handle": "felixrieseberg",
+      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
       "tweets": [
         {
-          "id": "2119695680595988739",
-          "text": "u r right https://t.co/sDrT6JXIoG",
-          "createdAt": "2026-11-09T07:36:46.000Z",
-          "url": "https://x.com/JustinLin610/status/2119695680595988739",
-          "likes": 12,
+          "id": "2119925633564463609",
+          "text": "I wanted to test Fable 5.2's quality with one-shot prompts without human feedback.\n\nEverything in this game is from scratch: models, sounds, textures. ~$550 at API pricing, ~2.7M output and 445M input tokens, heavily cached. Took 8 hours!\n\nPlay it here: https://t.co/fazOCcyNIH https://t.co/GoCitQ9EVe",
+          "createdAt": "2026-11-09T22:50:32.000Z",
+          "url": "https://x.com/felixrieseberg/status/2119925633564463609",
+          "likes": 5542,
+          "retweets": 312,
+          "replies": 336,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2119919821538447360/img/tuJ7YP9fTEVJK8C8.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2119867843319886255",
+          "text": "Mythos is once again a step up in cybersecurity. If you're a defender and hardening your own work, a reminder that it's much easier to get access to Mythos now, even for indivudals: https://t.co/13AvmncO0K",
+          "createdAt": "2026-11-09T19:00:53.000Z",
+          "url": "https://x.com/felixrieseberg/status/2119867843319886255",
+          "likes": 54,
+          "retweets": 4,
+          "replies": 4,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2119867840878825523",
+          "text": "I also asked it to create 20 different logos for a made-up group called \"Interchange\". https://t.co/k4F8b2HEiJ",
+          "createdAt": "2026-11-09T19:00:53.000Z",
+          "url": "https://x.com/felixrieseberg/status/2119867840878825523",
+          "likes": 71,
           "retweets": 0,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2119629310969467053"
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HWszdV2b0AAbF-u.jpg"
+            }
+          ]
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 2
+    "xBuilders": 3,
+    "totalTweets": 8
   }
 }
