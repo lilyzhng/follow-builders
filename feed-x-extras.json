@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-11-10T08:21:16.870Z",
+  "generatedAt": "2026-11-11T07:42:30.610Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "Modal",
+      "handle": "modal",
+      "bio": "Building blocks for production AI",
+      "tweets": [
+        {
+          "id": "2120206830194344165",
+          "text": "GPT-2 from scratch by @GreenCodeCodes: a YouTube series on training an LLM from scratch\n\nhttps://t.co/74u0nnrjzE",
+          "createdAt": "2026-11-10T17:27:54.000Z",
+          "url": "https://x.com/modal/status/2120206830194344165",
+          "likes": 22,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2097769813854585294"
+        },
+        {
+          "id": "2120206827581591989",
+          "text": "Compute shouldn’t be the bottleneck for your next big idea.\n\nWe're launching Modal for Builders, a program that provides compute credits to builders working on ambitious AI projects.\n\nHave a demo you’ve been wanting to build? A research question you want to explore?  Or another idea that needs compute? \n\nWe’d like to hear about it. Apply with your idea and an estimate of the compute you’ll need. Projects may also be featured on Modal’s social channels. \n\nSome projects we’ve backed in the past:",
+          "createdAt": "2026-11-10T17:27:53.000Z",
+          "url": "https://x.com/modal/status/2120206827581591989",
+          "likes": 317,
+          "retweets": 37,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2120202631326973952/img/3d9hnwkeMKbMeeWF.jpg"
+            }
+          ]
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -9,91 +45,37 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2119930300990177509",
-          "text": "Wow, Fable 5.2 is unbelievable at generating photorealistic scenes. \n\n\"Can you write the most intricate photorealistic simulation of honey in WebGL in the browser\"\n\nThis video is completely physics-based realtime render. https://t.co/83kTkHp6vs",
-          "createdAt": "2026-11-09T23:09:04.000Z",
-          "url": "https://x.com/deedydas/status/2119930300990177509",
-          "likes": 299,
-          "retweets": 10,
-          "replies": 22,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2119930095406288896/img/CYsJw4SdJYX8i7lk.jpg"
-            }
-          ]
+          "id": "2120274555466059843",
+          "text": "Maybe it’s just me but I’d rather live in a world where people yearn to put an end to cancer in 10 years over one where people make fun of those who dare to dream. https://t.co/eGvOSTGlhi",
+          "createdAt": "2026-11-10T21:57:01.000Z",
+          "url": "https://x.com/deedydas/status/2120274555466059843",
+          "likes": 541,
+          "retweets": 29,
+          "replies": 50,
+          "isQuote": true,
+          "quotedTweetId": "2120268220661989783"
         },
         {
-          "id": "2119861802662277247",
-          "text": "Had my first crazy dangerously-skip-permissions moment.\n\nIt ran `pkill -f \"cat\" -n` to kill a previous stray `cat` process, but it matched to everything in `Appli[cat]ions` and killed every single running app on my Mac.",
-          "createdAt": "2026-11-09T18:36:53.000Z",
-          "url": "https://x.com/deedydas/status/2119861802662277247",
-          "likes": 1222,
-          "retweets": 18,
-          "replies": 86,
+          "id": "2120267260363514068",
+          "text": "Pictured (left to right): @mmurph, @alexatallah, @jane_eliz_alex, @louis_g_v, @cclark, me.\n\nNot pictured: @mojomaa0 , @AnjneyMidha and the phenomenal team of @OpenRouter",
+          "createdAt": "2026-11-10T21:28:02.000Z",
+          "url": "https://x.com/deedydas/status/2120267260363514068",
+          "likes": 8,
+          "retweets": 0,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "MTS @anthropicai",
-      "tweets": [
-        {
-          "id": "2119875055018713529",
-          "text": "we share this as a case study in scaling multi-agent teams safely, and as evidence that models like Fable 5.2 can solve challenging, long-horizon problems. https://t.co/TmIvH3oRZ3",
-          "createdAt": "2026-11-09T19:29:33.000Z",
-          "url": "https://x.com/RLanceMartin/status/2119875055018713529",
-          "likes": 21,
-          "retweets": 1,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "animated_gif",
-              "url": "https://pbs.twimg.com/tweet_video_thumb/HWtOznfbMAADJKu.jpg"
-            }
-          ]
         },
         {
-          "id": "2119875053198385371",
-          "text": "for the largest statement in the proof, the team set up a task tree to coordinate across ~750 agents: tree grew whenever a piece proved too hard for a single agent, ultimately reaching 2,418 tasks up to 10 levels deep. https://t.co/4gdveqlbTu",
-          "createdAt": "2026-11-09T19:29:32.000Z",
-          "url": "https://x.com/RLanceMartin/status/2119875053198385371",
-          "likes": 17,
+          "id": "2120260738757665083",
+          "text": "Just in ~3mos from the intent to acquire to the closing, weekly tokens are up 2.3x!\n\nWe wrote about the OpenRouter journey from the earliest version of the product 3yrs ago to today here:\nhttps://t.co/3ixtHjn5EL",
+          "createdAt": "2026-11-10T21:02:07.000Z",
+          "url": "https://x.com/deedydas/status/2120260738757665083",
+          "likes": 6,
           "retweets": 0,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "animated_gif",
-              "url": "https://pbs.twimg.com/tweet_video_thumb/HWtOsmGboAAgiAY.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2119875050648346805",
-          "text": "the agents set up their own database tables for coordination and organized themselves into subteams so they could work in parallel. https://t.co/KHm9hITvK0",
-          "createdAt": "2026-11-09T19:29:32.000Z",
-          "url": "https://x.com/RLanceMartin/status/2119875050648346805",
-          "likes": 18,
-          "retweets": 2,
           "replies": 1,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "animated_gif",
-              "url": "https://pbs.twimg.com/tweet_video_thumb/HWtOSeyakAAGJMZ.jpg"
-            }
-          ]
+          "quotedTweetId": null
         }
       ]
     },
@@ -104,47 +86,99 @@
       "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
       "tweets": [
         {
-          "id": "2119925633564463609",
-          "text": "I wanted to test Fable 5.2's quality with one-shot prompts without human feedback.\n\nEverything in this game is from scratch: models, sounds, textures. ~$550 at API pricing, ~2.7M output and 445M input tokens, heavily cached. Took 8 hours!\n\nPlay it here: https://t.co/fazOCcyNIH https://t.co/GoCitQ9EVe",
-          "createdAt": "2026-11-09T22:50:32.000Z",
-          "url": "https://x.com/felixrieseberg/status/2119925633564463609",
-          "likes": 5542,
-          "retweets": 312,
-          "replies": 336,
+          "id": "2120245629725409758",
+          "text": "One thing that's surprising about this game: EVERYTHING IS CODE. \n\nAll textures and models are functions. There are no images or 3D models. Claude didn't draw, it wrote shaders. Everything is Math. That sounds wild - the source is in the HTML, so you can inspect it yourself. https://t.co/vFlFFRlJhF https://t.co/pCNyRCyPfh",
+          "createdAt": "2026-11-10T20:02:05.000Z",
+          "url": "https://x.com/felixrieseberg/status/2120245629725409758",
+          "likes": 968,
+          "retweets": 56,
+          "replies": 70,
+          "isQuote": true,
+          "quotedTweetId": "2119925633564463609",
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2120245102774042624/img/t9m1o7Op8rGzZlqz.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "MiniMax",
+      "handle": "MiniMax_AI",
+      "bio": "Code: @MiniMax_Code \nMiniMax Design: @Hailuo_AI\nAPI: https://t.co/fHRdSV73Hr\nM Plan: https://t.co/XfJWSyauda",
+      "tweets": [
+        {
+          "id": "2120179737695826420",
+          "text": "4K image generation in 10 seconds! ⚡\n\nMeet MiniMax H3-Image.\n\n16 million pixel resolution. Stunning realism. Precise prompt following & editing. Up to 16 reference images. All in 10 seconds.\n\nAnd it's open-weight. 🚀\n\nAvailable now via our API, MiniMax Code, and Hailuo AI — with 50% off 16MP+ generations during launch week!\n\nCan't wait to see what you create. 🔥 \nHugging Face: https://t.co/bpbJAIvXg0\nAPI: https://t.co/avbsq6GAcM\nMiniMax Code:  https://t.co/GmxLmDurCL",
+          "createdAt": "2026-11-10T15:40:15.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2120179737695826420",
+          "likes": 3936,
+          "retweets": 348,
+          "replies": 230,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2119919821538447360/img/tuJ7YP9fTEVJK8C8.jpg"
+              "url": "https://pbs.twimg.com/ext_tw_video_thumb/2120179694725218304/pu/img/I2R0hivGGPPi57ga.jpg"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
+      "tweets": [
         {
-          "id": "2119867843319886255",
-          "text": "Mythos is once again a step up in cybersecurity. If you're a defender and hardening your own work, a reminder that it's much easier to get access to Mythos now, even for indivudals: https://t.co/13AvmncO0K",
-          "createdAt": "2026-11-09T19:00:53.000Z",
-          "url": "https://x.com/felixrieseberg/status/2119867843319886255",
-          "likes": 54,
-          "retweets": 4,
-          "replies": 4,
+          "id": "2120215605123178671",
+          "text": "The Sign in with ChatGPT flow in Nous Portal now supports your ChatGPT Business plan https://t.co/wPu0cA6akJ",
+          "createdAt": "2026-11-10T18:02:46.000Z",
+          "url": "https://x.com/NousResearch/status/2120215605123178671",
+          "likes": 335,
+          "retweets": 15,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2120212596850663712"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
+      "tweets": [
+        {
+          "id": "2120196424243749118",
+          "text": "Read more: https://t.co/zzIB6anG3M",
+          "createdAt": "2026-11-10T16:46:33.000Z",
+          "url": "https://x.com/cognition/status/2120196424243749118",
+          "likes": 10,
+          "retweets": 0,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2119867840878825523",
-          "text": "I also asked it to create 20 different logos for a made-up group called \"Interchange\". https://t.co/k4F8b2HEiJ",
-          "createdAt": "2026-11-09T19:00:53.000Z",
-          "url": "https://x.com/felixrieseberg/status/2119867840878825523",
-          "likes": 71,
-          "retweets": 0,
-          "replies": 2,
+          "id": "2120196422360506385",
+          "text": "Gemini 4 Carbon is now available in Devin Desktop and CLI.\n\nOn FrontierCode 2.0, Carbon scores 40.0% – a substantial step up from Gemini 4 Argon’s 26.3% – making it the best performing Google model on the benchmark. https://t.co/3eAPjrT4kZ",
+          "createdAt": "2026-11-10T16:46:33.000Z",
+          "url": "https://x.com/cognition/status/2120196422360506385",
+          "likes": 506,
+          "retweets": 33,
+          "replies": 30,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HWszdV2b0AAbF-u.jpg"
+              "url": "https://pbs.twimg.com/media/HWxzLCtaIAEzPt-.jpg"
             }
           ]
         }
@@ -152,7 +186,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 8
+    "xBuilders": 6,
+    "totalTweets": 10
   }
 }
