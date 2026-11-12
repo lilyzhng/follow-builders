@@ -1,43 +1,7 @@
 {
-  "generatedAt": "2026-11-11T07:42:30.610Z",
+  "generatedAt": "2026-11-12T08:12:55.532Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Modal",
-      "handle": "modal",
-      "bio": "Building blocks for production AI",
-      "tweets": [
-        {
-          "id": "2120206830194344165",
-          "text": "GPT-2 from scratch by @GreenCodeCodes: a YouTube series on training an LLM from scratch\n\nhttps://t.co/74u0nnrjzE",
-          "createdAt": "2026-11-10T17:27:54.000Z",
-          "url": "https://x.com/modal/status/2120206830194344165",
-          "likes": 22,
-          "retweets": 1,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2097769813854585294"
-        },
-        {
-          "id": "2120206827581591989",
-          "text": "Compute shouldn’t be the bottleneck for your next big idea.\n\nWe're launching Modal for Builders, a program that provides compute credits to builders working on ambitious AI projects.\n\nHave a demo you’ve been wanting to build? A research question you want to explore?  Or another idea that needs compute? \n\nWe’d like to hear about it. Apply with your idea and an estimate of the compute you’ll need. Projects may also be featured on Modal’s social channels. \n\nSome projects we’ve backed in the past:",
-          "createdAt": "2026-11-10T17:27:53.000Z",
-          "url": "https://x.com/modal/status/2120206827581591989",
-          "likes": 317,
-          "retweets": 37,
-          "replies": 9,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2120202631326973952/img/3d9hnwkeMKbMeeWF.jpg"
-            }
-          ]
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -45,60 +9,89 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2120274555466059843",
-          "text": "Maybe it’s just me but I’d rather live in a world where people yearn to put an end to cancer in 10 years over one where people make fun of those who dare to dream. https://t.co/eGvOSTGlhi",
-          "createdAt": "2026-11-10T21:57:01.000Z",
-          "url": "https://x.com/deedydas/status/2120274555466059843",
-          "likes": 541,
-          "retweets": 29,
-          "replies": 50,
-          "isQuote": true,
-          "quotedTweetId": "2120268220661989783"
-        },
-        {
-          "id": "2120267260363514068",
-          "text": "Pictured (left to right): @mmurph, @alexatallah, @jane_eliz_alex, @louis_g_v, @cclark, me.\n\nNot pictured: @mojomaa0 , @AnjneyMidha and the phenomenal team of @OpenRouter",
-          "createdAt": "2026-11-10T21:28:02.000Z",
-          "url": "https://x.com/deedydas/status/2120267260363514068",
-          "likes": 8,
+          "id": "2120555000371744954",
+          "text": "To clarify, $10M per yr per engineer!!!",
+          "createdAt": "2026-11-11T16:31:24.000Z",
+          "url": "https://x.com/deedydas/status/2120555000371744954",
+          "likes": 25,
           "retweets": 0,
-          "replies": 0,
+          "replies": 3,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2120260738757665083",
-          "text": "Just in ~3mos from the intent to acquire to the closing, weekly tokens are up 2.3x!\n\nWe wrote about the OpenRouter journey from the earliest version of the product 3yrs ago to today here:\nhttps://t.co/3ixtHjn5EL",
-          "createdAt": "2026-11-10T21:02:07.000Z",
-          "url": "https://x.com/deedydas/status/2120260738757665083",
-          "likes": 6,
-          "retweets": 0,
-          "replies": 1,
+          "id": "2120547937042477338",
+          "text": "“I would be comfortable with engineers spending up to $10M/yr on AI tools” – Jeff Dean\n\nWas an absolute privilege to interview one of my idols, Jeff Dean, on the Menlo stage last week.\n\nWe talked about Discovery Loop, how he interviews candidates, RSI, his new developer set up and even asked him to live estimate the compute it would take to run Instinct.\n\nVideo out soon!",
+          "createdAt": "2026-11-11T16:03:20.000Z",
+          "url": "https://x.com/deedydas/status/2120547937042477338",
+          "likes": 617,
+          "retweets": 11,
+          "replies": 51,
           "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HW2zEnoaAAAhk6Q.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2120524778821869661",
+          "text": "AMD’s latest 10Q reveals how much it paid for Taalas, the company that bakes LLM weights into hardware: $2.9B.\n\nWhat an incredible time for hardware startups: Cerebras (IPO), Groq (exit), Etched, Fractile, Tendrils, d-Matrix, Volantis, MatX, Positron, Majestic, Tenstorrent! https://t.co/ItI2tfg8Y1",
+          "createdAt": "2026-11-11T14:31:19.000Z",
+          "url": "https://x.com/deedydas/status/2120524778821869661",
+          "likes": 381,
+          "retweets": 15,
+          "replies": 37,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HW2eDGdWUAAfxbU.jpg"
+            }
+          ]
         }
       ]
     },
     {
       "source": "x",
-      "name": "Felix Rieseberg (Claude Cowork)",
-      "handle": "felixrieseberg",
-      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
+      "name": "Lance Martin",
+      "handle": "RLanceMartin",
+      "bio": "MTS @anthropicai",
       "tweets": [
         {
-          "id": "2120245629725409758",
-          "text": "One thing that's surprising about this game: EVERYTHING IS CODE. \n\nAll textures and models are functions. There are no images or 3D models. Claude didn't draw, it wrote shaders. Everything is Math. That sounds wild - the source is in the HTML, so you can inspect it yourself. https://t.co/vFlFFRlJhF https://t.co/pCNyRCyPfh",
-          "createdAt": "2026-11-10T20:02:05.000Z",
-          "url": "https://x.com/felixrieseberg/status/2120245629725409758",
-          "likes": 968,
-          "retweets": 56,
-          "replies": 70,
-          "isQuote": true,
-          "quotedTweetId": "2119925633564463609",
+          "id": "2120636266962436486",
+          "text": "i'll talk about ways to use dreaming to correct memory, update it, or create new memory representations, showing some example from the article: \nhttps://t.co/yQpHVjYHuy\n\nwill also cover how Fable 5.2 using a 1,000 agent team to formalize FLT: \nhttps://t.co/IIsNzYJBeQ https://t.co/T5JPOlM1bF",
+          "createdAt": "2026-11-11T21:54:20.000Z",
+          "url": "https://x.com/RLanceMartin/status/2120636266962436486",
+          "likes": 10,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2120245102774042624/img/t9m1o7Op8rGzZlqz.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HW4CDijaIAAnABu.png"
+            }
+          ]
+        },
+        {
+          "id": "2120636264030646397",
+          "text": "if you are at @aiDotEngineer, come say hi! \n\ni'll be giving a talk Thurs (tmrw) 12:30p on two recent articles i worked on: (1) how we scaled a team of 1,000 Fable 5.2 agents to formalize of Fermat's Last Theorem and (2) a few ways to think about memory + dreaming. https://t.co/buiui1EkNd",
+          "createdAt": "2026-11-11T21:54:19.000Z",
+          "url": "https://x.com/RLanceMartin/status/2120636264030646397",
+          "likes": 91,
+          "retweets": 6,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "animated_gif",
+              "url": "https://pbs.twimg.com/tweet_video_thumb/HW3-Bt2acAAoH6V.jpg"
             }
           ]
         }
@@ -111,19 +104,19 @@
       "bio": "Code: @MiniMax_Code \nMiniMax Design: @Hailuo_AI\nAPI: https://t.co/fHRdSV73Hr\nM Plan: https://t.co/XfJWSyauda",
       "tweets": [
         {
-          "id": "2120179737695826420",
-          "text": "4K image generation in 10 seconds! ⚡\n\nMeet MiniMax H3-Image.\n\n16 million pixel resolution. Stunning realism. Precise prompt following & editing. Up to 16 reference images. All in 10 seconds.\n\nAnd it's open-weight. 🚀\n\nAvailable now via our API, MiniMax Code, and Hailuo AI — with 50% off 16MP+ generations during launch week!\n\nCan't wait to see what you create. 🔥 \nHugging Face: https://t.co/bpbJAIvXg0\nAPI: https://t.co/avbsq6GAcM\nMiniMax Code:  https://t.co/GmxLmDurCL",
-          "createdAt": "2026-11-10T15:40:15.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2120179737695826420",
-          "likes": 3936,
-          "retweets": 348,
-          "replies": 230,
+          "id": "2120538313383669950",
+          "text": "Turning knowledge into visuals. H3-Image converts complex information into diagrams and posters.\n\nSomething harder? Turn a lengthy case narrative into a single evidence board, with timelines, positions, and testimonies grouped, annotated, and connected all in one frame. \n\nPrompt: Create a detective case reasoning board to solve the following puzzle:\nConfidential documents have been stolen from a safe. Exactly one of six suspects, A, B, C, D, E, and F, acted alone. Each makes one statement:\nA: “The culprit is B or C.”\nB: “D is not the culprit.”\nC: “A's entire statement is false.”\nD: “The culprit is E or F.”\nE: “Exactly one of B's and D's statements is true, and the other is false.”\nF: “A is not the culprit.”\nExactly three of the six statements are true and three are false. “Or” means at least one is true, and all references refer to the statements above.\nFind the unique culprit and create a complete evidence board: show six letter-labeled suspect portraits and their exact statements, mark each statement true or false, and highlight the culprit. Include a concise verification table showing the number of true statements under each of the six possible culprit assumptions. Use connecting lines to show which statements refer to others, ensuring the portrait labels, reasoning, and table are consistent.\nDo not add motives, alibis, accomplices, or extra evidence, and do not treat appearance or expression as clues. Use a cinematic film-noir detective style, with clear, in 16:9 landscape format.",
+          "createdAt": "2026-11-11T15:25:06.000Z",
+          "url": "https://x.com/MiniMax_AI/status/2120538313383669950",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/ext_tw_video_thumb/2120179694725218304/pu/img/I2R0hivGGPPi57ga.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HW2qWALW4AAfpg0.jpg"
             }
           ]
         }
@@ -131,54 +124,66 @@
     },
     {
       "source": "x",
-      "name": "Nous Research",
-      "handle": "NousResearch",
-      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
       "tweets": [
         {
-          "id": "2120215605123178671",
-          "text": "The Sign in with ChatGPT flow in Nous Portal now supports your ChatGPT Business plan https://t.co/wPu0cA6akJ",
-          "createdAt": "2026-11-10T18:02:46.000Z",
-          "url": "https://x.com/NousResearch/status/2120215605123178671",
-          "likes": 335,
-          "retweets": 15,
-          "replies": 18,
-          "isQuote": true,
-          "quotedTweetId": "2120212596850663712"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
-      "tweets": [
-        {
-          "id": "2120196424243749118",
-          "text": "Read more: https://t.co/zzIB6anG3M",
-          "createdAt": "2026-11-10T16:46:33.000Z",
-          "url": "https://x.com/cognition/status/2120196424243749118",
-          "likes": 10,
+          "id": "2120582724323037196",
+          "text": "We revised the task description to focus agents on the VM-host boundary.\n\nThe share of effort spent there rose by about 60 percentage points on average. Agents still failed to escape after directly attacking the boundary, giving us stronger evidence of its isolation. https://t.co/7qeL1HRNok",
+          "createdAt": "2026-11-11T18:21:34.000Z",
+          "url": "https://x.com/perplexity_ai/status/2120582724323037196",
+          "likes": 2,
           "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2120196422360506385",
-          "text": "Gemini 4 Carbon is now available in Devin Desktop and CLI.\n\nOn FrontierCode 2.0, Carbon scores 40.0% – a substantial step up from Gemini 4 Argon’s 26.3% – making it the best performing Google model on the benchmark. https://t.co/3eAPjrT4kZ",
-          "createdAt": "2026-11-10T16:46:33.000Z",
-          "url": "https://x.com/cognition/status/2120196422360506385",
-          "likes": 506,
-          "retweets": 33,
-          "replies": 30,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HWxzLCtaIAEzPt-.jpg"
+              "url": "https://pbs.twimg.com/media/HW3Sv_ZakAAl_fP.png"
+            }
+          ]
+        },
+        {
+          "id": "2120582707889795323",
+          "text": "Agents given the CTF prompt spent substantial effort hunting for the flag inside the VM, through files and services, rather than testing the VM's isolation.\n\n9 of 12 models spent at most 4% of their effort on the virtualization layer, so their failed escapes were weak evidence. https://t.co/vsK4YRd01F",
+          "createdAt": "2026-11-11T18:21:30.000Z",
+          "url": "https://x.com/perplexity_ai/status/2120582707889795323",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HW3SvBmasAAlu2z.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Modal",
+      "handle": "modal",
+      "bio": "Building blocks for production AI",
+      "tweets": [
+        {
+          "id": "2120552005177618930",
+          "text": "How does a large, global company like @DoorDash enable its product teams to build with AI quickly, but also safely and securely?\n\nDoorDash’s GenAI platform team helps engineers across the company build products securely with AI, while leaving room to tinker and experiment. They get access to production-ready model APIs and can run batch jobs, online apps, and agents, while still maintaining the level of governance, performance, and security DoorDash requires.",
+          "createdAt": "2026-11-11T16:19:30.000Z",
+          "url": "https://x.com/modal/status/2120552005177618930",
+          "likes": 45,
+          "retweets": 10,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2120551052542201856/img/qfR1ZB9MK8-mlqtF.jpg"
             }
           ]
         }
@@ -186,7 +191,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 6,
-    "totalTweets": 10
+    "xBuilders": 5,
+    "totalTweets": 9
   }
 }
