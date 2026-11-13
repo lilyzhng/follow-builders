@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T08:12:55.532Z",
+  "generatedAt": "2026-11-13T07:51:24.113Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,47 +9,30 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2120555000371744954",
-          "text": "To clarify, $10M per yr per engineer!!!",
-          "createdAt": "2026-11-11T16:31:24.000Z",
-          "url": "https://x.com/deedydas/status/2120555000371744954",
-          "likes": 25,
-          "retweets": 0,
-          "replies": 3,
+          "id": "2120905629459992996",
+          "text": "Try it here: https://t.co/5pB91ujHc2",
+          "createdAt": "2026-11-12T15:44:41.000Z",
+          "url": "https://x.com/deedydas/status/2120905629459992996",
+          "likes": 103,
+          "retweets": 4,
+          "replies": 2,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2120547937042477338",
-          "text": "“I would be comfortable with engineers spending up to $10M/yr on AI tools” – Jeff Dean\n\nWas an absolute privilege to interview one of my idols, Jeff Dean, on the Menlo stage last week.\n\nWe talked about Discovery Loop, how he interviews candidates, RSI, his new developer set up and even asked him to live estimate the compute it would take to run Instinct.\n\nVideo out soon!",
-          "createdAt": "2026-11-11T16:03:20.000Z",
-          "url": "https://x.com/deedydas/status/2120547937042477338",
-          "likes": 617,
-          "retweets": 11,
-          "replies": 51,
+          "id": "2120905625852936318",
+          "text": "I asked Fable 5.2 to study all of music theory and generate the best house bangers.\n\nIt tries 1000s of random patterns for each instrument and chooses the optimal one and arranges it into a 72 bar track.\n\nI thought it did a really good job for not being able to hear [sound on]: https://t.co/ptTddlAe4d",
+          "createdAt": "2026-11-12T15:44:40.000Z",
+          "url": "https://x.com/deedydas/status/2120905625852936318",
+          "likes": 2195,
+          "retweets": 96,
+          "replies": 245,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HW2zEnoaAAAhk6Q.jpg"
-            }
-          ]
-        },
-        {
-          "id": "2120524778821869661",
-          "text": "AMD’s latest 10Q reveals how much it paid for Taalas, the company that bakes LLM weights into hardware: $2.9B.\n\nWhat an incredible time for hardware startups: Cerebras (IPO), Groq (exit), Etched, Fractile, Tendrils, d-Matrix, Volantis, MatX, Positron, Majestic, Tenstorrent! https://t.co/ItI2tfg8Y1",
-          "createdAt": "2026-11-11T14:31:19.000Z",
-          "url": "https://x.com/deedydas/status/2120524778821869661",
-          "likes": 381,
-          "retweets": 15,
-          "replies": 37,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HW2eDGdWUAAfxbU.jpg"
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2120904570314305536/img/Ha1ocJXQe34p0bk8.jpg"
             }
           ]
         }
@@ -57,108 +40,54 @@
     },
     {
       "source": "x",
-      "name": "Lance Martin",
-      "handle": "RLanceMartin",
-      "bio": "MTS @anthropicai",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "building p7k @pragmatik_labs | ❤️ 🍵 ☕️",
       "tweets": [
         {
-          "id": "2120636266962436486",
-          "text": "i'll talk about ways to use dreaming to correct memory, update it, or create new memory representations, showing some example from the article: \nhttps://t.co/yQpHVjYHuy\n\nwill also cover how Fable 5.2 using a 1,000 agent team to formalize FLT: \nhttps://t.co/IIsNzYJBeQ https://t.co/T5JPOlM1bF",
-          "createdAt": "2026-11-11T21:54:20.000Z",
-          "url": "https://x.com/RLanceMartin/status/2120636266962436486",
-          "likes": 10,
+          "id": "2121096643185619125",
+          "text": "i need a new one to code. plz build. https://t.co/u6eR1jf8wQ",
+          "createdAt": "2026-11-13T04:23:42.000Z",
+          "url": "https://x.com/JustinLin610/status/2121096643185619125",
+          "likes": 35,
           "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HW4CDijaIAAnABu.png"
-            }
-          ]
+          "replies": 10,
+          "isQuote": true,
+          "quotedTweetId": "2121071441718530351"
         },
         {
-          "id": "2120636264030646397",
-          "text": "if you are at @aiDotEngineer, come say hi! \n\ni'll be giving a talk Thurs (tmrw) 12:30p on two recent articles i worked on: (1) how we scaled a team of 1,000 Fable 5.2 agents to formalize of Fermat's Last Theorem and (2) a few ways to think about memory + dreaming. https://t.co/buiui1EkNd",
-          "createdAt": "2026-11-11T21:54:19.000Z",
-          "url": "https://x.com/RLanceMartin/status/2120636264030646397",
-          "likes": 91,
-          "retweets": 6,
-          "replies": 7,
+          "id": "2120888987141419215",
+          "text": "crazy",
+          "createdAt": "2026-11-12T14:38:33.000Z",
+          "url": "https://x.com/JustinLin610/status/2120888987141419215",
+          "likes": 303,
+          "retweets": 4,
+          "replies": 19,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "animated_gif",
-              "url": "https://pbs.twimg.com/tweet_video_thumb/HW3-Bt2acAAoH6V.jpg"
-            }
-          ]
+          "quotedTweetId": null
         }
       ]
     },
     {
       "source": "x",
-      "name": "MiniMax",
-      "handle": "MiniMax_AI",
-      "bio": "Code: @MiniMax_Code \nMiniMax Design: @Hailuo_AI\nAPI: https://t.co/fHRdSV73Hr\nM Plan: https://t.co/XfJWSyauda",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
       "tweets": [
         {
-          "id": "2120538313383669950",
-          "text": "Turning knowledge into visuals. H3-Image converts complex information into diagrams and posters.\n\nSomething harder? Turn a lengthy case narrative into a single evidence board, with timelines, positions, and testimonies grouped, annotated, and connected all in one frame. \n\nPrompt: Create a detective case reasoning board to solve the following puzzle:\nConfidential documents have been stolen from a safe. Exactly one of six suspects, A, B, C, D, E, and F, acted alone. Each makes one statement:\nA: “The culprit is B or C.”\nB: “D is not the culprit.”\nC: “A's entire statement is false.”\nD: “The culprit is E or F.”\nE: “Exactly one of B's and D's statements is true, and the other is false.”\nF: “A is not the culprit.”\nExactly three of the six statements are true and three are false. “Or” means at least one is true, and all references refer to the statements above.\nFind the unique culprit and create a complete evidence board: show six letter-labeled suspect portraits and their exact statements, mark each statement true or false, and highlight the culprit. Include a concise verification table showing the number of true statements under each of the six possible culprit assumptions. Use connecting lines to show which statements refer to others, ensuring the portrait labels, reasoning, and table are consistent.\nDo not add motives, alibis, accomplices, or extra evidence, and do not treat appearance or expression as clues. Use a cinematic film-noir detective style, with clear, in 16:9 landscape format.",
-          "createdAt": "2026-11-11T15:25:06.000Z",
-          "url": "https://x.com/MiniMax_AI/status/2120538313383669950",
-          "likes": 1,
-          "retweets": 0,
-          "replies": 1,
+          "id": "2120950876248641588",
+          "text": "Gemini 4 Hydrogen is now live in Devin Desktop and Devin CLI.\n\nOn FrontierCode 2.0, our benchmark that evaluates models on real-world engineering tasks based on quality and mergeability, Gemini 4 Hydrogen scores 38.2%, just behind GPT-6.1 Sol. https://t.co/fiAMNd9oz8",
+          "createdAt": "2026-11-12T18:44:28.000Z",
+          "url": "https://x.com/cognition/status/2120950876248641588",
+          "likes": 299,
+          "retweets": 25,
+          "replies": 24,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HW2qWALW4AAfpg0.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Perplexity",
-      "handle": "perplexity_ai",
-      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
-      "tweets": [
-        {
-          "id": "2120582724323037196",
-          "text": "We revised the task description to focus agents on the VM-host boundary.\n\nThe share of effort spent there rose by about 60 percentage points on average. Agents still failed to escape after directly attacking the boundary, giving us stronger evidence of its isolation. https://t.co/7qeL1HRNok",
-          "createdAt": "2026-11-11T18:21:34.000Z",
-          "url": "https://x.com/perplexity_ai/status/2120582724323037196",
-          "likes": 2,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HW3Sv_ZakAAl_fP.png"
-            }
-          ]
-        },
-        {
-          "id": "2120582707889795323",
-          "text": "Agents given the CTF prompt spent substantial effort hunting for the flag inside the VM, through files and services, rather than testing the VM's isolation.\n\n9 of 12 models spent at most 4% of their effort on the virtualization layer, so their failed escapes were weak evidence. https://t.co/vsK4YRd01F",
-          "createdAt": "2026-11-11T18:21:30.000Z",
-          "url": "https://x.com/perplexity_ai/status/2120582707889795323",
-          "likes": 6,
-          "retweets": 0,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HW3SvBmasAAlu2z.png"
+              "url": "https://pbs.twimg.com/media/HW8hMcibIAA-rhd.jpg"
             }
           ]
         }
@@ -171,19 +100,30 @@
       "bio": "Building blocks for production AI",
       "tweets": [
         {
-          "id": "2120552005177618930",
-          "text": "How does a large, global company like @DoorDash enable its product teams to build with AI quickly, but also safely and securely?\n\nDoorDash’s GenAI platform team helps engineers across the company build products securely with AI, while leaving room to tinker and experiment. They get access to production-ready model APIs and can run batch jobs, online apps, and agents, while still maintaining the level of governance, performance, and security DoorDash requires.",
-          "createdAt": "2026-11-11T16:19:30.000Z",
-          "url": "https://x.com/modal/status/2120552005177618930",
-          "likes": 45,
-          "retweets": 10,
-          "replies": 5,
+          "id": "2120949950141878338",
+          "text": "Benchmaxx with us this weekend at Vals Hacks!\n\nWe will be on-site with compute credits and engineering support.\n\nRegister here: https://t.co/add9dKxD7G https://t.co/Wz2a7wNsKH",
+          "createdAt": "2026-11-12T18:40:48.000Z",
+          "url": "https://x.com/modal/status/2120949950141878338",
+          "likes": 18,
+          "retweets": 3,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2120942368136614157"
+        },
+        {
+          "id": "2120929566432620963",
+          "text": "Modal's inference engineering team will be at @sgl_project SGLang Summit! \n \nMeet us on the expo floor the rest of this week and catch talks from @_gongy, @charles_irl, and @gilfordting tomorrow. https://t.co/FlNfDNSUK2",
+          "createdAt": "2026-11-12T17:19:48.000Z",
+          "url": "https://x.com/modal/status/2120929566432620963",
+          "likes": 60,
+          "retweets": 2,
+          "replies": 1,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2120551052542201856/img/qfR1ZB9MK8-mlqtF.jpg"
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HW8LNEzWMAAmmNq.jpg"
             }
           ]
         }
@@ -191,7 +131,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 5,
-    "totalTweets": 9
+    "xBuilders": 4,
+    "totalTweets": 7
   }
 }
