@@ -1,73 +1,7 @@
 {
-  "generatedAt": "2026-11-13T07:51:24.113Z",
+  "generatedAt": "2026-11-14T07:33:04.086Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Deedy Das",
-      "handle": "deedydas",
-      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
-      "tweets": [
-        {
-          "id": "2120905629459992996",
-          "text": "Try it here: https://t.co/5pB91ujHc2",
-          "createdAt": "2026-11-12T15:44:41.000Z",
-          "url": "https://x.com/deedydas/status/2120905629459992996",
-          "likes": 103,
-          "retweets": 4,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2120905625852936318",
-          "text": "I asked Fable 5.2 to study all of music theory and generate the best house bangers.\n\nIt tries 1000s of random patterns for each instrument and chooses the optimal one and arranges it into a 72 bar track.\n\nI thought it did a really good job for not being able to hear [sound on]: https://t.co/ptTddlAe4d",
-          "createdAt": "2026-11-12T15:44:40.000Z",
-          "url": "https://x.com/deedydas/status/2120905625852936318",
-          "likes": 2195,
-          "retweets": 96,
-          "replies": 245,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2120904570314305536/img/Ha1ocJXQe34p0bk8.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "building p7k @pragmatik_labs | ❤️ 🍵 ☕️",
-      "tweets": [
-        {
-          "id": "2121096643185619125",
-          "text": "i need a new one to code. plz build. https://t.co/u6eR1jf8wQ",
-          "createdAt": "2026-11-13T04:23:42.000Z",
-          "url": "https://x.com/JustinLin610/status/2121096643185619125",
-          "likes": 35,
-          "retweets": 0,
-          "replies": 10,
-          "isQuote": true,
-          "quotedTweetId": "2121071441718530351"
-        },
-        {
-          "id": "2120888987141419215",
-          "text": "crazy",
-          "createdAt": "2026-11-12T14:38:33.000Z",
-          "url": "https://x.com/JustinLin610/status/2120888987141419215",
-          "likes": 303,
-          "retweets": 4,
-          "replies": 19,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Cognition (Devin)",
@@ -75,19 +9,19 @@
       "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
       "tweets": [
         {
-          "id": "2120950876248641588",
-          "text": "Gemini 4 Hydrogen is now live in Devin Desktop and Devin CLI.\n\nOn FrontierCode 2.0, our benchmark that evaluates models on real-world engineering tasks based on quality and mergeability, Gemini 4 Hydrogen scores 38.2%, just behind GPT-6.1 Sol. https://t.co/fiAMNd9oz8",
-          "createdAt": "2026-11-12T18:44:28.000Z",
-          "url": "https://x.com/cognition/status/2120950876248641588",
-          "likes": 299,
-          "retweets": 25,
-          "replies": 24,
+          "id": "2121255137914077300",
+          "text": "Introducing: Devin Apps\n\nPrivate, secure, sharable web applications running directly on Devin’s cloud computer.\n\nDevin Apps are designed to power your most ambitious internal tools, preview deployments, and extensions to Devin itself.",
+          "createdAt": "2026-11-13T14:53:30.000Z",
+          "url": "https://x.com/cognition/status/2121255137914077300",
+          "likes": 653,
+          "retweets": 71,
+          "replies": 61,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HW8hMcibIAA-rhd.jpg"
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2121254470235660288/img/C40H2Eyz5HLtehcd.jpg"
             }
           ]
         }
@@ -100,30 +34,36 @@
       "bio": "Building blocks for production AI",
       "tweets": [
         {
-          "id": "2120949950141878338",
-          "text": "Benchmaxx with us this weekend at Vals Hacks!\n\nWe will be on-site with compute credits and engineering support.\n\nRegister here: https://t.co/add9dKxD7G https://t.co/Wz2a7wNsKH",
-          "createdAt": "2026-11-12T18:40:48.000Z",
-          "url": "https://x.com/modal/status/2120949950141878338",
-          "likes": 18,
-          "retweets": 3,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2120942368136614157"
+          "id": "2121288198542491677",
+          "text": "Modal Endpoints are now available in @NousResearch Hermes Agent\n\nhermes plugins install modal https://t.co/7HC8D83458",
+          "createdAt": "2026-11-13T17:04:52.000Z",
+          "url": "https://x.com/modal/status/2121288198542491677",
+          "likes": 101,
+          "retweets": 11,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2121288098675912704/img/mOg8MkQ3iI-Imp-w.jpg"
+            }
+          ]
         },
         {
-          "id": "2120929566432620963",
-          "text": "Modal's inference engineering team will be at @sgl_project SGLang Summit! \n \nMeet us on the expo floor the rest of this week and catch talks from @_gongy, @charles_irl, and @gilfordting tomorrow. https://t.co/FlNfDNSUK2",
-          "createdAt": "2026-11-12T17:19:48.000Z",
-          "url": "https://x.com/modal/status/2120929566432620963",
-          "likes": 60,
-          "retweets": 2,
-          "replies": 1,
+          "id": "2121279422397587584",
+          "text": "Modal is heading to Las Vegas for AWS re:Invent 2026!\n\nJoin us the week of 11/30 - 12/3 for 1:1 meetings with our team, breakout sessions, afterparties, limited-edition Modal merch, and more.\n\nRegister here: https://t.co/kJejGVxEmN https://t.co/YdITgOBseo",
+          "createdAt": "2026-11-13T16:30:00.000Z",
+          "url": "https://x.com/modal/status/2121279422397587584",
+          "likes": 13,
+          "retweets": 1,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HW8LNEzWMAAmmNq.jpg"
+              "url": "https://pbs.twimg.com/media/HW2te6yWAAENZeZ.jpg"
             }
           ]
         }
@@ -131,7 +71,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 4,
-    "totalTweets": 7
+    "xBuilders": 2,
+    "totalTweets": 3
   }
 }
