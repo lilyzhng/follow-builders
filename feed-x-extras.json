@@ -1,69 +1,57 @@
 {
-  "generatedAt": "2026-11-14T07:33:04.086Z",
+  "generatedAt": "2026-11-15T07:47:39.993Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "building p7k @pragmatik_labs | ❤️ 🍵 ☕️",
       "tweets": [
         {
-          "id": "2121255137914077300",
-          "text": "Introducing: Devin Apps\n\nPrivate, secure, sharable web applications running directly on Devin’s cloud computer.\n\nDevin Apps are designed to power your most ambitious internal tools, preview deployments, and extensions to Devin itself.",
-          "createdAt": "2026-11-13T14:53:30.000Z",
-          "url": "https://x.com/cognition/status/2121255137914077300",
-          "likes": 653,
-          "retweets": 71,
-          "replies": 61,
+          "id": "2121592101637083495",
+          "text": "he is really a good person. no matter what happened, he doesn't deserve all these.",
+          "createdAt": "2026-11-14T13:12:28.000Z",
+          "url": "https://x.com/JustinLin610/status/2121592101637083495",
+          "likes": 352,
+          "retweets": 6,
+          "replies": 16,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2121254470235660288/img/C40H2Eyz5HLtehcd.jpg"
-            }
-          ]
+          "quotedTweetId": null
         }
       ]
     },
     {
       "source": "x",
-      "name": "Modal",
-      "handle": "modal",
-      "bio": "Building blocks for production AI",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2121288198542491677",
-          "text": "Modal Endpoints are now available in @NousResearch Hermes Agent\n\nhermes plugins install modal https://t.co/7HC8D83458",
-          "createdAt": "2026-11-13T17:04:52.000Z",
-          "url": "https://x.com/modal/status/2121288198542491677",
-          "likes": 101,
-          "retweets": 11,
-          "replies": 8,
+          "id": "2121846763929649478",
+          "text": "Most insane things I’ve done on Fable 5.2:\n- Video explainer of the Anthropic S-1\n- 3D rendering of a human face (fail)\n- Physics-accurate cricket game for mobile\n- Animated video story explaining the entire Bible from a pdf\n- a 40k qps turbo scraper in Rust super optimized in every single way\n- Drawing an anime character, rigging it, and enacting a scene (meh)\n- Algorithmic art \n- Money flows in the US healthcare system\n\nIf this is interesting to people I’m going to share a megathread of results from each.",
+          "createdAt": "2026-11-15T06:04:25.000Z",
+          "url": "https://x.com/deedydas/status/2121846763929649478",
+          "likes": 164,
+          "retweets": 5,
+          "replies": 37,
           "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2121288098675912704/img/mOg8MkQ3iI-Imp-w.jpg"
-            }
-          ]
+          "quotedTweetId": null
         },
         {
-          "id": "2121279422397587584",
-          "text": "Modal is heading to Las Vegas for AWS re:Invent 2026!\n\nJoin us the week of 11/30 - 12/3 for 1:1 meetings with our team, breakout sessions, afterparties, limited-edition Modal merch, and more.\n\nRegister here: https://t.co/kJejGVxEmN https://t.co/YdITgOBseo",
-          "createdAt": "2026-11-13T16:30:00.000Z",
-          "url": "https://x.com/modal/status/2121279422397587584",
-          "likes": 13,
-          "retweets": 1,
-          "replies": 0,
+          "id": "2121766500524589160",
+          "text": "Every single private AI startup with $10B+ valuation and $100M+ in revenue run rate: https://t.co/8xP5z4iGIT",
+          "createdAt": "2026-11-15T00:45:28.000Z",
+          "url": "https://x.com/deedydas/status/2121766500524589160",
+          "likes": 585,
+          "retweets": 47,
+          "replies": 70,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HW2te6yWAAENZeZ.jpg"
+              "url": "https://pbs.twimg.com/media/HXIHYsjXoAAfJk5.jpg"
             }
           ]
         }
