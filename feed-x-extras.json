@@ -1,23 +1,59 @@
 {
-  "generatedAt": "2026-11-15T07:47:39.993Z",
+  "generatedAt": "2026-11-16T07:54:36.855Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Junyang Lin",
-      "handle": "JustinLin610",
-      "bio": "building p7k @pragmatik_labs | ❤️ 🍵 ☕️",
+      "name": "Felix Rieseberg (Claude Cowork)",
+      "handle": "felixrieseberg",
+      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
       "tweets": [
         {
-          "id": "2121592101637083495",
-          "text": "he is really a good person. no matter what happened, he doesn't deserve all these.",
-          "createdAt": "2026-11-14T13:12:28.000Z",
-          "url": "https://x.com/JustinLin610/status/2121592101637083495",
-          "likes": 352,
-          "retweets": 6,
-          "replies": 16,
+          "id": "2122036839238492493",
+          "text": "All hail the weird web\n\nI just enabled HTML-in-Canvas in Claude’s desktop apps. It’s a footnote change next to everything else, but with it, Claude can make bizarre &amp; beautiful sites. Reminds me of the Flash days!\n\nPlease look at the stupid demos I made: https://t.co/kNLJoRwmje https://t.co/AnSjEuqDjq",
+          "createdAt": "2026-11-15T18:39:42.000Z",
+          "url": "https://x.com/felixrieseberg/status/2122036839238492493",
+          "likes": 1260,
+          "retweets": 70,
+          "replies": 61,
           "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2122035111113986048/img/uIoRe-n1cy-O2pyS.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Qwen",
+      "handle": "Alibaba_Qwen",
+      "bio": "Open foundation models for AGI.",
+      "tweets": [
+        {
+          "id": "2122171875573068153",
+          "text": "Qwen4-Max is live on @OpenRouter — go build with it.🙌 https://t.co/E1oGrR6xNb",
+          "createdAt": "2026-11-16T03:36:17.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2122171875573068153",
+          "likes": 467,
+          "retweets": 26,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2122158038631281136"
+        },
+        {
+          "id": "2122171494176563705",
+          "text": "#4 on Python-PPTX arena and #5 on Spreadsheet arena. Thanks! @DesignArena https://t.co/9ZdPbky9wd",
+          "createdAt": "2026-11-16T03:34:46.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2122171494176563705",
+          "likes": 230,
+          "retweets": 12,
+          "replies": 9,
+          "isQuote": true,
+          "quotedTweetId": "2122148318814081136"
         }
       ]
     },
@@ -28,38 +64,38 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2121846763929649478",
-          "text": "Most insane things I’ve done on Fable 5.2:\n- Video explainer of the Anthropic S-1\n- 3D rendering of a human face (fail)\n- Physics-accurate cricket game for mobile\n- Animated video story explaining the entire Bible from a pdf\n- a 40k qps turbo scraper in Rust super optimized in every single way\n- Drawing an anime character, rigging it, and enacting a scene (meh)\n- Algorithmic art \n- Money flows in the US healthcare system\n\nIf this is interesting to people I’m going to share a megathread of results from each.",
-          "createdAt": "2026-11-15T06:04:25.000Z",
-          "url": "https://x.com/deedydas/status/2121846763929649478",
-          "likes": 164,
-          "retweets": 5,
-          "replies": 37,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2121766500524589160",
-          "text": "Every single private AI startup with $10B+ valuation and $100M+ in revenue run rate: https://t.co/8xP5z4iGIT",
-          "createdAt": "2026-11-15T00:45:28.000Z",
-          "url": "https://x.com/deedydas/status/2121766500524589160",
-          "likes": 585,
-          "retweets": 47,
-          "replies": 70,
+          "id": "2122210546053464258",
+          "text": "Every single private Fintech startup with $10B+ valuation and $100M+ in revenue run rate: https://t.co/As8CcPkFII",
+          "createdAt": "2026-11-16T06:09:57.000Z",
+          "url": "https://x.com/deedydas/status/2122210546053464258",
+          "likes": 95,
+          "retweets": 3,
+          "replies": 16,
           "isQuote": false,
           "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HXIHYsjXoAAfJk5.jpg"
+              "url": "https://pbs.twimg.com/media/HXObOBebAAAewsN.jpg"
             }
           ]
+        },
+        {
+          "id": "2121901788127535217",
+          "text": "All but* game over",
+          "createdAt": "2026-11-15T09:43:03.000Z",
+          "url": "https://x.com/deedydas/status/2121901788127535217",
+          "likes": 39,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 3
+    "xBuilders": 3,
+    "totalTweets": 5
   }
 }
