@@ -1,62 +1,7 @@
 {
-  "generatedAt": "2026-11-16T07:54:36.855Z",
+  "generatedAt": "2026-11-17T09:07:41.759Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Felix Rieseberg (Claude Cowork)",
-      "handle": "felixrieseberg",
-      "bio": "I build things @AnthropicAI, Co-Maintainer https://t.co/g4potti8nq",
-      "tweets": [
-        {
-          "id": "2122036839238492493",
-          "text": "All hail the weird web\n\nI just enabled HTML-in-Canvas in Claude’s desktop apps. It’s a footnote change next to everything else, but with it, Claude can make bizarre &amp; beautiful sites. Reminds me of the Flash days!\n\nPlease look at the stupid demos I made: https://t.co/kNLJoRwmje https://t.co/AnSjEuqDjq",
-          "createdAt": "2026-11-15T18:39:42.000Z",
-          "url": "https://x.com/felixrieseberg/status/2122036839238492493",
-          "likes": 1260,
-          "retweets": 70,
-          "replies": 61,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2122035111113986048/img/uIoRe-n1cy-O2pyS.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Qwen",
-      "handle": "Alibaba_Qwen",
-      "bio": "Open foundation models for AGI.",
-      "tweets": [
-        {
-          "id": "2122171875573068153",
-          "text": "Qwen4-Max is live on @OpenRouter — go build with it.🙌 https://t.co/E1oGrR6xNb",
-          "createdAt": "2026-11-16T03:36:17.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2122171875573068153",
-          "likes": 467,
-          "retweets": 26,
-          "replies": 18,
-          "isQuote": true,
-          "quotedTweetId": "2122158038631281136"
-        },
-        {
-          "id": "2122171494176563705",
-          "text": "#4 on Python-PPTX arena and #5 on Spreadsheet arena. Thanks! @DesignArena https://t.co/9ZdPbky9wd",
-          "createdAt": "2026-11-16T03:34:46.000Z",
-          "url": "https://x.com/Alibaba_Qwen/status/2122171494176563705",
-          "likes": 230,
-          "retweets": 12,
-          "replies": 9,
-          "isQuote": true,
-          "quotedTweetId": "2122148318814081136"
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -64,30 +9,60 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2122210546053464258",
-          "text": "Every single private Fintech startup with $10B+ valuation and $100M+ in revenue run rate: https://t.co/As8CcPkFII",
-          "createdAt": "2026-11-16T06:09:57.000Z",
-          "url": "https://x.com/deedydas/status/2122210546053464258",
-          "likes": 95,
-          "retweets": 3,
-          "replies": 16,
+          "id": "2122381282005098725",
+          "text": "Read the Bloomberg piece here: https://t.co/po6rYlBAFL",
+          "createdAt": "2026-11-16T17:28:24.000Z",
+          "url": "https://x.com/deedydas/status/2122381282005098725",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
           "isQuote": false,
-          "quotedTweetId": null,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2122381278016360805",
+          "text": "Yejin Choi (@YejinChoinka) is one of the ~30 computer scientists to ever win a MacArthur \"Genius\" grant. She and her cofounder Carlos Guestrin (@guestrin) are both prolific Stanford Computer Science professors, each with an h-index >100. \n\nTheir students and research have driven some of the seminal work in the field of AI today. They are also academics who bring rare industry experience from their leadership roles at Nvidia and Apple. \n\nToday, they're announcing that their startup Noeri (@noeri_ai) is coming out of stealth to build specialized, cost-effective AI systems that learn from real work in companies and self-improve. \n\nWe at Menlo are privileged to lead their inception round!",
+          "createdAt": "2026-11-16T17:28:23.000Z",
+          "url": "https://x.com/deedydas/status/2122381278016360805",
+          "likes": 482,
+          "retweets": 46,
+          "replies": 20,
+          "isQuote": true,
+          "quotedTweetId": "2122379749372907852",
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HXObOBebAAAewsN.jpg"
+              "url": "https://pbs.twimg.com/media/HXQ2dM5bQAA6VrC.jpg"
             }
           ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "building p7k @pragmatik_labs | ❤️ 🍵 ☕️",
+      "tweets": [
+        {
+          "id": "2122556336219230686",
+          "text": "oh when u build eval, make sure it is without (big) mistakes (fewer samples is totally fine). having been tired of wrong evals leading models to wrong directions",
+          "createdAt": "2026-11-17T05:04:00.000Z",
+          "url": "https://x.com/JustinLin610/status/2122556336219230686",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2121901788127535217",
-          "text": "All but* game over",
-          "createdAt": "2026-11-15T09:43:03.000Z",
-          "url": "https://x.com/deedydas/status/2121901788127535217",
-          "likes": 39,
-          "retweets": 1,
-          "replies": 3,
+          "id": "2122550718846599434",
+          "text": "https://t.co/ZIrKv9TrHB\n\njust read this and i think it is very inspiring. we care too much about the so called capabilities but care too less about the unintended actions that might cause big troubles. if anyone thinks about new evals, you can build towards this direction",
+          "createdAt": "2026-11-17T04:41:41.000Z",
+          "url": "https://x.com/JustinLin610/status/2122550718846599434",
+          "likes": 265,
+          "retweets": 22,
+          "replies": 17,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -95,7 +70,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 5
+    "xBuilders": 2,
+    "totalTweets": 4
   }
 }
