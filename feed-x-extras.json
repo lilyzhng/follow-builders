@@ -1,7 +1,79 @@
 {
-  "generatedAt": "2026-11-17T09:07:41.759Z",
+  "generatedAt": "2026-11-18T08:28:24.616Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "tweets": [
+        {
+          "id": "2122785223406727355",
+          "text": "Orchestrator offers automatic routing, available in preview.\n\nIt picks a model per request using profiles that map plain language tasks to models, then uses a decision model to match the conversation to the right route. https://t.co/2Pp1TExbFN",
+          "createdAt": "2026-11-17T20:13:31.000Z",
+          "url": "https://x.com/perplexity_ai/status/2122785223406727355",
+          "likes": 7,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2122785202426826752/img/mfycJVma-jGT-fI2.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2122785189562925190",
+          "text": "Orchestrator API serves 45+ models from OpenAI, Anthropic, Google, xAI, as well as open-weight models.\n\nYou can connect an existing OpenAI or Anthropic SDK to a Perplexity API key and all models can be called with OpenAI Chat Completions, Responses, and Anthropic Messages.",
+          "createdAt": "2026-11-17T20:13:23.000Z",
+          "url": "https://x.com/perplexity_ai/status/2122785189562925190",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
+      "tweets": [
+        {
+          "id": "2122737515631423840",
+          "text": "Devin Bots go beyond personal agents to focus on professional software engineering. With its cloud computer, Devin Bot handles every step from planning, to code review, and automated testing. The decisions that need you show up in one place. https://t.co/zOjE2uBIa6",
+          "createdAt": "2026-11-17T17:03:56.000Z",
+          "url": "https://x.com/cognition/status/2122737515631423840",
+          "likes": 141,
+          "retweets": 8,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2122734394373017600/img/EgK696vVCtEIglWV.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2122737513567826007",
+          "text": "On average, beta testers are merging 4.5x more PRs per message using Devin Bots.\n\nWe’ve seen individual engineers go from 50 PRs a week to nearly 2,000.\n\nhttps://t.co/Wsw4ZJ851U",
+          "createdAt": "2026-11-17T17:03:56.000Z",
+          "url": "https://x.com/cognition/status/2122737513567826007",
+          "likes": 167,
+          "retweets": 11,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2122736068072198168"
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Deedy Das",
@@ -9,30 +81,19 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2122381282005098725",
-          "text": "Read the Bloomberg piece here: https://t.co/po6rYlBAFL",
-          "createdAt": "2026-11-16T17:28:24.000Z",
-          "url": "https://x.com/deedydas/status/2122381282005098725",
-          "likes": 2,
-          "retweets": 0,
-          "replies": 0,
+          "id": "2122818971854639244",
+          "text": "OpenAI tried to launch a new model before the big day but GPT 6.2 Astra has been a massive fail for every critic that has reviewed it. https://t.co/JOQ9Emzhu0",
+          "createdAt": "2026-11-17T22:27:37.000Z",
+          "url": "https://x.com/deedydas/status/2122818971854639244",
+          "likes": 600,
+          "retweets": 24,
+          "replies": 68,
           "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2122381278016360805",
-          "text": "Yejin Choi (@YejinChoinka) is one of the ~30 computer scientists to ever win a MacArthur \"Genius\" grant. She and her cofounder Carlos Guestrin (@guestrin) are both prolific Stanford Computer Science professors, each with an h-index >100. \n\nTheir students and research have driven some of the seminal work in the field of AI today. They are also academics who bring rare industry experience from their leadership roles at Nvidia and Apple. \n\nToday, they're announcing that their startup Noeri (@noeri_ai) is coming out of stealth to build specialized, cost-effective AI systems that learn from real work in companies and self-improve. \n\nWe at Menlo are privileged to lead their inception round!",
-          "createdAt": "2026-11-16T17:28:23.000Z",
-          "url": "https://x.com/deedydas/status/2122381278016360805",
-          "likes": 482,
-          "retweets": 46,
-          "replies": 20,
-          "isQuote": true,
-          "quotedTweetId": "2122379749372907852",
+          "quotedTweetId": null,
           "media": [
             {
               "type": "photo",
-              "url": "https://pbs.twimg.com/media/HXQ2dM5bQAA6VrC.jpg"
+              "url": "https://pbs.twimg.com/media/HXXEmItaEAA7xcr.jpg"
             }
           ]
         }
@@ -45,32 +106,43 @@
       "bio": "building p7k @pragmatik_labs | ❤️ 🍵 ☕️",
       "tweets": [
         {
-          "id": "2122556336219230686",
-          "text": "oh when u build eval, make sure it is without (big) mistakes (fewer samples is totally fine). having been tired of wrong evals leading models to wrong directions",
-          "createdAt": "2026-11-17T05:04:00.000Z",
-          "url": "https://x.com/JustinLin610/status/2122556336219230686",
-          "likes": 9,
+          "id": "2122945871256137938",
+          "text": "how to eval a base model has been a daunting issue in this field, so if u can share more insights about this that might be even more helpful https://t.co/ojVK9Sw3Uo",
+          "createdAt": "2026-11-18T06:51:52.000Z",
+          "url": "https://x.com/JustinLin610/status/2122945871256137938",
+          "likes": 56,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2122799840057004296"
+        },
+        {
+          "id": "2122920813385170993",
+          "text": "notably this year spatial reasoning has been a clear gap between vl models (especially open weight ones and o a g). it is a bit hard to use current vl models to build very high quality physical agent, and this might be one of the reasons",
+          "createdAt": "2026-11-18T05:12:18.000Z",
+          "url": "https://x.com/JustinLin610/status/2122920813385170993",
+          "likes": 5,
           "retweets": 0,
           "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2122550718846599434",
-          "text": "https://t.co/ZIrKv9TrHB\n\njust read this and i think it is very inspiring. we care too much about the so called capabilities but care too less about the unintended actions that might cause big troubles. if anyone thinks about new evals, you can build towards this direction",
-          "createdAt": "2026-11-17T04:41:41.000Z",
-          "url": "https://x.com/JustinLin610/status/2122550718846599434",
-          "likes": 265,
-          "retweets": 22,
-          "replies": 17,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2122919651332305376",
+          "text": "6.2 looks impressive (but as a boston fan i don't feel good about this example lol... https://t.co/c2kGoV4Lb7",
+          "createdAt": "2026-11-18T05:07:41.000Z",
+          "url": "https://x.com/JustinLin610/status/2122919651332305376",
+          "likes": 58,
+          "retweets": 1,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2122783085531979799"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 4
+    "xBuilders": 4,
+    "totalTweets": 8
   }
 }
