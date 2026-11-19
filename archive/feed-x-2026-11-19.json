@@ -1,0 +1,726 @@
+{
+  "generatedAt": "2026-11-19T08:41:36.848Z",
+  "lookbackHours": 24,
+  "x": [
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
+      "tweets": [
+        {
+          "id": "2123093355899060662",
+          "text": "Learn more about Devin Bots:\n\nhttps://t.co/AA2XLN3RaA",
+          "createdAt": "2026-11-18T16:37:55.000Z",
+          "url": "https://x.com/cognition/status/2123093355899060662",
+          "likes": 6,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2123093354196140285",
+          "text": "There's a lot of data in tennis.\n\nHere's how seven-time Grand Slam singles champion and four-time Olympic gold medalist @Venuseswilliams uses Devin Bots to make sense of it all. https://t.co/JxLP33SODz https://t.co/Z3GOEXx2jR",
+          "createdAt": "2026-11-18T16:37:55.000Z",
+          "url": "https://x.com/cognition/status/2123093354196140285",
+          "likes": 278,
+          "retweets": 32,
+          "replies": 28,
+          "isQuote": true,
+          "quotedTweetId": "2122737511684587551",
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2123092253224947712/img/KwWulxqy4iusAorW.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Modal",
+      "handle": "modal",
+      "bio": "Building blocks for production AI",
+      "tweets": [
+        {
+          "id": "2123080814912999715",
+          "text": "We're launching an EU Model API for DeepSeek v4.1 Flash 1017 on @opperai, served from a managed compute pool in Europe.    \n\nModel APIs feature the latest open weight models, served at frontier performance with OpenAI-compatible APIs and token-based billing.    \n\nAccess our EU deployment of DeepSeek v4.1 Flash 1017 via Opper, or natively through Modal.",
+          "createdAt": "2026-11-18T15:48:05.000Z",
+          "url": "https://x.com/modal/status/2123080814912999715",
+          "likes": 75,
+          "retweets": 6,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2123074946993889534"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lulu Cheng Meservey",
+      "handle": "lulumeservey",
+      "bio": "Rostra founder, Shopify board, ex Activision & Substack, writing https://t.co/4xKo7wQTQo",
+      "tweets": [
+        {
+          "id": "2123211618318172274",
+          "text": "Shareholders get it https://t.co/z0S4Su3AtF https://t.co/W8yPGC0Vbm",
+          "createdAt": "2026-11-19T00:27:51.000Z",
+          "url": "https://x.com/lulumeservey/status/2123211618318172274",
+          "likes": 94,
+          "retweets": 1,
+          "replies": 8,
+          "isQuote": true,
+          "quotedTweetId": "2123175975093784902",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXcpttxXUAAutHm.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Graham Neubig",
+      "handle": "gneubig",
+      "bio": "Associate professor @LTIatCMU.\nCo-founder/chief scientist @OpenHandsDev.\nI mostly work on modeling language.",
+      "tweets": [
+        {
+          "id": "2123140860841976231",
+          "text": "Amongst all the talk of Recursive Self Improvement, we need more Recursive Health Improvement 😃\n\nCongrats to @XiongChenyan and the @XlueAI team on the launch of their foundation model for health. https://t.co/IzinpaKV2L https://t.co/s83K6Consq",
+          "createdAt": "2026-11-18T19:46:41.000Z",
+          "url": "https://x.com/gneubig/status/2123140860841976231",
+          "likes": 36,
+          "retweets": 4,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2123108448502161605",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXbpNagX0AEIdNF.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "alphaXiv",
+      "handle": "askalphaxiv",
+      "bio": "High fidelity research",
+      "tweets": [
+        {
+          "id": "2123301495617565124",
+          "text": "\"Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model\"\n\nWhat if AI reasoning could work more like solving an optimization problem, where every step brings the model closer to a solution?\n\nThis paper introduces Energy-Based Reasoners (EBRs), which learn an energy function that assigns scores to internal reasoning states. So instead of directly predicting the next state, the model follows the energy gradient to improve its solution, while using the same function to decide when to stop and which answer to select.\n\nWith just 1.8M parameters, EBR achieves 99.4% accuracy on Sudoku-Extreme, compared to 87.4% for TRM, while having roughly 3-4x fewer parameters. \n\nHowever, the results are still limited to structured reasoning puzzles, and whether this can generalize to more complex reasoning tasks remains a question.\n\nhttps://t.co/zdvmr7PPew",
+          "createdAt": "2026-11-19T06:25:00.000Z",
+          "url": "https://x.com/askalphaxiv/status/2123301495617565124",
+          "likes": 18,
+          "retweets": 3,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXZNgVAbsAEhVl6.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2123256197361078287",
+          "text": "\"Latent Lattice Language Models\"\n\nWhat if each transformer layer could maintain its own memory that evolves as new tokens arrive?\n\nThis paper introduces Latent Lattice Language Models (LLLMs), which add a recurrent hidden state to each Transformer layer. These states persist across tokens and help control attention, memory updates, and MLP computation, giving the model another way to process information without adding more layers or KV-cache entries.\n\nWith 406M parameters and matched compute, LLLM reduces validation perplexity from 15.41 to 14.40 after training on 20B tokens, matching a conventional Transformer with 50% more parameters.\n\nhttps://t.co/wuTGZsPAQD",
+          "createdAt": "2026-11-19T03:25:00.000Z",
+          "url": "https://x.com/askalphaxiv/status/2123256197361078287",
+          "likes": 153,
+          "retweets": 30,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXZNZwNa0AA5hkn.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Swyx",
+      "handle": "swyx",
+      "bio": "achieve ambition with intentionality, intensity, integrity & insanity.\n\naffiliations:\n- @smol_ai\n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+      "tweets": [
+        {
+          "id": "2123298074911248526",
+          "text": "poteto https://t.co/6qMBfvE93k",
+          "createdAt": "2026-11-19T06:11:24.000Z",
+          "url": "https://x.com/swyx/status/2123298074911248526",
+          "likes": 4,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2123068725410869585"
+        },
+        {
+          "id": "2123260852984013045",
+          "text": "casting Monica Barbaro as temu Mira Murati is crazy work https://t.co/z241ISoVhl https://t.co/OCZi1tJ2DO",
+          "createdAt": "2026-11-19T03:43:30.000Z",
+          "url": "https://x.com/swyx/status/2123260852984013045",
+          "likes": 70,
+          "retweets": 1,
+          "replies": 20,
+          "isQuote": true,
+          "quotedTweetId": "2123101099800273047",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXdWfk-bMAAg5fW.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2123259711785148431",
+          "text": "fcf profitable!\n\nhttps://t.co/ahqTGK5ZQS",
+          "createdAt": "2026-11-19T03:38:58.000Z",
+          "url": "https://x.com/swyx/status/2123259711785148431",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2123236286710645234"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Josh Woodward",
+      "handle": "joshwoodward",
+      "bio": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "tweets": [
+        {
+          "id": "2123178015874302328",
+          "text": "Read more and try it out in @GeminiApp\n\nhttps://t.co/G8TOtEtbzU",
+          "createdAt": "2026-11-18T22:14:20.000Z",
+          "url": "https://x.com/joshwoodward/status/2123178015874302328",
+          "likes": 26,
+          "retweets": 1,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2123177835254952348",
+          "text": "Introducing Gemini 4 Neon. The shipping continues! Frontier-grade intelligence that’s faster, cheaper, and follows complex instructions well. So good to use! https://t.co/HWBTt61dLn",
+          "createdAt": "2026-11-18T22:13:37.000Z",
+          "url": "https://x.com/joshwoodward/status/2123177835254952348",
+          "likes": 432,
+          "retweets": 27,
+          "replies": 43,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXcK6pxaIAA5V5w.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2123123552052494529",
+          "text": "Explore a new Project Genie experience for Google AI Ultra subscribers, featuring Genie 4, the Project Genie agent, and a community gallery.\n\nhttps://t.co/SImBT48Ya3",
+          "createdAt": "2026-11-18T18:37:55.000Z",
+          "url": "https://x.com/joshwoodward/status/2123123552052494529",
+          "likes": 18,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Peter Yang",
+      "handle": "petergyang",
+      "bio": "Practical AI tutorials and interviews for busy people | Get my best AI skills and guides at https://t.co/6VAA6p81x6",
+      "tweets": [
+        {
+          "id": "2123325878008713479",
+          "text": "If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides.\n\nJoin 110,000+ subscribers here:\nhttps://t.co/yz9xcsfrhF",
+          "createdAt": "2026-11-19T08:01:53.000Z",
+          "url": "https://x.com/petergyang/status/2123325878008713479",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2123290075882807352",
+          "text": "I think we’re all missing some info in this Nvidia saga:\n\n1. What led Jensen to resign so abruptly? Was there a smoking gun? \n\n2. Why has the board who spent so many years with him moved on so quickly?\n\n3. If there is a smoking gun why is the president saying he’s fine with Jensen coming back?\n\nIs this just about some board members losing trust in him that he lied or is there some other info we (and most Nvidia employees) are not aware of?",
+          "createdAt": "2026-11-19T05:39:37.000Z",
+          "url": "https://x.com/petergyang/status/2123290075882807352",
+          "likes": 37,
+          "retweets": 1,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2123256168462299291",
+          "text": "Like this game wtf is going on https://t.co/69aEp46e5I",
+          "createdAt": "2026-11-19T03:24:53.000Z",
+          "url": "https://x.com/petergyang/status/2123256168462299291",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Thariq",
+      "handle": "trq212",
+      "bio": "playing WoW forever, formerly Claude Code @anthropicai",
+      "tweets": [
+        {
+          "id": "2123106370161705127",
+          "text": "this is one of those reasons why I don't think most people will really generate their own software\n\ngood software is a set of strong opinions and I'd rather have something that's been really thought through by someone else",
+          "createdAt": "2026-11-18T17:29:38.000Z",
+          "url": "https://x.com/trq212/status/2123106370161705127",
+          "likes": 3170,
+          "retweets": 266,
+          "replies": 143,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2123106368492298653",
+          "text": "making your own software is tough, even with AI, because it's hard to know what you really want\n\nI didn't end up sticking with this, the modes weren't the right way for me to organize my work\n\ngonna a different take that’s more to-do oriented https://t.co/6iejoVGp1D",
+          "createdAt": "2026-11-18T17:29:38.000Z",
+          "url": "https://x.com/trq212/status/2123106368492298653",
+          "likes": 1872,
+          "retweets": 43,
+          "replies": 120,
+          "isQuote": true,
+          "quotedTweetId": "2115135857669881939"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Google Labs",
+      "handle": "GoogleLabs",
+      "bio": "Google’s home for our latest AI tools and experiments.",
+      "tweets": [
+        {
+          "id": "2123118145552749015",
+          "text": "Create a world from one sentence, then change it while you’re standing inside 🌐\n\nProject Genie now runs on @GoogleDeepMind’s Genie 4. Here’s what’s new:\n— Prompt mid-session to edit your world live\n— Create worlds conversationally with the help of a new agent\n— Explore & remix other users' worlds in the gallery\n\nAvailable now to eligible Google AI Ultra subscribers",
+          "createdAt": "2026-11-18T18:16:26.000Z",
+          "url": "https://x.com/GoogleLabs/status/2123118145552749015",
+          "likes": 277,
+          "retweets": 30,
+          "replies": 13,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2123117866530840576/img/dfdLhWYOJBkHDLBK.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2123102389775573314",
+          "text": "🚨NEW EXPERIMENT 🚨\n\nPlease join us in welcoming Stitch Loop, an always-on product agent that works non-stop to help lean teams build better products.\n\nJoin the waitlist: https://t.co/L0cp6slvxZ https://t.co/Ym6uf756GB",
+          "createdAt": "2026-11-18T17:13:49.000Z",
+          "url": "https://x.com/GoogleLabs/status/2123102389775573314",
+          "likes": 807,
+          "retweets": 48,
+          "replies": 15,
+          "isQuote": true,
+          "quotedTweetId": "2123100817863663686"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Amjad Masad",
+      "handle": "amasad",
+      "bio": "ceo @replit. civilizationist",
+      "tweets": [
+        {
+          "id": "2123133509028008331",
+          "text": "One of the more fascinating things in the OpenAI/Hugging Face incident was reading the message boards where agents communicate.\n\nWith Replit Missions you can see how the agents are coordinating and talking. https://t.co/5imCE6zYAQ",
+          "createdAt": "2026-11-18T19:17:29.000Z",
+          "url": "https://x.com/amasad/status/2123133509028008331",
+          "likes": 193,
+          "retweets": 7,
+          "replies": 61,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2122940932815548416/img/GJGK2HaMnds-wtrK.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Guillermo Rauch",
+      "handle": "rauchg",
+      "bio": "@vercel CEO",
+      "tweets": [
+        {
+          "id": "2123298562960466017",
+          "text": "Nov 1997 vs Nov 2026 https://t.co/C1zXJavktJ",
+          "createdAt": "2026-11-19T06:13:21.000Z",
+          "url": "https://x.com/rauchg/status/2123298562960466017",
+          "likes": 209,
+          "retweets": 3,
+          "replies": 20,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2123296593168461824/img/Wz3Vf3SYMDWa6VqC.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2123237505810178434",
+          "text": "One of the most impressive things I've seen, and I think this is an important advancement to the state of the art.\n\nMessage boards were the enabling technology of both the Navier-Stokes math breakthrough and even the OpenAI/HuggingFace cyber feat.\n\nWe built a message board infrastructure primitive. You can think of it as \"headless Slack\" (or remember IRC?) for agents.\n\nThis is an important building block for software factories, self-optimizing systems, and scientific research, where the human prompting is just the seed of the system, and millions of agents can operate in a decentralized fashion.\n\n𝚟𝚎𝚛𝚌𝚎𝚕 𝚋𝚘𝚊𝚛𝚍 is designed to be model, harness and hosting platform agnostic. Just bring your agents, give them our CLI, and watch magic happen.",
+          "createdAt": "2026-11-19T02:10:43.000Z",
+          "url": "https://x.com/rauchg/status/2123237505810178434",
+          "likes": 1087,
+          "retweets": 36,
+          "replies": 99,
+          "isQuote": true,
+          "quotedTweetId": "2123234769236619673"
+        },
+        {
+          "id": "2123203741570740504",
+          "text": "I’m being pitched a new inference neocloud company on average every two days. No exaggeration. I take every entrepreneur seriously and I look deeply into each.\n\nBut it’s hard to fathom this being sustainable. At the same time, AI Gateway token demand on Vercel has been ~40% MoM compounded since the beginning of the year. No signs of stopping.\n\nOne way to reconcile this is that compute is the new economy, and tokens the new energy unit. There’s a new Industrial Revolution taking place. Every aspect of our lives is being replatformed on top of this new system that enhances everything. More like an “oil rush” than a “gold rush”: it’s durable, not a fad.\n\nIn the short term, I anticipate more expansion, followed by consolidation due to economies of scale, cybersecurity and enterprise requirements (ZDR and cyber being a hot topic for inference providers), capital requirements, and an evolving regulatory landscape.",
+          "createdAt": "2026-11-18T23:56:33.000Z",
+          "url": "https://x.com/rauchg/status/2123203741570740504",
+          "likes": 1120,
+          "retweets": 38,
+          "replies": 143,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aaron Levie",
+      "handle": "levie",
+      "bio": "ceo @box - your business lives in content. unleash it with AI",
+      "tweets": [
+        {
+          "id": "2123278949749059756",
+          "text": "Regardless of what it’s called, we’re clearly moving to yet another era of AI agents in our work. \n\nWe’ve quickly jumped from agents that spit out a quick answer for you, to today agents that you orchestrate inside of a set of tasks. But as agents can both fan out and work in parallel, handle much larger context, be able to do long running work, and have far greater levels of capabilities, we’re entering yet another level of what we can have AI do for us.\n\nWe’ll soon be able to give agents a set of goals, and they can go out and design the best solution for that goal, while also continuously improving it based on the ongoing execution of whatever it built. This will obviously start with engineering because that’s where we’re seeing the best practices emerge first in almost every new era of agents. \n\nBut the impact can be quite massive across the rest of knowledge work. You’ll tell an agent to improve your client onboarding workflow to achieve a certain targeted goal; or have agents go reduce risk in your business; or improve your security posture on an ongoing basis.\n\nThese autonomous systems will be able to take on a set of goals, design the best outcome, test and iterate, deploy, and then optimize whatever it built on an ongoing basis. Importantly, this leads to outcomes and results that humans literally couldn’t have accomplished before. This will lead to fairly new levels of productivity with AI.",
+          "createdAt": "2026-11-19T04:55:24.000Z",
+          "url": "https://x.com/levie/status/2123278949749059756",
+          "likes": 174,
+          "retweets": 17,
+          "replies": 68,
+          "isQuote": true,
+          "quotedTweetId": "2123105522945585406"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Harrison Chase",
+      "handle": "hwchase17",
+      "bio": "@LangChain\n\nAlways hiring: https://t.co/D5Ut3loFO7",
+      "tweets": [
+        {
+          "id": "2123293504164311419",
+          "text": "saas runs on software, so everyone is building a software factory\n\nthe hardest part of building agents is the context (or knowledge that they have)\n\nif youre building agents, you should be building a knowledge factory",
+          "createdAt": "2026-11-19T05:53:14.000Z",
+          "url": "https://x.com/hwchase17/status/2123293504164311419",
+          "likes": 83,
+          "retweets": 7,
+          "replies": 55,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2123127685455249854",
+          "text": "Langmsith isn’t just for agents your building - it’s for agents your using\n\nEveryone is using coding agents so we build a dedicated view for those https://t.co/LYq9YIurmv",
+          "createdAt": "2026-11-18T18:54:20.000Z",
+          "url": "https://x.com/hwchase17/status/2123127685455249854",
+          "likes": 43,
+          "retweets": 5,
+          "replies": 38,
+          "isQuote": true,
+          "quotedTweetId": "2123113924857827504"
+        },
+        {
+          "id": "2123108957560742315",
+          "text": "Deepagents!\n\nBest base harness to build on top of https://t.co/a9G3JBmlOZ",
+          "createdAt": "2026-11-18T17:39:55.000Z",
+          "url": "https://x.com/hwchase17/status/2123108957560742315",
+          "likes": 58,
+          "retweets": 6,
+          "replies": 22,
+          "isQuote": true,
+          "quotedTweetId": "2123106938473042349"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nikunj Kothari",
+      "handle": "nikunj",
+      "bio": "partner @fpvventures - investing in seed/A. previous: early hire @meter, @opendoor, @atlassian & others. love @shimoleejhaveri + 👦👧",
+      "tweets": [
+        {
+          "id": "2123183421002588327",
+          "text": "SF VCs (who didn’t invest in Anthropic): Dear Lord, it’d be nice to have some liquidity so that I can raise my next fund. \n\nLord: Tathastu\n\nVC: No, not that kind of liquidity 🤦‍♂️ https://t.co/4PlobnPg4n",
+          "createdAt": "2026-11-18T22:35:49.000Z",
+          "url": "https://x.com/nikunj/status/2123183421002588327",
+          "likes": 119,
+          "retweets": 6,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXcQEZuawAA_yV2.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2123066196052381864",
+          "text": "Ok this happens a lot so I thought I’ll lay it out here..\n\nfounder friend: my pitch isn’t working on the fundraising side. haaalp. \n\n*proceeds to give me the pitch*\n\nme: ambition is what’s being rewarded right now. what do you believe to be true if everything you laid out works? think about the second and third order effects as a result of you being successful. \n\nfounder: err, if everything works out, then “this” happens. \n\nme: put “this” in the pitch in the first slide and walk the investor how you get to “this” by building what you’re building in the first place and how you earn the right to get there. \n\nfounder: no, they’ll think I’m crazy\n\nme: try it. what do you have to lose?\n\n*tries it very reluctantly*\n\nfounder (4 days later): you *insert expletive*.. it worked. \n\nme: see. you always had it in you, you just had to tell it. \n\n—\n\nIf you’re an ambitious founder reading this and having the same issue, try this, I think it’ll work. If it does, please tell me!!",
+          "createdAt": "2026-11-18T14:50:00.000Z",
+          "url": "https://x.com/nikunj/status/2123066196052381864",
+          "likes": 1075,
+          "retweets": 28,
+          "replies": 48,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Dan Shipper",
+      "handle": "danshipper",
+      "bio": "ceo @every | the only subscription you need to stay at the edge of AI",
+      "tweets": [
+        {
+          "id": "2123196924421661149",
+          "text": "Legggoooo https://t.co/plMcv2r3X0",
+          "createdAt": "2026-11-18T23:29:28.000Z",
+          "url": "https://x.com/danshipper/status/2123196924421661149",
+          "likes": 76,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2123196808675405860"
+        },
+        {
+          "id": "2123163857128702053",
+          "text": "almost 4k people on the stream, come hang! https://t.co/5lrvOqim4p",
+          "createdAt": "2026-11-18T21:18:04.000Z",
+          "url": "https://x.com/danshipper/status/2123163857128702053",
+          "likes": 12,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXb-QBFXYAAFTFf.png"
+            }
+          ]
+        },
+        {
+          "id": "2123146907681980688",
+          "text": "https://t.co/bq9xLeT1bL",
+          "createdAt": "2026-11-18T20:10:43.000Z",
+          "url": "https://x.com/danshipper/status/2123146907681980688",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2123144428004982883"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Aditya Agarwal",
+      "handle": "adityaag",
+      "bio": "General Partner @SPC, Co-Founder @Bevel_Health | Ex: Early Eng @facebook, CTO @Dropbox, Board @Flipkart | Optimist, Builder, Dad",
+      "tweets": [
+        {
+          "id": "2123293726110020052",
+          "text": "This completely tracks with our data as well.\n\nI have always thought it was copium when early stage VCs complained that they could not do “AI”.\n\nYou just have to take more risk and be non-consensus. And work on frontier problems. https://t.co/Skc0x1ZRBh",
+          "createdAt": "2026-11-19T05:54:07.000Z",
+          "url": "https://x.com/adityaag/status/2123293726110020052",
+          "likes": 35,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2123126962025853317"
+        },
+        {
+          "id": "2123262616776921257",
+          "text": "Stablecoins will likely be one of the biggest ways for America to exert soft power.\n\nIf you are living in most countries outside of India and China, then you 100% would prefer to own dollars. Ditto for businesses.\n\n🇺🇸🇺🇸",
+          "createdAt": "2026-11-19T03:50:30.000Z",
+          "url": "https://x.com/adityaag/status/2123262616776921257",
+          "likes": 29,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Sam Altman",
+      "handle": "sama",
+      "bio": "The mission of OpenAI is to ensure that AGI benefits all of humanity",
+      "tweets": [
+        {
+          "id": "2123103873166381287",
+          "text": "So fun to do DealBook with my friend and partner of 11 years, @gdb. Thrilled the world got to see the brilliant, fiercely determined leader I have the privilege of working with every day.\n\nGreg’s role at OpenAI has evolved from writing code 100 hours a week in the early days to now leading some of the hardest and most consequential parts of our business.\n\nOne thing that has not changed is his extraordinary commitment to our mission. I can say with confidence that OpenAI would not exist without Greg, and I believe the world would be on a much worse path toward the AI future without him.",
+          "createdAt": "2026-11-18T17:19:43.000Z",
+          "url": "https://x.com/sama/status/2123103873166381287",
+          "likes": 4221,
+          "retweets": 149,
+          "replies": 425,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Qwen",
+      "handle": "Alibaba_Qwen",
+      "bio": "Open foundation models for AGI.",
+      "tweets": [
+        {
+          "id": "2123328957022081036",
+          "text": "Try Qwen4-Max on Nous Portal and show us your creations. 🔥 @NousResearch @inferact 🫶 https://t.co/yzYev3Dsru",
+          "createdAt": "2026-11-19T08:14:07.000Z",
+          "url": "https://x.com/Alibaba_Qwen/status/2123328957022081036",
+          "likes": 135,
+          "retweets": 9,
+          "replies": 25,
+          "isQuote": true,
+          "quotedTweetId": "2123135537087181191"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
+      "tweets": [
+        {
+          "id": "2123209733112840367",
+          "text": "Congrats to our winner @taylorgreathead (and runner up Sean Thomas Evans)! https://t.co/UKGwl7j84h",
+          "createdAt": "2026-11-19T00:20:22.000Z",
+          "url": "https://x.com/NousResearch/status/2123209733112840367",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2123209613629595648/img/nJMcu82Pklykz4Qp.jpg"
+            },
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2123209671380975616/img/ureJDO7ipc8ta8Ed.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2123145750833995878",
+          "text": "https://t.co/qvqids7bYC https://t.co/ugv5GD5NaG",
+          "createdAt": "2026-11-18T20:06:07.000Z",
+          "url": "https://x.com/NousResearch/status/2123145750833995878",
+          "likes": 1524,
+          "retweets": 77,
+          "replies": 52,
+          "isQuote": true,
+          "quotedTweetId": "2123047003231858966",
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXbtv0dWEAAkW5o.jpg"
+            }
+          ]
+        },
+        {
+          "id": "2123135537087181191",
+          "text": "Qwen4-Max, the new flagship model from Alibaba, is free in Nous Portal for 5 days in partnership with @inferact and @Alibaba_Qwen.\n\nIt’s built for long-horizon work, with native vision and 1M context. Try it today at https://t.co/uomohWX1dw",
+          "createdAt": "2026-11-18T19:25:32.000Z",
+          "url": "https://x.com/NousResearch/status/2123135537087181191",
+          "likes": 1714,
+          "retweets": 121,
+          "replies": 117,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2123135247952883712/img/XviUbjm1hQsZQFD0.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "tweets": [
+        {
+          "id": "2123126865829515363",
+          "text": "Teammates and Multiagent are now in the Perplexity app on iOS and Android, with voice for Teammates.\n\nAbout a third of the most demanding Computer work already starts on iPhone. Now control Teammates with voice.\n\nAvailable today for Max subscribers.",
+          "createdAt": "2026-11-18T18:51:05.000Z",
+          "url": "https://x.com/perplexity_ai/status/2123126865829515363",
+          "likes": 171,
+          "retweets": 15,
+          "replies": 34,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "xBuilders": 21,
+    "totalTweets": 41
+  },
+  "errors": [
+    "X API: User not found: jenny_wen"
+  ]
+}
