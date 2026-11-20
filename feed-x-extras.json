@@ -1,9 +1,101 @@
 {
-  "generatedAt": "2026-11-19T08:41:38.509Z",
+  "generatedAt": "2026-11-20T08:27:57.106Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Perplexity",
+      "handle": "perplexity_ai",
+      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "tweets": [
+        {
+          "id": "2123449529999712548",
+          "text": "In the same test, the tool call failure rate dropped by 11% across all Computer activity, and by about 7% excluding the system's own background runs.\n\nMedium- and high-dissatisfaction threads per user dropped by 7.6%. Cost and response time didn't measurably change.",
+          "createdAt": "2026-11-19T16:13:14.000Z",
+          "url": "https://x.com/perplexity_ai/status/2123449529999712548",
+          "likes": 12,
+          "retweets": 1,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2123449513931333734",
+          "text": "Autonomous skill configuration removes friction and improves results.\n\nIn an 8-week randomized test on production traffic, 72.9% of users gained at least one new personal skill with autonomous skill configuration. In the control group, only 6.5% added one manually. https://t.co/V8dphJ76ai",
+          "createdAt": "2026-11-19T16:13:10.000Z",
+          "url": "https://x.com/perplexity_ai/status/2123449513931333734",
+          "likes": 8,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXgCEXbagAAXyE4.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cognition (Devin)",
+      "handle": "cognition",
+      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
+      "tweets": [
+        {
+          "id": "2123488250698555860",
+          "text": "Check out the DevinDash bot in our template library:\n\nhttps://t.co/WX9YRzyHYu",
+          "createdAt": "2026-11-19T18:47:06.000Z",
+          "url": "https://x.com/cognition/status/2123488250698555860",
+          "likes": 22,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2123488248785981596",
+          "text": "✨ Introducing DevinDash ✨  \n\nStarting today, dash food with the DoorDash MCP and a Devin Bot. \n\nStartups can claim $1k of free DoorDash: https://t.co/QJmfsD8wPi",
+          "createdAt": "2026-11-19T18:47:05.000Z",
+          "url": "https://x.com/cognition/status/2123488248785981596",
+          "likes": 670,
+          "retweets": 41,
+          "replies": 55,
+          "isQuote": true,
+          "quotedTweetId": "2085614333636255870",
+          "media": [
+            {
+              "type": "video",
+              "url": "https://pbs.twimg.com/amplify_video_thumb/2123487655241682944/img/lrLQkMryTXF8vijF.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Deedy Das",
+      "handle": "deedydas",
+      "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
+      "tweets": [
+        {
+          "id": "2123468802080080226",
+          "text": "Congratulations to this incredible team for building one of the most generational companies in our lifetimes!\n\nWe’re so proud to be long time Anthropic supporters.\n\nThis is just the beginning. https://t.co/0QUuM13oyz",
+          "createdAt": "2026-11-19T17:29:49.000Z",
+          "url": "https://x.com/deedydas/status/2123468802080080226",
+          "likes": 534,
+          "retweets": 17,
+          "replies": 20,
+          "isQuote": true,
+          "quotedTweetId": "2123431689934291083"
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 3,
+    "totalTweets": 5
   }
 }
