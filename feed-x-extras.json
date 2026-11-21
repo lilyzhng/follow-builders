@@ -1,76 +1,64 @@
 {
-  "generatedAt": "2026-11-20T08:27:57.106Z",
+  "generatedAt": "2026-11-21T08:13:44.297Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Perplexity",
-      "handle": "perplexity_ai",
-      "bio": "Curiosity changes everything. Download our free app on iOS, Mac, Windows, and Android.",
+      "name": "Nous Research",
+      "handle": "NousResearch",
+      "bio": "A bunch of nerds making progress\n\nhttps://t.co/vrD0aDIGDQ",
       "tweets": [
         {
-          "id": "2123449529999712548",
-          "text": "In the same test, the tool call failure rate dropped by 11% across all Computer activity, and by about 7% excluding the system's own background runs.\n\nMedium- and high-dissatisfaction threads per user dropped by 7.6%. Cost and response time didn't measurably change.",
-          "createdAt": "2026-11-19T16:13:14.000Z",
-          "url": "https://x.com/perplexity_ai/status/2123449529999712548",
-          "likes": 12,
+          "id": "2123882452410106125",
+          "text": "8th place: Promise Keeper, by @smohiths\nhttps://t.co/VkjCBEjvFI",
+          "createdAt": "2026-11-20T20:53:31.000Z",
+          "url": "https://x.com/NousResearch/status/2123882452410106125",
+          "likes": 48,
           "retweets": 1,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2119775264297378208"
         },
         {
-          "id": "2123449513931333734",
-          "text": "Autonomous skill configuration removes friction and improves results.\n\nIn an 8-week randomized test on production traffic, 72.9% of users gained at least one new personal skill with autonomous skill configuration. In the control group, only 6.5% added one manually. https://t.co/V8dphJ76ai",
-          "createdAt": "2026-11-19T16:13:10.000Z",
-          "url": "https://x.com/perplexity_ai/status/2123449513931333734",
-          "likes": 8,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null,
-          "media": [
-            {
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HXgCEXbagAAXyE4.png"
-            }
-          ]
+          "id": "2123882450413924579",
+          "text": "7th place: safe-swap, by @olaph_lol\nhttps://t.co/pvByP3luF2",
+          "createdAt": "2026-11-20T20:53:30.000Z",
+          "url": "https://x.com/NousResearch/status/2123882450413924579",
+          "likes": 39,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2119039617697730791"
         }
       ]
     },
     {
       "source": "x",
-      "name": "Cognition (Devin)",
-      "handle": "cognition",
-      "bio": "Makers of Devin, the first AI software engineer. We are an applied AI lab building end-to-end software agents. Join us: https://t.co/4Ss9hvpjRG",
+      "name": "Thinking Machines",
+      "handle": "thinkymachines",
+      "bio": "Thinking, beeping, and booping.\n@tinkerapi",
       "tweets": [
         {
-          "id": "2123488250698555860",
-          "text": "Check out the DevinDash bot in our template library:\n\nhttps://t.co/WX9YRzyHYu",
-          "createdAt": "2026-11-19T18:47:06.000Z",
-          "url": "https://x.com/cognition/status/2123488250698555860",
-          "likes": 22,
-          "retweets": 1,
-          "replies": 0,
+          "id": "2123871647371501591",
+          "text": "Inkling 2 Mini runs on Macs with 32GB of RAM through @ollama, and on NVIDIA's DGX Spark. It's on Tinker for inference and fine-tuning, and in the Tinker Playground.",
+          "createdAt": "2026-11-20T20:10:35.000Z",
+          "url": "https://x.com/thinkymachines/status/2123871647371501591",
+          "likes": 690,
+          "retweets": 15,
+          "replies": 10,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2123488248785981596",
-          "text": "✨ Introducing DevinDash ✨  \n\nStarting today, dash food with the DoorDash MCP and a Devin Bot. \n\nStartups can claim $1k of free DoorDash: https://t.co/QJmfsD8wPi",
-          "createdAt": "2026-11-19T18:47:05.000Z",
-          "url": "https://x.com/cognition/status/2123488248785981596",
-          "likes": 670,
-          "retweets": 41,
-          "replies": 55,
-          "isQuote": true,
-          "quotedTweetId": "2085614333636255870",
-          "media": [
-            {
-              "type": "video",
-              "url": "https://pbs.twimg.com/amplify_video_thumb/2123487655241682944/img/lrLQkMryTXF8vijF.jpg"
-            }
-          ]
+          "id": "2123871646176166358",
+          "text": "We found that no-CoT capability rises with more passes. At this scale, the chain of thought gets shorter but stays legible; we saw no meaningful drop in monitorability.\n\nWe’re also releasing a variable-loop research model so others can run their own experiments.",
+          "createdAt": "2026-11-20T20:10:34.000Z",
+          "url": "https://x.com/thinkymachines/status/2123871646176166358",
+          "likes": 592,
+          "retweets": 5,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -81,21 +69,76 @@
       "bio": "Partner at @MenloVentures. Investor: Anthropic, OpenRouter, Modal, Wispr, Pangram, Greptile, Inception, Goodfire.\n\nprior: Glean, Google Search. Cornell CS.",
       "tweets": [
         {
-          "id": "2123468802080080226",
-          "text": "Congratulations to this incredible team for building one of the most generational companies in our lifetimes!\n\nWe’re so proud to be long time Anthropic supporters.\n\nThis is just the beginning. https://t.co/0QUuM13oyz",
-          "createdAt": "2026-11-19T17:29:49.000Z",
-          "url": "https://x.com/deedydas/status/2123468802080080226",
-          "likes": 534,
-          "retweets": 17,
-          "replies": 20,
+          "id": "2123797568589275319",
+          "text": "Link: https://t.co/zWP1Sja13l",
+          "createdAt": "2026-11-20T15:16:13.000Z",
+          "url": "https://x.com/deedydas/status/2123797568589275319",
+          "likes": 59,
+          "retweets": 7,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2123797546741232063",
+          "text": "Holy shit. Levent Alpöge from Anthropic just claimed Claude has resolved the General Reimann Hypothesis!!!\n\nProof is 250,000+ pages long. Lean is released.\n\nGRH is the 2nd of 6 Millenium prizes solved by AI, after Navier-Stokes. This may be the biggest AI math result of all time. https://t.co/SqENWU7rU7",
+          "createdAt": "2026-11-20T15:16:08.000Z",
+          "url": "https://x.com/deedydas/status/2123797546741232063",
+          "likes": 4090,
+          "retweets": 352,
+          "replies": 199,
+          "isQuote": false,
+          "quotedTweetId": null,
+          "media": [
+            {
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/HXk-j2abQAAUSWR.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Junyang Lin",
+      "handle": "JustinLin610",
+      "bio": "building p7k @pragmatik_labs | ❤️ 🍵 ☕️",
+      "tweets": [
+        {
+          "id": "2123967373250298028",
+          "text": "robo osworld! cong! https://t.co/LwRjNosI1R",
+          "createdAt": "2026-11-21T02:30:57.000Z",
+          "url": "https://x.com/JustinLin610/status/2123967373250298028",
+          "likes": 46,
+          "retweets": 3,
+          "replies": 2,
           "isQuote": true,
-          "quotedTweetId": "2123431689934291083"
+          "quotedTweetId": "2123881231465222655"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lance Martin",
+      "handle": "RLanceMartin",
+      "bio": "MTS @anthropicai",
+      "tweets": [
+        {
+          "id": "2123823660641493223",
+          "text": "https://t.co/vVgMQl3AL4",
+          "createdAt": "2026-11-20T16:59:54.000Z",
+          "url": "https://x.com/RLanceMartin/status/2123823660641493223",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 3,
-    "totalTweets": 5
+    "xBuilders": 5,
+    "totalTweets": 8
   }
 }
